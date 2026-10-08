@@ -3,13 +3,14 @@ import tempfile
 
 import feedparser
 
-from screen import NOTICE, build_page, build_rss, feed_urls, is_nature, strip_tags
+from screen import NOTICE, build_page, build_rss, feed_list, feed_urls, is_nature, strip_tags
 
 assert is_nature("https://www.nature.com/articles/s41467-026-78309-y")
 assert not is_nature("https://www.cell.com/cancer-cell/fulltext/S1535")
 assert strip_tags("<jats:p>HR+/HER2&#8722; <i>cancer</i></jats:p>") == "HR+/HER2− cancer"
 assert NOTICE.match("Correction:  EZH2-Deficient T-Cell ...") and not NOTICE.match("Correcting KRAS signaling")
 assert feed_urls("# Feeds\nSee https://x.org\n- A — http://a.org/rss\nB — http://b.org/rss\n- no url") == ["http://a.org/rss"]
+assert feed_list("- Cancer Cell — http://c.org/rss") == [("Cancer Cell", "http://c.org/rss")]
 assert len(feed_urls((Path(__file__).parent / "feeds.md").read_text())) == 11
 
 item = {"guid": "g1", "title": "A & B <study>", "link": "https://x.org/1", "abstract": "abs",

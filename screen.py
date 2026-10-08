@@ -60,15 +60,20 @@ def nature_meta(link):
     return meta(r"dc\.description"), meta("citation_article_type")
 
 
-def feed_urls(md):
-    """URLs on lines starting with '- ' in feeds.md."""
-    return [m.group(0) for line in md.splitlines()
+def feed_list(md):
+    """(label, url) for lines starting with '- ' that contain a URL in feeds.md."""
+    return [(line[2:m.start()].strip(" —-:"), m.group(0)) for line in md.splitlines()
             if line.startswith("- ") and (m := re.search(r"https?://\S+", line))]
 
 
+def feed_urls(md):
+    return [url for _, url in feed_list(md)]
+
+
 def fetch_new(seen):
-    items = []
-    for url in feed_urls((ROOT / "feeds.md").read_text()):
+    """-> (new items, per-feed status for the web page)."""
+    items, feeds = [], []
+    for label, url in feed_list((ROOT / "feeds.md").read_text()):
         for _ in range(3):  # bioRxiv intermittently returns 500
             f = feedparser.parse(url, agent="Mozilla/5.0")
             if f.entries:
@@ -76,6 +81,7 @@ def fetch_new(seen):
         else:
             print(f"no items from {url} (status {f.get('status')})", file=sys.stderr)
         source = f.feed.get("title", url)
+        feeds.append({"label": label or source, "url": url, "source": source, "fetched": len(f.entries)})
         for e in f.entries:
             guid = e.get("id") or e.get("link")
             if not guid or guid in seen or NOTICE.match(e.get("title", "")):
@@ -88,7 +94,7 @@ def fetch_new(seen):
                 "type": e.get("prism_section", ""),  # Cell Press feeds: Article, Commentary, Preview...
             })
     # ponytail: dedupe by guid only; same article in two feeds with different guids gets scored twice
-    return list({i["guid"]: i for i in items}.values())
+    return list({i["guid"]: i for i in items}.values()), feeds
 
 
 async def score_all(items, interests):
@@ -131,11 +137,18 @@ def build_rss(items, path):
     ET.ElementTree(rss).write(path, encoding="utf-8", xml_declaration=True)
 
 
-def build_page(items, run, path):
+def build_page(items, run, path, feeds=()):
     """Browsable page: all recent scored articles, filtered client-side (default: config threshold)."""
     # ponytail: every recent article is embedded in the page; fine at ~1k articles/month, paginate if it gets slow on phones
     fields = ("title", "link", "abstract", "source", "type", "date", "score")
-    data = {"threshold": THRESHOLD, "run": run, "items": [{k: i.get(k, "") for k in fields} for i in items]}
+    counts = {}
+    for i in items:
+        counts[i["source"]] = counts.get(i["source"], 0) + 1
+    repo = os.environ.get("GITHUB_REPOSITORY", "cbdoc/artparse")
+    data = {"threshold": THRESHOLD, "run": run, "keep_days": KEEP_DAYS,
+            "edit": {f: f"https://github.com/{repo}/edit/main/{f}" for f in ("feeds.md", "interests.md", "config.toml")},
+            "feeds": [dict(f, recent=counts.get(f["source"], 0)) for f in feeds],
+            "items": [{k: i.get(k, "") for k in fields} for i in items]}
     page = (ROOT / "page_template.html").read_text()
     page = page.replace("__TITLE__", html.escape(CFG["feed_title"]))
     page = page.replace("__DATA__", json.dumps(data, ensure_ascii=False).replace("</", "<\\/"))
@@ -145,7 +158,7 @@ def build_page(items, run, path):
 def main():
     dry = "--dry-run" in sys.argv
     seen = json.loads(SEEN.read_text()) if SEEN.exists() else {}
-    new = fetch_new(seen)
+    new, feeds = fetch_new(seen)
     print(f"{len(new)} new items")
     t0 = time.time()
     try:
@@ -165,7 +178,7 @@ def main():
                     key=lambda i: i["date"], reverse=True)
     keep = [i for i in recent if i["score"] >= THRESHOLD]
     build_rss(keep, OUT)
-    build_page(recent, {"at": now.strftime("%Y-%m-%d %H:%M"), "new": len(scored)}, PAGE)
+    build_page(recent, {"at": now.strftime("%Y-%m-%d %H:%M"), "new": len(scored)}, PAGE, feeds)
     print(f"wrote {len(keep)} items to {OUT}, {len(recent)} to {PAGE}")
 
 

@@ -86,6 +86,13 @@ details[open] .title { font-weight: 600; }
   border: 1px solid var(--hema); border-radius: 6px; padding: 5px 12px;
 }
 .empty { color: var(--muted); padding: 32px 0; }
+#feeds { margin-top: 40px; scroll-margin-top: 110px; }
+#feeds h2 { font: 600 1.05rem "Source Serif 4", Georgia, serif; color: var(--text); }
+.feed { display: flex; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: .9rem; }
+.feed .n { color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.feed .warn { color: var(--eosin); }
+.edit { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 6px; }
+.note { color: var(--muted); font-size: .8rem; margin: 0; }
 @media (max-width: 520px) {
   .body { padding-left: 0; }
   summary { grid-template-columns: 2.3em 1fr; gap: 0 10px; }
@@ -101,6 +108,7 @@ details[open] .title { font-weight: 600; }
   <div class="bar">
     <div class="top">
       <h1>__TITLE__</h1>
+      <a href="#feeds">Feeds</a>
       <a href="feed.xml">RSS</a>
       <button id="theme" type="button">Light mode</button>
     </div>
@@ -116,6 +124,16 @@ details[open] .title { font-weight: 600; }
 <main>
   <p class="status" id="status"></p>
   <div id="list"></div>
+  <section id="feeds">
+    <h2>Feeds</h2>
+    <div id="feedlist"></div>
+    <div class="edit">
+      <a class="read" id="edit-feeds">Add or remove feeds</a>
+      <a class="read" id="edit-interests">Edit interests</a>
+      <a class="read" id="edit-config">Change settings</a>
+    </div>
+    <p class="note">These open the file in GitHub's editor. After you commit a change, the feed and this page update within a few minutes.</p>
+  </section>
 </main>
 <script type="application/json" id="data">__DATA__</script>
 <script>
@@ -191,6 +209,20 @@ function render() {
     list.append(item(a));
   }
 }
+$("edit-feeds").href = D.edit["feeds.md"];
+$("edit-interests").href = D.edit["interests.md"];
+$("edit-config").href = D.edit["config.toml"];
+const fl = $("feedlist");
+for (const f of D.feeds || []) {
+  const row = el("div", "feed");
+  row.append(el("span", "", f.label));
+  row.append(f.fetched
+    ? el("span", "n", `${f.recent} in last ${D.keep_days} days`)
+    : el("span", "n warn", "No items on last check"));
+  fl.append(row);
+}
+if (!fl.children.length) fl.append(el("p", "note", "The feed list appears after the next run."));
+
 on.onchange = render;
 min.oninput = render;
 $("reset").onclick = () => { min.value = D.threshold; render(); };
