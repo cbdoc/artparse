@@ -10,6 +10,7 @@ import os
 import re
 import sys
 import time
+import tomllib
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -28,21 +29,13 @@ if (ROOT / ".env").exists():
             os.environ.setdefault(k.strip(), v.strip().strip('"\''))
 SEEN = ROOT / "seen.json"
 OUT = ROOT / "docs" / "feed.xml"
-THRESHOLD = float(os.environ.get("THRESHOLD", "1.8"))
-KEEP_DAYS, PRUNE_DAYS = 30, 90
+CFG = tomllib.loads((ROOT / "config.toml").read_text())
+THRESHOLD, KEEP_DAYS, PRUNE_DAYS = CFG["threshold"], CFG["keep_days"], CFG["prune_days"]
 UA = "Mozilla/5.0 (artparse feed screener)"
 
-NOTICE = re.compile(r"\s*(Correction|Erratum|Corrigendum)\b", re.I)
+NOTICE = re.compile(r"\s*(" + "|".join(map(re.escape, CFG["skip_title_prefixes"])) + r")\b", re.I)
 
-RELEVANCE = Score(
-    instructions="How relevant is this article to the reader's stated interests?",
-    criteria=[
-        "Unrelated to my interests",
-        "Same broad field but not my topics",
-        "Touches one of my topics",
-        "Squarely on my topics; must read",
-    ],
-)
+RELEVANCE = Score(instructions=CFG["question"], criteria=CFG["levels"])
 
 
 def strip_tags(s):
@@ -123,8 +116,8 @@ async def score_all(items, interests):
 def build_rss(items, path):
     rss = ET.Element("rss", version="2.0")
     ch = ET.SubElement(rss, "channel")
-    for k, v in [("title", "Cancer Research (Jev-screened)"), ("link", "https://typesafe.ai"),
-                 ("description", f"Items scoring >= {THRESHOLD} on interests.md")]:
+    for k, v in [("title", CFG["feed_title"]), ("link", "https://typesafe.ai"),
+                 ("description", f"Items scoring >= {THRESHOLD} against interests.md")]:
         ET.SubElement(ch, k).text = v
     for it in items:
         el = ET.SubElement(ch, "item")

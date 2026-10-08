@@ -1,0 +1,27 @@
+# Settings for screen.py. Edit, commit and push; the next run picks them up.
+# (The run schedule lives in .github/workflows/screen.yml: cron "0 */2 * * *" = every 2 hours.)
+
+# Minimum Jev score (0-3) for an article to appear in the feed. Raise for fewer articles.
+threshold = 1.8
+
+# Articles published in the last N days stay in the feed.
+keep_days = 30
+
+# Scored articles are remembered (never rescored) for N days.
+prune_days = 90
+
+# Feed name shown in Feedly.
+feed_title = "Cancer Research (Jev-screened)"
+
+# Notices skipped by title (case-insensitive, matched at the start of the title).
+skip_title_prefixes = ["Correction", "Erratum", "Corrigendum"]
+
+# The scoring question and its scale, lowest to highest (2-10 levels).
+# Scores in the feed range from 0 to (number of levels - 1); adjust threshold if you change the count.
+question = "How relevant is this article to the reader's stated interests?"
+levels = [
+    "Unrelated to my interests",
+    "Same broad field but not my topics",
+    "Touches one of my topics",
+    "Squarely on my topics; must read",
+]
