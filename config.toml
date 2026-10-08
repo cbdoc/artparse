@@ -1,8 +1,8 @@
 # Settings for screen.py. Edit, commit and push; the next run picks them up.
-# (The run schedule lives in .github/workflows/screen.yml: cron "0 */2 * * *" = every 2 hours.)
+# (The run schedule lives in .github/workflows/screen.yml: cron "17 */2 * * *" = every 2 hours.)
 
 # Minimum Jev score (0-3) for an article to appear in the feed. Raise for fewer articles.
-threshold = 1.8
+threshold = 1.5
 
 # Articles published in the last N days stay in the feed.
 keep_days = 30
