@@ -2,10 +2,8 @@
 # (The run schedule lives in .github/workflows/screen.yml: cron "17 */2 * * *" = every 2 hours.)
 
 # Minimum Jev score (0-3) for an article to appear in the feed. Raise for fewer articles.
+# Also the web page's default score filter (adjustable on the page).
 threshold = 1.5
-
-# The web page (index.html) also lists near misses: articles scoring up to this much below threshold.
-near_miss_margin = 0.3
 
 # Articles published in the last N days stay in the feed.
 keep_days = 30

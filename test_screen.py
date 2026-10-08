@@ -22,6 +22,8 @@ with tempfile.TemporaryDirectory() as d:
     assert f.entries[0].title == "[2.7] A & B <study>"
     assert f.entries[0].link == "https://x.org/1"
     page = Path(d) / "index.html"
-    build_page([item], [], {"at": "2026-10-08 12:00", "new": 1}, page)
-    assert "A &amp; B &lt;study&gt;" in page.read_text() and "None." in page.read_text()
+    build_page([dict(item, abstract="x</script><b>")], {"at": "2026-10-08 12:00", "new": 1}, page)
+    text = page.read_text()
+    assert "__DATA__" not in text and "__TITLE__" not in text
+    assert "x<\\/script>" in text and "x</script>" not in text  # data can't break out of its <script>
 print("ok")
