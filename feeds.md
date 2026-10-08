@@ -11,8 +11,8 @@ To pause a feed, remove its leading `- ` (or move it under "Paused"). To add one
 - Cancer Immunology Research — https://aacrjournals.org/rss/site_1000007/1000006.xml
 - Molecular Cancer Research — https://aacrjournals.org/rss/site_1000015/1000010.xml
 - Molecular Cancer Therapeutics — https://aacrjournals.org/rss/site_1000017/1000011.xml
-- Nature Cancer — https://feeds.nature.com/natcancer/rss/current
-- Nature Reviews Cancer — https://feeds.nature.com/nrc/rss/current
+- Nature Cancer — https://www.nature.com/natcancer.rss
+- Nature Reviews Cancer — https://www.nature.com/nrc.rss
 
 ## Aggregators and preprints
 - nature.com Cancer subject feed — https://www.nature.com/subjects/cancer.rss
