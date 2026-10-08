@@ -33,6 +33,7 @@ PAGE = ROOT / "docs" / "index.html"
 CFG = tomllib.loads((ROOT / "config.toml").read_text())
 THRESHOLD, KEEP_DAYS, PRUNE_DAYS = CFG["threshold"], CFG["keep_days"], CFG["prune_days"]
 UA = "Mozilla/5.0 (artparse feed screener)"
+BROWSER_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36"
 
 NOTICE = re.compile(r"\s*(" + "|".join(map(re.escape, CFG["skip_title_prefixes"])) + r")\b", re.I)
 
@@ -74,8 +75,10 @@ def fetch_new(seen):
     """-> (new items, per-feed status for the web page)."""
     items, feeds = [], []
     for label, url in feed_list((ROOT / "feeds.md").read_text()):
-        for _ in range(3):  # bioRxiv intermittently returns 500
-            f = feedparser.parse(url, agent="Mozilla/5.0")
+        for attempt in range(3):  # bioRxiv returns intermittent 500s; nature.com throttles cloud IPs
+            if attempt:
+                time.sleep(10 * attempt)
+            f = feedparser.parse(url, agent=BROWSER_UA)
             if f.entries:
                 break
         else:
