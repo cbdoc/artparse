@@ -29,8 +29,10 @@ if (ROOT / ".env").exists():
             os.environ.setdefault(k.strip(), v.strip().strip('"\''))
 SEEN = ROOT / "seen.json"
 OUT = ROOT / "docs" / "feed.xml"
+PAGE = ROOT / "docs" / "index.html"
 CFG = tomllib.loads((ROOT / "config.toml").read_text())
 THRESHOLD, KEEP_DAYS, PRUNE_DAYS = CFG["threshold"], CFG["keep_days"], CFG["prune_days"]
+NEAR_MISS = CFG["near_miss_margin"]
 UA = "Mozilla/5.0 (artparse feed screener)"
 
 NOTICE = re.compile(r"\s*(" + "|".join(map(re.escape, CFG["skip_title_prefixes"])) + r")\b", re.I)
@@ -130,6 +132,39 @@ def build_rss(items, path):
     ET.ElementTree(rss).write(path, encoding="utf-8", xml_declaration=True)
 
 
+PAGE_HEAD = """<!doctype html><html lang="en"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>{title}</title>
+<style>
+:root{{--bg:#fff;--fg:#1a1a1a;--muted:#666;--line:#e5e5e5;--accent:#0b62d6}}
+@media (prefers-color-scheme:dark){{:root{{--bg:#151515;--fg:#e8e8e8;--muted:#999;--line:#2c2c2c;--accent:#6aa8ff}}}}
+body{{background:var(--bg);color:var(--fg);font:15px/1.45 system-ui,sans-serif;max-width:860px;margin:0 auto;padding:16px}}
+h1{{font-size:1.4em;margin:.2em 0}} h2{{font-size:1.1em;margin:1.6em 0 .4em}}
+.meta,.src{{color:var(--muted);font-size:.85em}} a{{color:var(--accent);text-decoration:none}}
+.item{{border-top:1px solid var(--line);padding:.6em 0;display:flex;gap:.8em}}
+.score{{font-variant-numeric:tabular-nums;font-weight:600;min-width:2.4em}}
+details{{font-size:.9em;color:var(--muted)}} summary{{cursor:pointer}}
+</style>"""
+
+
+def build_page(keep, near, run, path):
+    e = html.escape
+    def rows(items):
+        return "".join(
+            f'<div class="item"><div class="score">{i["score"]:.2f}</div><div>'
+            f'<a href="{e(i["link"])}">{e(i["title"])}</a>'
+            f'<div class="src">{e(i["source"])} · {i["date"][:10]}{" · " + e(i["type"]) if i.get("type") else ""}</div>'
+            + (f'<details><summary>abstract</summary>{e(i["abstract"])}</details>' if i["abstract"] else "")
+            + "</div></div>" for i in items) or '<p class="meta">None.</p>'
+    path.write_text(
+        PAGE_HEAD.format(title=e(CFG["feed_title"]))
+        + f'<h1>{e(CFG["feed_title"])}</h1>'
+        + f'<p class="meta">Last run {run["at"]} UTC · {run["new"]} new articles scored · '
+        + f'threshold {THRESHOLD} · <a href="feed.xml">RSS feed</a></p>'
+        + f"<h2>In the feed ({len(keep)}, last {KEEP_DAYS} days)</h2>" + rows(keep)
+        + f"<h2>Near misses ({len(near)}, scored {THRESHOLD - NEAR_MISS:.2f}–{THRESHOLD})</h2>" + rows(near),
+        encoding="utf-8")
+
+
 def main():
     dry = "--dry-run" in sys.argv
     seen = json.loads(SEEN.read_text()) if SEEN.exists() else {}
@@ -149,10 +184,13 @@ def main():
     now = datetime.now(timezone.utc)
     seen = {g: i for g, i in seen.items() if datetime.fromisoformat(i["date"]) > now - timedelta(days=PRUNE_DAYS)}
     SEEN.write_text(json.dumps(seen, indent=1))
-    keep = [i for i in seen.values()
-            if i["score"] >= THRESHOLD and datetime.fromisoformat(i["date"]) > now - timedelta(days=KEEP_DAYS)]
-    build_rss(sorted(keep, key=lambda i: i["date"], reverse=True), OUT)
-    print(f"wrote {len(keep)} items to {OUT}")
+    recent = sorted((i for i in seen.values() if datetime.fromisoformat(i["date"]) > now - timedelta(days=KEEP_DAYS)),
+                    key=lambda i: i["date"], reverse=True)
+    keep = [i for i in recent if i["score"] >= THRESHOLD]
+    near = sorted((i for i in recent if THRESHOLD - NEAR_MISS <= i["score"] < THRESHOLD), key=lambda i: -i["score"])
+    build_rss(keep, OUT)
+    build_page(keep, near, {"at": now.strftime("%Y-%m-%d %H:%M"), "new": len(scored)}, PAGE)
+    print(f"wrote {len(keep)} items to {OUT}, {len(near)} near misses to {PAGE}")
 
 
 if __name__ == "__main__":

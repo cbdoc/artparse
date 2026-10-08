@@ -4,6 +4,9 @@
 # Minimum Jev score (0-3) for an article to appear in the feed. Raise for fewer articles.
 threshold = 1.5
 
+# The web page (index.html) also lists near misses: articles scoring up to this much below threshold.
+near_miss_margin = 0.3
+
 # Articles published in the last N days stay in the feed.
 keep_days = 30
 

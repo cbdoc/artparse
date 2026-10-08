@@ -3,7 +3,7 @@ import tempfile
 
 import feedparser
 
-from screen import NOTICE, build_rss, feed_urls, is_nature, strip_tags
+from screen import NOTICE, build_page, build_rss, feed_urls, is_nature, strip_tags
 
 assert is_nature("https://www.nature.com/articles/s41467-026-78309-y")
 assert not is_nature("https://www.cell.com/cancer-cell/fulltext/S1535")
@@ -21,4 +21,7 @@ with tempfile.TemporaryDirectory() as d:
     assert not f.bozo, f.bozo_exception
     assert f.entries[0].title == "[2.7] A & B <study>"
     assert f.entries[0].link == "https://x.org/1"
+    page = Path(d) / "index.html"
+    build_page([item], [], {"at": "2026-10-08 12:00", "new": 1}, page)
+    assert "A &amp; B &lt;study&gt;" in page.read_text() and "None." in page.read_text()
 print("ok")
