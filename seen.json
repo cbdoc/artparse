@@ -2288,5 +2288,15 @@
   "date": "2026-10-08T00:00:00+00:00",
   "type": "",
   "score": 0.56
+ },
+ "https://www.nature.com/articles/s41392-026-02903-1": {
+  "guid": "https://www.nature.com/articles/s41392-026-02903-1",
+  "title": "Metabolic immune checkpoints (MICs) in cancer: from molecular mechanisms to challenges and opportunities in clinical translation",
+  "link": "https://www.nature.com/articles/s41392-026-02903-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-09T00:00:00+00:00",
+  "type": "",
+  "score": 1.28
  }
 }
