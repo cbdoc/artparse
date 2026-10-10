@@ -2848,5 +2848,25 @@
   "date": "2026-10-09T00:00:00+00:00",
   "type": "",
   "score": 1.51
+ },
+ "https://www.nature.com/articles/s41598-026-74999-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-74999-y",
+  "title": "Exploring multidimensional perceptions of cervical cancer severity and self-efficacy in prevention through the perspectives of patients and healthcare workers",
+  "link": "https://www.nature.com/articles/s41598-026-74999-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 0.53
+ },
+ "https://www.nature.com/articles/s41746-026-03373-z": {
+  "guid": "https://www.nature.com/articles/s41746-026-03373-z",
+  "title": "VOICE-AE: automated CTCAE scoring from ambient clinical audio using speech recognition and large language models",
+  "link": "https://www.nature.com/articles/s41746-026-03373-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 0.54
  }
 }
