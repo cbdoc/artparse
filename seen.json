@@ -2868,5 +2868,115 @@
   "date": "2026-10-10T00:00:00+00:00",
   "type": "",
   "score": 0.54
+ },
+ "https://www.nature.com/articles/s41598-026-74349-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-74349-y",
+  "title": "Boundary-aware multi-scale residual learning with hybrid radiomic\u2013deep fusion for lung tumor segmentation and classification",
+  "link": "https://www.nature.com/articles/s41598-026-74349-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-11T00:00:00+00:00",
+  "type": "",
+  "score": 0.59
+ },
+ "https://www.nature.com/articles/s41467-026-78138-z": {
+  "guid": "https://www.nature.com/articles/s41467-026-78138-z",
+  "title": "H3K27M cooperates with ASCL1 to maintain progenitor states and drive gliomagenesis",
+  "link": "https://www.nature.com/articles/s41467-026-78138-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 1.65
+ },
+ "https://www.nature.com/articles/s41467-026-78262-w": {
+  "guid": "https://www.nature.com/articles/s41467-026-78262-w",
+  "title": "Disability related disparities in diagnosis and survival of digestive system cancers in Northern Italy",
+  "link": "https://www.nature.com/articles/s41467-026-78262-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 0.49
+ },
+ "https://www.nature.com/articles/s41388-026-04012-3": {
+  "guid": "https://www.nature.com/articles/s41388-026-04012-3",
+  "title": "Adrenomedullin 2 drives intratumoral cancer cell invasion, intravasation and metastasis",
+  "link": "https://www.nature.com/articles/s41388-026-04012-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 0.98
+ },
+ "https://www.nature.com/articles/s41698-026-01732-3": {
+  "guid": "https://www.nature.com/articles/s41698-026-01732-3",
+  "title": "Epithelial\u2013mesenchymal transition in immune escape and immunotherapy resistance of lung cancer",
+  "link": "https://www.nature.com/articles/s41698-026-01732-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 1.62
+ },
+ "https://www.nature.com/articles/s41598-026-71078-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-71078-0",
+  "title": "Effects of myofascial release on clinical outcomes and muscle viscoelastic properties in patients with breast cancer: A randomized controlled trial",
+  "link": "https://www.nature.com/articles/s41598-026-71078-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s44303-026-00204-4": {
+  "guid": "https://www.nature.com/articles/s44303-026-00204-4",
+  "title": "3D-PAULM: integrated photoacoustic tomography and ultrasound localization microscopy for multiparametric brain and tumor imaging",
+  "link": "https://www.nature.com/articles/s44303-026-00204-4",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 0.75
+ },
+ "https://www.nature.com/articles/s41598-026-74097-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-74097-z",
+  "title": "Radiomics and machine learning analysis to differentiate low grade glioma and encephalitis on non-contrast MRI",
+  "link": "https://www.nature.com/articles/s41598-026-74097-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 0.45
+ },
+ "https://www.nature.com/articles/s41598-026-72699-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-72699-1",
+  "title": "Automated detection of carotid artery encasement on CT scans using an AI-driven approach",
+  "link": "https://www.nature.com/articles/s41598-026-72699-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 0.48
+ },
+ "https://www.nature.com/articles/s41598-026-74691-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-74691-1",
+  "title": "Comparison studies between Cesium-137 and X-ray irradiators in epithelial injury using in vitro and in vivo models",
+  "link": "https://www.nature.com/articles/s41598-026-74691-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 0.33
+ },
+ "https://www.nature.com/articles/s41388-026-04011-4": {
+  "guid": "https://www.nature.com/articles/s41388-026-04011-4",
+  "title": "PTK7 scaffolds DNA-PKcs to promote DNA damage response and immune evasion in triple-negative breast cancer",
+  "link": "https://www.nature.com/articles/s41388-026-04011-4",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-10T00:00:00+00:00",
+  "type": "",
+  "score": 1.3
  }
 }
