@@ -149,6 +149,7 @@ def build_page(items, run, path, feeds=()):
         counts[i["source"]] = counts.get(i["source"], 0) + 1
     repo = os.environ.get("GITHUB_REPOSITORY", "cbdoc/artparse")
     data = {"threshold": THRESHOLD, "run": run, "keep_days": KEEP_DAYS,
+            "interests": (ROOT / "interests.md").read_text(),
             "edit": {f: f"https://github.com/{repo}/edit/main/{f}" for f in ("feeds.md", "interests.md", "config.toml")},
             "feeds": [dict(f, recent=counts.get(f["source"], 0)) for f in feeds],
             "items": [{k: i.get(k, "") for k in fields} for i in items]}

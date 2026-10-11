@@ -86,14 +86,21 @@ details[open] .title { font-weight: 600; }
   border: 1px solid var(--hema); border-radius: 6px; padding: 5px 12px;
 }
 .empty { color: var(--muted); padding: 32px 0; }
-#feeds { margin-top: 40px; scroll-margin-top: 110px; }
-#feeds h2 { font: 600 1.05rem "Source Serif 4", Georgia, serif; color: var(--text); }
+#feeds, #interests { margin-top: 40px; scroll-margin-top: 110px; }
+#feeds h2, #interests h2 { font: 600 1.05rem "Source Serif 4", Georgia, serif; color: var(--text); }
 .feed { display: flex; justify-content: space-between; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: .9rem; }
 .feed .n { color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
 .feed .warn { color: var(--eosin); }
 .edit { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 6px; }
+#interests-text { font-size: .9rem; line-height: 1.55; max-width: 68ch; }
+#interests-text h3 { font-size: .9rem; margin: 14px 0 4px; }
+#interests-text ul { margin: 0; padding-left: 1.2em; }
+#interests-text li { margin: 3px 0; }
 .note { color: var(--muted); font-size: .8rem; margin: 0; }
 @media (max-width: 520px) {
+  .top { flex-wrap: wrap; gap: 6px 14px; }
+  .top h1 { flex-basis: 100%; }
+  .top button { margin-left: auto; }
   .body { padding-left: 0; }
   summary { grid-template-columns: 2.3em 1fr; gap: 0 10px; }
 }
@@ -108,6 +115,7 @@ details[open] .title { font-weight: 600; }
   <div class="bar">
     <div class="top">
       <h1>__TITLE__</h1>
+      <a href="#interests">Interests</a>
       <a href="#feeds">Feeds</a>
       <a href="feed.xml">RSS</a>
       <button id="theme" type="button">Light mode</button>
@@ -124,12 +132,17 @@ details[open] .title { font-weight: 600; }
 <main>
   <p class="status" id="status"></p>
   <div id="list"></div>
+  <section id="interests">
+    <h2>Interests</h2>
+    <div id="interests-text"></div>
+    <div class="edit"><a class="read" id="edit-interests">Edit interests</a></div>
+    <p class="note">Opens interests.md in GitHub's editor. Changes apply to articles scored after you commit; delete seen.json to rescore everything.</p>
+  </section>
   <section id="feeds">
     <h2>Feeds</h2>
     <div id="feedlist"></div>
     <div class="edit">
       <a class="read" id="edit-feeds">Add or remove feeds</a>
-      <a class="read" id="edit-interests">Edit interests</a>
       <a class="read" id="edit-config">Change settings</a>
     </div>
     <p class="note">These open the file in GitHub's editor. After you commit a change, the feed and this page update within a few minutes.</p>
@@ -212,6 +225,16 @@ function render() {
 $("edit-feeds").href = D.edit["feeds.md"];
 $("edit-interests").href = D.edit["interests.md"];
 $("edit-config").href = D.edit["config.toml"];
+// Show interests.md: "# " lines become headings, "- " lines list items, other text paragraphs.
+const it = $("interests-text");
+let ul = null;
+for (const line of (D.interests || "").split("\n")) {
+  const t = line.trim();
+  if (!t || t.startsWith("<!--")) { ul = null; continue; }
+  if (t.startsWith("#")) { it.append(el("h3", "", t.replace(/^#+\s*/, ""))); ul = null; }
+  else if (t.startsWith("- ")) { if (!ul) it.append(ul = el("ul")); ul.append(el("li", "", t.slice(2))); }
+  else { it.append(el("p", "", t)); ul = null; }
+}
 const fl = $("feedlist");
 for (const f of D.feeds || []) {
   const row = el("div", "feed");
