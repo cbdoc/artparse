@@ -3168,5 +3168,435 @@
   "date": "2026-10-12T00:00:00+00:00",
   "type": "",
   "score": 1.01
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00387-9?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00387-9?rss=yes",
+  "title": "Chronotherapy with immune checkpoint inhibitors: The knowns, the unknowns, and the contested",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00387-9?rss=yes",
+  "abstract": "Emerging data indicate that immune checkpoint inhibitors can exhibit time-of-day-dependent effects in pre-clinical models. Furthermore, multiple retrospective clinical trials associate earlier anti-tumor treatment timing with improved outcomes. However, key questions remain regarding the reproducibility of these findings, the underlying mechanisms, and their clinical implications. This commentary discusses these open questions and provides an outlook on the field.",
+  "source": "Cancer Cell",
+  "date": "2026-09-15T00:00:00+00:00",
+  "type": "Commentary",
+  "score": 1.0
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00388-0?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00388-0?rss=yes",
+  "title": "Human-centric preclinical models for CAR T cell therapy in solid tumors: Where patient-derived organoids fit",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00388-0?rss=yes",
+  "abstract": "Chimeric antigen receptor (CAR) T cell therapy has shown promising activity in solid tumors, yet translational progress remains limited by preclinical models that incompletely capture human tumor biology. Patient-derived organoids (PDOs) preserve key features of human tumors, including cellular heterogeneity and tissue architecture, thereby enabling functional evaluation of CAR T cell targets, next-generation approaches, resistance mechanisms, and selected safety considerations. We discuss how PDOs complement existing preclinical platforms to support CAR T cell development for solid tumors.",
+  "source": "Cancer Cell",
+  "date": "2026-09-24T00:00:00+00:00",
+  "type": "Commentary",
+  "score": 0.92
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00393-4?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00393-4?rss=yes",
+  "title": "\u03b3\u03b4 T cells BiTE back at small cell lung cancer",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00393-4?rss=yes",
+  "abstract": "In this issue of Cancer Cell, Ng et al. characterize and leverage cytotoxic \u03b3\u03b4 T cells in small cell lung cancer to overcome unsuccessful checkpoint blockade immunotherapy. Engaging V\u03b42+ cells with a bispecific T cell engager (BiTE) bypasses the challenge of low MHC-I expression and ineffective CD8+ T cells.",
+  "source": "Cancer Cell",
+  "date": "2026-09-18T00:00:00+00:00",
+  "type": "Preview",
+  "score": 1.27
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00397-1?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00397-1?rss=yes",
+  "title": "Microbial cues for a stem-like lymphoid niche",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00397-1?rss=yes",
+  "abstract": "While tertiary lymphoid structures (TLSs) broadly correlate with immunotherapy efficacy, their functional heterogeneity can translate into divergent clinical outcomes. In this issue of Cancer Cell, Hu et al. uncover a microbiota-orchestrated stem-like lymphoid niche in which CD70+ ILC2s sustain progenitor exhausted T cells, and their findings redefine the functional organization underlying TLS-associated antitumor immunity.",
+  "source": "Cancer Cell",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "Preview",
+  "score": 1.04
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00390-9?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00390-9?rss=yes",
+  "title": "Teamwork makes the dream work? Ensemble learning in computational pathology",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00390-9?rss=yes",
+  "abstract": "In this issue of Cancer Cell, Luo et al. report an ensemble approach that integrates five pretrained pathology foundation models into a slide-level representation to exploit their complementary information, yielding improvements in tumor subtyping, biomarker, and therapy-response prediction. This shows the potential of ensemble and multimodal approaches in computational pathology.",
+  "source": "Cancer Cell",
+  "date": "2026-09-10T00:00:00+00:00",
+  "type": "Preview",
+  "score": 0.59
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00428-9?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00428-9?rss=yes",
+  "title": "Hitting KRAS G12D without the gut punch: Can immunotherapy make it last?",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00428-9?rss=yes",
+  "abstract": "In this issue of Cancer Cell, Shi et al. report encouraging early-phase results combining HRS-4642, an allele-specific KRAS G12D inhibitor, with the PD-L1 inhibitor adebrelimab in previously treated metastatic pancreatic cancer. The intravenous combination was safe and well tolerated, notably sparing patients the gastrointestinal toxicity common to oral KRAS inhibitors, and achieved a promising 43% response rate at the recommended dose.",
+  "source": "Cancer Cell",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "Preview",
+  "score": 2.45
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00386-7?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00386-7?rss=yes",
+  "title": "Beyond genes and hotspots: Protein-informed interpretation of cancer mutations",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00386-7?rss=yes",
+  "abstract": "Interpreting the biological and clinical significance of somatic mutations in cancer genomes remains challenging. In this issue of Cancer Cell, Hyeon et al. identify and map significantly mutated regions to protein domains and structural features, establishing a proteo-genomics framework for interpreting cancer mutations beyond genes and hotspots.",
+  "source": "Cancer Cell",
+  "date": "2026-09-17T00:00:00+00:00",
+  "type": "Preview",
+  "score": 1.15
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00426-5?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00426-5?rss=yes",
+  "title": "The wu wei of brain metastases: When the gift of a pause is also a vulnerability",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00426-5?rss=yes",
+  "abstract": "In this issue of Cancer Cell, Garc\u00eda-G\u00f3mez et al. show that brain-seeding cancer cells exploit an MXD4-dependent proliferative pause that enables survival under stress before metastatic outgrowth. By restraining MYC and activating protective stress responses, this pause becomes an Achilles\u2019 heel, potentially targetable to eradicate micrometastases before clinical relapse.",
+  "source": "Cancer Cell",
+  "date": "2026-09-28T00:00:00+00:00",
+  "type": "Preview",
+  "score": 1.75
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00353-3?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00353-3?rss=yes",
+  "title": "Tumor cells recruit macrophage bodyguards to outlast chemotherapy",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00353-3?rss=yes",
+  "abstract": "In Cell Press Blue, Carvalho et al. identify spatially organized tumor-macrophage niches, EMT-like CD44high cancer cells paired with SPP1/PARP14high macrophages, that drive chemoresistance in bladder cancer. PARP14 inhibition can flip this protective niche into an inflammatory, cisplatin-sensitizing state.",
+  "source": "Cancer Cell",
+  "date": "2026-08-20T00:00:00+00:00",
+  "type": "Spotlight",
+  "score": 1.22
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00396-X?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00396-X?rss=yes",
+  "title": "Beyond BMI: The diet-microbiome context of the obesity paradox",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00396-X?rss=yes",
+  "abstract": "In Nature, Desharnais et al. show that in diverse mouse models, anti-PD-1 sensitivity is more closely linked to diet-microbiome-metabolite ecosystem than to obesity-associated metabolic dysfunction. Their findings reinforce body mass index (BMI) as an incomplete proxy for host biology and suggest strategies to improve anti-PD-1 efficacy without inducing obesity.",
+  "source": "Cancer Cell",
+  "date": "2026-09-30T00:00:00+00:00",
+  "type": "Spotlight",
+  "score": 1.27
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00424-1?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00424-1?rss=yes",
+  "title": "Toward the next generation of CAR T cell therapies for cancer",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00424-1?rss=yes",
+  "abstract": "CAR T cell therapy has transformed the treatment of blood cancers but faces persistent challenges in solid tumors. In this review, Usta and Mackall synthesize clinical lessons, next-generation engineering strategies, and emerging in vivo manufacturing approaches to define opportunities for broader, safer, and more effective CAR T cell therapies.",
+  "source": "Cancer Cell",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "Review",
+  "score": 0.82
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00392-2?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00392-2?rss=yes",
+  "title": "\u03b3\u03b4 T cells modulate anti-tumor immunity in small cell lung cancer",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00392-2?rss=yes",
+  "abstract": "Ng et al. show that \u03b3\u03b4 T cells infiltrate SCLC and have cancer-fighting abilities. These cells can be harnessed through multiple therapeutics to kill SCLC, including through MHC-independent recognition mechanisms via BTN2A1. Notably, \u03b3\u03b4 T cell infiltration is clinically relevant in SCLC, with high levels predictive of improved outcomes with \u03b1PD-L1.",
+  "source": "Cancer Cell",
+  "date": "2026-09-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.33
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00385-5?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00385-5?rss=yes",
+  "title": "Ensemble learning of pathology foundation models for precision oncology",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00385-5?rss=yes",
+  "abstract": "Luo et al. develop ELF, a framework that ensembles five pathology foundation models to generate unified representations from whole-slide images. Trained on nearly 54,000 slides across 20 anatomical sites, ELF outperforms individual foundation models in disease classification, biomarker detection, and prediction of response to chemotherapy, targeted therapy, and immunotherapy.",
+  "source": "Cancer Cell",
+  "date": "2026-09-10T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.91
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00348-X?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00348-X?rss=yes",
+  "title": "UniCure: A multi-modal model for predicting personalized cancer therapy response",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00348-X?rss=yes",
+  "abstract": "Chen et al. present UniCure, a multi-modal foundation model that predicts drug-induced transcriptomic responses across diverse cellular contexts. By bridging cancer cell line data with patient-derived models, UniCure enables personalized drug prioritization and patient stratification, with its predicted therapeutic rankings correlating strongly with clinical survival outcomes in real-world cohorts.",
+  "source": "Cancer Cell",
+  "date": "2026-09-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.26
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00394-6?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00394-6?rss=yes",
+  "title": "Myeloid reprogramming generates myeloid-derived activating cells to potentiate radiotherapy and suppress metastasis",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00394-6?rss=yes",
+  "abstract": "Ji et al. show that radiotherapy induces a TET2-dependent epitranscriptomic program in myeloid cells that promotes immunosuppressive M-MDSC differentiation. TET2 loss preserves caRNA m5C-MBD6 signaling, restores IRF3-IFN-I activation, generates myeloid-derived activating cells, and enhances radiotherapy-induced antitumor immunity.",
+  "source": "Cancer Cell",
+  "date": "2026-09-17T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.27
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00354-5?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00354-5?rss=yes",
+  "title": "Intratumoral Bacillus cereus orchestrates stem-like lymphoid niches to potentiate immunotherapy response in hepatocellular carcinoma",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00354-5?rss=yes",
+  "abstract": "Hu et al. integrate spatial multi-omics to identify stem-like lymphoid niches (SLNs) organized by CD70+ ILC2s and Tpex cells that predict PD-1/PD-L1 immunotherapy responses in hepatocellular carcinoma (HCC). They reveal that Bacillus cereus-PI-PLC increases SLN abundance and synergizes with PD-L1 blockade, highlighting microbiota-driven enhancement of cancer immunotherapy through SLNs therapeutically in HCC.",
+  "source": "Cancer Cell",
+  "date": "2026-08-17T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.97
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00355-7?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00355-7?rss=yes",
+  "title": "Proteo-genomics-guided interpretation of somatic mutations in cancer genomes",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00355-7?rss=yes",
+  "abstract": "Hyeon et al. integrate protein structures with population-scale cancer genomics data to characterize significantly mutated regions in 173 cancer-relevant genes. These regions align with functional domains, three-dimensional structural constraints, and gene-specific biology, providing a framework for classifying mutation patterns in cancer genes and prioritizing sparsely annotated variants for clinical interpretation.",
+  "source": "Cancer Cell",
+  "date": "2026-08-21T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.29
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00399-5?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00399-5?rss=yes",
+  "title": "A transient MXD4-dependent proliferative pause enables survival of brain micrometastases",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00399-5?rss=yes",
+  "abstract": "Garc\u00eda-G\u00f3mez et al. identify a transient state, termed the proliferative pause, that enables the survival of micrometastases during vascular co-option by buffering organ-imposed stress. Targeting vulnerabilities associated with this state suppresses metastatic progression and relapse, revealing opportunities for preventive intervention.",
+  "source": "Cancer Cell",
+  "date": "2026-09-28T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.97
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00425-3?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00425-3?rss=yes",
+  "title": "Chemotherapy enhances cancer vaccine efficacy and expands stem-like TCF1+CD8+ T cells",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00425-3?rss=yes",
+  "abstract": "Noblecourt et al. show that chemotherapy acts as an immunological adjuvant by expanding TCF1+CD8+ T cells during vaccine priming, thereby enhancing vaccine-induced anti-tumor immunity. These findings provide a rationale for combining chemotherapy, cancer vaccines, and PD-1 blockade in the clinic.",
+  "source": "Cancer Cell",
+  "date": "2026-10-02T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.21
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00389-2?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00389-2?rss=yes",
+  "title": "Chemotherapy-free phase 1/2 trial of HRS-4642 plus adebrelimab in previously treated metastatic KRAS G12D-mutant pancreatic cancer",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00389-2?rss=yes",
+  "abstract": "Shi et al. report the first clinical study of the selective KRAS G12D inhibitor HRS-4642 combined with the anti-PD-L1 antibody adebrelimab in heavily pretreated patients with KRAS G12D-mutant pancreatic cancer. The chemotherapy-free regimen demonstrates a manageable safety profile and preliminary antitumor activity, supporting its feasibility as a targeted strategy in this molecularly defined subset.",
+  "source": "Cancer Cell",
+  "date": "2026-09-16T00:00:00+00:00",
+  "type": "Report",
+  "score": 2.83
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00400-9?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00400-9?rss=yes",
+  "title": "Retraction Notice to: Taxanes trigger cancer cell killing in vivo by inducing non-canonical T cell cytotoxicity",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00400-9?rss=yes",
+  "abstract": "(Cancer Cell 41, 1170\u20131185.e1\u2013e12; June 12, 2023)",
+  "source": "Cancer Cell",
+  "date": "2026-09-05T00:00:00+00:00",
+  "type": "Retraction",
+  "score": 1.06
+ },
+ "https://www.nature.com/articles/s43018-026-01269-1": {
+  "guid": "https://www.nature.com/articles/s43018-026-01269-1",
+  "title": "Author Correction: A first-in-class selective inhibitor of EGFR and PI3K offers a single-molecule approach to targeting adaptive resistance",
+  "link": "https://www.nature.com/articles/s43018-026-01269-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.87
+ },
+ "https://www.nature.com/articles/s41586-026-11253-5": {
+  "guid": "https://www.nature.com/articles/s41586-026-11253-5",
+  "title": "Author Correction: Timing and trajectory of BCR::ABL1-driven chronic myeloid leukaemia",
+  "link": "https://www.nature.com/articles/s41586-026-11253-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.61
+ },
+ "https://www.nature.com/articles/s43856-026-01972-1": {
+  "guid": "https://www.nature.com/articles/s43856-026-01972-1",
+  "title": "Predicting delirium in critically Ill patients with cancer using interpretable machine learning",
+  "link": "https://www.nature.com/articles/s43856-026-01972-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.61
+ },
+ "https://www.nature.com/articles/s41598-026-75437-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-75437-9",
+  "title": "Split-intein-mediated engineering of VSV-G-free extracellular vesicles for enhanced cargo loading and delivery of functional proteins",
+  "link": "https://www.nature.com/articles/s41598-026-75437-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.75
+ },
+ "https://www.nature.com/articles/s41598-026-73797-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-73797-w",
+  "title": "Uncertainty-aware adaptive fusion with graceful degradation for trustworthy cervical cytology",
+  "link": "https://www.nature.com/articles/s41598-026-73797-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.43
+ },
+ "https://www.nature.com/articles/s41698-026-01746-x": {
+  "guid": "https://www.nature.com/articles/s41698-026-01746-x",
+  "title": "Current controversies and challenges in unresectable stage III NSCLC",
+  "link": "https://www.nature.com/articles/s41698-026-01746-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.29
+ },
+ "https://www.nature.com/articles/s41375-026-03171-2": {
+  "guid": "https://www.nature.com/articles/s41375-026-03171-2",
+  "title": "PHI-101: a novel FLT3 inhibitor with potent activity against the F691L gatekeeper resistance mutation",
+  "link": "https://www.nature.com/articles/s41375-026-03171-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.89
+ },
+ "https://www.nature.com/articles/s41591-026-04689-9": {
+  "guid": "https://www.nature.com/articles/s41591-026-04689-9",
+  "title": "A health-system-scale, episode-resolved multimodal atlas of cancer cachexia",
+  "link": "https://www.nature.com/articles/s41591-026-04689-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.62
+ },
+ "https://www.nature.com/articles/s41588-026-02782-w": {
+  "guid": "https://www.nature.com/articles/s41588-026-02782-w",
+  "title": "Micronuclear ecDNA constrains tumor cell fitness and is associated with favorable patient survival",
+  "link": "https://www.nature.com/articles/s41588-026-02782-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.14
+ },
+ "https://www.nature.com/articles/s41375-026-03151-6": {
+  "guid": "https://www.nature.com/articles/s41375-026-03151-6",
+  "title": "Marrow hypercellularity is common and clinically neutral in essential thrombocythemia",
+  "link": "https://www.nature.com/articles/s41375-026-03151-6",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.53
+ },
+ "https://www.nature.com/articles/s41598-026-74859-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-74859-9",
+  "title": "Salvianolic acid B antagonizes hepatocarcinogenesis by inhibiting the p300/pSmad2 complex",
+  "link": "https://www.nature.com/articles/s41598-026-74859-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.03
+ },
+ "https://www.nature.com/articles/s41698-026-01744-z": {
+  "guid": "https://www.nature.com/articles/s41698-026-01744-z",
+  "title": "The genomic and proteomic landscape of Chinese familial prostate cancer reveals unique mutational signatures and targetable pathways",
+  "link": "https://www.nature.com/articles/s41698-026-01744-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.8
+ },
+ "https://www.nature.com/articles/s41598-026-74880-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-74880-y",
+  "title": "Concentrations of uranium, cesium, and rubidium in drinking water and Monte Carlo\u2013based age-specific health risk assessment of uranium",
+  "link": "https://www.nature.com/articles/s41598-026-74880-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.32
+ },
+ "https://www.nature.com/articles/s41598-026-75098-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-75098-8",
+  "title": "Association between baseline hypertension and cisplatin-induced nephrotoxicity in patients receiving short hydration",
+  "link": "https://www.nature.com/articles/s41598-026-75098-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.65
+ },
+ "https://www.nature.com/articles/s41698-026-01730-5": {
+  "guid": "https://www.nature.com/articles/s41698-026-01730-5",
+  "title": "Armoring STEAP1 CAR T cells with IL-18 potentiates antitumor activity in Ewing sarcoma",
+  "link": "https://www.nature.com/articles/s41698-026-01730-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.85
+ },
+ "https://www.nature.com/articles/s41598-026-72795-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-72795-2",
+  "title": "Design, synthesis, and biological evaluation of novel 4,5-diaryl-1,2,3-thiadiazole derivatives: anticancer activity and molecular docking studies",
+  "link": "https://www.nature.com/articles/s41598-026-72795-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.37
+ },
+ "https://www.nature.com/articles/s41698-026-01750-1": {
+  "guid": "https://www.nature.com/articles/s41698-026-01750-1",
+  "title": "Multi-omics integration constructs an inflammation-senescence signature for predicting bladder cancer progression and therapy response",
+  "link": "https://www.nature.com/articles/s41698-026-01750-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.76
+ },
+ "https://www.nature.com/articles/s41397-026-00432-2": {
+  "guid": "https://www.nature.com/articles/s41397-026-00432-2",
+  "title": "Real-world analysis of genotype-guided treatment for carriers of actionable DPYD and UGT1A1 variants",
+  "link": "https://www.nature.com/articles/s41397-026-00432-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.86
+ },
+ "https://www.nature.com/articles/s41598-026-65597-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-65597-z",
+  "title": "Whole blood metabolomics reveals coordinated redox-one-carbon axis disruption in NSCLC: a pilot study in an Indian cohort",
+  "link": "https://www.nature.com/articles/s41598-026-65597-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.95
+ },
+ "https://www.nature.com/articles/s41598-026-75601-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-75601-1",
+  "title": "Engineering a bivalent anti-CsGRP78 nanobody via CDR grafting: in silico design and cytotoxic validation",
+  "link": "https://www.nature.com/articles/s41598-026-75601-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.03
+ },
+ "https://www.nature.com/articles/s41375-026-03159-y": {
+  "guid": "https://www.nature.com/articles/s41375-026-03159-y",
+  "title": "Combating CD24 to overcome CD19 CAR-T resistance via induction of innate and adaptive immunity in B-cell malignancies",
+  "link": "https://www.nature.com/articles/s41375-026-03159-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.77
+ },
+ "https://www.nature.com/articles/s44386-026-00084-z": {
+  "guid": "https://www.nature.com/articles/s44386-026-00084-z",
+  "title": "Computational design and translational development of TCR-mimic scFv antibodies for peptide-HLA neoantigen targeting",
+  "link": "https://www.nature.com/articles/s44386-026-00084-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.2
  }
 }
