@@ -3598,5 +3598,155 @@
   "date": "2026-10-12T00:00:00+00:00",
   "type": "",
   "score": 1.2
+ },
+ "https://www.nature.com/articles/s41467-026-76388-5": {
+  "guid": "https://www.nature.com/articles/s41467-026-76388-5",
+  "title": "Syndecan-3 couples tumor mechanics to immunosuppressive macrophage identity",
+  "link": "https://www.nature.com/articles/s41467-026-76388-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.17
+ },
+ "https://www.nature.com/articles/s41598-026-73130-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-73130-5",
+  "title": "Two-stage classification of glioma subtypes using a hybrid CNN-ViT model",
+  "link": "https://www.nature.com/articles/s41598-026-73130-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.81
+ },
+ "https://www.nature.com/articles/s41598-026-75265-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-75265-x",
+  "title": "4-Methoxydalbergione triggers ferroptosis in bladder cancer by suppressing the AKT/mTOR/GPX4 axis",
+  "link": "https://www.nature.com/articles/s41598-026-75265-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.06
+ },
+ "https://www.nature.com/articles/s41598-026-75779-4": {
+  "guid": "https://www.nature.com/articles/s41598-026-75779-4",
+  "title": "A literature-weighted composite index for integrating reproductive dysfunction and cancer-associated molecular features: a reproducible computational pipeline",
+  "link": "https://www.nature.com/articles/s41598-026-75779-4",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.66
+ },
+ "https://www.nature.com/articles/s41598-026-74598-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-74598-x",
+  "title": "Automated whole slide Allred score estimation for estrogen receptor assessment in breast cancer",
+  "link": "https://www.nature.com/articles/s41598-026-74598-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.43
+ },
+ "https://www.nature.com/articles/s41467-026-78560-3": {
+  "guid": "https://www.nature.com/articles/s41467-026-78560-3",
+  "title": "Ki-67, the chromosome periphery and de-compartmentalisation each contribute to nucleophosmin mislocalisation in acute myeloid leukaemia",
+  "link": "https://www.nature.com/articles/s41467-026-78560-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.75
+ },
+ "https://www.nature.com/articles/s41598-026-75572-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-75572-3",
+  "title": "TriAlign UDA for hybrid domain adaptation of frozen histopathology foundation model representations",
+  "link": "https://www.nature.com/articles/s41598-026-75572-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.59
+ },
+ "https://www.nature.com/articles/s41598-026-74332-7": {
+  "guid": "https://www.nature.com/articles/s41598-026-74332-7",
+  "title": "Clinical characteristics and prognosis of T1N0M1 lung cancer: a population-based retrospective study",
+  "link": "https://www.nature.com/articles/s41598-026-74332-7",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.83
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.09.757840v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.09.757840v1?rss=1",
+  "title": "Malignant and stromal partial EMT programmes and cetuximab outcome in head and neck cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757840v1?rss=1",
+  "abstract": "Partial epithelial-to-mesenchymal transition (pEMT) was defined in single malignant cells of head and neck squamous cell carcinoma but is usually scored in bulk tumours. In three single-cell datasets, its laminin-332 and hemidesmosome genes were expressed by malignant cells (the malignant arm) and its fibrillar collagens and vimentin by fibroblasts (the stromal arm). In bulk tumours the stromal arm dominated co-expression, so standard pEMT scores mainly measure stroma. We recovered the malignant arm with a classifier trained on single cells and a 12-gene core. In 40 patients treated with platinum and cetuximab, both malignant measures were higher in those with long progression-free survival (area under the curve 0.78 and 0.82), and the stromal arm was not. The malignant arm was inseparable from the Basal subtype, whose score did as well or better in these patients (0.93) and in two xenograft panels. Bulk pEMT scores should be read by cell of origin.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.23
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.09.757989v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.09.757989v1?rss=1",
+  "title": "Efficacy of Tumor Treating Fields (TTFields) in triple negative breast cancer cells and synergy with PARP inhibitor talazoparib",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757989v1?rss=1",
+  "abstract": "Breast cancer is the most diagnosed cancer worldwide. Triple-negative breast cancer (TNBC) is a subtype with a poor prognosis because of its aggressiveness and high likelihood of relapse, making its treatment particularly challenging. We explored the effect of Tumor Treating Fields (TTFields) as a novel treatment option for breast cancer, which can be used together with other therapies, such as PARP inhibitors. TTFields use alternating electric fields to inhibit cell growth and induce cellular damage. Our findings indicate that TTFields increase expression of the universal cell cycle CDK inhibitory protein p21(WAF1)/CDKN1A independently of TP53 mutational status. Moreover, when used together with the PARP inhibitor talazoparib, the combination further upregulates p21 protein. Both TTFields alone and together with talazoparib induce cell death as documented by PARP cleavage while reducing markers of cell growth and anti-apoptotic proteins, including p-STAT3, STAT3, and MCL-1. Additionally, TTFields together with talazoparib induce DNA damage, as indicated by increased {gamma}H2AX expression. The combination of talazoparib plus TTFields treatment decrease PDL-1 levels and given its utility in predicting response to PD-1/PD-L1 by mediating immune evasion, this raises the possibility of future combination for immune modulation in cancer therapy. Our preclinical results suggest TTFields alone or together with PARP inhibitors such as talazoparib as a promising therapeutic approach for further development for the treatment of breast cancer.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.5
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.09.757948v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.09.757948v1?rss=1",
+  "title": "Reduced emerin expression marks gastric cancer progression and invasive nuclear remodeling",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757948v1?rss=1",
+  "abstract": "Altered nuclear morphology is a defining diagnostic feature of malignancy, and nuclear structure is increasingly recognized as a functional regulator of cancer cell invasion. The inner nuclear membrane protein emerin maintains nuclear architecture and restrains invasive phenotypes in breast cancer models, but whether emerin expression is similarly altered in gastric cancer has not been established. Here, we analyzed emerin protein expression, nuclear morphology, and impeded migration in nonmalignant and malignant gastric cell lines. In parallel, emerin protein expression and nuclear envelope localization across gastric cancer was determined using patient tissue microarrays. Emerin was abundant at the nuclear envelope in cancer-adjacent and noncancerous gastric epithelium but was reduced across multiple gastric cancer histologies, including adenocarcinoma, signet-ring cell carcinoma, mucinous adenocarcinoma, neuroendocrine carcinoma, squamous cell carcinoma, and metastatic lesions. Reduced emerin at the nuclear envelope was most strongly associated with higher-grade tumors, with grade 2 and grade 3 cancers exhibiting significantly lower nuclear envelope scores than noncancerous tissue and grade 1 tumors. Consistent with the patient tissue data, the gastric cancer cell lines AGS and MKN1 expressed less emerin protein than noncancerous gastric epithelial control cells HFE-145. Consistent with studies in breast cancer cells, gastric cells with reduced emerin expression also had smaller nuclei and increased impeded migration through 8 micron pores. These findings support a model in which reduced nuclear envelope emerin is a conserved feature of invasive epithelial tumor progression and a candidate biomarker of gastric cancer nuclear remodeling.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.87
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.09.758060v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.09.758060v1?rss=1",
+  "title": "Positive selection and structural disruption of KCNA5 by mutation in colorectal cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.758060v1?rss=1",
+  "abstract": "Ion channels regulate cell proliferation, survival and migration, but the functional consequences of many ion channel mutations in cancer are unknown, and electrophysiological characterisation at scale is impractical. Here we use the mutational landscape of colorectal adenocarcinoma as a functional filter to identify potassium channel mutations under selection. A dN/dS screen of 16 potassium channels expressed in the large intestine identified KCNA5 (Kv1.5) as the strongest candidate under positive mutational selection. These mutations cluster in the T1 tetramerisation, S1-S4 voltage-sensor and pore domains, yet avoid the selectivity filter, indicating that selection does not favour loss of conduction. Within the pore region, the observed mutations occupy a biophysical space distinct from known C-type inactivation, activation-gate and toxin-binding mutations. In the voltage sensor, mutations affect gating-charge arginines. In the T1 domain, mutations fall on inter-subunit interfaces conserved across the KCNA family, and saturation mutagenesis energy calculations predict that they destabilise subunit contacts or the folding of the domain. Molecular dynamics simulations of D166N and G128R show loss of coordinated interface dynamics and distortion of the local backbone, respectively. Transcriptomic analysis of KCNA5-mutant tumours shows reduced expression of cell-cycle, KRAS-related and inflammatory pathways, and we observe differences between transcriptional effects induced by T1 and S1-S4 domain mutations. These changes are not reproduced by low KCNA5 expression alone, consistent with an effect specific to the mutant protein. Together, these computational results highlight that KCNA5 is under mutational selection in colorectal adenocarcinoma, and that these mutations are likely functional and induce phenotypic effects on tumors.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.08
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.09.758046v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.09.758046v1?rss=1",
+  "title": "A reference-calibrated spatial-statistical framework for quantifying stroma-tumor cell spatial associations from histology and its geometric limits",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.758046v1?rss=1",
+  "abstract": "Quantifying interactions in biological tissues requires determining whether an interaction exists, the distance over which it operates, and its strength. Existing spatial-statistical approaches can characterize spatial organization but often require interaction range or interaction models to be specified a priori, making them less suited to settings where these quantities are themselves unknown. Here, we present a practical framework that recovers the presence, range, and association strength of spatial bias toward a tissue structure directly from segmented histology. The framework combines four complementary statistics, the resource selection function, nearest-structure distance distributions, the cross J-function, and the radial distribution function, with specimen-specific reference states that preserve tissue stromal architecture while spanning a continuum of known spatial biases. Across controlled in silico tissues, we show that tissue stromal architecture imposes geometric limits on the range of recoverable interactions and that event fraction independently constrains statistical sensitivity. These spatial associations establish fundamental bounds on inference and demonstrate that spatial statistics must be interpreted relative to tissue-specific reference states rather than absolute scales. We apply the framework to proliferating tumor cells relative to CAF-rich stroma during tyrosine kinase inhibitor therapy in an ALK+ NSCLC model and identify a strong stroma-associated proliferation bias extending approximately 30-60 micrometers. The framework broadly applies to any histological setting where events and reference structures can be defined, providing a practical approach to quantify localized interactions directly from tissue stromal architecture.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.02
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.09.757887v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.09.757887v1?rss=1",
+  "title": "Radiotherapy Reshapes the 3D Genome in Medulloblastoma Cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757887v1?rss=1",
+  "abstract": "Radiotherapy is central to medulloblastoma treatment, yet the molecular and three-dimensional (3D) genome responses to irradiation remain poorly understood. Here, we integrated RNA sequencing, proteomics, and Micro-C to characterise the response of ONS-76 medulloblastoma cells to clinically relevant radiation exposures. A single 2 Gy dose induced widespread transcriptional and proteomic changes, including altered cell adhesion, migration, DNA replication, and ribosome biogenesis pathways. Integrated analysis identified LAMB3 and AKR1B10 as candidate mediators of radioresponse that remained elevated following fractionated irradiation. Micro-C profiling following single and repeated 2 Gy exposures revealed radiation-induced 3D genome remodelling. While global genome organisation remained largely stable, irradiation promoted shifts towards active A compartments, new TAD boundary formation, and transient boundary strengthening. Together, these findings provide the first genome-wide characterisation of radiation-induced 3D chromatin reorganisation in a medulloblastoma model and identify molecular and structural features associated with radioresponse.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.94
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.09.757939v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.09.757939v1?rss=1",
+  "title": "Trastuzumab deruxtecan kills skin and uveal melanoma in vivo by HER2-independent payload release",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757939v1?rss=1",
+  "abstract": "Background: HER2-directed CAR-T cells can eradicate melanoma despite low HER2 expression. We therefore asked whether melanoma would also respond to trastuzumab deruxtecan (T-DXd), an antibody-drug conjugate targeting HER2. Patients and methods: T-DXd was evaluated in several patient-derived xenograft (PDX) models and as a compassionate use in one patient with metastatic uveal melanoma. We compared T-DXd with another ADC, trastuzumab emtansine (T-DM1), and examined ADC sensitivity and trastuzumab uptake in vitro, and expression of HER2 and cathepsin L (CTSL) in xenografts. Results: T-DXd inhibited all subcutaneous PDXs, while liver models were less sensitive. T-DM1 had limited activity. Unexpectedly, parental and ERBB2-knockout melanoma xenografts showed similar initial responses to T-DXd, although knockout tumors regrew earlier. Tumor-derived CTSL was detected outside melanoma cells in the xenografts. Melanoma cells were largely resistant to both ADCs in vitro and showed little trastuzumab uptake compared to HER2-amplified breast cancer cells. Conclusions: T-DXd has a substantial HER2-independent component of activity in the tested melanoma xenografts. Presence of extracellular CTSL, an enzyme known to cleave T-Dxd, provide a possibility that linker cleavage and payload release can occur outside of the tumor cells.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.15
  }
 }
