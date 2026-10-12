@@ -3118,5 +3118,55 @@
   "date": "2026-10-11T00:00:00+00:00",
   "type": "",
   "score": 0.61
+ },
+ "https://www.nature.com/articles/s41467-026-78587-6": {
+  "guid": "https://www.nature.com/articles/s41467-026-78587-6",
+  "title": "Targeting MDA5 induces immunogenic cell death and promotes anti-tumor immunity",
+  "link": "https://www.nature.com/articles/s41467-026-78587-6",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.31
+ },
+ "https://www.nature.com/articles/s41419-026-09174-2": {
+  "guid": "https://www.nature.com/articles/s41419-026-09174-2",
+  "title": "ARID1B promotes DNA end resection via MDC1 and co-transactivation of DNA repair genes with c-MYC in small cell lung cancer",
+  "link": "https://www.nature.com/articles/s41419-026-09174-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.92
+ },
+ "https://www.nature.com/articles/s41598-026-70289-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-70289-9",
+  "title": "Clinical significance of intramammary lymph nodes in female primary breast cancer: a systematic review and meta-analysis",
+  "link": "https://www.nature.com/articles/s41598-026-70289-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s41523-026-01068-y": {
+  "guid": "https://www.nature.com/articles/s41523-026-01068-y",
+  "title": "Construction of personal health knowledge graphs for clinical data harmonization in breast cancer",
+  "link": "https://www.nature.com/articles/s41523-026-01068-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 0.56
+ },
+ "https://www.nature.com/articles/s41392-026-02952-6": {
+  "guid": "https://www.nature.com/articles/s41392-026-02952-6",
+  "title": "COVID-19 triggers pulmonary tumor outgrowth through hypoxia- and inflammation-induced VEGF-dependent angiogenesis",
+  "link": "https://www.nature.com/articles/s41392-026-02952-6",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.01
  }
 }
