@@ -4158,5 +4158,45 @@
   "date": "2026-10-13T00:00:00+00:00",
   "type": "",
   "score": 1.99
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.13.758838v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.13.758838v1?rss=1",
+  "title": "THERAPY RESISTANCE IN MELANOMA DRIVES CILIOGENESIS AND GLUTAMINE/ASPARTATE METABOLISM DEPENDENCY",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.13.758838v1?rss=1",
+  "abstract": "Despite the remarkable success of new therapeutic approaches, a considerable number of melanoma patients still relapse on conventional therapies within two years and develop resistance. Alterations in metabolism, including amino acid availability and regulation of metabolic processes, have been implicated in acquired drug resistance. In this study, we developed in vitro and in vivo models of target therapy resistance (TTR) and identified a translational program that supports primary ciliogenesis in drug-resistant BRAF melanoma. We established that drug resistance enhances primary ciliogenesis, which is needed to respond and survive to combination therapy (CT). Mechanistically, impairing cilia formation (IFT88KO) rewires glutamine and aspartate metabolism. Overall, we provide a new molecular mechanism underlying therapy resistance that should be considered to tailored therapeutic strategies.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-13T00:00:00+00:00",
+  "type": "",
+  "score": 1.25
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.12.757337v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.12.757337v1?rss=1",
+  "title": "Catabolism of extracellular glutathione is a driver of metastasis formation",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.12.757337v1?rss=1",
+  "abstract": "Metastasizing cancer cells require metabolic plasticity to adapt to the microenvironment of the target organ. Analyzing metabolites in interstitial fluids, we found that the liver microenvironment is devoid of cystine but contains high concentrations of glutathione (GSH). Detailed mechanistic analysis revealed that cancer cells degrade extracellular GSH utilizing gamma-glutamyl-transferase (GGT) activity for provision of cysteine to support proliferation and prevent ferroptosis under cystine-free conditions. This was independent of system Xc- but required activity of glutamate-cysteine ligase (GCLC). GGT1 expression was associated with poor survival and upregulated in liver metastases of human breast cancer patients. Overexpression of Ggt1 in murine breast cancer cells enhanced their capacity for liver colonization and promoted lung metastases after orthotopic implantation. This identifies extracellular GSH catabolism as driver of metastasis that supports proliferation and oxidative stress resistance in metabolically challenging microenvironments.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-13T00:00:00+00:00",
+  "type": "",
+  "score": 1.08
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.12.758469v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.12.758469v1?rss=1",
+  "title": "Tumour-derived factors prime microglia for immune checkpoint-mediated T-cell regulation",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.12.758469v1?rss=1",
+  "abstract": "Tumour-associated microglia are major regulators of the immune microenvironment in brain malignancies, yet the early mechanisms by which tumour-derived signals shape their immune phenotype remain poorly understood. We used quantitative proteomic analysis on microglia upon tumour exposure and observed extensive remodelling of the microglial proteome following exposure to tumour-conditioned media, indicating that soluble mediators represent the dominant drivers of early microglial activation. Microglia reprogramming was characterized by coordinated upregulation of inflammatory mediators together with proteins involved in antigen presentation and T-cell regulation, including MHC-I, PD-L1 and Galectin-9. Flow cytometric validation using multiple murine and human cell models confirmed the increased expression of PD-L1 and MHC-I on microglia following exposure to tumour-derived conditioned media. Subsequently, tumour-conditioned microglia promoted expression of the inhibitory receptors PD-1 and TIM-3 on T-cells after coculture. Importantly, integration of publicly available single-cell RNA sequencing datasets and cell-cell communication analysis further demonstrated that this immune-regulatory program is recapitulated in microglia from patients with brain tumours. Together, our findings identify an early, soluble factor-driven microglial activation program that precedes direct tumour contact and integrates inflammatory activation with immune checkpoint regulation. These results provide a mechanistic framework for the early establishment of an immunosuppressive brain tumour microenvironment and highlight microglial immune checkpoint pathways as potential targets for therapeutic intervention.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-13T00:00:00+00:00",
+  "type": "",
+  "score": 1.93
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.12.756637v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.12.756637v1?rss=1",
+  "title": "An RFX-driven ciliogenic cell state defines ex vivo FGFR-inhibitor sensitivity in colorectal cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.12.756637v1?rss=1",
+  "abstract": "Genomic stratification leaves most patients with colorectal cancer (CRC) without opportunities for targeted therapy. Seeking tumour state-linked drug sensitivities, we combined image-based ex vivo drug profiling with matched transcriptomics in 127 prospectively collected patient biopsies across CRC stages and molecular subtypes. Network-level integration identified a ciliogenic cell state defined by upregulation of cilia related genes with selective sensitivity to the FGFR inhibitor erdafitinib. This ciliogenic signature was associated with poor progression-free survival (hazard ratio 2.28; adjusted p=0.0098), even in early-stage colorectal cancer. Furthermore, knockdown of the transcriptional regulators RFX2 and RFX3, upstream of the ciliogenic cell state, attenuated erdafitinib sensitivity. Orthogonal bulk and single-cell analyses across normal, primary and metastatic tissues contextualised the ciliogenic programme along a transition from canonical epithelial states towards fetal and non-canonical tumour states, concomitant with Wnt-related remodelling, FGFR1/FGFR2 upregulation, and loss of intestinal epithelial identity. Together, these findings define a tumour-intrinsic ciliogenic cell state as a feature of CRC progression, revealing a patient-stratified repurposing opportunity for targeted therapy beyond the current CRC treatment paradigms.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-13T00:00:00+00:00",
+  "type": "",
+  "score": 1.46
  }
 }
