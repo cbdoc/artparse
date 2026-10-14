@@ -4528,5 +4528,45 @@
   "date": "2026-10-14T00:00:00+00:00",
   "type": "",
   "score": 1.79
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.13.757294v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.13.757294v1?rss=1",
+  "title": "Preoperative thymic output and T cell repertoire diversity are associated with recurrence after nephrectomy for localized renal cell carcinoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.13.757294v1?rss=1",
+  "abstract": "Radiographic thymic health and peripheral T-cell repertoire features have been linked to outcomes in renal cell carcinoma (RCC), but their prognostic value after curative-intent surgery is unclear. We quantified preoperative blood signal-joint T-cell receptor excision circles (sjTRECs), a marker of thymic output, in 218 patients with localized RCC undergoing nephrectomy and characterized T-cell receptor {beta} (TCR{beta}) repertoires in 201 patients. We assessed overall survival (OS) and recurrence-free survival (RFS) using Kaplan-Meier and Cox models adjusted for age, sex, and Leibovich risk group. High sjTREC levels were associated with longer RFS after adjustment for age, sex, and Leibovich risk group (hazard ratio [HR] 0.50; 95% confidence interval [CI], 0.29-0.87; p=0.015), with a concordant OS estimate (HR 0.62; 95% CI, 0.38-1.02; p=0.058). sjTREC provided additional prognostic information beyond Leibovich risk stratification for recurrence overall and among intermediate/high-risk patients (likelihood-ratio test, p=0.024 and p=0.034, respectively). Higher TCR{beta} diversity was associated with longer RFS overall (HR 0.76; 95% CI, 0.60-0.96; p=0.024) and among intermediate/high-risk patients with longer RFS (HR 0.71; 95% CI, 0.55-0.92; p=0.009) and OS (HR 0.80; 95% CI, 0.65-0.98; p=0.031). Preoperative sjTREC provided prognostic information beyond clinicopathological risk, with higher TCR{beta} diversity associated with favorable outcomes.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 0.71
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.13.758755v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.13.758755v1?rss=1",
+  "title": "Spatial Tumour Tissue Distribution Dynamics of a Bicycle Peptide-MMAE Toxin Conjugate Profiled by Targeted Mass Spectrometry",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.13.758755v1?rss=1",
+  "abstract": "A highly specific-NECTIN-4 binding bicyclic peptide covalently linked to the cytotoxin monomethyl auristatin E (MMAE) via a valine-citrulline cleavable linker (zelenectide pevedotin, BT8009) is a promising modality to treat cancer patients with solid tumours. Although the pharmacokinetics and biodistribution of zelenectide pevedotin have been well characterised, a more precise view of tumour delivery and intra-tumoural distribution of its released payload is lacking. To address this, we have developed an approach to profile the spatial tumour and healthy tissue distribution of this anti-cancer agent using laser capture microdissection coupled to targeted liquid chromatography parallel reaction monitoring (LCM-LC-PRM) mass spectrometry. This LCM-assisted spatial pharmacology workflow enables the precise isolation of specific tissue regions, followed by high-resolution analysis of MMAE distribution at sub-tissue-specific levels. By identifying and optimising MS/MS-specific fragmentation ions for accurate and sensitive detection and quantitation of MMAE released from zelenectide pevedotin within tumour tissues, we observed progressive accumulation and sustained retention of MMAE in mouse tumour tissues over a period of 24 h. Conversely, in plasma, liver and muscle tissues, MMAE levels generally declined following early exposure, although inter-animal variability was observed. LCM-based intra-tumour spatial profiling revealed heterogeneous MMAE distribution between tumour cell-rich and stroma-rich regions, with distinct temporal patterns across compartments. Together, our spatial targeted MS method provided valuable insights into zelenectide pevedotin's payload distribution dynamics in vivo, thereby enhancing our understanding of its therapeutic potential and guiding the development of next-generation Bicycle Drug Conjugate (BDC).",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 1.72
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.13.758818v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.13.758818v1?rss=1",
+  "title": "A Multi-Kinase Inhibitor Screen Identifies mTOR Signaling as a Vulnerability in Advanced Prostate Cancer.",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.13.758818v1?rss=1",
+  "abstract": "The receptor tyrosine kinase AXL has context-dependent roles in prostate cancer (PCa). Although AXL signaling has been implicated in PCa progression, it can also promote disseminated tumor cell dormancy. Paradoxically, AXL expression has been reported to be lost in metastatic PCa. This raises two critical questions: Is AXL loss associated with aggressive disease, and does it create therapeutically exploitable vulnerabilities? In this study, we comprehensively analyzed AXL expression across pan-cancer and PCa cohorts and found that AXL downregulation was significantly associated with treatment resistance, aggressive PCa phenotypes, and shorter overall survival. To investigate the functional consequences of AXL loss, we used CRISPR-Cas9 based gene editing to generate isogenic AXLKO cells and characterized their proliferative and migratory properties. To identify therapeutically exploitable vulnerabilities associated with AXL loss, we screened these cells against a library of 1,814 kinase inhibitors using the isogenic cell lines. We identified Torin-2 as a candidate therapeutic agent and validated its activity using dose-response assays, which demonstrated an ~ 18-fold lower IC50 in AXLKO cells than in AXLWT cells. In parallel, PRISM/DepMap analysis provided orthogonal evidence of drug dependencies associated with low AXL expression and revealed a selective vulnerability of AXLKO cells to PI3K/AKT/mTOR pathway inhibition. Collectively, our findings link AXL downregulation to aggressive PCa phenotypes and identify mTOR inhibition as a potential therapeutic strategy for AXL-deficient PCa.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 1.09
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.13.758885v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.13.758885v1?rss=1",
+  "title": "AMPK Signalling Rewires WWP1 mediated RUNX1 Ubiquitination in CML Progression",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.13.758885v1?rss=1",
+  "abstract": "Despite the remarkable success of BCR:ABL1-targeted tyrosine kinase inhibitors, disease progression and therapeutic resistance remain major challenges in chronic myeloid leukemia (CML), highlighting the need to identify additional molecular mechanisms that sustain leukemic survival. In this study, we identify the HECT-type E3 ubiquitin ligase WWP1 as a previously unrecognized regulator of RUNX1 and define a signaling network linking ubiquitination to AMP-activated protein kinase (AMPK)-dependent phosphorylation in CML. We demonstrate that WWP1 directly associates with the PPxY motif of RUNX1 and catalyzes its K63-linked polyubiquitination, thereby enhancing protein stability and promoting leukemic cell growth. Disruption of WWP1, either by genetic silencing or pharmacological inhibition, diminished RUNX1 ubiquitination, impaired proliferation, induced G2/M cell-cycle arrest, and triggered apoptosis. Mechanistic investigations further revealed that WWP1 is a direct substrate of AMPK. Phosphorylation of WWP1 at Thr692 by AMPK promoted its lysosomal degradation, thereby limiting WWP1-dependent ubiquitination of RUNX1. In parallel, AMPK-mediated phosphorylation of RUNX1 reduced its leukemogenic activity, collectively shifting the signaling balance toward growth suppression. Activation of AMPK with metformin reproduced these molecular effects in leukemia cell lines, primary CML patient-derived cells, and xenograft tumors, supporting the physiological relevance of this pathway. Together, our findings establish an AMPK-WWP1-RUNX1 signaling axis that integrates phosphorylation and non-proteolytic ubiquitination to regulate RUNX1 function and CML progression. These results identify WWP1 as a potential therapeutic vulnerability and provide a mechanistic rationale for targeting the AMPK-WWP1 pathway in CML.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 0.89
  }
 }
