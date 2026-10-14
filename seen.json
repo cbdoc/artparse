@@ -4198,5 +4198,55 @@
   "date": "2026-10-13T00:00:00+00:00",
   "type": "",
   "score": 1.46
+ },
+ "https://www.nature.com/articles/s41698-026-01749-8": {
+  "guid": "https://www.nature.com/articles/s41698-026-01749-8",
+  "title": "Towards a structure-aware multi-hop retrieval framework for large language model reasoning over complex oncology guidelines",
+  "link": "https://www.nature.com/articles/s41698-026-01749-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 0.69
+ },
+ "https://www.nature.com/articles/s41598-026-75082-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-75082-2",
+  "title": "Serine-threonine kinase 38 exerts a cancer-promoting role in hepatocellular carcinoma by stabilizing the Notch intracellular domain",
+  "link": "https://www.nature.com/articles/s41598-026-75082-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 1.05
+ },
+ "https://www.nature.com/articles/s41467-026-77262-0": {
+  "guid": "https://www.nature.com/articles/s41467-026-77262-0",
+  "title": "Integrated multi-omics identifies distinct immune signatures with diagnostic and therapeutic implications in immune checkpoint inhibitor-induced myocarditis",
+  "link": "https://www.nature.com/articles/s41467-026-77262-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 1.03
+ },
+ "https://www.nature.com/articles/s41392-026-02984-y": {
+  "guid": "https://www.nature.com/articles/s41392-026-02984-y",
+  "title": "Camrelizumab plus chemotherapy as induction therapy followed by concurrent chemoradiotherapy and camrelizumab consolidation in limited-stage small cell lung cancer: a randomized phase II trial",
+  "link": "https://www.nature.com/articles/s41392-026-02984-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 1.19
+ },
+ "https://www.nature.com/articles/s41391-026-01151-2": {
+  "guid": "https://www.nature.com/articles/s41391-026-01151-2",
+  "title": "Fracture risk and fracture risk factor assessment among men at prostate cancer diagnosis",
+  "link": "https://www.nature.com/articles/s41391-026-01151-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 0.52
  }
 }
