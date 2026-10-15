@@ -4558,5 +4558,35 @@
   "date": "2026-10-14T00:00:00+00:00",
   "type": "",
   "score": 0.89
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.13.759004v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.13.759004v1?rss=1",
+  "title": "A microbiota-driven neuroepithelial feed-forward circuit drives gastroesophageal junction tumorigenesis",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.13.759004v1?rss=1",
+  "abstract": "The gastroesophageal junction (GEJ) is continuously exposed to refluxed bile acids and microbial perturbations, yet how these environmental cues are converted into persistent oncogenic signaling is unknown. Here we show that bile acid remodeling enriches the oral commensal Prevotella melaninogenica at the GEJ, where bacterial succinate activates both vagal sensory neurons and SUCNR1-expressing tuft cells. Activated tuft cells release 15-deoxy-12,14-prostaglandin J2 (15-d-PGJ2), which sensitizes sensory neurons and sustains nerve remodeling, while neuronal CGRP drives expansion and tuft-cell differentiation of neuro-responsive epithelial progenitors through RAMP1. This self-reinforcing microbiota-neuron-epithelium circuit promotes dysplastic progression, and its genetic or pharmacological disruption, including with the approved CGRP antagonist rimegepant, suppresses tumor development, revealing an interceptable mechanism linking environmental dysbiosis to cancer initiation through neural circuits.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.19
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.07.757279v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.07.757279v1?rss=1",
+  "title": "scIRES-seq reveals multimodal molecular heterogeneity in CTCs from small cell cervical cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.07.757279v1?rss=1",
+  "abstract": "Circulating tumor cells (CTCs) can provide a window into cellular and molecular mechanisms of cancer dissemination. However, the rarity and heterogeneity of CTCs complicate reliable identification and molecular characterization. Here, we introduce scIRES-seq, a framework linking immunophenotype, genetic variation, epigenomic profiles and gene expression within individual cells. In this proof-of-concept study, we coupled scIRES-seq to real-time imaging spectral flow cytometry and applied it to CTCs from a patient with metastatic cervical small cell neuroendocrine carcinoma. Tumor-matched copy-number alterations and targeted somatic variants established CTC identity, supported by DNA methylation profiles concordant with metastatic tissue and transcriptional features consistent with neuroendocrine differentiation. Genetic and DNA methylation analyses identified two largely concordant CTC subpopulations that were not clearly distinguished by their transcriptomes, highlighting the complementary information gained through single-cell multi-omics profiling. These findings demonstrate the feasibility of integrated CTC identification and characterization and provide a framework for investigating relationships between genetic diversity and molecular states in rare, heterogeneous cell populations.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 0.93
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.07.757290v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.07.757290v1?rss=1",
+  "title": "NIK stabilization reprograms the pancreas toward chronic pancreatitis and pancreatic lipomatosis",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.07.757290v1?rss=1",
+  "abstract": "Pancreatic lipomatosis, characterized by progressive adipose replacement of the exocrine pancreas, is a known consequence of chronic pancreatitis. Despite its clinical relevance, the mechanisms driving lipomatosis remain poorly understood. Here, we used a pancreas-specific NF-{kappa}B-inducing kinase (NIK) stabilization mouse model to investigate how sustained non-canonical NF-{kappa}B signaling contributes to chronic pancreatitis and pancreatic lipomatosis. NIK stabilization initiated a rapid and fully penetrant pancreatic remodeling program, leading to acinar cell death already by the end of the first week of age. Deep learning on high-definition spatial transcriptomics revealed a progressive loss of acinar identity resulting in acinar-to-ductal metaplasia (ADM) formation and identified GPA33 as a novel surface marker of ADMs. Over time, ADM lesions underwent apoptosis, leading to progressive loss of pancreatic parenchyma, organ atrophy, and extensive adipose replacement. Mechanistically, Relb deletion fully rescued the NIK-induced pancreatic phenotype, demonstrating that chronic pancreatitis and lipomatosis require RelB-dependent non-canonical NF-{kappa}B signaling in this model. Together, these findings define a RelB-dependent pathway linking sustained NIK stabilization to chronic pancreatitis and pancreatic lipomatosis. Our study provides a model for studying the development of pancreatic lipomatosis and for exploring potential therapeutic approaches.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "",
+  "score": 1.01
  }
 }
