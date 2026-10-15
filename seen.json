@@ -359,16 +359,6 @@
   "type": "Article",
   "score": 0.77
  },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00753-1?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00753-1?rss=yes",
-  "title": "Robust regulatory interplay of enhancers, facilitators, and promoters in a native chromatin context",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00753-1?rss=yes",
-  "abstract": "Using an in situ genome-rewriting platform, Zhou et al. demonstrate that precise transcriptional regulation of the NMU promoter is governed by a 3D regulatory hub comprising a core retroviral LTR enhancer, a decoy LTR promoter, and activity-boosting \u201cfacilitator\u201d elements.",
-  "source": "Cell",
-  "date": "2026-07-17T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.54
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00804-4?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00804-4?rss=yes",
   "title": "Condensates of the chromatin regulator ANKRD11 restrict hypertranscribed genes to safeguard development",
