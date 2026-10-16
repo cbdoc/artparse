@@ -5068,5 +5068,305 @@
   "date": "2026-10-15T00:00:00+00:00",
   "type": "",
   "score": 1.54
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5109/788700/Ligand-Blocking-and-Agonist-Antibodies-Targeting": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5109/788700/Ligand-Blocking-and-Agonist-Antibodies-Targeting",
+  "title": "Ligand-Blocking and Agonist Antibodies Targeting TNFR2 Use Distinct Modes of Action to Induce Antitumor Immunity",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5109/788700/Ligand-Blocking-and-Agonist-Antibodies-Targeting",
+  "abstract": "Abstract Although checkpoint inhibitors have revolutionized cancer treatment, responses are largely restricted to targeting CTLA-4 and PD-(L)1. TNFR2 has been identified as a promising target, but further therapeutic development requires a better understanding of whether agonists or blockers should be used and whether Fc\u03b3R interactions promote efficacy. In this study, we engineered two distinct \u03b1-TNFR2 antibody types: ligand-blocking Fc\u03b3R-engaging versus non\u2013ligand-blocking agonist antibodies. Both showed potent antitumor efficacy across multiple syngeneic mouse tumor models and combined effectively with \u03b1-PD-1. The ligand-blocking antibody depleted intratumoral regulatory T cells (Treg) and reprogrammed the myeloid compartment, directing monocytes toward a proinflammatory macrophage and dendritic cell trajectory. Interestingly, this effect depended on both inhibitory and activating Fc\u03b3Rs, reflecting the simultaneous action on Tregs and myeloid cells. In contrast, the agonist directly costimulated T and NK cells, partially through Fc\u03b3R-independent mechanisms. Both antibodies converged on activating tumor-specific CD8 + T cells mediating tumor rejection. Clinical assessment of both ligand-blocking (BI-1808) and agonist (BI-1910) \u03b1-TNFR2 antibodies is currently ongoing. Significance: Identification and mechanistic characterization of two functionally distinct TNFR2 targeting antibodies highlights factors important for leveraging this target for successful cancer immunotherapy.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.3
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5043/788699/Mechanosensors-Collaborate-to-Regulate-DNA-Damage": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5043/788699/Mechanosensors-Collaborate-to-Regulate-DNA-Damage",
+  "title": "Mechanosensors Collaborate to Regulate DNA Damage Repair in Hepatocellular Carcinoma",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5043/788699/Mechanosensors-Collaborate-to-Regulate-DNA-Damage",
+  "abstract": "Abstract Increased matrix stiffness is a biomechanical feature of hepatocellular carcinoma (HCC) that functions as an important promoting factor driving tumor progression. Characterization of the mechanosensors and the underlying downstream mechanisms driving HCC could help identify potential treatment strategies. In this study, we developed a standard procedure for screening and identifying mechanosensors, revealing two HCC mechanosensors, SDC4 and PKD2. These two mechanosensory pathways collaboratively mediated matrix stiffness\u2013promoted DNA damage repair (DDR). Specifically, SDC4 and PKD2 modulated matrix stiffness\u2013increased BANF1 nuclear translocation by increasing protein phosphatase 2A assembly and activity. Subsequently, nuclear BANF1 boosted the formation of the MRE11\u2013RAD50\u2013NBS1 complex and phosphorylation of its downstream effectors to enhance DDR. These findings not only expand the theoretical understanding of matrix stiffness\u2013regulated DDR but also offer a screening/identification approach for mechanosensors in cancer. Significance: Matrix stiffness enhances DNA repair via dual pathways in hepatocellular carcinoma, suggesting that targeting mechanosensory cross-talk could be a potential strategy to overcome cytotoxic drug resistance.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.55
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5089/788698/ARID1A-Stimulates-Notch-TLL1-Signaling-to-Induce": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5089/788698/ARID1A-Stimulates-Notch-TLL1-Signaling-to-Induce",
+  "title": "ARID1A Stimulates Notch-TLL1 Signaling to Induce Cancer-Associated Fibroblast Activation and Intrahepatic Cholangiocarcinoma Development",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5089/788698/ARID1A-Stimulates-Notch-TLL1-Signaling-to-Induce",
+  "abstract": "Abstract Intrahepatic cholangiocarcinoma (ICC) is a lethal hepatic malignancy characterized by a prominent desmoplastic stroma. In this study, we demonstrated that AT-rich interactive domain-containing protein 1A (ARID1A), a core component of the Switch/Sucrose (SWI/SNF) protein complex, is upregulated in ICC and plays an oncogenic role. Mechanistically, ARID1A stabilized NICD1 protein by inhibiting AMPK-dependent autophagy and lysosomal degradation, thereby sustaining Notch signaling. Tolloid-like 1 (TLL1), a metalloproteinase that promotes collagen maturation, was found to be a downstream effector of ARID1A/Notch signaling. Specifically, TLL1 derived from ICC cells activated hepatic stellate cells (HSC) and thus promoted tumor progression. Accordingly, ablation of TLL1 attenuated cancer-associated fibroblast infiltration, collagen accumulation, and tumor progression. Moreover, virtual screening of a bioactive compound library identified acarbose, an effective medicine for glycemic control, as a potent inhibitor of TLL1. Pharmacologic inhibition of TLL1 with acarbose suppressed HSC activation, collagen deposition, and tumor development. Collectively, these results establish a tumor-promoting ARID1A\u2013Notch\u2013TLL1 axis in ICC and reveal acarbose as a potential precision therapy for patients with ARID1A-high ICC. Significance: The ARID1A-Notch-TLL1 axis promotes hepatic stellate cell activation and intrahepatic cholangiocarcinoma development, which can be targeted with acarbose as a TLL1 inhibitor to suppress tumor progression.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.66
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5287/788697/Single-Cell-Analysis-of-Residual-Esophageal": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5287/788697/Single-Cell-Analysis-of-Residual-Esophageal",
+  "title": "Single-Cell Analysis of Residual Esophageal Squamous Cell Carcinoma after Neoadjuvant Immunochemotherapy Reveals TFAM-Mediated Immunoregulation in Dendritic Cells",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5287/788697/Single-Cell-Analysis-of-Residual-Esophageal",
+  "abstract": "Abstract Neoadjuvant immunochemotherapy (nICT) has emerged as a promising neoadjuvant strategy for esophageal squamous cell carcinoma (ESCC). Identification of the factors affecting responsiveness to nICT could help further improve treatment efficacy. In this study, we performed single-cell analysis on 14 patients with ESCC undergoing nICT and revealed tumor microenvironment (TME) features associated with differential treatment responses. Nonnegative matrix factorization (NMF) identified five coordinated cellular programs with distinct response associations. Specifically, the NMF3 program, mainly comprising immunosuppressive cell subsets, was enriched in the minimal or no pathologic tumor regression [tumor regression staging 3 (TRS3)] group, in which regulatory T cells (Treg) and dendritic cells (DC) exhibited a close correlation. In addition, elevated expression of mitochondrial transcription factor A (TFAM) in DCs was associated with increased Treg infiltration in the TRS3 group. A myeloid-specific Tfam knockout mouse model showed that TFAM deficiency reversed the immunosuppressive TME, inhibited tumor growth, and enhanced the response to anti\u2013programmed cell death protein 1 therapy in ESCC. Mechanistically, TFAM deficiency in DCs activated the stimulator of IFN genes (STING)\u2013TBK1\u2013IRF3 pathway, thereby promoting DC maturation to enhance antitumor immunity. Overall, this study characterized the TME in residual ESCC after nICT and revealed an association between elevated TFAM expression in DCs and poor responsiveness to nICT. These findings indicate the critical role of TFAM deficiency in DCs in activating antitumor immunity, highlighting the potential of targeting TFAM to improve the efficacy of immunotherapy and optimize therapeutic strategies. Significance: TFAM mediates dendritic cell activation through the STING-TBK1-IRF3 pathway and is associated with responsiveness to neoadjuvant immunochemotherapy in esophageal squamous cell carcinoma, identifying TFAM as a putative immunotherapeutic target and biomarker.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.92
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5147/788696/Cystine-Restriction-Alleviates-T-cell-Exhaustion": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5147/788696/Cystine-Restriction-Alleviates-T-cell-Exhaustion",
+  "title": "Cystine Restriction Alleviates T-cell Exhaustion and Enhances CAR T-cell Potency",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5147/788696/Cystine-Restriction-Alleviates-T-cell-Exhaustion",
+  "abstract": "Abstract Although chimeric antigen receptor (CAR) T-cell therapy has demonstrated significant efficacy in treating hematologic malignancies, its application in solid tumors remains challenging. A major limitation of CAR T-cell efficacy in solid tumors is the functional exhaustion of CD8 + T cells. In this study, we investigated metabolic regulators of CD8 + T-cell exhaustion, identifying that cystine promotes CD8 + T-cell exhaustion. RNA sequencing (RNA-seq) analysis of an in vitro exhaustion model revealed that SLC7A11 was significantly upregulated in exhausted CD8 + T cells. A monoclonal antibody specifically targeting SLC7A11 was subsequently generated, and its binding affinity was rigorously validated. Single-cell RNA-seq and functional studies demonstrated that inhibition of SLC7A11 promoted the expansion of CD8 + stem-like memory T cells and alleviated T-cell exhaustion. In vivo , treatment with the anti-SLC7A11 antibody enhanced the antitumor efficacy of CAR T cells. Mechanistically, SLC7A11 inhibition suppressed cystine uptake, which activated the GCN2\u2013eIF2\u03b1\u2013SLC1A5 signaling axis. Upregulation of SLC1A5 increased glutamine uptake to stimulate oxidative phosphorylation and support mitochondrial fitness. Together, these findings demonstrate that cystine restriction alleviates CD8 + T-cell exhaustion and enhances the efficacy of CAR T-cell therapy. Significance: Inhibition of SLC7A11-mediated cystine uptake improves the antitumor activity of CD8 + CAR-T cells by activating the GCN2-eIF2\u03b1-SLC1A5 axis to promote oxidative phosphorylation and mitochondrial fitness, overcoming T-cell exhaustion.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 0.92
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5205/788695/ETV6-Rearrangement-Suppresses-CDKN1B-Transcription": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5205/788695/ETV6-Rearrangement-Suppresses-CDKN1B-Transcription",
+  "title": "ETV6 Rearrangement Suppresses CDKN1B Transcription by Disrupting an Intragenic Super-enhancer in Acute Lymphoblastic Leukemia",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5205/788695/ETV6-Rearrangement-Suppresses-CDKN1B-Transcription",
+  "abstract": "Abstract ETV6 -rearranged acute lymphoblastic leukemia (ALL) is associated with poor prognosis in adults. Previously, a super-enhancer (SE) located within the ETV6 intragenic region (ETV6-SE) was identified in a rare fusion gene, ETV6::ACSL6 ; however, further work is needed to determine whether ETV6-SE is broadly present in ALL and how ETV6 rearrangements affect the SE function. In this study, we demonstrated that ETV6 functions as a regulatory element via ETV6-SE in ALL, with CDKN1B as a key target. CRISPR interference and knockout experiments revealed the core enhancer region within ETV6-SE responsible for CDKN1B regulation. ETV6 rearrangements disrupted ETV6-SE and impaired long-range chromatin interaction with the CDKN1B locus, leading to its downregulation that in turn activated the NF-\u03baB pathway and increased expression of antiapoptotic proteins BCL-2/BCL-XL. In patient-derived xenograft models, pharmacologic inhibition of BCL-2/BCL-XL using venetoclax or navitoclax showed additive effects when combined with dexamethasone. Collectively, these findings establish the ETV6-SE\u2013 CDKN1B regulatory axis as a mechanism contributing to treatment resistance in ETV6 -rearranged ALL. Significance: ETV6 comprises a super-enhancer that activates CDKN1B expression and is lost in ETV6 -rearranged acute lymphoblastic leukemia, which contributes to glucocorticoid resistance via downstream activation of the NF-\u03baB pathway.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 0.96
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5017/788694/MEKing-Room-On-the-Quest-for-New-Sources-of": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5017/788694/MEKing-Room-On-the-Quest-for-New-Sources-of",
+  "title": "MEKing Room: On the Quest for New Sources of Therapeutic Index in RAS/MAPK-Driven Cancers",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5017/788694/MEKing-Room-On-the-Quest-for-New-Sources-of",
+  "abstract": "The RAS/MAPK pathway is among the most frequently dysregulated in human cancer, predominantly driven by activating mutations across RAS and BRAF in a broad spectrum of tumor types. The recent clinical validation of direct inhibitors of RAS, long considered undruggable, has reenergized the field and renewed focus on targeting the full RAS/MAPK axis. MEK, a central node in MAPK signaling, remains an attractive mutation-agnostic target, yet the efficacy of first-generation MEK inhibitors has been limited by pathway reactivation in tumors and by on-target, off-tissue toxicity. In this issue of Cancer Research , Kolitz and colleagues describe atebimetinib, a novel MEK inhibitor that also prevents feedback-induced MEK phosphorylation by RAF. The uniquely short plasma half-life of atebimetinib enables deep cyclic inhibition (DCI): transient but profound MEK/ERK output suppression with full recovery between doses. At each drug\u2019s tolerability limit, atebimetinib outperformed the MEK inhibitor binimetinib across multiple RAS - and BRAF -mutant tumor models. Whether DCI or suppression of MEK phosphorylation is the primary driver of the improved therapeutic window and how atebimetinib compares with the clinical standard and other MEK-targeting agents remain important open questions, but the work makes a compelling case that novel pharmacology can unlock therapeutic spaces at targets long considered exhausted. See related article by Kolitz et al., p. 5223",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 2.52
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5020/788693/Motherhood-s-Sentinels-Pregnancy-Induces-Tissue": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5020/788693/Motherhood-s-Sentinels-Pregnancy-Induces-Tissue",
+  "title": "Motherhood\u2019s Sentinels: Pregnancy Induces Tissue-Resident Memory T Cells to Curb Breast Cancer Growth",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5020/788693/Motherhood-s-Sentinels-Pregnancy-Induces-Tissue",
+  "abstract": "Women who carry a pregnancy to term have long been known to have a reduced lifetime risk of breast cancer, yet the mechanisms underlying this protection remain poorly understood. Although parity-induced differentiation and hormonal remodeling of the mammary epithelium have been considered primary drivers of breast cancer protection, the contribution of immune adaptation has remained largely unexplored. In a recent issue of Nature Immunology , Hussain and colleagues identify pregnancy-induced tissue-resident memory\u2013like (T RM -like) CD8 + T cells as key mediators of parity-associated breast cancer protection. The authors show that pregnancy establishes a nurturing niche in the mammary gland that supports the expansion of T RM -like cells through epithelial-derived IL15 and TGF\u03b2 and that depletion of these cells abolishes the cancer-protective effect of parity. Moreover, using therapeutic agents to enhance IL2R\u03b2 signaling was sufficient to induce the expansion of breast cancer\u2013protective T RM -like cells in nulliparous mice, raising the possibility that pregnancy\u2019s protective imprint could be pharmacologically induced. Given the established link between T RM cells and immune checkpoint blockade responsiveness in breast cancer, these findings also raise the possibility that pregnancy-induced T RM -like populations could be leveraged to improve immunotherapy outcomes. By linking physiologic developmental tissue remodeling to durable local immunosurveillance, this study expands current concepts of tissue-resident immunity and positions pregnancy as an immune-educating event with lasting consequences for breast cancer susceptibility.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 0.88
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5238/788692/Parallel-4-1BB-Signaling-in-Dual-DLL3-CD56": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5238/788692/Parallel-4-1BB-Signaling-in-Dual-DLL3-CD56",
+  "title": "Parallel 4-1BB Signaling in Dual DLL3/CD56-Targeting CAR T Cells Triggers Adaptive Proliferation and Functional Persistence to Eradicate Small Cell Lung Cancer",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5238/788692/Parallel-4-1BB-Signaling-in-Dual-DLL3-CD56",
+  "abstract": "Abstract Limited intratumoral persistence and insufficient proliferative capacity severely restrict the efficacy of chimeric antigen receptor (CAR) T-cell therapies in solid tumors. In this study, we demonstrated that DLL3-targeting CAR T cells co-expressing a CD56 chimeric switch receptor and incorporating parallel 4-1BB costimulatory signaling (DBB\u03b6.CBB) effectively address these limitations. In preclinical small cell lung cancer models, DBB\u03b6.CBB exhibited sustained tumor infiltration, prolonged persistence, and superior antitumor activity. Mechanistically, parallel 4-1BB signaling dynamically programmed CAR T-cell fate by promoting early expansion and memory maintenance, driving a highly proliferative effector state at the intermediate stage, and delaying terminal exhaustion at the later stage, thereby sustaining in vivo persistence and enabling durable antitumor responses. Building upon the intratumoral T-cell pool established by DBB\u03b6.CBB, subsequent DLL3 trispecific T-cell engager administration synergistically enhanced tumor eradication by further boosting CD8 + T-cell infiltration and overall activation while mitigating exhaustion and terminal differentiation. Collectively, these findings establish a clinically translatable combinatorial framework to enhance the efficacy and durability of CAR T therapy in solid tumors. Significance: Incorporation of parallel 4-1BB signaling enhances the persistence and proliferation of DLL3/CD56 CAR T cells and enables effective synergy with DLL3 trispecific T-cell engager for eradication in small cell lung cancer.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.21
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5271/788691/CRISPR-Screening-Identifies-SMARCAL1-and-MRN-as": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5271/788691/CRISPR-Screening-Identifies-SMARCAL1-and-MRN-as",
+  "title": "CRISPR Screening Identifies SMARCAL1 and MRN as Modulators of WRN Dependency in MSI-H Colorectal Cancer",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5271/788691/CRISPR-Screening-Identifies-SMARCAL1-and-MRN-as",
+  "abstract": "Abstract Microsatellite instability\u2013high (MSI-H) colorectal cancer cells depend on the Werner syndrome helicase (WRN) to resolve cruciform DNA structures that arise from expanded TA-dinucleotide repeats. Loss of WRN induces replication stress and double-strand breaks, a vulnerability that can be recapitulated with the selective WRN inhibitor (WRNi) HRO761 in MSI-H cancer cells. To uncover the mechanisms governing sensitivity to WRN inhibition, we conducted genome-wide CRISPR/Cas9 screens in colorectal cancer cell lines treated with or without HRO761. These screens identified SMARCAL1 as a key modulator of WRN dependency. Depletion of SMARCAL1 rendered cells resistant to WRN inhibition, and rescue of this effect required the ATPase/translocase activity of SMARCAL1. Mechanistically, SMARCAL1 antagonized WRN and supported cruciform DNA structures, thereby enhancing cellular reliance on WRN. In addition, the MRE11\u2013RAD50\u2013NBS1 (MRN) complex, rather than MUS81 or ERCC1/XPF, was the principal mediator of cruciform DNA processing following WRN inhibition. Acute disruption of the MRN complex conferred profound resistance to WRN inhibition, whereas ataxia-telangiectasia mutated (ATM) deficiency produced a more modest resistant phenotype. Further genetic and pharmacologic epistasis analyses demonstrated that the MRN complex regulates WRNi sensitivity through both ATM-dependent signaling and MRE11 nuclease\u2013dependent functions. Importantly, the key resistance mechanisms identified in this study were independently validated using a structurally distinct clinical-stage WRNi, VVD-214. Collectively, these findings identify the SMARCAL1\u2013MRN\u2013ATM axis as a critical regulator of WRN dependency and provide mechanistic insights into resistance to WRN-targeted therapy. Significance: SMARCAL1 and the MRN-ATM pathway determine sensitivity to WRN inhibition in microsatellite instability\u2013high colorectal cancer, revealing key mechanisms of WRN dependency and potential drivers of resistance to WRN inhibitors.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 2.34
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5167/788690/Serine-Starvation-Modulates-mRNA-Splicing-through": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5167/788690/Serine-Starvation-Modulates-mRNA-Splicing-through",
+  "title": "Serine Starvation Modulates mRNA Splicing through Translational Inhibition of SRSF Proteins",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5167/788690/Serine-Starvation-Modulates-mRNA-Splicing-through",
+  "abstract": "Abstract Serine is a critical nutrient for cancer cell proliferation due to its numerous downstream biosynthetic functions. Given the ongoing clinical efforts to utilize dietary serine starvation as a potential therapy for serine auxotrophic tumors, it is important to understand how cancer cells respond to serine starvation. In this study, we demonstrated that serine starvation induces dramatic changes in mRNA splicing. These effects are due, in part, to reduced translation of serine-rich proteins, including the serine/arginine-rich splicing factor (SRSF) proteins that are known regulators of mRNA splicing. Indeed, translation of SRSF6 was reduced upon serine starvation in serine auxotrophic cancer cells and contributes to the RNA splicing changes seen upon serine deprivation. Furthermore, reduced SRSF6 affected DNA damage response and cell survival in the absence of exogenous serine, and modulators of RNA splicing combined with dietary serine starvation to inhibit tumor growth. Collectively, this work describes a fundamental role for serine in supporting mRNA splicing, which may have implications in the clinical efforts to bring dietary serine starvation to the clinic. Significance: Serine starvation induces changes in mRNA splicing by inhibiting translation of serine-rich proteins like SRSF6, which impacts the DNA damage response and could affect how cancer cells respond to chemotherapy.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.94
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5184/788689/KRAS-Mutations-Reprogram-RNA-m6A-Modifications-to": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5184/788689/KRAS-Mutations-Reprogram-RNA-m6A-Modifications-to",
+  "title": "KRAS Mutations Reprogram RNA m 6 A Modifications to Drive CD73-Dependent Immune Evasion in Colorectal Cancer",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5184/788689/KRAS-Mutations-Reprogram-RNA-m6A-Modifications-to",
+  "abstract": "Abstract KRAS mutations, present in about 40% of colorectal cancers, are strongly associated with an immunosuppressive tumor microenvironment characterized by restricted immune infiltration and poor responses to immunotherapy. In this study, we found that KRAS mutations remodel the N 6 -methyladenosine (m 6 A) epitranscriptome to promote immune evasion. Methylated RNA immunoprecipitation sequencing revealed that KRAS -mutant cells exhibit increased m 6 A deposition on CD73 mRNA, enhancing its stability through IGF2BP3. TEAD4-dependent recruitment of the METTL3 methyltransferase complex induced the m 6 A modification, identifying TEAD4 as a spatial regulator of m 6 A deposition. Functionally, METTL3 knockdown in KRAS -mutant syngeneic tumors suppressed tumor growth and restored antitumor immunity by increasing CD8 + T-cell and NK cell infiltration in a CD73-dependent manner. Moreover, METTL3 inhibition synergized with anti\u2013PD-1 therapy and a CD73 inhibitor to reduce tumor burden. Together, these findings demonstrate that KRAS-driven m 6 A remodeling is a key mechanism of immune suppression in colorectal cancer and highlight METTL3 as a promising therapeutic target. Significance: KRAS mutations suppress immune cell infiltration by increasing CD73 expression through m 6 A reprogramming driven by TEAD4-mediated relocalization of METTL3, providing a targetable axis to promote antitumor immunity.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.88
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5130/788688/Regression-Associated-Macrophages-Recruit-Natural": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5130/788688/Regression-Associated-Macrophages-Recruit-Natural",
+  "title": "Regression-Associated Macrophages Recruit Natural Killer Cells That Constrain Targeted Therapy Resistance",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5130/788688/Regression-Associated-Macrophages-Recruit-Natural",
+  "abstract": "Abstract Targeted kinase inhibitors induce marked tumor regressions but are limited by the emergence of drug-tolerant residual disease and resistance. Although tumor-intrinsic and adaptive immune mechanisms have been extensively studied, a better understanding of the contribution of innate immunity to targeted therapy durability is needed to devise optimal treatment strategies. In this study, we showed that natural killer (NK) cells constrain targeted therapy resistance and identified a regression-associated macrophage program that promotes NK cell recruitment. In immunocompetent melanoma models that recapitulate patient treatment trajectories, tumor regression was characterized by robust NK infiltration, which transitioned to an NK-excluded residual state preceding resistance. A regression-associated macrophage subset (F4/80 high CCL5 + MHC class II + CD63 + ) contributed to NK cell recruitment via CCR2/5 signaling. Genetic depletion of macrophages using LysM-cre;iDTR mice impaired NK cell infiltration. Pharmacologic inhibition of protein tyrosine phosphatase nonreceptor type 22 (Ptpn22), a negative regulator of immune activation, reprogrammed the residual tumor microenvironment, restored NK cell recruitment, and delayed resistance onset. An analysis of data from patients with melanoma and lung cancer revealed concordant NK dynamics during therapy, linking this innate immune program to clinical outcomes. These findings identify innate immune remodeling as a key contributor to targeted therapy durability and identify NK cell recruitment, promoted in part by regression-associated macrophages, as a therapeutically actionable node for extending the durability of response across oncogene-driven cancers. Significance: Natural killer cells recruited by regression-associated macrophages delay resistance to targeted therapies, highlighting the role of innate immune remodeling in targeted therapy durability and providing a strategy to prolong treatment efficacy.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.85
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5223/788687/Dual-MEK-Inhibitor-Atebimetinib-Displays-Broad": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5223/788687/Dual-MEK-Inhibitor-Atebimetinib-Displays-Broad",
+  "title": "Dual-MEK Inhibitor Atebimetinib Displays Broad Activity in RAS - and RAF -Mutant Tumors via Deep Cyclic Inhibition and Resisting RAF Bypass",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5223/788687/Dual-MEK-Inhibitor-Atebimetinib-Displays-Broad",
+  "abstract": "Abstract Inappropriate activation of the mitogen-activated protein kinase (MAPK) pathway, often stemming from activating mutations in RAS or RAF , represents one of the most common oncogenic events in human cancer. However, currently approved RAS/RAF inhibitors target specific mutants that are only present in a small proportion of RAS- or RAF-activated tumors. Current MEK inhibitors (MEKi) are associated with class-effect toxicities and tumor escape via CRAF bypass of MEK blockade. To address these issues, we designed atebimetinib to resist CRAF-mediated bypass and enable a pharmacokinetic/pharmacodynamic profile termed deep cyclic inhibition (DCI), an approach that transiently but deeply suppresses oncogenic signaling while allowing daily physiologic reset. Unlike chronic or intermittent approaches, DCI optimizes depth and duration of MEK suppression on a daily cycle, blunting rebound signaling while preserving recovery windows for normal tissues. Functioning as an allosteric, selective MEKi, atebimetinib potently inhibited ERK phosphorylation in vitro and in vivo , resisted CRAF bypass, and was well tolerated and more efficacious in xenograft models of cancer compared with current MEKis. Overall, these findings establish atebimetinib as a dual-MEKi with the potential to provide mutation-agnostic inhibition of the MAPK pathway while leveraging DCI, designed to avoid toxicities associated with existing MEKis. Atebimetinib offers MEK inhibition that is durable and tolerable, supporting the potential of this therapeutic paradigm. Significance: Atebimetinib, a deep cyclic inhibitor of MEK, blocks MAPK signaling, resists RAF bypass, and is active in RAS - and RAF -mutant tumors, representing a mechanistically differentiated approach in the field of targeted therapies. See related commentary by Gaire and Poulikakos, p. 5017",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 2.61
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5255/788686/SEZ6-Targeted-PET-Imaging-and-Alpha-Particle": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5255/788686/SEZ6-Targeted-PET-Imaging-and-Alpha-Particle",
+  "title": "SEZ6-Targeted PET Imaging and Alpha-Particle Radioimmunotherapy is Effective for Detection and Treatment of Small Cell Lung Cancer",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5255/788686/SEZ6-Targeted-PET-Imaging-and-Alpha-Particle",
+  "abstract": "Abstract Small cell lung cancer (SCLC) remains one of the most lethal malignancies, with a 5-year survival of <10% despite advances in treatment. Seizure-related gene 6 (SEZ6), a type I transmembrane protein preferentially expressed in neuroendocrine tumors, has recently emerged as a promising therapeutic target, supported by clinical activity of SEZ6-targeted antibody\u2013drug conjugates in relapsed SCLC. In this study, we developed and evaluated a humanized anti-SEZ6 monoclonal antibody for SEZ6-targeted positron emission tomography imaging and \u03b1-particle radioimmunotherapy. Immunohistochemistry of patient tissues confirmed strong, stage-independent SEZ6 expression. Cell-based studies demonstrated high SEZ6 receptor densities, supporting high-affinity antibody binding and rapid receptor-mediated internalization. [ 89 Zr]Zr-DFO-SEZ6-Ab administered at low antibody mass exhibited rapid hepatosplenic clearance with minimal tumor uptake despite high intratumoral levels. This pattern was consistent with active ectodomain shedding and local accumulation of soluble antigen within the tumor microenvironment, creating an extracellular antigen sink and limiting effective target engagement. Increasing the antibody mass overcame this barrier, dramatically increasing tumor uptake in xenografts. Treatment with [ 225 Ac]Ac-Macropa-SEZ6-Ab induced complete tumor regression, whereas coadministration of the ATR inhibitor berzosertib enhanced efficacy at lower radioactivity doses without added toxicity. Together, these findings identify tumor-localized SEZ6 shedding as a biological barrier to SEZ6-targeted therapy, define dosing strategies to overcome it, and demonstrate potent antitumor activity of SEZ6-directed \u03b1-particle radioimmunotherapy in SCLC. Significance: Dosing strategies that overcome antigen sink effects induced by a tumor-localized ectodomain shedding enable SEZ6-based imaging and theranostics in small cell lung cancer.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.53
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5023/788685/CDState-Resolves-Malignant-Cell-Heterogeneity-from": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5023/788685/CDState-Resolves-Malignant-Cell-Heterogeneity-from",
+  "title": "CDState Resolves Malignant Cell Heterogeneity from Bulk Tumor RNA Sequencing Data",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5023/788685/CDState-Resolves-Malignant-Cell-Heterogeneity-from",
+  "abstract": "Abstract Intratumor transcriptional heterogeneity (ITTH), defined as the coexistence of diverse cell states within a single tumor, complicates cancer treatment and contributes to variable therapeutic responses. Although single-cell RNA sequencing (scRNA-seq) can resolve this complexity, its cost and technical demands limit large-scale use. Bulk RNA-seq provides a scalable alternative but requires computational methods to deconvolve bulk transcriptomes into distinct cell states. Existing supervised approaches rely on accurate reference data, which are lacking for many cancer types, whereas unsupervised methods are not tailored to capture heterogeneity within the malignant compartment. To address these limitations, we developed CDState, an unsupervised deconvolution method based on nonnegative matrix factorization with a sum-to-one constraint and a cosine similarity\u2013based optimization, which infers malignant cell states using bulk RNA-seq data. CDState demonstrated robustness using pseudobulk scRNA-seq datasets from five cancer types, outperforming existing unsupervised methods in estimating both state-specific gene expression and cell proportions. Applied to 33 cancer types from The Cancer Genome Atlas, CDState revealed recurrent gene programs, including epithelial\u2013mesenchymal transition, MYC targets, and oxidative phosphorylation, as major contributors to malignant ITTH. The malignant state proportions were linked to clinical features, including patient survival and therapeutic response. Finally, mutations and copy-number alterations in genes such as TP53 , KRAS , PIK3CA , SOX2 , and SATB1 were identified as potential genetic drivers of malignant cell ITTH across cancer types. This study demonstrates the utility of CDState for characterization of malignant cell states from bulk RNA-seq data, establishing a framework for investigating malignant cell ITTH in large-scale cancer atlases. Significance: CDState leverages bulk RNA sequencing to resolve malignant states, revealing recurrent patterns of tumor heterogeneity that may help interpret outcomes and guide future biomarker development.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.03
+ },
+ "https://aacrjournals.org/cancerres/article/86/20/5063/788684/Cross-talk-between-Schwann-Cells-and-CD4-T-Cells": {
+  "guid": "https://aacrjournals.org/cancerres/article/86/20/5063/788684/Cross-talk-between-Schwann-Cells-and-CD4-T-Cells",
+  "title": "Cross-talk between Schwann Cells and CD4 + T Cells Promotes Perineural Invasion in Colorectal Cancer",
+  "link": "https://aacrjournals.org/cancerres/article/86/20/5063/788684/Cross-talk-between-Schwann-Cells-and-CD4-T-Cells",
+  "abstract": "Abstract Perineural invasion (PNI) is a common pathologic feature associated with poor prognosis in colorectal cancer. A better understanding of the mechanisms underlying PNI formation could help identify potential strategies to inhibit tumor progression. In this study, we revealed an integral role of CD4 + T cells in the development and progression of PNI in colorectal cancer. Single-cell RNA sequencing, spatial transcriptomics, and multiplex IHC profiling uncovered a distinct HSPA6 + CD4 + T-cell subset expressing T stress (Tstr) cell markers in colorectal cancer PNI tissues. Schwann cells (SC) colocalized with the HSPA6 + CD4 + Tstr cells in PNI, and functional studies showed that SCs promoted Tstr cell differentiation, whereas Tstr cells enhanced SC migration. Interaction between SCs and CD4 + T cells activated the mitogen-activated protein kinase (MAPK) pathway in SCs and the JAK\u2013STAT pathway in Tstr cells, and inhibition of MAPK and STAT signaling suppressed nerve invasion of colorectal cancer cells in vivo . Moreover, SCs in contact with tumor cells possessed the ability to recruit CD4 + T cells; tumor-derived TNF\u03b1 stimulated SCs to secrete CCL4, thereby recruiting CD4 + T cells toward SCs. The anti-TNF\u03b1 mAb infliximab reversed the proinvasive and promigratory effects of SCs on colorectal cancer cells and reduced intratumoral CD4 + Tstr cells, and the combination of infliximab with anti\u2013PD-1 treatment produced a combinatorial tumor-suppressive effect. Together, this study suggests that SCs near colorectal cancer tissues recruit CD4 + T cells and promote their conversion to CD4 + Tstr cells to establish an immunosuppressive microenvironment and simultaneously enhance the migration and tumor-promoting capabilities of SCs, thereby accelerating PNI development. Significance: A CD4 + T-cell subtype forms a feedback loop with Schwann cells that promotes perineural invasion in colorectal cancer and can be targeted to suppress tumor progression and enhance PD-1 blockade efficacy.",
+  "source": "Cancer Research Current Issue",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.38
+ },
+ "https://www.nature.com/articles/s41598-026-75920-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-75920-3",
+  "title": "Mixture analysis of urinary parabens and their associations with reproductive hormones in iranian women",
+  "link": "https://www.nature.com/articles/s41598-026-75920-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.16
+ },
+ "https://www.nature.com/articles/s41598-026-75919-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-75919-w",
+  "title": "Mast cells may promote myeloma engraftment in the NSG-hIL6 patient derived xenograft model",
+  "link": "https://www.nature.com/articles/s41598-026-75919-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.64
+ },
+ "https://www.nature.com/articles/s41388-026-04017-y": {
+  "guid": "https://www.nature.com/articles/s41388-026-04017-y",
+  "title": "Dynamic remodeling of the KRAS interactome by direct RAS inhibitors with distinct mechanism of action reveals convergent responses",
+  "link": "https://www.nature.com/articles/s41388-026-04017-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 2.6
+ },
+ "https://www.nature.com/articles/s41525-026-00613-9": {
+  "guid": "https://www.nature.com/articles/s41525-026-00613-9",
+  "title": "Tumor analysis identifies Israeli founder pathogenic variation carriers",
+  "link": "https://www.nature.com/articles/s41525-026-00613-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.64
+ },
+ "https://www.nature.com/articles/s41598-026-76464-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-76464-2",
+  "title": "Untargeted metabolomics in microbiome-immune crosstalk in cancer: challenges and recommendations for functional interpretation",
+  "link": "https://www.nature.com/articles/s41598-026-76464-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.73
+ },
+ "https://www.nature.com/articles/s41598-026-75881-7": {
+  "guid": "https://www.nature.com/articles/s41598-026-75881-7",
+  "title": "IL-6R blockade with tocilizumab disrupts pericyte\u2013 and tumor cell\u2013driven IL-6/STAT3 signaling, enhancing docetaxel efficacy in ER+ breast cancer",
+  "link": "https://www.nature.com/articles/s41598-026-75881-7",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.78
+ },
+ "https://www.nature.com/articles/s41417-026-01092-x": {
+  "guid": "https://www.nature.com/articles/s41417-026-01092-x",
+  "title": "CircRNA-mediated regulation of ferroptosis in cancer: mechanistic networks and therapeutic implications",
+  "link": "https://www.nature.com/articles/s41417-026-01092-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.84
+ },
+ "https://www.nature.com/articles/s41392-026-02911-1": {
+  "guid": "https://www.nature.com/articles/s41392-026-02911-1",
+  "title": "Next-generation natural killer cell therapy: bench to bedside and beyond",
+  "link": "https://www.nature.com/articles/s41392-026-02911-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.88
+ },
+ "https://www.nature.com/articles/s41388-026-04018-x": {
+  "guid": "https://www.nature.com/articles/s41388-026-04018-x",
+  "title": "Dual novel compounds destroy mitochondrial morphology and function to treat glioblastoma by promoting the p62-mediated protein degradation of mitochondrial respiratory chain complex",
+  "link": "https://www.nature.com/articles/s41388-026-04018-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.91
+ },
+ "https://www.nature.com/articles/s41598-026-76653-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-76653-z",
+  "title": "AFAP1-AS1/miR-195-5p is associated with malignant phenotypes and glycolysis-related metabolic changes in hepatocellular carcinoma",
+  "link": "https://www.nature.com/articles/s41598-026-76653-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 0.72
+ },
+ "https://www.nature.com/articles/s41746-026-03377-9": {
+  "guid": "https://www.nature.com/articles/s41746-026-03377-9",
+  "title": "TrajOnco: a multi-agent framework for temporal reasoning over longitudinal EHR for multi-cancer early detection",
+  "link": "https://www.nature.com/articles/s41746-026-03377-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 0.67
+ },
+ "https://www.nature.com/articles/s41698-026-01747-w": {
+  "guid": "https://www.nature.com/articles/s41698-026-01747-w",
+  "title": "Qiling formula targets CDK5R1 to suppress enzalutamide resistance in prostate cancer: integrating prognostic modeling and function validation",
+  "link": "https://www.nature.com/articles/s41698-026-01747-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 0.84
+ },
+ "https://www.nature.com/articles/s41419-026-09294-9": {
+  "guid": "https://www.nature.com/articles/s41419-026-09294-9",
+  "title": "Systems serology identifies differential pan-viral seroreactivity profiles associated with healthy aging and cancer",
+  "link": "https://www.nature.com/articles/s41419-026-09294-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-15T00:00:00+00:00",
+  "type": "",
+  "score": 0.58
  }
 }
