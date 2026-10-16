@@ -5588,5 +5588,175 @@
   "date": "2026-10-16T00:00:00+00:00",
   "type": "",
   "score": 0.92
+ },
+ "https://www.nature.com/articles/s41568-026-00996-y": {
+  "guid": "https://www.nature.com/articles/s41568-026-00996-y",
+  "title": "Lean, mean, breast cancer-fighting machine",
+  "link": "https://www.nature.com/articles/s41568-026-00996-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.6
+ },
+ "https://www.nature.com/articles/s41418-026-01870-y": {
+  "guid": "https://www.nature.com/articles/s41418-026-01870-y",
+  "title": "PABPC1 dictates castration sensitivity in prostate cancer via orchestrating ferroptosis resistance and CD8(+) T-cell dysfunction",
+  "link": "https://www.nature.com/articles/s41418-026-01870-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s41416-026-03630-8": {
+  "guid": "https://www.nature.com/articles/s41416-026-03630-8",
+  "title": "Waiting times and determinants of delay for head and neck cancer in England\u2014a population cohort study using real world data",
+  "link": "https://www.nature.com/articles/s41416-026-03630-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.63
+ },
+ "https://www.nature.com/articles/s41746-026-03400-z": {
+  "guid": "https://www.nature.com/articles/s41746-026-03400-z",
+  "title": "Effectiveness of ecological momentary interventions for patients with cancer: a meta-analysis of randomized controlled trials",
+  "link": "https://www.nature.com/articles/s41746-026-03400-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s41698-026-01756-9": {
+  "guid": "https://www.nature.com/articles/s41698-026-01756-9",
+  "title": "Machine learning uncovers previously undetectable genetic deletions in cancer panel sequencing",
+  "link": "https://www.nature.com/articles/s41698-026-01756-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s41598-026-72608-6": {
+  "guid": "https://www.nature.com/articles/s41598-026-72608-6",
+  "title": "Selenium nanoparticles enhance anticancer effects by modulating LAMP1, autophagic machinery and P53 expressions in colon cancer cells",
+  "link": "https://www.nature.com/articles/s41598-026-72608-6",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.86
+ },
+ "https://www.nature.com/articles/s41409-026-03068-9": {
+  "guid": "https://www.nature.com/articles/s41409-026-03068-9",
+  "title": "The prognostic impact of CEBPA mutation in acute myeloid leukemia patients undergoing allogeneic hematopoietic stem cell transplantation",
+  "link": "https://www.nature.com/articles/s41409-026-03068-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s41431-026-02255-y": {
+  "guid": "https://www.nature.com/articles/s41431-026-02255-y",
+  "title": "Uterine leiomyomas in HLRCC: a scoping review of presentation, histopathology, treatment patterns, and reproductive implications",
+  "link": "https://www.nature.com/articles/s41431-026-02255-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.62
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.15.759390v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.15.759390v1?rss=1",
+  "title": "Persister cells and their effects on cancer stabilization therapy",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.15.759390v1?rss=1",
+  "abstract": "Some cancers have the ability to persist under treatment. Persister cancer cells can be a small subpopulation of cancer cells that enter a dormant or quiescent state, thereby evading the effects of chemotherapy, targeted therapy, or immunotherapy. Motivated by these observations, we develop and investigate an evolutionary game theory model that captures the interactions between three types of cancer cells: treatment-sensitive, drug-tolerant persister, and treatment-resistant cells. In our model, persister cells transition into resistant cells at a rate that can depend on the treatment intensity. We analyze the model's equilibria and derive conditions for their existence and stability. In particular, we show that an equilibrium in which sensitive and resistant cells coexist is stable when intra-type competition is stronger than inter-type competition. We also show that equilibria in which only one cell type persists require the transition rate to exceed an explicit threshold determined by the treatment dose and competition parameters. Our findings reveal that persister cells can both stabilize and destabilize tumor dynamics, depending on treatment and cell type-transition rates, highlighting the importance of accounting for persister behavior in designing effective evolutionary therapies.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.29
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.13.758238v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.13.758238v1?rss=1",
+  "title": "SPEAR: Spatial Epitranscriptomic Analysis by Mass Spectrometry Reveals Localized RNA Modification Remodeling During Glioma Progression",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.13.758238v1?rss=1",
+  "abstract": "RNA modifications shape cell identity and disease, yet their spatial organization within tissues has remained largely inaccessible to existing technologies. NGS-based methods can map a limited number of individual modifications with spatial resolution, while liquid chromatography-tandem mass spectrometry (LC-MS/MS) provides comprehensive and quantitative coverage of the epitranscriptome from bulk, homogenized tissue. No current approach combines histological resolution, broad modification coverage, quantitative accuracy, and the sensitivity required for microscale clinical specimens. We present SPEAR (SPatial Epitranscriptomic Analysis by mass spectrometRy), a workflow coupling laser microdissection with a redesigned LC-MS/MS pipeline to enable quantitative epitranscriptomic profiling directly from formalin-fixed, paraffin-embedded (FFPE) tissue. This combination enables reproducible detection of dozens of RNA modifications from regions as small as 0.1 mm2, establishing a spatial scale previously inaccessible to mass spectrometry-based approaches. Applied to serial mouse brain sections, SPEAR resolved anatomically defined epitranscriptomic signatures across white and gray matter, establishing its spatial resolution and reproducibility in a controlled system. We then applied SPEAR to human diffuse gliomas containing, within individual specimens, both primary low-grade tumor regions and discrete foci undergoing transformation toward higher-grade malignancy. SPEAR resolved this transition directly, revealing a coordinated decrease in multiple methylated RNA modifications specifically within higher-grade regions, a spatially restricted signal that was masked by bulk analysis and reproducibly observed across patients despite underlying genetic heterogeneity. SPEAR establishes spatial epitranscriptomics as a tractable approach for molecular profiling of clinical tissue, providing a platform for biomarker discovery and molecular stratification based on the spatial organization of RNA modifications.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.29
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.15.759418v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.15.759418v1?rss=1",
+  "title": "Breast Cancer-derived PDGFB Remodels the CNS Vascular Niche to Promote Brain, Spinal and Leptomeningeal Metastasis",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.15.759418v1?rss=1",
+  "abstract": "Background: Central nervous system (CNS) metastases are a major driver of breast cancer (BC) mortality. Recently, our group demonstrated that platelet-derived growth factor-B (PDGFB) and its receptor, platelet-derived growth factor receptor-beta (PDGFR{beta}), promote BC metastasis to the brain; however, the cellular/molecular mechanisms driving this process remain unclear. Here, we investigated tumor-derived PDGFB effects on the CNS vascular niche in regulating metastatic spread. Methods: Triple-negative BC cells were engineered to overexpress PDGFB and used to evaluate endothelial sprouting, blood-brain barrier (BBB) function, vascular permeability and experimental CNS metastasis. A novel retro-orbital (RO) injection model was used to study leptomeningeal/spinal experimental metastasis. Results: PDGFB enhanced human brain microvascular endothelial cell (HBMEC) sprouting, induced cell migration in BBB spheroids, increased permeability in 3D models, and disrupted tight junction proteins in HBMECs. Notably, alterations in vascular permeability were observed in both PDGFR{beta}-positive and PDGFR{beta}-negative endothelial systems, suggesting PDGFB can remodel the CNS vasculature through multiple mechanisms. In vivo, PDGFB increased CNS metastatic burden and altered tumor vasculature in xenograft and allograft models of BC. Furthermore, PDGFB promoted robust colonization of both spinal and leptomeningeal compartments, identifying a previously underappreciated role for this signaling pathway in a clinically devastating form of CNS metastasis. Analysis of patient transcriptomic datasets revealed enrichment of angiogenesis-related pathways in PDGFB-high tumors from patients who developed CNS metastases. Conclusions: Collectively, these findings identify tumor-derived PDGFB as a key regulator of CNS vascular remodeling and metastatic tropism, while introducing a new experimental framework to study spinal metastases and leptomeningeal disease in BC.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.6
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.16.759535v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.16.759535v1?rss=1",
+  "title": "Protruding Geometry Provides Potential Homing Sites of Circulating Tumor Cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.16.759535v1?rss=1",
+  "abstract": "Circulating tumor cells (CTCs) must adhere to the vascular endothelium to initiate metastasis, yet the role of vessel wall topography remains unclear. We present an integrated microfluidic platform combining defined protruding geometries, live cell imaging, and controlled perfusion to study CTC homing. Using a multiscale device that reproduces hierarchical vascular branching, we show that CTCs accumulate preferentially at locations with protruded geometry, including bifurcations, sharp corners and positively curved segments. At these hotspots, a viscoelastic, polymer-like network assembles, capturing CTCs and accompanying progressive multicellular aggregation. This network undergoes stretching and elastic recoil even under laminar flow. Mechanistically, knockdown of DSG2 and ITGB3 reduces retention, suggesting a potential anti metastasis strategy targeting molecular mechanical coupling. Computational fluid dynamics simulations indicate that hotspots coincide with pronounced velocity and pressure perturbations. Our experiments identify local geometry as a critical determinant of CTC arrest and provide a platform for studying the physical mechanisms of metastatic homing.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.91
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.15.759464v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.15.759464v1?rss=1",
+  "title": "NAD+ limitation and \u03b1-ketoglutarate depletion define cancer induced muscle atrophy",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.15.759464v1?rss=1",
+  "abstract": "Tumour-host crosstalk is an emerging hallmark of malignancy. It is increasingly recognised that cancer alters non-tumour bearing distant organs, with important consequences for disease progression and survival. Skeletal muscle loss, a defining feature of cancer-associated cachexia, contributes to morbidity and reduced quality of life, yet its underlying mechanisms remain poorly understood. In this study we analysed the secretome of pancreatic cancer cells and identified a metabolite-driven signal that induces myotube atrophy. Our data suggests that atrophy, which seems to involve cytoskeletal stress and increased myosin contractility, arises from cancer cell-dependent reductive metabolic rewiring. Pancreatic cancer cells conditioned their environment with elevated levels of lactate, generating a lactate-rich extracellular milieu that decrease the NAD+/NADH ratio in myotubes. This redox imbalance impaired oxidative metabolism, decreasing -ketoglutarate (KG) levels and disrupted KG-dependent processes. Restoration of NAD+ or KG levels rescued myotube atrophy. Skeletal muscle from cancer-associated cachexia mouse models exhibited reduced KG levels. Collectively, these findings identify a targetable metabolite-mediated mechanism of tumour-muscle crosstalk.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.02
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.15.759471v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.15.759471v1?rss=1",
+  "title": "Dietary serine and glycine restriction delays cancer-associated cachexia",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.15.759471v1?rss=1",
+  "abstract": "Cancer cachexia is a severe metabolic complication of malignancy characterized by loss of appetite, progressive tissue wasting leading to adipose tissue and/or muscle loss and systemic inflammation. Energy dysregulation and nutrient availability are increasingly recognized as key determinants of host metabolic adaptation during tumour progression. However, how diets can be used to support the host remains unclear and conventional dietary regimes have failed to reverse cancer cachexia. Here, we show that dietary serine/glycine restriction induces a coordinated host metabolic reprogramming that delays the onset of cachexia in tumour-bearing mice. Healthy mice fed a serine/glycine free diet show modest body weight loss resulting from reduced caloric intake and reduced adiposity. Surprisingly, in cancer bearing mice, the remodelled metabolic state leads to preservation of adipose depots and delayed cancer associated cachexia. This response is independent of the impact of serine availability on tumour growth, suggesting that it is the result of host-driven adaptations rather than a direct reflection of tumour burden. Mechanistically, we show that serine and glycine restriction remodels systemic metabolism, leading to reduced oxidative lipid stress and attenuation of inflammatory responses. Together, these findings identify serine/glycine availability as a key regulator of host metabolic resilience during cancer progression. These data support a model in which dietary amino acid restriction modulates systemic inflammation and lipid metabolism to delay the onset of cachexia, highlighting potential therapeutic avenues aimed at targeting host metabolic state rather than tumour growth alone.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.88
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.15.759353v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.15.759353v1?rss=1",
+  "title": "Behavior-coupled single-cell transcriptomics reveals trafficking protein-dependent regulation of tumor cell migration",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.15.759353v1?rss=1",
+  "abstract": "Aggressive cellular migration underlies cancer invasion and metastatic dissemination, yet the molecular programs defining highly migratory tumor cell states remain poorly characterized. In head and neck squamous cell carcinoma (HNSCC), metastatic progression is associated with poor clinical outcome, motivating method developments that link migratory behavior to underlying mechanisms. Here, we present behavior-coupled single-cell sequencing (BC-seq), a live-cell imaging-guided transcriptomic platform that enables real-time identification, isolation, and profiling of individual cells based on migratory behavior. Applying BC-seq to 10 HPV-negative oral squamous cell carcinoma (OSCC), the most common HNSCC subtype, we distinguished fast-migrating cells (FMCs) from slow-migrating cells (SMCs) and identified transcriptional programs associated with aggressive migration. Mechanistically, BC-seq uncovered cholesterol-regulated signaling pathways and associated trafficking proteins involving SREBP2, STARD4, Cavin1/3, and VEGFR2 that promotes actin cytoskeletal remodeling and cellular motility. Disruption of STARD4-mediated cholesterol trafficking or Cavin1/3-dependent VEGFR2 nuclear translocation significantly impaired cell migration, linking cholesterol metabolism to migratory machinery. We next examined whether molecular programs associated with aggressive migration are reflected in clinical outcomes. A 15-gene expression signature derived from FMCs predicted distant metastasis with 83.6% accuracy in an independent OSCC cohort, outperforming conventional clinicopathological risk stratification. Together, our study establishes BC-seq as an approach for integrating dynamic cellular behavior with single-cell transcriptomics to uncover mechanisms of aggressive migration and clinically relevant molecular signatures.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.14
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.15.759386v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.15.759386v1?rss=1",
+  "title": "Engineering tunable synthetic fibrotic niches to model acinar-to-ductal metaplasia in 2D pancreatic culture systems",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.15.759386v1?rss=1",
+  "abstract": "Acinar-to-ductal metaplasia (ADM) is an early pancreatic cell-state transition associated with injury, inflammation, and progression toward pancreatic intraepithelial neoplasia (PanIN). Although genetic and inflammatory drivers of ADM are well established, the contribution of extracellular-matrix mechanics is difficult to isolate because tissue stiffening is accompanied by changes in matrix composition and soluble signaling. Here, we describe a two-dimensional polyacrylamide (PAA) hydrogel platform that independently varies substrate stiffness and adhesive ligand presentation for murine pancreatic acinar 266-6 cells. Hydrogels approximate soft pancreatic tissue (0.50 kPa), a transitional mechanical condition (4.48 kPa), and fibrotic tissue (18.29 kPa). RGD provides a conventional adhesive cue relevant across healthy-to-fibrotic extracellular-matrix states, whereas incorporation of laminin-derived isoleucine-lysine-valine-alanine-valine (IKVAV) creates a more basement-membrane-like environment consistent with preservation of acinar identity. The platform was also adapted to include gelatin, a collagen-derived protein used here to model a more collagen-rich fibrotic matrix context. Peptide coupling is calibrated using fluorescently labeled RGD, and responses after 3 days are assessed by morphology, alpha-amylase 2 (AMY2), Yes-associated protein (YAP) nuclear-to-cytoplasmic localization, and sex-determining region Y-box transcription factor 9 (SOX9). Increasing stiffness increased nuclear YAP localization and reduced AMY2 expression. IKVAV-containing conditions supported greater attachment on softer matrices and partially preserved acinar-like phenotype on stiff gels despite elevated nuclear YAP. Across all ligand conditions, increasing stiffness reduced roundness and geometric regularity/solidity and increased aspect ratio; on gelatin-modified hydrogels, these phenotypic changes corresponded to increased cell-area-normalized SOX9 fluorescence. Together, these readouts identify a stiffness-dependent shift from an acinar-associated state toward an ADM-associated ductal phenotype, while ligand context modulates how this mechanical response is expressed. This protocol provides a controllable, adaptable system for separating mechanical and biochemical extracellular-matrix inputs during pancreatic phenotypic plasticity.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.13
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.15.759320v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.15.759320v1?rss=1",
+  "title": "The pan-cancer whole-genome landscape of Adolescent and Young Adult solid cancers",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.15.759320v1?rss=1",
+  "abstract": "Cancer incidence in adolescents and young adults (AYAs; 18-39 years) is rising, but how their tumors differ genomically from those of older adults (OAs) is unclear. We analyzed paired tumor-normal whole-genomes from 698 AYAs and 5,220 OAs, with subcohorts matched by cancer group to disentangle age from tumor type. AYA tumors carried fewer somatic variants yet largely shared the same genetic drivers; many apparent age differences reflected age-dependent cancer subtypes, such as IDH-mutant glioma and HPV-positive cervical cancer. Colibactin, APOBEC and homologous recombination deficiency-associated signatures were more prevalent in AYA colorectal, gynecological and breast cancers, respectively, but were not more mutagenic when present, suggesting earlier-life activity rather than AYA-specific mutagenesis. Tumor type-concordant pathogenic germline variants were enriched in AYAs (10.9% overall versus 6.6% in matched OAs; p=0.006), often with a somatic second hit. Age thus shaped AYA cancer genomes through mutational processes, subtype composition and germline predisposition, supporting comprehensive tumor-normal profiling beyond driver-focused testing.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.0
  }
 }
