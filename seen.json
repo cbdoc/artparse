@@ -5798,5 +5798,65 @@
   "date": "2026-10-16T00:00:00+00:00",
   "type": "",
   "score": 0.52
+ },
+ "https://www.nature.com/articles/s41408-026-01646-0": {
+  "guid": "https://www.nature.com/articles/s41408-026-01646-0",
+  "title": "Final analysis results from DREAMM-3, a phase 3 study of belantamab mafodotin versus pomalidomide plus dexamethasone in patients with relapsed/refractory multiple myeloma",
+  "link": "https://www.nature.com/articles/s41408-026-01646-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-17T00:00:00+00:00",
+  "type": "",
+  "score": 0.66
+ },
+ "https://www.nature.com/articles/s41598-026-76031-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-76031-9",
+  "title": "Chemical profiling and multitarget computational screening reveal bioactive phytochemical scaffolds from Echiochilon pauciflorum stocks ex wight",
+  "link": "https://www.nature.com/articles/s41598-026-76031-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-17T00:00:00+00:00",
+  "type": "",
+  "score": 0.51
+ },
+ "https://www.nature.com/articles/s41598-026-66033-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-66033-y",
+  "title": "Transcriptomic profiling of tropomyosin isoforms in bladder cancer: multi-platform sequencing and experimental validation",
+  "link": "https://www.nature.com/articles/s41598-026-66033-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-17T00:00:00+00:00",
+  "type": "",
+  "score": 0.77
+ },
+ "https://www.nature.com/articles/s41598-026-76622-6": {
+  "guid": "https://www.nature.com/articles/s41598-026-76622-6",
+  "title": "Single\u2011cell and bulk RNA sequencing identifies T cell marker genes to predict the prognosis of ovarian cancer",
+  "link": "https://www.nature.com/articles/s41598-026-76622-6",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-17T00:00:00+00:00",
+  "type": "",
+  "score": 0.66
+ },
+ "https://www.nature.com/articles/s44458-026-00170-3": {
+  "guid": "https://www.nature.com/articles/s44458-026-00170-3",
+  "title": "Climate change exacerbates residential radon exposure and lung cancer risk",
+  "link": "https://www.nature.com/articles/s44458-026-00170-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-17T00:00:00+00:00",
+  "type": "",
+  "score": 0.73
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.09.757928v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.09.757928v1?rss=1",
+  "title": "Bioenergetic and Proteomic Profiling of ARID1A-Deficient Ovarian Clear Cell Carcinoma under Metabolic Challenge",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757928v1?rss=1",
+  "abstract": "ARID1A loss is associated with increased mitochondrial respiration in ovarian clear cell carcinoma (OCCC), but whether this phenotype is maintained under metabolic challenge remains unclear. Here, we examined mitochondrial function and electron transport chain (ETC) protein abundance in isogenic ARID1A wild-type (WT) and ARID1A-knockout (KO) OCCC cells cultured under physiological glucose, galactose, or the Complex I inhibitor IACS-010759. Across all conditions, KO cells maintained higher basal, ATP-linked, and maximal respiration, greater spare respiratory capacity, and higher coupling efficiency than WT cells, despite lower steady-state ATP levels. In human OCCC tumors, ARID1A-negative cases showed a higher bioenergetic cellular (BEC) index than ARID1A-positive cases, and high BEC was associated with poorer cancer-specific survival. Quantitative proteomics revealed a trend toward higher ETC complex abundance in KO cells, although whole-complex differences did not reach statistical significance. ARID1A loss was associated with selective increases in Complex III and V proteins, whereas metabolic challenge was associated with increases in Complex I and IV proteins. Together, these findings show that the ARID1A-associated mitochondrial phenotype persists across distinct metabolic challenges and is not explained simply by coordinated increases in ETC protein abundance. The association of mitochondrial bioenergetics with clinical outcomes further supports its relevance in human OCCC.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.0
  }
 }
