@@ -6078,5 +6078,45 @@
   "date": "2026-10-18T00:00:00+00:00",
   "type": "",
   "score": 0.79
+ },
+ "https://www.nature.com/articles/s41598-026-74951-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-74951-0",
+  "title": "A transformer-enhanced U-Net with FiLM-driven clinical conditioning for multi-task breast ultrasound lesion analysis",
+  "link": "https://www.nature.com/articles/s41598-026-74951-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-18T00:00:00+00:00",
+  "type": "",
+  "score": 0.4
+ },
+ "https://www.nature.com/articles/s41598-026-76482-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-76482-0",
+  "title": "Hybrid dual attentional-based pyramidal deep learning model for liver tumor detection",
+  "link": "https://www.nature.com/articles/s41598-026-76482-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-18T00:00:00+00:00",
+  "type": "",
+  "score": 0.58
+ },
+ "https://www.nature.com/articles/s41598-026-75014-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-75014-0",
+  "title": "Modulation of EMT-related gene expression in colorectal cancer by carvacrol-conjugated ZnO nanoparticles: an integrated in silico and in vitro study",
+  "link": "https://www.nature.com/articles/s41598-026-75014-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-18T00:00:00+00:00",
+  "type": "",
+  "score": 0.76
+ },
+ "https://www.nature.com/articles/s41598-026-76440-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-76440-w",
+  "title": "miR-770 as a potential regulator of DNA methylation-related gene expression in glioblastoma: from in silico prediction to functional validation",
+  "link": "https://www.nature.com/articles/s41598-026-76440-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-18T00:00:00+00:00",
+  "type": "",
+  "score": 1.02
  }
 }
