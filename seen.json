@@ -6048,5 +6048,35 @@
   "date": "2026-10-17T00:00:00+00:00",
   "type": "",
   "score": 0.7
+ },
+ "https://www.nature.com/articles/s41598-026-75592-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-75592-z",
+  "title": "Multi-task deep learning framework for brain tumor classification and segmentation using ensemble feature extraction",
+  "link": "https://www.nature.com/articles/s41598-026-75592-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-18T00:00:00+00:00",
+  "type": "",
+  "score": 0.72
+ },
+ "https://www.nature.com/articles/s41598-026-76685-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-76685-5",
+  "title": "Challenges in cancer diagnosis in Somalia through 35 years of instability (1991\u20132025): a pathologist\u2019s experience",
+  "link": "https://www.nature.com/articles/s41598-026-76685-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-18T00:00:00+00:00",
+  "type": "",
+  "score": 0.6
+ },
+ "https://www.nature.com/articles/s41698-026-01757-8": {
+  "guid": "https://www.nature.com/articles/s41698-026-01757-8",
+  "title": "Tumor-informed molecular residual disease in resected mucosal and cutaneous squamous cell carcinomas of the head and neck",
+  "link": "https://www.nature.com/articles/s41698-026-01757-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-18T00:00:00+00:00",
+  "type": "",
+  "score": 0.79
  }
 }
