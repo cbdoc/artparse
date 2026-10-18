@@ -6018,5 +6018,35 @@
   "date": "2026-10-17T00:00:00+00:00",
   "type": "",
   "score": 0.8
+ },
+ "https://www.nature.com/articles/s41746-026-03396-6": {
+  "guid": "https://www.nature.com/articles/s41746-026-03396-6",
+  "title": "AI-supported first consultation preparation in oncology: a real-world clinical usability study",
+  "link": "https://www.nature.com/articles/s41746-026-03396-6",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-17T00:00:00+00:00",
+  "type": "",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s41598-026-73394-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-73394-x",
+  "title": "Work environment, symptom burden, and job satisfaction among employed cancer survivors: a national cross-sectional study",
+  "link": "https://www.nature.com/articles/s41598-026-73394-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-17T00:00:00+00:00",
+  "type": "",
+  "score": 0.5
+ },
+ "https://www.nature.com/articles/s41698-026-01739-w": {
+  "guid": "https://www.nature.com/articles/s41698-026-01739-w",
+  "title": "AI-driven quantitative assessment of abdominal organs and immunotherapy outcomes across multicenter hepatocellular carcinoma cohorts",
+  "link": "https://www.nature.com/articles/s41698-026-01739-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-17T00:00:00+00:00",
+  "type": "",
+  "score": 0.7
  }
 }
