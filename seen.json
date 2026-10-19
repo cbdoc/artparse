@@ -6118,5 +6118,35 @@
   "date": "2026-10-18T00:00:00+00:00",
   "type": "",
   "score": 1.02
+ },
+ "https://www.nature.com/articles/s41392-026-02689-2": {
+  "guid": "https://www.nature.com/articles/s41392-026-02689-2",
+  "title": "Oncogenic mutations in non-small cell lung cancer: from molecular mechanisms to clinical practice",
+  "link": "https://www.nature.com/articles/s41392-026-02689-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "",
+  "score": 1.98
+ },
+ "https://www.nature.com/articles/s41392-026-02876-1": {
+  "guid": "https://www.nature.com/articles/s41392-026-02876-1",
+  "title": "Endothelial exosomes remodel chromatin accessibility and superenhancer in cancer cells to promote liver metastatic colonization",
+  "link": "https://www.nature.com/articles/s41392-026-02876-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "",
+  "score": 0.93
+ },
+ "https://www.nature.com/articles/s41392-026-02926-8": {
+  "guid": "https://www.nature.com/articles/s41392-026-02926-8",
+  "title": "Efficacy and safety of ifupinostat in relapsed or refractory diffuse large B-cell lymphoma: a multicenter, single-arm phase 2 study",
+  "link": "https://www.nature.com/articles/s41392-026-02926-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "",
+  "score": 0.78
  }
 }
