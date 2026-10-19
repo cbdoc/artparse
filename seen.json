@@ -6148,5 +6148,25 @@
   "date": "2026-10-19T00:00:00+00:00",
   "type": "",
   "score": 0.78
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.16.753149v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.16.753149v1?rss=1",
+  "title": "Spatial epigenomics reveals ancestry-associated regulatory states linked to aggressive prostate cancer biology",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.16.753149v1?rss=1",
+  "abstract": "Prostate cancer (PCa) exhibits substantial biological heterogeneity, including population associated differences in tumor aggressiveness and clinical outcomes. Although socioeconomic and environmental factors contribute to these disparities, intrinsic tumor regulatory programs may also influence disease behavior. Here, we investigated whether differences in chromatin regulation contribute to distinct tumor states in Black and White men with localized PCa. We performed spatial chromatin accessibility profiling (ATAC-seq) of prostatectomy specimens from Black and White patients receiving equal healthcare access at the Center for Prostate Disease Research (USUHS) and Walter Reed National Military Medical Center. Tumors showed distinct chromatin accessibility landscapes between the two populations, with tumors from Black patients exhibiting reduced accessibility of motifs associated with the chromatin architectural regulator CTCF and enrichment of motifs linked to epithelial-mesenchymal transition and inflammatory programs. Reduced CTCF expression was independently validated by immunohistochemistry in 99 prostatectomy specimens. These findings identify population-associated differences in chromatin regulation in localized PCa and suggest that altered CTCF-associated regulation, inflammatory signaling, and epithelial plasticity may contribute to the biological heterogeneity underlying ancestry-dependent PCa disparities.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "",
+  "score": 0.8
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.16.759583v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.16.759583v1?rss=1",
+  "title": "Domain-resolved epitope mapping of B7-H3-targeting VHH-Fcs defines isoform-selective binders for antibody-drug conjugate development",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.16.759583v1?rss=1",
+  "abstract": "The immune checkpoint molecule B7-H3 has emerged as one of the most actively pursued therapeutic targets in solid tumors, and multiple B7-H3-targeting antibody-drug conjugates have entered clinical evaluation. B7-H3 occurs as a 2Ig isoform carrying a single IgV-IgC domain pair and a predominant 4Ig isoform carrying two tandem pairs of near-identical sequence in their extracellular domains. Resolving which pair an antibody engages, or how antibodies distinguish the two isoforms, requires epitope mapping at residue level. Here we generated a panel of six B7-H3-targeting VHH-Fcs and characterized them by surface plasmon resonance, epitope binning, domain-resolved deep mutational scanning and receptor internalization, benchmarked against the clinically advanced antibodies ifinatamab, mirzotamab and vobramitamab. Most VHH-Fcs bound the membrane-proximal pair more tightly than the distal pair, and 4Ig 10- to 100-fold more tightly than 2Ig, whereas the three clinical antibodies showed no such discrimination. Displaying each domain pair independently on yeast identified the residues that account for this selectivity. Internalization varied several-fold among binders, including between VHH-Fc 620 and 636, which have near-identical footprints and comparable affinities. VHH-Fc 620 internalized most efficiently, also compared to ifinatamab, and was conjugated to exatecan through a protease-cleavable linker. The conjugate showed B7-H3-dependent cytotoxicity that scaled with B7-H3 cell surface density, though it was less potent than ifinatamab-exatecan. Affinity, epitope and internalization therefore behaved as independent characteristics rather than integrating to predict antibody-drug conjugate potency. Together, these results define the molecular basis for isoform-selective recognition of B7-H3 and identify VHH-Fc 620 as a starting point for isoform-selective targeting.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "",
+  "score": 1.44
  }
 }
