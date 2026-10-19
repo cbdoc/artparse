@@ -6348,5 +6348,55 @@
   "date": "2026-10-19T00:00:00+00:00",
   "type": "",
   "score": 1.82
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.16.759773v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.16.759773v1?rss=1",
+  "title": "Pyruvate partitioning defines an immunosuppressive metabolic niche in colorectal cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.16.759773v1?rss=1",
+  "abstract": "Purpose. Colorectal cancer (CRC) reprograms glucose metabolism, diverting pyruvate from mitochondrial oxidation toward lactate export. How this partitioning decision is organized across cell types and tissue space, and how it relates to immune programmes, remains unresolved. Methods. We defined a Pyruvate Partitioning Index (PPI) as the difference between an oxidative arm (MPC1, MPC2, PDHA1, PDHB, DLAT, DLD, PDHX) and an export arm (LDHA, LDHB, SLC16A1, SLC16A3, SLC16A7), and computed it across TCGA COADREAD (n = 592), GSE39582 (n = 579), two single-cell atlases (370,115 and 63,689 cells), 13 Visium sections and an exploratory urothelial immunotherapy cohort (IMvigor210, n = 298). Results. PPI was lowest in microsatellite-unstable (MSI) tumours (Mann-Whitney p = 3.8 x 10^-9) and inversely associated with overall survival (log-rank p = 1.2 x 10^-4). Epithelial cells were the most oxidative compartment (median +0.058) and myeloid cells the most export-prone (-0.171; Kruskal p [~] 0), reproduced independently; MMRd epithelium was intrinsically export-shifted (-0.012 vs +0.076 vs +0.192 for MMRd, MMRp and normal). Spatially, PPI was non-random (Moran's I significant in 12/13 sections), with low-PPI spots enriched for SPP1+ macrophages, myofibroblasts and plasma cells, but not CD8+ T-cell factors. Low-PPI tumours showed coordinated increases in immune-checkpoint, myeloid and Treg programmes (checkpoint rho = -0.262), and network perturbation identified LDHA as the hub. Conclusions. Pyruvate partitioning is cellularly and spatially organized in CRC and defines a myeloid-stromal immunosuppressive niche. Because MSI tumours (the best CRC immunotherapy responders) had the lowest PPI, the PPI-response relationship appears cancer-type specific and requires validation in CRC cohorts.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "",
+  "score": 1.14
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.17.759751v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.17.759751v1?rss=1",
+  "title": "MHC-I downregulation is associated with immune-evasion in breast cancers with heterogeneous activation of epithelial-mesenchymal plasticity",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.17.759751v1?rss=1",
+  "abstract": "Cancer cell-intrinsic epithelial-mesenchymal plasticity (EMP) drives carcinoma progression through increased intratumoral heterogeneity and an immunosuppressive tumor microenvironment (TME). Specifically, EMP activation in murine mammary carcinomas results in exclusion of CD8+ T-cells and recruitment of immunosuppressive M2-like macrophages, resulting in resistance to anti-CTLA-4 immune checkpoint blockade (ICB) therapy. Notably, mixed E-qM tumors in which only 10% of cancer cells have activated EMP are resistant anti-CTLA-4 immune checkpoint blockade (ICB) therapy. This suggests that minority fractions of qM cancer cells could, in theory, exert immunosuppressive effects on surrounding E cancer and immune cells to shield the entire heterogeneous tumor against immune attack. However, this has not yet been demonstrated. Here, we use spatial transcriptomic profiling to demonstrate that mixed E-qM tumors assemble immunosuppressive cellular niches. Furthermore, E cancer cells within mixed E-qM tumors experience long-term MHC-I downregulation leading to resistance to elimination by CD8+ T-cells. This is associated with the exclusion of T-cells from the tumor core and a dysfunctional phenotype in the remaining CD8+ T-cells. qM cancer cells recruit immunosuppressive M2-like macrophages to mixed tumors, which further downregulates E cancer cell-intrinsic MHC-I levels. Finally, we demonstrate that human triple-negative breast cancers with increased EMP activation exclude T-cells from the tumor core. Together, these findings reveal that qM cancer cells modulate the immune infiltrate of mixed tumors, promoting MHC-I downregulation and evasion of immunological control by CD8+ T-cells.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "",
+  "score": 0.96
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.16.759614v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.16.759614v1?rss=1",
+  "title": "Fibronectin silencing remodels the fibrotic bone marrow niche",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.16.759614v1?rss=1",
+  "abstract": "Bone marrow (BM) fibrosis is a defining feature of Primary Myelofibrosis, yet the extracellular matrix (ECM) that sustains the fibrotic niche remains largely untargeted therapeutically. Fibronectin (FN), a key organizer of ECM architecture and growth factor signaling, accumulates in the fibrotic BM niche and correlates with disease severity. Here, we investigated whether systemic FN depletion can disrupt pathological remodeling of the BM niche. We developed a chemically modified antisense oligonucleotide targeting FN1 (FN ASO), which reduced FN expression and assembly and impaired transforming growth factor-{beta}1 (TGF-{beta}1)-induced activation of mesenchymal stromal cells. Systemic FN ASO administration efficiently depleted circulating and BM FN in mice and was well tolerated during short-term treatment. In two complementary models of BM fibrosis, FN silencing reduced FN matrix organization, stromal activation, active TGF{beta}-1, reticulin, and collagen deposition. In Jak2V617F-driven disease, transcriptomic profiling further revealed attenuation of ECM, TGF-{beta}1, and mesenchymal remodeling programs, accompanied by changes in inflammatory signaling. Collectively, these findings identify FN as an active organizer of the fibrotic BM niche and show that its systemic silencing uncouple ECM organization from profibrotic stromal signaling, providing rationale for targeting FN in myelofibrosis with broader therapeutic relevance to fibrosis-driven diseases.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "",
+  "score": 0.75
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.16.759377v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.16.759377v1?rss=1",
+  "title": "Improved anti-tumor vaccination activity of necroptotic cells lacking ATG16L1-dependent unconventional autophagy",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.16.759377v1?rss=1",
+  "abstract": "Immunogenic forms of tumor cell death can induce effective anti-cancer immune responses, but the molecular mechanisms that regulate the immunogenic potential of cell suicide and how they shape anti-tumor immunity in vivo are issues that remain to be fully elucidated. Here we show that absence of unconventional autophagy mediated by the WD40 domain (WDD) of ATG16L1 increases the anti-tumor vaccinating capacity of dying cells. Necroptotic mouse carcinoma MC38 cells lacking the WDD fail to mount a concomitant unconventional autophagic response and exhibit superior vaccinating capacity against MC38 tumors inoculated afterwards. The mutant strain secretes higher levels of ATP during cell demise, whereas other Damage-Associated Molecular Patterns (DAMPs) remain unaffected. The vaccinating effect is accompanied by increased tumor immune infiltration, depends on secreted ATP and requires T cells. These results indicate that suppression of ATG16L1-mediated unconventional autophagy during tumor cell death improves anti-tumor immunity, and identify this process as a potential therapeutic target to enhance the immune contribution to control tumor development.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "",
+  "score": 1.28
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.16.759752v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.16.759752v1?rss=1",
+  "title": "HPV-Associated Tonsillar Intraepithelial Neoplasia and Oral High-Risk HPV mRNA as a Candidate Biomarker",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.16.759752v1?rss=1",
+  "abstract": "Early detection of human papillomavirus (HPV)-associated oropharyngeal cancer is an unmet need, as its premalignant lesions remain unestablished. We hypothesized that such lesions exist in individuals with oral high-risk HPV (HR-HPV) mRNA. We preoperatively screened 1,180 individuals undergoing tonsillectomy due to benign conditions and detected five with oral HR-HPV mRNA. Serial sectioning of the entire excised tonsils identified HPV-associated intraepithelial lesions in three of these five individuals. A similar lesion was identified in an additional individual with oral HPV16 infection with unknown oral HR-HPV mRNA status. Intraepithelial lesions in two individuals were HPV16-associated and showed moderate-to-severe atypia, whereas those in the other two individuals were associated with other HR-HPV and showed minimal-to-mild atypia. Based on HPV life cycle, the former were classified as transforming lesions and the latter as productive-to-intermediate lesions. Spatial transcriptomic analysis revealed molecular profiles intermediate between those of normal epithelium and HPV-associated oropharyngeal cancer. These findings establish the first evidence for HPV-associated tonsillar premalignant lesions and suggest oral HR-HPV mRNA as a candidate biomarker.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "",
+  "score": 0.84
  }
 }
