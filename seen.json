@@ -6708,5 +6708,25 @@
   "date": "2026-10-20T00:00:00+00:00",
   "type": "",
   "score": 0.82
+ },
+ "https://www.nature.com/articles/s41598-026-76769-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-76769-2",
+  "title": "Potential role of PDLIM1 in the tumorigenesis of acute myeloid leukemia: a comprehensive bioinformatics and in vitro study",
+  "link": "https://www.nature.com/articles/s41598-026-76769-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-20T00:00:00+00:00",
+  "type": "",
+  "score": 0.69
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.18.759977v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.18.759977v1?rss=1",
+  "title": "NHE1 sustains leukemia-propagating capacity and mitochondrial fitness in T-cell acute lymphoblastic leukemia",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.18.759977v1?rss=1",
+  "abstract": "Leukemia-propagating cells (LPCs) sustain T-cell acute lymphoblastic leukemia (T-ALL) and are thought to contribute to disease progression and relapse. However, the lack of reliable LPC markers has hindered efforts to identify their vulnerabilities. We screened 786 FDA-approved compounds using a zebrafish transplantation assay that directly measures leukemia-propagating activity. Amiloride markedly reduced functional LPC frequency (p 70% human T-ALL cells, with only modest increases in apoptosis. Transcriptomic and proteomic analyses revealed extensive molecular remodeling, including reduced abundance of proteins involved in mitochondrial respiration and translation. Amiloride treatment and NHE1 knockdown impaired mitochondrial respiration and reduced mitochondrial content, while NHE1 knockdown also decreased mitochondrial membrane potential. Metabolomic profiling revealed alterations in TCA cycle intermediates and broader cellular metabolism. In mouse xenografts, NHE1 knockdown reduced leukemia involvement in the bone marrow and spleen despite similar overall leukemia progression and survival. Together, these findings implicate NHE1 as a previously unrecognized regulator of T-ALL leukemia-propagating activity, reveal unexpected contributions of this ion exchanger to mitochondrial fitness and leukemia involvement in hematopoietic tissues, and support further investigation of NHE1 as a potential therapeutic target in T-ALL.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-20T00:00:00+00:00",
+  "type": "",
+  "score": 0.85
  }
 }
