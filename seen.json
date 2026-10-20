@@ -359,16 +359,6 @@
   "type": "Article",
   "score": 0.77
  },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00804-4?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00804-4?rss=yes",
-  "title": "Condensates of the chromatin regulator ANKRD11 restrict hypertranscribed genes to safeguard development",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00804-4?rss=yes",
-  "abstract": "ANKRD11 restricts hypertranscribed genes by forming biomolecular condensates that spatially sequester elongation factors, with disruption of this condensate-mediated control leading to aberrant organogenesis and underlying the pathogenesis of developmental disorders like KBG syndrome.",
-  "source": "Cell",
-  "date": "2026-07-22T00:00:00+00:00",
-  "type": "Article",
-  "score": 1.11
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00825-1?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00825-1?rss=yes",
   "title": "The structural basis for LRRK2\u2019s activation and autoinhibition",
@@ -6398,5 +6388,65 @@
   "date": "2026-10-19T00:00:00+00:00",
   "type": "",
   "score": 0.84
+ },
+ "https://www.nature.com/articles/s41421-026-00927-z": {
+  "guid": "https://www.nature.com/articles/s41421-026-00927-z",
+  "title": "FAM50A promotes esophageal squamous cell carcinoma progression via splicing-dependent oncogenic circSDK1- and DUSP22-mediated MAPK/FAK activation",
+  "link": "https://www.nature.com/articles/s41421-026-00927-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-20T00:00:00+00:00",
+  "type": "",
+  "score": 1.89
+ },
+ "https://www.nature.com/articles/s41392-026-02965-1": {
+  "guid": "https://www.nature.com/articles/s41392-026-02965-1",
+  "title": "Cytokine context shapes antigen-presenting and matrix-producing states of cancer-associated fibroblasts",
+  "link": "https://www.nature.com/articles/s41392-026-02965-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-20T00:00:00+00:00",
+  "type": "",
+  "score": 0.85
+ },
+ "https://www.nature.com/articles/s41392-026-02899-8": {
+  "guid": "https://www.nature.com/articles/s41392-026-02899-8",
+  "title": "Entinostat plus exemestane for hormone receptor-positive advanced breast cancer: long-term overall survival results from the EOC103A3101 randomized controlled trial",
+  "link": "https://www.nature.com/articles/s41392-026-02899-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-20T00:00:00+00:00",
+  "type": "",
+  "score": 0.65
+ },
+ "https://www.nature.com/articles/s41525-026-00627-3": {
+  "guid": "https://www.nature.com/articles/s41525-026-00627-3",
+  "title": "Impact of an integrated monogenic and polygenic risk assessment on Tier-1 conditions in a real-world cohort",
+  "link": "https://www.nature.com/articles/s41525-026-00627-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-20T00:00:00+00:00",
+  "type": "",
+  "score": 0.57
+ },
+ "https://www.nature.com/articles/s41422-026-01306-9": {
+  "guid": "https://www.nature.com/articles/s41422-026-01306-9",
+  "title": "Metabolic hallmarks of regulated cell death",
+  "link": "https://www.nature.com/articles/s41422-026-01306-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-20T00:00:00+00:00",
+  "type": "",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s41392-026-02888-x": {
+  "guid": "https://www.nature.com/articles/s41392-026-02888-x",
+  "title": "Matrix metalloproteinase-guided targeting of vesicular stomatitis virus to tumors following systemic administration",
+  "link": "https://www.nature.com/articles/s41392-026-02888-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-20T00:00:00+00:00",
+  "type": "",
+  "score": 0.83
  }
 }
