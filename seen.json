@@ -7618,5 +7618,15 @@
   "date": "2026-10-22T00:00:00+00:00",
   "type": "",
   "score": 2.69
+ },
+ "https://www.nature.com/articles/s41568-026-00983-3": {
+  "guid": "https://www.nature.com/articles/s41568-026-00983-3",
+  "title": "Cancer theranostics",
+  "link": "https://www.nature.com/articles/s41568-026-00983-3",
+  "abstract": "Nature Reviews Cancer, Published online: 22 October 2026; doi:10.1038/s41568-026-00983-3 Theranostics integrates diagnostic imaging with targeted therapy to enhance cancer treatment. In this Review, Sofias et al. discuss recent advances in radiotheranostic strategies, advances in nanotheranostic and microtheranostic platforms, and image-guided therapeutic and surgical interventions in oncology.",
+  "source": "Nature Reviews Cancer",
+  "date": "2026-10-22T00:00:00+00:00",
+  "type": "",
+  "score": 1.05
  }
 }
