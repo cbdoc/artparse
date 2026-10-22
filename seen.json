@@ -159,16 +159,6 @@
   "type": "Article",
   "score": 1.36
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00305-3?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00305-3?rss=yes",
-  "title": "A self-amplifying nerve-fibroblast circuit drives colorectal cancer progression",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00305-3?rss=yes",
-  "abstract": "Kobayashi et al. demonstrate that cholinergic signaling induces NTN1 secretion from colorectal CAFs, which in turn enhances intratumoral cholinergic innervation. Increased acetylcholine and CAF-derived NTN1 then accelerate cancer cell growth through tumoral CHRM3 and UNC5B. Blocking CHRM3 or NTN1 may represent a promising therapeutic approach for CRC.",
-  "source": "Cancer Cell",
-  "date": "2026-07-24T00:00:00+00:00",
-  "type": "Article",
-  "score": 1.16
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00382-X?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00382-X?rss=yes",
   "title": "Spatial analysis reveals the evolving organization of IDH-mutant glioma",
