@@ -7628,5 +7628,55 @@
   "date": "2026-10-22T00:00:00+00:00",
   "type": "",
   "score": 1.05
+ },
+ "https://www.nature.com/articles/s43018-026-01279-z": {
+  "guid": "https://www.nature.com/articles/s43018-026-01279-z",
+  "title": "Author Correction: Multiomic analysis of familial adenomatous polyposis reveals molecular pathways associated with early tumorigenesis",
+  "link": "https://www.nature.com/articles/s43018-026-01279-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-22T00:00:00+00:00",
+  "type": "",
+  "score": 0.81
+ },
+ "https://www.nature.com/articles/s41598-026-77160-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-77160-x",
+  "title": "The effect of a stress coping training on burnout and musculoskeletal discomfort among oncology nurses",
+  "link": "https://www.nature.com/articles/s41598-026-77160-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-23T00:00:00+00:00",
+  "type": "",
+  "score": 0.54
+ },
+ "https://www.nature.com/articles/s41598-026-76081-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-76081-z",
+  "title": "Antimycobacterial and cytotoxic activities of compounds isolated from Zanthoxylum flavum subsp. pistaciifolium leaves",
+  "link": "https://www.nature.com/articles/s41598-026-76081-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-22T00:00:00+00:00",
+  "type": "",
+  "score": 0.67
+ },
+ "https://www.nature.com/articles/s41598-026-76956-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-76956-1",
+  "title": "Factors associated with postoperative ileus after surgery for epithelial ovarian cancer: a retrospective case-control study",
+  "link": "https://www.nature.com/articles/s41598-026-76956-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-22T00:00:00+00:00",
+  "type": "",
+  "score": 0.59
+ },
+ "https://www.nature.com/articles/s41598-026-74498-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-74498-0",
+  "title": "Ontology-guided neuro-symbolic convNeXtV2\u2013swin transformer for explainable cytological classification of papillary thyroid carcinoma",
+  "link": "https://www.nature.com/articles/s41598-026-74498-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-22T00:00:00+00:00",
+  "type": "",
+  "score": 0.57
  }
 }
