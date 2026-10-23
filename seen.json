@@ -7678,5 +7678,75 @@
   "date": "2026-10-22T00:00:00+00:00",
   "type": "",
   "score": 0.57
+ },
+ "https://www.nature.com/articles/s41541-026-01577-8": {
+  "guid": "https://www.nature.com/articles/s41541-026-01577-8",
+  "title": "Linear cap-independent mRNA vaccines as an emerging vaccine platform",
+  "link": "https://www.nature.com/articles/s41541-026-01577-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-23T00:00:00+00:00",
+  "type": "",
+  "score": 0.62
+ },
+ "https://www.nature.com/articles/s41598-026-76536-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-76536-3",
+  "title": "Effects of a cognitive training program on cancer-related cognitive impairment in breast cancer patients in active treatment: a randomized controlled trial",
+  "link": "https://www.nature.com/articles/s41598-026-76536-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-23T00:00:00+00:00",
+  "type": "",
+  "score": 0.6
+ },
+ "https://www.nature.com/articles/s41598-026-69756-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-69756-0",
+  "title": "FusionSwinUNETR: A multimodal deep learning model for abdominal mass segmentation in pediatric CT",
+  "link": "https://www.nature.com/articles/s41598-026-69756-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-23T00:00:00+00:00",
+  "type": "",
+  "score": 0.52
+ },
+ "https://www.nature.com/articles/s41388-026-04022-1": {
+  "guid": "https://www.nature.com/articles/s41388-026-04022-1",
+  "title": "Single\u2011cell multi\u2011omics analysis reveals TGF-\u03b21\u2013RUNX2\u2013mediated matCAF differentiation and its role in remodeling the lymph node metastatic microenvironment in bladder cancer",
+  "link": "https://www.nature.com/articles/s41388-026-04022-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-23T00:00:00+00:00",
+  "type": "",
+  "score": 0.94
+ },
+ "https://www.nature.com/articles/s41540-026-00830-z": {
+  "guid": "https://www.nature.com/articles/s41540-026-00830-z",
+  "title": "3D tissue model to patient atlas: dynamic network topology reveals PDAC chemoresistance bottlenecks",
+  "link": "https://www.nature.com/articles/s41540-026-00830-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-23T00:00:00+00:00",
+  "type": "",
+  "score": 1.8
+ },
+ "https://www.nature.com/articles/s41598-026-72305-4": {
+  "guid": "https://www.nature.com/articles/s41598-026-72305-4",
+  "title": "Hierarchical Mg/Ag2O nanostructures as multifunctional biomedical agents with potent antimicrobial, mosquitocidal, and anticancer efficacy",
+  "link": "https://www.nature.com/articles/s41598-026-72305-4",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-23T00:00:00+00:00",
+  "type": "",
+  "score": 0.83
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.16.758976v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.16.758976v1?rss=1",
+  "title": "WRN deficiency generates oncogenic rearrangements at TA-rich tandem repeats",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.16.758976v1?rss=1",
+  "abstract": "Werner syndrome, a premature-aging disorder caused by inherited loss of the WRN helicase, predisposes to a narrow set of cancers, including melanoma and sarcoma, through mechanisms that have been unclear. WRN resolves the secondary structures that TA-dinucleotide repeats form, a role established for the expanded repeats of mismatch-repair-deficient cancers. We show that WRN loss also destabilizes native, unexpanded TA-rich tandem repeats, which become fragile sites where chromosomes break and rearrange. In melanoma these rearrangements recurrently produce an identical 15.7Mb-long deletion that transcriptionally activates TERT, the earliest driver of these tumors, and separately disrupt tumor suppressors such as CDKN2A/B and NF1. The same class of rearrangement occurs in WRN-deficient cancers of other types. WRN deficiency is thus a source of instability at TA-rich tandem repeats that generates oncogenic rearrangements.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-22T00:00:00+00:00",
+  "type": "",
+  "score": 1.98
  }
 }
