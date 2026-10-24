@@ -8268,5 +8268,15 @@
   "date": "2026-10-24T00:00:00+00:00",
   "type": "",
   "score": 0.56
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.22.760909v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.22.760909v1?rss=1",
+  "title": "A polysynaptic hypothalamuspelvic-ganglion circuit regulates prostate tumor growth via WNT3A",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.22.760909v1?rss=1",
+  "abstract": "Brain-tumor communication is increasingly recognized. Peripheral autonomic nerves regulate prostate cancer progression, yet how the brain influences local nerve-tumor interactions remains unclear. We identify a polysynaptic circuit linking the hypothalamic paraventricular nucleus (PVN), dorsal motor nucleus of the vagus (DMV), major pelvic ganglion (MPG) and prostate tumor in mice. Although both nuclei were activated during tumor growth, PVN activity restrained, whereas DMV activity promoted tumor growth. MPG ablation abolished DMV-induced tumor promotion. Combining LMD with Smart-seq2 revealed transcriptional remodeling and increased Wnt3a expression in tumor-innervating, activated MPG neurons under upstream neural control. MPG explants released WNT3A, whose neutralization suppressed explant-induced cancer-cell proliferation. Together, our findings identify a polysynaptic PVN-DMV-MPG circuit that regulates prostate tumor growth and implicate WNT3A as a mediator of the pro-tumor effects of the MPG, highlighting the therapeutic potential of targeting the neural circuit and downstream molecular pathway.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-24T00:00:00+00:00",
+  "type": "",
+  "score": 0.91
  }
 }
