@@ -39,16 +39,6 @@
   "type": "Preview",
   "score": 1.16
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00307-7?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00307-7?rss=yes",
-  "title": "Tumor-infiltrating plasma cell targets as a source for immunotherapies",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00307-7?rss=yes",
-  "abstract": "Tumor-infiltrating plasma cells are key responders to immunotherapy. In this issue of Cancer Cell, Meyerhoff et al. show that plasma cells from lung lesions of anti-PD-1-treated patients target citrullinated proteins. Engineering CAR T cells with these plasma cells scFv reveals anti-tumor specificity without adverse effects, identifying therapeutic opportunities.",
-  "source": "Cancer Cell",
-  "date": "2026-07-27T00:00:00+00:00",
-  "type": "Preview",
-  "score": 1.35
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00303-X?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00303-X?rss=yes",
   "title": "TIME in motion: How response takes shape",
@@ -128,16 +118,6 @@
   "date": "2026-07-29T00:00:00+00:00",
   "type": "Article",
   "score": 0.9
- },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00310-7?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00310-7?rss=yes",
-  "title": "Tumor-infiltrating plasma cell profiling after PD-1 blockade reveals tumor-specific antibodies",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00310-7?rss=yes",
-  "abstract": "Meyerhoff et al. identify tumor-infiltrating plasma cells as a source of antibodies with therapeutic potential. Their lead antibody, PC-1, recognizes citrullinated antigens on cancer and tumor-promoting myeloid cells and can be repurposed to guide CAR T cell therapy.",
-  "source": "Cancer Cell",
-  "date": "2026-07-27T00:00:00+00:00",
-  "type": "Article",
-  "score": 1.07
  },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes",
@@ -8278,5 +8258,45 @@
   "date": "2026-10-24T00:00:00+00:00",
   "type": "",
   "score": 0.91
+ },
+ "https://www.nature.com/articles/s41598-026-77972-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-77972-x",
+  "title": "Metabolic syndrome and colorectal cancer share GPAT3 and PLAU as candidate genes: Mendelian randomisation, machine learning, single-cell knockout and docking",
+  "link": "https://www.nature.com/articles/s41598-026-77972-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-24T00:00:00+00:00",
+  "type": "",
+  "score": 0.9
+ },
+ "https://www.nature.com/articles/s44303-026-00203-5": {
+  "guid": "https://www.nature.com/articles/s44303-026-00203-5",
+  "title": "Whole-body tomographic fluorescence lifetime imaging of PD-L1 expression",
+  "link": "https://www.nature.com/articles/s44303-026-00203-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-24T00:00:00+00:00",
+  "type": "",
+  "score": 0.89
+ },
+ "https://www.nature.com/articles/s41598-026-76898-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-76898-8",
+  "title": "SCLC-SBT: a spectral-bilinear transformer for small cell lung cancer histopathology image classification",
+  "link": "https://www.nature.com/articles/s41598-026-76898-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-24T00:00:00+00:00",
+  "type": "",
+  "score": 0.72
+ },
+ "https://www.nature.com/articles/s41419-026-09357-x": {
+  "guid": "https://www.nature.com/articles/s41419-026-09357-x",
+  "title": "USP3 stabilizes NPM1 to sustain nucleosome assembly and promote bladder cancer chemoresistance",
+  "link": "https://www.nature.com/articles/s41419-026-09357-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-24T00:00:00+00:00",
+  "type": "",
+  "score": 1.7
  }
 }
