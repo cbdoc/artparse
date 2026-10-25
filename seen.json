@@ -8298,5 +8298,95 @@
   "date": "2026-10-24T00:00:00+00:00",
   "type": "",
   "score": 1.7
+ },
+ "https://www.nature.com/articles/s41586-026-11328-3": {
+  "guid": "https://www.nature.com/articles/s41586-026-11328-3",
+  "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+  "link": "https://www.nature.com/articles/s41586-026-11328-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-25T00:00:00+00:00",
+  "type": "",
+  "score": 1.77
+ },
+ "https://www.nature.com/articles/s41467-026-78678-4": {
+  "guid": "https://www.nature.com/articles/s41467-026-78678-4",
+  "title": "NYNRIN safeguards leukemia stem cells by sustaining thioredoxin activity to maintain redox homeostasis",
+  "link": "https://www.nature.com/articles/s41467-026-78678-4",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-25T00:00:00+00:00",
+  "type": "",
+  "score": 0.8
+ },
+ "https://www.nature.com/articles/s41388-026-04031-0": {
+  "guid": "https://www.nature.com/articles/s41388-026-04031-0",
+  "title": "Glioma-derived ULBP2 triggers microglial extracellular traps formation via PAD4 lactylation to drive autophagy-dependent malignant growth",
+  "link": "https://www.nature.com/articles/s41388-026-04031-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-25T00:00:00+00:00",
+  "type": "",
+  "score": 1.52
+ },
+ "https://www.nature.com/articles/s41467-026-78492-y": {
+  "guid": "https://www.nature.com/articles/s41467-026-78492-y",
+  "title": "One-shot synthesis of rare gastrointestinal lesions improves diagnostic accuracy and clinical training",
+  "link": "https://www.nature.com/articles/s41467-026-78492-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-25T00:00:00+00:00",
+  "type": "",
+  "score": 0.61
+ },
+ "https://www.nature.com/articles/s41598-026-76701-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-76701-8",
+  "title": "Cleistanthin A and diphyllin derivatives as putative EGFR-binding compounds: an integrated computational and biophysical study",
+  "link": "https://www.nature.com/articles/s41598-026-76701-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-25T00:00:00+00:00",
+  "type": "",
+  "score": 1.69
+ },
+ "https://www.nature.com/articles/s41598-026-76403-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-76403-1",
+  "title": "Association of MALAT1 and TUG1 transcript levels and cardiometabolic diseases according to cholesterol saturated fat index",
+  "link": "https://www.nature.com/articles/s41598-026-76403-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-25T00:00:00+00:00",
+  "type": "",
+  "score": 0.32
+ },
+ "https://www.nature.com/articles/s41388-026-04027-w": {
+  "guid": "https://www.nature.com/articles/s41388-026-04027-w",
+  "title": "The memory of the tumor microenvironment: epigenetic scarring and the hysteretic logic of therapeutic relapse",
+  "link": "https://www.nature.com/articles/s41388-026-04027-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-25T00:00:00+00:00",
+  "type": "",
+  "score": 1.27
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.22.760955v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.22.760955v1?rss=1",
+  "title": "From Splicing to Survival: Understanding the Molecular Basis of Prognostic Differences in advanced Small Intestine Neuroendocrine Tumors",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.22.760955v1?rss=1",
+  "abstract": "Small intestine neuroendocrine tumors (SI-NETs) represent a challenging neoplasm due to their high rate of metastasis and the limited availability of effective therapies. Recent evidence has unveiled altered splicing as an influential player in tumor progression, linked to patient prognosis, which provides a powerful source of novel biomarkers and therapeutic targets in cancer. Here, we conducted a comprehensive analysis regarding the possible connection of the spliceosomic landscape of metastatic SI-NETs with patient survival. Initial analyses revealed a distinctive pattern of splicing events between the two conditions, short (< 5 years, n = 17 patients), vs. long survival ([\u2265] 5 years, n = 26 patients), with strong discrimination capacity. Furthermore, numerous key splicing events were associated with relevant clinical parameters in SI-NETs. The observed impairments in spliceosomic parameters led us to interrogate the integrity of the splicing machinery. This revealed striking changes in the expression of a high proportion of core spliceosome components and splicing factors between short vs. longsurvival groups, suggesting a possible mechanistic link with the distinct profile of splicing events observed. Among them, CPSF2, a core component of the CPSF complex, stands out as its higher expression is associated with worse survival and vascular and perineural invasion. Interestingly, the shifts potentially generated by this factor supported a possible role in tumor plasticity oriented to higher tumor aggressiveness and treatment resistance. In sum, this study offers the first detailed snapshot of the status of the spliceosomic landscape in SI-NETs and its molecular linkage to patient survival, thus offering a new window towards identification of novel candidate biomarkers and/or therapeutic targets.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-25T00:00:00+00:00",
+  "type": "",
+  "score": 1.16
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.22.760940v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.22.760940v1?rss=1",
+  "title": "Effects of panitumumab on the proteome of treated EGFRvIII glioblastoma cells and on their extracellular vesicles",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.22.760940v1?rss=1",
+  "abstract": "Glioblastoma (GB) is an aggressive brain tumor for which reliable biomarkers of therapeutic response are still needed. Extracellular vesicles (EVs) can carry molecular components derived from their parent cells, thereby providing information on changes associated with the tumor and treatments. Among potential biomarkers, epidermal growth factor receptor variant III (EGFRvIII), is found in more than 40% of GB patients and is associated with aggressive tumor behavior and therapeutic resistance. EGFRvIII has also been detected on the surface of EVs, suggesting its potential value for monitoring tumor-associated molecular changes. This study investigated the effects of panitumumab, an anti-EGFR monoclonal antibody, on the proteomic profiles of EVs derived from EGFRvIII cells. U87 and U87-EGFRvIII cells and their derived EVs were characterized before and after treatment. EGFRvIII expression in cells and EVs was assessed by Western blotting and flow cytometry. Proteomic analyses were performed on cell lysates and EVs before and after treatment. Our results demonstrate that panitumumab significantly reduced surface EGFRvIII on EVs derived from U87-EGFRvIII cells, whereas no significant decrease was observed in cell lysates. This suggests that treatment may affect EGFRvIII trafficking or its incorporation into EVs. The proteomic analysis highlighted much more changes in EVs than in their parental cells after treatment, particularly in proteins associated with extracellular matrix organization and collagen. Together, these results demonstrate that panitumumab treatment is associated with changes in protein profile from EVs derived from EGFRvIII cells suggesting that the panitumumab treatment might have an impact on cells that could be reflected on EVs released by glioblastoma cells. In conclusion, our results suggest that EVs derived from EGFRvIII cells could serve as a useful circulating biomarker for assessing treatment efficacy and for preventing treatment escape.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-25T00:00:00+00:00",
+  "type": "",
+  "score": 2.01
  }
 }
