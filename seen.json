@@ -8698,5 +8698,25 @@
   "date": "2026-10-27T00:00:00+00:00",
   "type": "",
   "score": 1.05
+ },
+ "https://www.nature.com/articles/s41467-026-79206-0": {
+  "guid": "https://www.nature.com/articles/s41467-026-79206-0",
+  "title": "DEGS1-mTORC1-driven lipid metabolic reprogramming fuels rhabdomyosarcoma progression and unveils a therapeutic vulnerability",
+  "link": "https://www.nature.com/articles/s41467-026-79206-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-27T00:00:00+00:00",
+  "type": "",
+  "score": 1.25
+ },
+ "https://www.nature.com/articles/s41598-026-77185-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-77185-2",
+  "title": "A tumor purity-based gene signature predicts prognosis and shapes the immune microenvironment in PAAD",
+  "link": "https://www.nature.com/articles/s41598-026-77185-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-27T00:00:00+00:00",
+  "type": "",
+  "score": 0.86
  }
 }
