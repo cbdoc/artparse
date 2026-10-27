@@ -109,16 +109,6 @@
   "type": "Article",
   "score": 0.88
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00304-1?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00304-1?rss=yes",
-  "title": "Depletion of an immature cord blood NK subset reverses trogocytosis-driven CAR NK dysfunction",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00304-1?rss=yes",
-  "abstract": "Li et al. identify a previously unrecognized NK cell subset that limits cord blood-derived CAR-NK cell therapy by diverting tumor targeting and promoting self-directed fratricide and show that donor cell composition shapes efficacy while offering a practical manufacturing strategy to improve consistency, persistence, and antitumor activity of off-the-shelf CAR-NK therapies.",
-  "source": "Cancer Cell",
-  "date": "2026-07-29T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.9
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes",
   "title": "SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced non-small cell lung cancer: A phase 1 trial",
@@ -298,16 +288,6 @@
   "date": "2026-08-18T00:00:00+00:00",
   "type": "Article",
   "score": 0.04
- },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00809-3?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00809-3?rss=yes",
-  "title": "Gasdermin E couples viral pyroptosis to lethal hepatic lipid accumulation",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00809-3?rss=yes",
-  "abstract": "Wetland virus activates dual apoptotic cascades to trigger GSDME-dependent hepatocyte pyroptosis, which rewires cellular lipid metabolism and ultimately causes severe hepatic steatosis. Therapeutic targeting of this pyroptosis-metabolism axis alleviates lethal wetland virus infection in mice.",
-  "source": "Cell",
-  "date": "2026-07-29T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.4
  },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00932-3?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00932-3?rss=yes",
@@ -4659,16 +4639,6 @@
   "type": "Article",
   "score": 1.51
  },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00814-7?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00814-7?rss=yes",
-  "title": "CRISPR screens identify targets to rescue age-related T cell dysfunction in cancer",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00814-7?rss=yes",
-  "abstract": "Dusp5 and Zfp219 serve as critical regulators of age-related T cell dysfunction, with the loss of either driving T cells into an effector-like state that improves tumor control through distinct mechanisms within the aged tumor microenvironment.",
-  "source": "Cell",
-  "date": "2026-07-29T00:00:00+00:00",
-  "type": "Article",
-  "score": 1.4
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)01133-5?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01133-5?rss=yes",
   "title": "STING reprogramming by estrogen promotes neutrophil extracellular trap formation and sex-biased resistance to ADC therapy",
@@ -8688,5 +8658,45 @@
   "date": "2026-10-26T00:00:00+00:00",
   "type": "",
   "score": 1.64
+ },
+ "https://www.nature.com/articles/s41523-026-01069-x": {
+  "guid": "https://www.nature.com/articles/s41523-026-01069-x",
+  "title": "BREST-AI: Three-year breast cancer risk prediction from screening mammograms",
+  "link": "https://www.nature.com/articles/s41523-026-01069-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-27T00:00:00+00:00",
+  "type": "",
+  "score": 0.51
+ },
+ "https://www.nature.com/articles/s41467-026-78286-2": {
+  "guid": "https://www.nature.com/articles/s41467-026-78286-2",
+  "title": "Tuning ferroptosis-like, cancer-selective cell death with charge-imbalanced nanoparticles",
+  "link": "https://www.nature.com/articles/s41467-026-78286-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-27T00:00:00+00:00",
+  "type": "",
+  "score": 1.02
+ },
+ "https://www.nature.com/articles/s41392-026-02790-6": {
+  "guid": "https://www.nature.com/articles/s41392-026-02790-6",
+  "title": "The AMPK signaling pathway in cell metabolism and human diseases",
+  "link": "https://www.nature.com/articles/s41392-026-02790-6",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-27T00:00:00+00:00",
+  "type": "",
+  "score": 0.81
+ },
+ "https://www.nature.com/articles/s41388-026-03965-9": {
+  "guid": "https://www.nature.com/articles/s41388-026-03965-9",
+  "title": "Stabilization of LTBP2 by SIRT1 promotes EMT and chemosensitivity in cardia gastric adenocarcinoma through TGF-\u03b2 signaling",
+  "link": "https://www.nature.com/articles/s41388-026-03965-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-27T00:00:00+00:00",
+  "type": "",
+  "score": 1.05
  }
 }
