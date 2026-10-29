@@ -9528,5 +9528,115 @@
   "date": "2026-10-28T00:00:00+00:00",
   "type": "",
   "score": 0.95
+ },
+ "https://www.nature.com/articles/s41392-026-03016-5": {
+  "guid": "https://www.nature.com/articles/s41392-026-03016-5",
+  "title": "Anti-PD1 immunotherapy in MHC-I dysregulated head and neck cancer promotes metastasis via CD8+ T-cell insufficiency",
+  "link": "https://www.nature.com/articles/s41392-026-03016-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.75
+ },
+ "https://www.nature.com/articles/s41698-026-01760-z": {
+  "guid": "https://www.nature.com/articles/s41698-026-01760-z",
+  "title": "Landscape and clinical impact of heterogeneous ALK resistance mutations detected by comprehensive genomic profiling in patients with NSCLC",
+  "link": "https://www.nature.com/articles/s41698-026-01760-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 2.14
+ },
+ "https://www.nature.com/articles/s41698-026-01762-x": {
+  "guid": "https://www.nature.com/articles/s41698-026-01762-x",
+  "title": "Deep learning predicts IDH1 mutation status in acute myeloid leukemia from bone marrow smears",
+  "link": "https://www.nature.com/articles/s41698-026-01762-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 0.63
+ },
+ "https://www.nature.com/articles/s41467-026-78913-y": {
+  "guid": "https://www.nature.com/articles/s41467-026-78913-y",
+  "title": "Serine supplementation reinvigorates anti-tumor immunity by counteracting tumor cell SLC1A4-induced T cell starvation",
+  "link": "https://www.nature.com/articles/s41467-026-78913-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 1.6
+ },
+ "https://www.nature.com/articles/s41586-026-11178-z": {
+  "guid": "https://www.nature.com/articles/s41586-026-11178-z",
+  "title": "Pharmacological inhibition of METTL1 as a therapy against solid and blood cancers",
+  "link": "https://www.nature.com/articles/s41586-026-11178-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 2.11
+ },
+ "https://www.nature.com/articles/s41598-026-77456-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-77456-y",
+  "title": "Analysis of the proteomic profiles in serum of mice treated with RadioDefender, a novel radiation medical countermeasure",
+  "link": "https://www.nature.com/articles/s41598-026-77456-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 0.52
+ },
+ "https://www.nature.com/articles/s41598-026-77491-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-77491-9",
+  "title": "Apigenin suppresses ovarian cancer cell growth by disrupting TGF-beta1-mediated cancer\u2013stroma interaction via AKT inhibition",
+  "link": "https://www.nature.com/articles/s41598-026-77491-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 1.07
+ },
+ "https://www.nature.com/articles/d41586-026-03288-5": {
+  "guid": "https://www.nature.com/articles/d41586-026-03288-5",
+  "title": "An unexpected function of a cell-cycle enzyme might explain the toxic effects of its inhibitors",
+  "link": "https://www.nature.com/articles/d41586-026-03288-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 1.52
+ },
+ "https://www.nature.com/articles/s41598-026-65635-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-65635-w",
+  "title": "Single-cell sequencing analysis reveals two radioprotective cell subsets in hematopoietic stem and progenitor cells of naked mole-rats",
+  "link": "https://www.nature.com/articles/s41598-026-65635-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 0.66
+ },
+ "https://www.nature.com/articles/s41698-026-01722-5": {
+  "guid": "https://www.nature.com/articles/s41698-026-01722-5",
+  "title": "Tracking cancer drug resistance with longitudinal multimodal AI: from biological signals to clinical decisions",
+  "link": "https://www.nature.com/articles/s41698-026-01722-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 1.11
+ },
+ "https://www.nature.com/articles/s41586-026-11208-w": {
+  "guid": "https://www.nature.com/articles/s41586-026-11208-w",
+  "title": "Tumour assembloids recapitulate tumour\u2013CAF\u2013T cell crosstalk in renal cancer",
+  "link": "https://www.nature.com/articles/s41586-026-11208-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 1.02
  }
 }
