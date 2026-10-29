@@ -9778,5 +9778,375 @@
   "date": "2026-10-28T00:00:00+00:00",
   "type": "",
   "score": 0.56
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01120-7?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01120-7?rss=yes",
+  "title": "Roads not taken: The mismatch between safety and regulation of plant breeding innovation",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01120-7?rss=yes",
+  "abstract": "Meeting global food security goals while reducing agriculture\u2019s environmental impact requires continued crop improvement and innovation. Advances in transgenesis, cisgenesis, and genome editing now enable increasingly precise genetic modification with risks comparable to those of conventional breeding, yet regulatory frameworks remain focused on the method used rather than the product. We highlight recent examples, including immune receptor transfer, cisgenesis-based disease resistance stacking, photosynthesis engineering, and AI-guided protein design, that illustrate innovations constrained by current regulatory approaches. A decisive shift toward science-based, proportionate, and product-focused regulation is needed so that improved crops are evaluated on the basis of their properties, not how they were made.",
+  "source": "Cell",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "Commentary",
+  "score": 0.14
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01140-2?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01140-2?rss=yes",
+  "title": "Calorie restriction uncouples mutation rate from lifespan",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01140-2?rss=yes",
+  "abstract": "In this issue of Cell, Gro\u0144ska-P\u0119ski et al. examine how calorie restriction (CR) affects DNA mutation rates. While CR lowers the accumulation of mutations, this effect does not scale with the degree of lifespan extension. Their work raises important new questions about how CR impacts the causal mechanisms of aging.",
+  "source": "Cell",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "Preview",
+  "score": 0.66
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01198-0?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01198-0?rss=yes",
+  "title": "Guardians at the gate: cMAF keeps the brain\u2019s vasculature in check",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01198-0?rss=yes",
+  "abstract": "In this issue of Cell, Brioschi et al. identify cellular musculoaponeurotic fibrosarcoma (cMAF) as a key regulator of brain perivascular macrophages that supports cerebrovascular function through insulin-like growth factor 1 (IGF1) production. This cMAF-IGF1 program is enhanced in Alzheimer\u2019s disease (AD), potentially reflecting a protective response that is lost in APOE4 carriers.",
+  "source": "Cell",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "Preview",
+  "score": 0.61
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01121-9?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01121-9?rss=yes",
+  "title": "Toward planetary microbial systems biology",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01121-9?rss=yes",
+  "abstract": "Planetary microbial systems biology, encompassing multi-omics, AI, and field-to-lab interaction, is proposed as a framework to study Earth\u2019s interconnected microbiomes at a planetary scale.",
+  "source": "Cell",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 0.1
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00940-2?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00940-2?rss=yes",
+  "title": "Caloric restriction modulates genome-wide somatic mutation in mice",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00940-2?rss=yes",
+  "abstract": "Mutations accumulate in cells with age, while caloric restriction extends lifespan across diverse animals. Gro\u0144ska-P\u0119ski et al. study the effect of caloric restriction on mutations genome-wide in mice, finding reduced mutation burdens across several tissues and cell types, thereby establishing that diet can alter mutation accumulation genome-wide during aging.",
+  "source": "Cell",
+  "date": "2026-09-09T00:00:00+00:00",
+  "type": "Short article",
+  "score": 0.83
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00924-4?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00924-4?rss=yes",
+  "title": "Gut microbiota generate dinitrosyl iron complexes with cardiometabolic benefits",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00924-4?rss=yes",
+  "abstract": "Gut bacteria convert inorganic nitrate and non-heme iron into bioactive dinitrosyl iron complexes (DNICs) that distribute systemically and signal independently of free nitric oxide. These microbe-derived DNICs protect against cardiometabolic disease and fatty liver by restoring compromised metabolic signaling pathways.",
+  "source": "Cell",
+  "date": "2026-08-19T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.16
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01003-2?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01003-2?rss=yes",
+  "title": "Copper ion-induced MYH9 polymerization executes cuproptosis",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01003-2?rss=yes",
+  "abstract": "Copper binding drives MYH9 polymerization, triggering cytoskeletal collapse and cuproptosis. HThPA releases intracellular copper through glutathione depletion, exposing a therapeutic vulnerability in drug-resistant tumors.",
+  "source": "Cell",
+  "date": "2026-09-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.56
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01073-1?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01073-1?rss=yes",
+  "title": "Opposing functions of gut immunomodulatory metabolites on CAR-T therapy",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01073-1?rss=yes",
+  "abstract": "Gut microbial taxonomy alone is a poor predictor of CAR-T cell therapy outcome. Instead, specific gut immunomodulatory metabolites exert opposing effects on CAR-T cell function and tumor control, identifying microbial metabolism as a potential target to predict and improve CAR-T cell outcomes.",
+  "source": "Cell",
+  "date": "2026-09-28T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.0
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00929-3?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00929-3?rss=yes",
+  "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific regulators of T cell programs and human immune traits",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00929-3?rss=yes",
+  "abstract": "A dynamic atlas of gene regulation was generated by perturbing every expressed gene across 22 million primary human CD4+ T cells under resting conditions and following re-stimulation. The resulting map reveals context-specific regulators of immune programs and links regulatory pathways to naturally occurring T cell states and autoimmune disease risk.",
+  "source": "Cell",
+  "date": "2026-08-28T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.87
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00875-5?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00875-5?rss=yes",
+  "title": "Brain perivascular macrophages regulate endothelial cell function via a cMAF-dependent transcriptional program in mouse and human",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00875-5?rss=yes",
+  "abstract": "This study identifies cMAF as a key transcription factor that orchestrates the molecular crosstalk between brain perivascular macrophages and arteries, thereby sustaining cerebrovascular function in health and disease.",
+  "source": "Cell",
+  "date": "2026-08-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.95
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00877-9?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00877-9?rss=yes",
+  "title": "Multimodal brain cell atlas across the adult macaque lifespan",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00877-9?rss=yes",
+  "abstract": "A multimodal single-nucleus atlas of 2,955,873 nuclei spanning eight macaque brain regions across the adult lifespan, including exceptionally old individuals, reveals region-specific and shared patterns of cellular vulnerability during aging. This framework provides a basis for dissecting shared and divergent molecular programs underlying primate brain aging, longevity, and neurodegeneration.",
+  "source": "Cell",
+  "date": "2026-08-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.41
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00945-1?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00945-1?rss=yes",
+  "title": "Identification of the tendon/ligament stem cell in mice and humans",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00945-1?rss=yes",
+  "abstract": "The tendon/ligament stem cell is identified, and dysregulation of differentiation in this cell is shown as a mechanism contributing to lumbar spinal stenosis.",
+  "source": "Cell",
+  "date": "2026-09-07T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.3
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00944-X?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00944-X?rss=yes",
+  "title": "Glycocalyx-edited mesenchymal stem/stromal cell therapy in advanced osteoporosis",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00944-X?rss=yes",
+  "abstract": "Mesenchymal stem/stromal cell (MSC)-based therapy holds promise for reversal of bone loss in osteoporosis. This phase 1 study establishes the safety and feasibility of intravenous administration of glycocalyx-engineered human MSCs and provides evidence that MSCs derived from the bone marrow of older individuals with osteoporosis retain clinically meaningful osteoregenerative capacity.",
+  "source": "Cell",
+  "date": "2026-09-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.17
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00920-7?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00920-7?rss=yes",
+  "title": "RNA structures regulate norovirus life cycle and enable rational attenuation in vivo",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00920-7?rss=yes",
+  "abstract": "Genome-wide mapping of RNA structure in murine norovirus reveals structural elements whose disruption impairs viral replication in cells and in vivo. Such structural disruptions generate a genetically stable virus that elicits protective immunity in vivo, offering a rational strategy for RNA virus vaccine design.",
+  "source": "Cell",
+  "date": "2026-08-19T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.31
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00870-6?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00870-6?rss=yes",
+  "title": "Functional atlas of vertebrate viral RNA elements that stabilize RNA and enhance translation",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00870-6?rss=yes",
+  "abstract": "Functional profiling of \u223c200,000 genomic segments from vertebrate-infecting viruses uncovers RNA elements that boost gene expression by stabilizing mRNAs and enhancing translation, revealing the diversity of TENT4-dependent mixed tailing and identifying canonical poly(A) polymerase-mediated cytoplasmic polyadenylation, together expanding our understanding of post-transcriptional regulation and RNA therapeutic design.",
+  "source": "Cell",
+  "date": "2026-08-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.9
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00947-5?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00947-5?rss=yes",
+  "title": "Structural basis of a SWI/SNF-associated transcription pre-initiation complex",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00947-5?rss=yes",
+  "abstract": "Cryo-EM and genetic analyses reveal that the SWI/SNF chromatin remodeler is an integral component of the transcription pre-initiation complex. The structures demonstrate how SWI/SNF facilitates transcription initiation through stabilization of PIC organization and concerted remodeling of the +1 nucleosome.",
+  "source": "Cell",
+  "date": "2026-09-08T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.31
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01203-1?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01203-1?rss=yes",
+  "title": "A fluctuation test for gastruloid heterogeneity",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01203-1?rss=yes",
+  "abstract": "Organoids grown side by side under identical conditions vary unpredictably, a longstanding obstacle to their use. Adapting the logic of a classic fluctuation test to gastruloids grown from single stem cells shows that this variability is largely inherited rather than induced and is traceable to fluctuations in the state of the founding cell.",
+  "source": "Cell",
+  "date": "2026-10-08T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.61
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01196-7?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01196-7?rss=yes",
+  "title": "Comprehensive lineage tracing maps the landscape of cell fate decisions in mouse embryogenesis",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01196-7?rss=yes",
+  "abstract": "We use PEtracer to reconstruct high-resolution lineage histories for >1.4 million cells from E7.5 to E10.0 during mouse development, providing a quantitative view of fate bias, restriction timing, and clonal output. Across diverse tissues, these data reveal highly reproducible lineage architectures and define general and tissue-specific strategies of cell fate specification.",
+  "source": "Cell",
+  "date": "2026-10-08T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.21
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00871-8?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00871-8?rss=yes",
+  "title": "Integrative spatial profiling of 3D genome organization and gene expression in tissue",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00871-8?rss=yes",
+  "abstract": "Spatial Hi-C-RNA simultaneously maps genome architecture and gene expression from the same tissue, revealing how spatial genome organization shapes cellular identity, development, and tumor evolution beyond what transcriptomics alone can capture.",
+  "source": "Cell",
+  "date": "2026-08-25T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.99
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00997-9?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00997-9?rss=yes",
+  "title": "Metax enables accurate cross-domain taxonomic profiling of metagenomes",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00997-9?rss=yes",
+  "abstract": "Metax is a cross-domain metagenomic profiler that uses genome-wide coverage evidence to improve species-level microbial profiling and distinguish supported taxa from artifacts. Across diverse datasets, Metax enables robust taxonomic profiling, pathogen detection, contamination assessment, and discovery of disease-associated bacterial and viral signatures.",
+  "source": "Cell",
+  "date": "2026-09-11T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.25
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00937-2?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00937-2?rss=yes",
+  "title": "Tabula Sapiens 2.0: A comprehensive transcriptomic atlas of human cell types",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00937-2?rss=yes",
+  "abstract": "An expanded atlas of human cells maps the expression of nearly all human transcription factors across 701 cell-type/tissue combinations and uncovers the heterogeneous nature of senescence across tissues and cell types.",
+  "source": "Cell",
+  "date": "2026-09-02T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.69
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00934-7?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00934-7?rss=yes",
+  "title": "De novo pan-rhodamine binders for fluorescence microscopy from mammalian cells to extremophiles",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00934-7?rss=yes",
+  "abstract": "We developed an AI-based and principled computational strategy for de novo design of Rhobins, compact pan-rhodamine binders with high brightness, reversible binding, and extreme stability. It enables superior live-/fixed-cell, super-resolution, and single-molecule imaging with properties surpassing existing tags. It also supports extremophile imaging at 75\u00b0C, inaccessible with current tools.",
+  "source": "Cell",
+  "date": "2026-09-01T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.2
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01217-1?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01217-1?rss=yes",
+  "title": "Root microbiota regulates tiller number in rice",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01217-1?rss=yes",
+  "abstract": "(Cell 188, 3152\u20133166.e1\u2013e9; June 12, 2025)",
+  "source": "Cell",
+  "date": "2026-10-21T00:00:00+00:00",
+  "type": "Correction",
+  "score": 0.03
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01211-0?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01211-0?rss=yes",
+  "title": "Sensing endoplasmic reticulum redox state by ethylene receptors",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01211-0?rss=yes",
+  "abstract": "(Cell 189, 3589\u20133607.e1\u2013e9; June 11, 2026)",
+  "source": "Cell",
+  "date": "2026-10-14T00:00:00+00:00",
+  "type": "Correction",
+  "score": 0.08
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01188-8?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01188-8?rss=yes",
+  "title": "Global, site-resolved analysis of ubiquitylation occupancy and turnover rate reveals systems properties",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01188-8?rss=yes",
+  "abstract": "(Cell 187, 2875\u20132892.e1\u2013e10; May 23, 2024)",
+  "source": "Cell",
+  "date": "2026-09-30T00:00:00+00:00",
+  "type": "Correction",
+  "score": 0.62
+ },
+ "https://www.nature.com/articles/s41409-026-03077-8": {
+  "guid": "https://www.nature.com/articles/s41409-026-03077-8",
+  "title": "Long-term survival outcomes after high-dose chemotherapy and autologous hematopoietic stem cell transplantation for relapsed/refractory metastatic germ cell tumors: contemporary Mayo Clinic experience",
+  "link": "https://www.nature.com/articles/s41409-026-03077-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 0.68
+ },
+ "https://www.nature.com/articles/d41591-026-00055-x": {
+  "guid": "https://www.nature.com/articles/d41591-026-00055-x",
+  "title": "A small-molecule TREM2 agonist for Alzheimer\u2019s disease",
+  "link": "https://www.nature.com/articles/d41591-026-00055-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 0.3
+ },
+ "https://www.nature.com/articles/s41388-026-04030-1": {
+  "guid": "https://www.nature.com/articles/s41388-026-04030-1",
+  "title": "IL-36\u03b3/IL-36R axis reprograms cancer-associated fibroblasts to promote OSCC invasion via ERK1/2-CCL20-mediated ECM remodeling",
+  "link": "https://www.nature.com/articles/s41388-026-04030-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.75
+ },
+ "https://www.nature.com/articles/s41409-026-03082-x": {
+  "guid": "https://www.nature.com/articles/s41409-026-03082-x",
+  "title": "Clinical risk factors alone do not predict the development of moderate-severe chronic graft-versus-host disease after hematopoietic cell transplantation and post-transplant cyclophosphamide",
+  "link": "https://www.nature.com/articles/s41409-026-03082-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 0.57
+ },
+ "https://www.nature.com/articles/s41419-026-09386-6": {
+  "guid": "https://www.nature.com/articles/s41419-026-09386-6",
+  "title": "LRP6 promotes colitis-associated colorectal cancer via coordinating Wnt/STAT3 signaling and is a pharmaceutical target",
+  "link": "https://www.nature.com/articles/s41419-026-09386-6",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.55
+ },
+ "https://www.nature.com/articles/s41598-026-77739-4": {
+  "guid": "https://www.nature.com/articles/s41598-026-77739-4",
+  "title": "Differential temporal dynamics of Wnt/\u03b2-catenin transcriptional activity following minibeam and conventional irradiation",
+  "link": "https://www.nature.com/articles/s41598-026-77739-4",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 0.78
+ },
+ "https://www.nature.com/articles/s41598-026-69385-7": {
+  "guid": "https://www.nature.com/articles/s41598-026-69385-7",
+  "title": "Perfusion-guided virtual element analysis for biomechanical diagnosis of breast cysts and tumors",
+  "link": "https://www.nature.com/articles/s41598-026-69385-7",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 0.51
+ },
+ "https://www.nature.com/articles/s41598-026-68824-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-68824-9",
+  "title": "Diagnosis of breast cancer with high accuracy via Petri net modeling of signaling pathways",
+  "link": "https://www.nature.com/articles/s41598-026-68824-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 0.73
+ },
+ "https://www.nature.com/articles/s41418-026-01866-8": {
+  "guid": "https://www.nature.com/articles/s41418-026-01866-8",
+  "title": "DCST1 drives cisplatin resistance via non-canonical ubiquitination and stabilization of NFAT5 to suppress PANoptosis in bladder cancer",
+  "link": "https://www.nature.com/articles/s41418-026-01866-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 1.34
+ },
+ "https://www.nature.com/articles/s41556-026-02139-9": {
+  "guid": "https://www.nature.com/articles/s41556-026-02139-9",
+  "title": "Author Correction: Metabolic rewiring in skin epidermis drives tolerance to oncogenic mutations",
+  "link": "https://www.nature.com/articles/s41556-026-02139-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 0.91
+ },
+ "https://www.nature.com/articles/s41408-026-01653-1": {
+  "guid": "https://www.nature.com/articles/s41408-026-01653-1",
+  "title": "Beyond binary: graded frailty assessment and outcomes after CAR-T cell therapy in relapsed/refractory multiple myeloma",
+  "link": "https://www.nature.com/articles/s41408-026-01653-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-28T00:00:00+00:00",
+  "type": "",
+  "score": 0.74
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.27.762113v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.27.762113v1?rss=1",
+  "title": "Keratin 17 Defines an Epithelial-Mesenchymal Transition-Associated Migratory Cell State in Pancreatic Ductal Adenocarcinoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.27.762113v1?rss=1",
+  "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by early invasion, metastasis, and therapeutic resistance that contribute substantially to its poor clinical outcome. Keratin 17 (K17) is a recognized marker of the aggressive basal-like subtype of PDAC and an independent predictor of adverse prognosis; however, the biological basis for this association remains incompletely understood. To define K17-associated cellular programs, we integrated single-cell RNA sequencing (scRNA-seq) data from 42 patients, Clinical Proteomic Tumor Analysis Consortium (CPTAC) proteomic data from 140 tumors, MACSima multiplex spatial imaging of 63 patients, dual-plex immunohistochemistry of 60 cases, and three-dimensional spheroid migration assays. Single-cell transcriptomic analysis demonstrated significant enrichment of epithelial-mesenchymal transition (EMT)-associated gene programs among K17-positive malignant epithelial cells. Consistent with this finding, K17-positive tumors in the CPTAC cohort exhibited enrichment of the Hallmark EMT pathway at the protein level. Among six candidate markers identified through transcriptomic analyses, laminin subunit gamma-2 (LAMC2) was the only candidate associated with K17 at every validation step. Tumors positive for both K17 and LAMC2 had significantly worse overall survival than double-negative tumors (adjusted hazard ratio = 2.53). Multiplex spatial imaging localized K17-positive cells predominantly to poorly differentiated tumor regions and demonstrated frequent single-cell co-expression with LAMC2. Whole-slide dual-plex immunohistochemistry further confirmed the association between K17 and LAMC2 and showed progressive enrichment of K17/LAMC2-positive tumor cells with increasing intratumoral histologic grade. Functionally, gain- and loss-of-function studies in three-dimensional PDAC spheroids demonstrated that K17 promotes migratory outgrowth, and differences in proliferation did not account for this effect. Collectively, these findings identify K17 as a marker of a poorly differentiated, EMT-associated migratory cell state in PDAC and provide functional evidence that K17 contributes to tumor-cell migration.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.24
  }
 }
