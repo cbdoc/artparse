@@ -10148,5 +10148,115 @@
   "date": "2026-10-29T00:00:00+00:00",
   "type": "",
   "score": 1.24
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.27.762168v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.27.762168v1?rss=1",
+  "title": "Implementation and Evaluation of Marker Rescue and qPCR Assays for Detection of Replication-Competent Retrovirus in Gene Therapy Products",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.27.762168v1?rss=1",
+  "abstract": "Quality control of retroviral gene therapy vectors requires reliable detection of replication-competent retrovirus (RCR) particles. Cell-based assays remain the standard for detecting RCR, while PCR-based assays serve as rapid, complementary methods. Despite their widespread use, few studies provide comprehensive protocols and performance data to guide assay setup. Here we provide a detailed description and performance assessment of a cell-based firefly luciferase marker rescue assay for RCR testing. Additionally, we describe the setup and assessment of a qPCR-based RCR assay targeting retroviral pol gene sequence. Different viral copy numbers of MuLV were used to determine the final sensitivity of the marker rescue assay with and without initial amplification. Different q-PCR strategies were investigated for RCR testing using different types of primers, including env and pol genes. The marker rescue assay detected 73.2 RCR genome particles without amplification, while the amplification phase enabled detection of functional RCR particles and increased sensitivity, with the amplification step increasing viral particles by up to 5.23x103 fold. The PCR-based RCR assay using retroviral pol gene could detect approximately 7.32x103 viral particles. This study offers a resource for establishing RCR testing procedures for clinical-grade retroviral vector products.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 0.5
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.28.761431v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.28.761431v1?rss=1",
+  "title": "Persistent Malignant Stem Cells Drive Relapse After Transplantation in the Myelodysplastic Neoplasms",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.28.761431v1?rss=1",
+  "abstract": "The myelodysplastic neoplasms (MDS) are initiated in hematopoietic stem cells (HSCs). Allogeneic transplantation is the only curative treatment, but relapse remains common. To detect rare MDS HSCs, we developed an ultra-low-input DNA sequencing assay and applied it to a multicenter post-transplant cohort. HSC mutation detection preceded relapse by a mean of 98 days and strongly predicted relapse (95.7% vs. 30.3%; hazard ratio, 8.8; P=1.5e-7). Mutations detected only in unfractionated marrow did not predict relapse. We developed methods to measure donor-host HSC chimerism, improving relapse prediction sensitivity. Single-cell protein, DNA, and RNA analyses with mitochondrial lineage tracing confirmed MDS cell enrichment within immunophenotypically- and transcriptionally-defined HSCs, identifying shared ribosomal gene downregulation and candidate mechanisms of venetoclax sensitivity. Venetoclax/azacytidine depleted detectable MDS HSCs in longitudinally evaluated patients. These findings establish that HSC mutation detection predicts post-transplant relapse, provide a rationale for preemptive intervention, and define shared biological features of transplant-resistant MDS HSCs.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 0.88
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.28.762442v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.28.762442v1?rss=1",
+  "title": "Targeting the sinusoidal-to-capillarized transition to normalize vessels in breast cancer liver metastasis",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.28.762442v1?rss=1",
+  "abstract": "Liver metastases exhibit marked resistance to anti-VEGF anti-angiogenic therapies, yet the underlying mechanisms remain poorly understood. By combining single-cell RNA sequencing of human breast cancer liver metastases with a liver sinusoidal endothelial cell (LSEC) lineage-tracing mouse model, we show that liver metastasis-associated vessels originate from Lyve1+ sinusoidal endothelial cells but undergo a sinusoidal-to-capillarized transition as they grow into the metastatic nodule, characterized by enhanced inflammatory signaling, loss of sinusoidal markers, and acquisition of capillarized markers. We functionally perturbed each of these abnormalities individually. Unexpectedly, ectopic Lyve1 overexpression paradoxically enhanced hyaluronan and other extracellular matrix deposition in the tumor microenvironment, suggesting a compensatory mechanism. Similarly, targeting TNF signaling, a hallmark inflammatory pathway in liver metastasis, dampened the inflammatory state of metastasis-associated vessels but promoted metastatic outgrowth, indicating that TNF blockade is not a viable strategy for metastasis treatment. Strikingly, inhibition of the capillary tip cell marker Esm1 improved vessel perfusion and enhanced chemotherapeutic drug delivery, two defining features of vascular normalization. Pan-cancer analysis further revealed that Esm1 expression is restricted to tip cells and correlates with poor patient prognosis, positioning Esm1 as a candidate target for promoting vascular normalization. Collectively, our findings reveal the vascular plasticity of liver metastasis and, although not all abnormal features are actionable, we propose targeting Esm1 to inhibit sprouting angiogenesis and to normalize dysfunctional liver metastasis vessels, offering a promising therapeutic avenue for liver malignancies.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.07
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.28.762484v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.28.762484v1?rss=1",
+  "title": "Customizable bead-based platform for EV surface protein immunocapture and detection in plasma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.28.762484v1?rss=1",
+  "abstract": "Extracellular vesicles (EVs) are increasingly recognized as valuable biomarkers for liquid biopsy because they carry molecular signatures that reflect their cells of origin. However, EV isolation remains a challenge, and existing EV immunocapture platforms are constrained by nonspecific binding, limited flexibility, and insufficient sensitivity. Here, we present a customizable bead-based platform for the isolation and detection of specific EV populations directly from plasma. The platform combines bead-immobilized capture antibodies with fluorescent detection antibodies, enabling sensitive and multiplexed EV profiling. Optimization of bead conjugation chemistry improved antibody immobilization and reduced nonspecific background signals, enhancing assay specificity and performance. Using breast cancer-derived EVs expressing fluorescent protein, we demonstrate the detection of tumor-derived EVs in plasma at concentrations as low as 1E9 EVs/ml. Furthermore, the assay distinguished HER2- and TROP2-high from low EV populations, demonstrating its ability to detect clinically relevant differences in biomarker expression. The workflow is compatible with direct EV analysis in the unprocessed plasma samples, thereby reducing sample preparation requirements and assay complexity. These findings establish a sensitive, flexible, and scalable platform for EV biomarker analysis. The approach overcomes several limitations of current commercial bead-based technologies and may facilitate the development of customizable multiplexed EV-based assays for cancer detection, patient stratification, and disease monitoring.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.13
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.28.762523v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.28.762523v1?rss=1",
+  "title": "Gene context shapes spatial organization and transcriptional heterogeneity of extrachromosomal DNA in cancer cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.28.762523v1?rss=1",
+  "abstract": "Extrachromosomal DNA (ecDNA) promotes tumor adaptability by making oncogenic driver genes variably abundant, spatially mobile, and heterogeneously expressed. Transcriptional hyperactivation and spatial mobility of ecDNA-amplified genes is associated with aberrant regulatory states that could create targetable vulnerabilities in ecDNA-driven cancers. However, how gene context shapes their nuclear positioning and aberrant transcription remains unclear. To explore spatio-transcriptional behavior across ecDNA-amplified genes, we developed FLAGx, a multimodal imaging method that quantitatively resolves transcriptional activity and nuclear position of individual ecDNA genes in situ. Surprisingly, we find that gene context affects subnuclear distribution and transcriptional deregulation of ecDNA. Further, ecDNA clustering, cell cycle regulation, and drug responses depend on gene context, while transcriptional shutdown in mitosis persists across ecDNA species, arguing against pervasive mitotic transcription as a common feature. These findings show that driver gene context shapes ecDNA behavior and establish FLAGx as a useful approach to separate gene-specific from shared ecDNA features.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.53
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.27.762245v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.27.762245v1?rss=1",
+  "title": "Cancer cell adaptations along a proliferation-robustness axis drive TME pro-tumor phenotypes",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.27.762245v1?rss=1",
+  "abstract": "Tumors are highly complex dynamic ecosystems with causal relationships between cancer cells and their tumor microenvironment (TME). To disentangle these interactions, we performed long-term co-culture experiments with cancer cells evolving alongside continuously replenished fibroblasts or macrophages. This allowed us to distinguish between adaptive and physiological responses in specific cancer-TME interactions, which we then also recapitulated in patient tumors. We found that co-culture with fibroblasts induced the epithelial-mesenchymal transition in cancer cells and resulted in their increased drug tolerance, while co-culture with macrophages promoted stress, hypoxia responses and enhanced tumorigenicity. Adaptations were recurrent and partially reversible, but could not be explained by clonal selection, suggesting a dynamic non-mutational process. Moreover, adapted cancer cells elicited cell state changes in the fibroblasts and macrophages consistent with an extended phenotype mode of cancer evolution. Our findings reframe cancer-TME interactions by a systematic dissection according to sets of specific adaptations and programmed responses.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.12
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.27.762200v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.27.762200v1?rss=1",
+  "title": "A CTCF-LDHB axis converts nuclear lactate availability into an H3K18 acylation switch that directs alternative splicing in hypoxic breast cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.27.762200v1?rss=1",
+  "abstract": "Lactate accumulating in hypoxic tumours lactylates histones, coupling metabolic state to chromatin. Why it differs between tumours of comparable glycolytic rate has remained unresolved. Here we show that nuclear, rather than total intracellular, lactate availability determines histone H3K18 lactylation in breast cancer, and that CCCTC-binding factor (CTCF) and lactate dehydrogenase B (LDHB) jointly set it. CTCF sustains glycolytic gene expression under hypoxia and drives LDHB in triple-negative breast cancer (TNBC), whereas a CTCF-ER complex represses LDHB in non-TNBC. LDHB consumes lactate favouring H3K18 acetylation; where LDHB is low, CTCF-dependent MCT1 delivers lactate into the nucleus and sustains lactylation. At a CTCF site downstream of TACC3 exon 3, an invariant polymerase II pause couples kinetic and adaptor control of splicing, with the mark deciding the outcome: H3K18la recruits SMARCA4 and hnRNPA1 to skip the exon, generating an isoform that drives EMT, whereas H3K18ac recruits TRIM33 and SRSF10 to include it, generating one that confers stemness. Inhibiting LDHB restores exon skipping and suppresses tumour growth in vivo. Nuclear lactate availability therefore acts as a metabolic switch that converts hypoxic stress into subtype-specific splicing decisions and identifies LDHB as a tractable target in TNBC.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.58
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.28.762427v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.28.762427v1?rss=1",
+  "title": "Activated ADAM10 targeting antibody 1H5 suppresses NOTCH-driven glioma progenitors",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.28.762427v1?rss=1",
+  "abstract": "Background: High-grade gliomas (HGGs) remain associated with high morbidity, mortality, and invariable recurrence after neurosurgical resection and chemoradiation. A major contributor to treatment failure is a population of stem-like glioma progenitor cells (GPCs) that depend on NOTCH-signaling for self-renewal and survival; clinical attempts to inhibit NOTCH with {gamma}-secretase inhibitors failed due to systemic toxicity. Methods: Here, we investigate the anti-HGG therapeutic potential of a fully-human monoclonal antibody, 1H5, that selectively targets activated-ADAM10, an -secretase required for NOTCH receptor processing, with high tumor specificity. We show that ADAM10 is markedly overexpressed and highly activated in primary and recurrent HGGs, using patient tissue, RNA-sequencing data, and early-passage HGG cell lines. Results: Across a panel of patient-derived HGG lines, sensitivity to 1H5 correlates with the cell-surface levels of activated-ADAM10, and shRNA-mediated ADAM10 knockdown recapitulates the growth-inhibitory effects of 1H5. ADAM10 inhibition suppresses NOTCH-pathway components and target genes, reduces expression of GPC markers, and impairs neurosphere formation while depleting Sox2- and Ki67-positive cells. We further find that 1H5 induces HGG cell death predominantly via necroptosis, characterized by survivin loss and increased phosphorylated MLKL and by transcriptional changes in necroptosis-related genes. In three-dimensional explants derived from primary HGG, 1H5 reduces growth and GPC marker expression while increasing TUNEL staining. Finally, convection-enhanced delivery of 1H5 in orthotopic xenograft models achieves high local intracranial concentrations, slows tumor growth, and prolongs survival, with regional pharmacodynamic effects consistent with NOTCH pathway suppression and necroptosis.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 2.26
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.28.762504v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.28.762504v1?rss=1",
+  "title": "Lineage-mixed neurodevelopmental programs in pediatric sarcomas nominate tumor-selective surface antigen pairs.",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.28.762504v1?rss=1",
+  "abstract": "Pediatric solid tumors have low mutational burden, frequent oncogenic gene fusions, and developmental origins in arrested progenitor cells. Single-cell RNA-seq (scRNA-seq) could represent an ideal tool to assess whether these convergent biological features yield shared therapeutic vulnerabilities. However, while existing tools can extract gene expression programs for pan-tumor single-cell data, interpreting them requires domain expertise across many disciplines and diseases. Here, we analyzed a pan-pediatric scRNA-seq atlas of 266 patient- and xenograft-derived samples across 22 pediatric solid tumor types. To address the bottleneck between gene program identification and interpretation, we developed an AI agent framework built on off-the-shelf large language models (e.g., Gemini 2.5) to interpret gene expression programs at the level of human experts, but at much greater scale and speed. Our agent identified ectopic expression of neuronal marker genes as a unique feature of several fusion-driven sarcomas. This gene expression pattern resulted in tumor-specific co-expression of mixed mesenchymal/neuronal surface markers, providing a plausible therapeutic window to target these tumor types using emerging AND-gated therapeutic strategies, such as bispecific antibody-drug conjugates (ADCs) and bispecific CAR-T cells. As proof of principle, we nominated and validated STEAP1/NPTXR as a Ewing sarcoma candidate cell surface target pair. Together, this work delivers a pan-pediatric solid tumor scRNA-seq atlas, establishes a generalizable and accessible AI-based framework that complements existing single-cell methods by automating interpretation of pan-disease single-cell atlases, and nominates new bispecific ADC/CAR-T targets for catastrophic pediatric cancers.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.31
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.27.761882v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.27.761882v1?rss=1",
+  "title": "Tumour architecture inverts ARNT-dependent growth regulation and reveals CPE-mediated spheroid expansion in luminal breast cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.27.761882v1?rss=1",
+  "abstract": "Tumour architecture profoundly influences cancer cell behaviour, yet functional genomic studies predominantly rely on two-dimensional (2D) cultures. Here, we performed parallel chromosome 1q focused CRISPR screens in matched 2D monolayers and three-dimensional (3D) spheroid cultures of luminal breast cancer cells, which revealed ARNT as a prominent architecture-dependent fitness regulator. ARNT depletion reduced proliferation in 2D but enhanced spheroid growth in 3D. This functional switch was reproduced in MCF7 and T47D but not in nontumorigenic MCF12A cells, indicating a tumour and architecture dependent role of ARNT. Transcriptomic profiling revealed distinct responses to ARNT perturbation in 2D and 3D and pointed to carboxypeptidase E (CPE) as a downstream effector. ARNT modulation reciprocally altered CPE expression, and genetic epistasis established CPE as required for ARNT loss driven spheroid expansion and sufficient to restore growth in ARNT overexpressing spheroids. In primary tumours, ARNT and CPE were inversely correlated in low-hypoxia TCGA Luminal A samples, and single-cell RNA sequencing revealed an inverse association within ER positive cancer cells. Together, these findings demonstrate that the growth regulatory function of ARNT depends on tumour architecture and that a functional ARNT CPE axis controls luminal breast cancer spheroid growth, underscoring the importance of incorporating 3D context into functional genomic approaches.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.07
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.28.762373v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.28.762373v1?rss=1",
+  "title": "Glioblastoma Hijacks Astrocyte Ribosomes to Feul Malignancy through Translatome Reprogramming",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.28.762373v1?rss=1",
+  "abstract": "Cancer cells demand elevated protein synthesis, yet whether they directly requisition ribosomes from microenvironmental host cells remains unknown. Here, utilizing in vivo and in vitro ribosome tracing, we show that glioblastoma (GBM) cells hijack ribosomes from surrounding astrocytes via tunneling nanotube-like structures. This transfer supports GBM malignancy in both murine and patient derived models. Single cell RNA sequencing along with whole cell and cell source traceable ribosome profiling reveal that transferred ribosomes are translationally active and selectively reprogram the tumor translatome, prioritizing cell-cycle genes and driving interferon-response-mediated immune evasion. Through a genome wide CRISPR screen, we identify INTS12 as a critical mediator of ribosome transfer. Genetic inactivation or AAV-mediated knockdown of INTS12 impairs ribosome uptake, curbs translation and proliferation, remodels the immunosuppressive landscape, and extends survival in orthotopic models. Our study uncovers a parasitic translation-support mechanism in GBM, establishing INTS12 as a therapeutic vulnerability to disrupt ribosome transfer.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 2.35
  }
 }
