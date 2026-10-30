@@ -10258,5 +10258,15 @@
   "date": "2026-10-29T00:00:00+00:00",
   "type": "",
   "score": 2.35
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.27.761987v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.27.761987v1?rss=1",
+  "title": "Myogenic and neural transcriptional circuitry determines PAX3::FOXO1 driven initiation of rhabdomyosarcoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.27.761987v1?rss=1",
+  "abstract": "Alveolar rhabdomyosarcoma (ARMS) is largely characterized by the PAX3::FOXO1 (P3F) fusion oncoprotein, yet the mechanisms by which P3F initiates tumorigenesis and cell identity remain incompletely understood. Here, we describe a doxycycline inducible, degradable PAX3::FOXO1 iPSC derived ARMS model (ddP3F) to interrogate the temporal requirements of P3F for ARMS cell identity and proliferation. We show that, while P3F is essential for initiating ARMS transformation from precursor cells, continued expression of P3F is not required for maintaining proliferation, viability, or RMS associated transcriptional programs. Integration of CUT&RUN, bulk RNA seq, and 10X multiome profiling during endothelial-directed differentiation revealed that P3F rapidly pioneers a novel enhancer landscape within two days of expression, activating transcriptional circuits anchored by both specific myogenic and neural transcription factors (TFs), including MYOD1, PRDM12, and POU4F1 (BRN3A). Our single-cell analysis shows that these TFs are specifically co-expressed with P3F from the earliest stages of transformation. Knockout of MYOD1 or POU4F1 impairs ARMS identity acquisition without preventing transformation, whereas PRDM12 loss enhances P3F expression programs and myogenic differentiation. Together, these findings underscore a previously unappreciated interplay between myogenic and neural transcriptional programs during ARMS initiation. Furthermore, these data demonstrate that P3F establishes a stable oncogenic state that persists even after removal, thus providing a framework for evaluating P3F dependent and P3F independent therapeutic vulnerabilities.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "",
+  "score": 1.0
  }
 }
