@@ -10678,5 +10678,25 @@
   "date": "2026-10-30T00:00:00+00:00",
   "type": "",
   "score": 2.04
+ },
+ "https://www.nature.com/articles/s41419-026-09380-y": {
+  "guid": "https://www.nature.com/articles/s41419-026-09380-y",
+  "title": "Phosphorylation of IMPDH2 promotes lung cancer lymph node metastasis",
+  "link": "https://www.nature.com/articles/s41419-026-09380-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-30T00:00:00+00:00",
+  "type": "",
+  "score": 1.46
+ },
+ "https://www.nature.com/articles/s41598-026-77011-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-77011-9",
+  "title": "Structural perturbations and destabilizing mutations in RAD51C and RAD51D reveal mechanisms of cancer risk",
+  "link": "https://www.nature.com/articles/s41598-026-77011-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-30T00:00:00+00:00",
+  "type": "",
+  "score": 1.47
  }
 }
