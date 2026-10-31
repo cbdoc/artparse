@@ -10708,5 +10708,95 @@
   "date": "2026-10-30T00:00:00+00:00",
   "type": "",
   "score": 0.75
+ },
+ "https://www.nature.com/articles/s41388-026-04026-x": {
+  "guid": "https://www.nature.com/articles/s41388-026-04026-x",
+  "title": "Dual mTORC1/2 and Scd1 inhibition uncovers a therapeutic vulnerability in pancreatic cancer",
+  "link": "https://www.nature.com/articles/s41388-026-04026-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 2.07
+ },
+ "https://www.nature.com/articles/s41598-026-78396-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-78396-3",
+  "title": "TGF-\u03b2-induced ganglioside remodeling highlights GD2 as a dynamically regulated target in glioblastoma",
+  "link": "https://www.nature.com/articles/s41598-026-78396-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 1.74
+ },
+ "https://www.nature.com/articles/s41419-026-09374-w": {
+  "guid": "https://www.nature.com/articles/s41419-026-09374-w",
+  "title": "SOX4 drives ferroptosis resistance of non-small cell lung cancer by regulating PI3K/AKT/SREBP1/SCD1 signaling axis",
+  "link": "https://www.nature.com/articles/s41419-026-09374-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 1.76
+ },
+ "https://www.nature.com/articles/s41467-026-79183-4": {
+  "guid": "https://www.nature.com/articles/s41467-026-79183-4",
+  "title": "Cell Spreading-Enhanced Electron-Transfer Electrochemical Cytosensor Enabling Single-Cell Detection",
+  "link": "https://www.nature.com/articles/s41467-026-79183-4",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 0.49
+ },
+ "https://www.nature.com/articles/s41598-026-77838-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-77838-2",
+  "title": "Dynamic survival prognosis and the role of radiotherapy in retroperitoneal liposarcoma",
+  "link": "https://www.nature.com/articles/s41598-026-77838-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 0.72
+ },
+ "https://www.nature.com/articles/s41598-026-76099-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-76099-3",
+  "title": "Neutrophil-to-lymphocyte ratio as a low-cost triage marker for malaria in febrile patients in conflict-affected Southern Yemen",
+  "link": "https://www.nature.com/articles/s41598-026-76099-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 0.11
+ },
+ "https://www.nature.com/articles/s41746-026-03439-y": {
+  "guid": "https://www.nature.com/articles/s41746-026-03439-y",
+  "title": "Interpretability-driven feature engineering enables compact and accurate multi-outcome risk stratification at hospitalization for chronic hepatitis B",
+  "link": "https://www.nature.com/articles/s41746-026-03439-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 0.38
+ },
+ "https://www.nature.com/articles/s41598-026-73683-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-73683-5",
+  "title": "Piracetam attenuates cyclophosphamide-evoked pulmonary injury in rats; the role of AMPK/NF-\u03baB/NLRP3/caspase-1 and caspase-3 mediated apoptosis signaling cascades",
+  "link": "https://www.nature.com/articles/s41598-026-73683-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s41416-026-03649-x": {
+  "guid": "https://www.nature.com/articles/s41416-026-03649-x",
+  "title": "Conformational heterogeneity: a fundamental mechanism of adaptive phenotypic plasticity and therapeutic resistance",
+  "link": "https://www.nature.com/articles/s41416-026-03649-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 1.6
  }
 }
