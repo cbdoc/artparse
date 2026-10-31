@@ -11028,5 +11028,45 @@
   "date": "2026-10-31T00:00:00+00:00",
   "type": "",
   "score": 0.92
+ },
+ "https://www.nature.com/articles/s41419-026-09341-5": {
+  "guid": "https://www.nature.com/articles/s41419-026-09341-5",
+  "title": "POLG mediates CAF-stimulated TNBC cell metastasis by utilizing internal and exosome-derived external mtDNA to increase oxidative phosphorylation",
+  "link": "https://www.nature.com/articles/s41419-026-09341-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 0.97
+ },
+ "https://www.nature.com/articles/s43856-026-01975-y": {
+  "guid": "https://www.nature.com/articles/s43856-026-01975-y",
+  "title": "PLK4 inhibition-mediated centrosome amplification drives anti-tumor activity across euploid solid tumors",
+  "link": "https://www.nature.com/articles/s43856-026-01975-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 1.95
+ },
+ "https://www.nature.com/articles/s41368-026-00467-y": {
+  "guid": "https://www.nature.com/articles/s41368-026-00467-y",
+  "title": "Dual targeting of ACSS2 and ACLY by a novel inhibitor S8588 suppresses oncogenic lipogenesis and overcomes metabolic compensation in oral squamous cell carcinoma",
+  "link": "https://www.nature.com/articles/s41368-026-00467-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 1.92
+ },
+ "https://www.nature.com/articles/s41419-026-09335-3": {
+  "guid": "https://www.nature.com/articles/s41419-026-09335-3",
+  "title": "Targeting glioblastoma with metabolic drugs highlighted R-sodium lipoate as a potent therapeutic approach",
+  "link": "https://www.nature.com/articles/s41419-026-09335-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-10-31T00:00:00+00:00",
+  "type": "",
+  "score": 1.91
  }
 }
