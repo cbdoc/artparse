@@ -10698,5 +10698,15 @@
   "date": "2026-10-30T00:00:00+00:00",
   "type": "",
   "score": 1.47
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.26.761769v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.26.761769v1?rss=1",
+  "title": "Linking clinical border morphology to cell-scale growth mechanisms in melanoma: a segmentation-to-simulation alignment study",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.26.761769v1?rss=1",
+  "abstract": "An irregular border is among the most informative visual cues for melanoma, yet the prevailing quantitative treatment of that irregularity, the box-counting fractal dimension, has rarely been connected to the cell-scale mechanism that produces it. We measured seven boundary descriptors on 1,581 lesions from the 2018 International Skin Imaging Collaboration archive segmented by an automatic thresholding route, retaining the expert ground-truth route as a sensitivity arm, and compared their medians across benign, in situ, and invasive grades. We then built a hybrid cellular automaton and swept four canonical cell-level mechanisms, scoring every simulated boundary with the same measurement code used on the patient images, before testing two mechanisms that lift the empty-neighbour division rule and aligning them to the observed malignant signature with a variance-based sensitivity analysis. The malignant signature is lobulation, not roughness: compactness rises from 1.351 to 1.810, solidity falls from 0.910 to 0.853, and convexity falls from 0.936 to 0.839 from benign to invasive lesions, with areas under the curve near 0.74, while the fractal dimension varies by only 0.024 across the three grades. All four canonical mechanisms, including loss of contact inhibition, converge on near-circular clusters at a distance of 1.147 to 1.166 from the malignant target. A long-range spatial heterogeneity in the growth rate, by contrast, reproduces the observed signature to a distance of 0.187, with the correlation length of the field, not its amplitude, the dominant parameter by total-effect index. A smooth, long-range growth-rate field is therefore sufficient to generate the lobular borders that characterise invasive melanoma, whereas the empty-neighbour assumption common to cellular automata is not. Because the winning field is imposed rather than emergent, the study resolves the alignment between border morphology and cell-scale mechanism while leaving open how such heterogeneity could arise from cell-autonomous dynamics.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-10-30T00:00:00+00:00",
+  "type": "",
+  "score": 0.75
  }
 }
