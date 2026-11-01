@@ -89,16 +89,6 @@
   "type": "Article",
   "score": 0.87
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00312-0?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00312-0?rss=yes",
-  "title": "A stress-adaptive lipid kinase axis defines metabolic vulnerabilities in neuroendocrine prostate cancer",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00312-0?rss=yes",
-  "abstract": "Zheng et al. identify a PIKfyve-ER stress-lipogenesis axis that enables neuroendocrine prostate cancer cells to tolerate elevated basal ER stress through PIKfyve-dependent lysosomal homeostasis and SREBP-driven lipogenesis. Dual inhibition of PIKfyve and FASN disrupts these adaptive pathways, driving terminal UPR activation and apoptosis and providing a robust translational strategy.",
-  "source": "Cancer Cell",
-  "date": "2026-08-03T00:00:00+00:00",
-  "type": "Article",
-  "score": 1.11
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00349-1?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00349-1?rss=yes",
   "title": "Latent effector T cells mediate immunotherapy responses in the bone marrow microenvironment",
@@ -338,16 +328,6 @@
   "date": "2026-08-31T00:00:00+00:00",
   "type": "Article",
   "score": 0.01
- },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00824-X?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00824-X?rss=yes",
-  "title": "Ultrarapid deep 3D histology enables intraoperative mapping of glioma infiltration",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00824-X?rss=yes",
-  "abstract": "ULTRA compresses 3D histology from days or hours to within 30 minutes by leveraging the chemical specificity of stimulated Raman scattering (SRS) microscopy through the synergistic development of rapid tissue clearing and unsupervised AI. The platform enables intraoperative visualization of glioma architecture and depth-dependent tumor infiltration margins.",
-  "source": "Cell",
-  "date": "2026-08-03T00:00:00+00:00",
-  "type": "Resource",
-  "score": 0.92
  },
  "https://aacrjournals.org/cancerdiscovery/article/16/10/2060/788544/Asynchronous-Evolution-of-Epithelium-and-Stroma": {
   "guid": "https://aacrjournals.org/cancerdiscovery/article/16/10/2060/788544/Asynchronous-Evolution-of-Epithelium-and-Stroma",
@@ -4609,16 +4589,6 @@
   "type": "Article",
   "score": 1.7
  },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00819-6?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00819-6?rss=yes",
-  "title": "Co-option of retrotransposons promotes antibody diversification",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00819-6?rss=yes",
-  "abstract": "A longstanding mystery in antibody diversification is how AID specifically targets immunoglobulin V genes. Ancient LINE-1 retrotransposons embedded within the immunoglobulin locus provide a recruitment platform for the HUSH complex and AID to drive somatic hypermutation.",
-  "source": "Cell",
-  "date": "2026-08-03T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.51
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)01022-6?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01022-6?rss=yes",
   "title": "Switching of transcriptional control from interferon regulatory factor 2 to interferon regulatory factor 1 drives innate immune cell activation",
@@ -4648,16 +4618,6 @@
   "date": "2026-10-06T00:00:00+00:00",
   "type": "Article",
   "score": 1.2
- },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00820-2?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00820-2?rss=yes",
-  "title": "Milk osteopontin alters the infant microbiome to drive DC hematopoiesis and disease tolerance",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00820-2?rss=yes",
-  "abstract": "Milk-derived osteopontin confers protection from viral or bacterial severe lower respiratory illness by altering the neonatal gut microbiome.",
-  "source": "Cell",
-  "date": "2026-08-03T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.14
  },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)01134-7?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01134-7?rss=yes",
@@ -11068,5 +11028,15 @@
   "date": "2026-10-31T00:00:00+00:00",
   "type": "",
   "score": 1.91
+ },
+ "https://www.nature.com/articles/s41420-026-03401-7": {
+  "guid": "https://www.nature.com/articles/s41420-026-03401-7",
+  "title": "miRNA cargo from pleural mesothelioma-derived extracellular vesicles reprograms fibroblasts toward an inflammatory CAF-like phenotype",
+  "link": "https://www.nature.com/articles/s41420-026-03401-7",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-01T00:00:00+00:00",
+  "type": "",
+  "score": 0.79
  }
 }
