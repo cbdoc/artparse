@@ -11148,5 +11148,15 @@
   "date": "2026-11-01T00:00:00+00:00",
   "type": "",
   "score": 1.38
+ },
+ "https://www.nature.com/articles/s41598-026-77613-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-77613-3",
+  "title": "No detectable BK polyomavirus or JC polyomavirus DNA in FFPE specimens from patients with advanced laryngeal squamous cell carcinoma",
+  "link": "https://www.nature.com/articles/s41598-026-77613-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-01T00:00:00+00:00",
+  "type": "",
+  "score": 0.77
  }
 }
