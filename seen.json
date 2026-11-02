@@ -4629,16 +4629,6 @@
   "type": "Article",
   "score": 0.13
  },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00821-4?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00821-4?rss=yes",
-  "title": "Metabolic atlas of early human cortex reveals glycolytic remodeling and pentose phosphate pathway control of cell fate transitions",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00821-4?rss=yes",
-  "abstract": "The developing human cortex is composed of diverse cell types, but how nutrient metabolism shapes their fate has remained unclear. This study maps the metabolic landscape of the developing human cortex and identifies glycolysis and pentose phosphate pathway activity as key regulators of radial glia fate, controlling the generation of outer radial glia and inhibitory neurons.",
-  "source": "Cell",
-  "date": "2026-08-04T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.57
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)01132-3?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01132-3?rss=yes",
   "title": "Arabidopsis uses distinct coumarins and bacterial pathways for pH-adaptive iron acquisition",
@@ -11158,5 +11148,35 @@
   "date": "2026-11-01T00:00:00+00:00",
   "type": "",
   "score": 0.77
+ },
+ "https://www.nature.com/articles/s12276-026-01878-x": {
+  "guid": "https://www.nature.com/articles/s12276-026-01878-x",
+  "title": "Molecular and immune heterogeneity across limited-stage and extensive-stage small cell lung cancer",
+  "link": "https://www.nature.com/articles/s12276-026-01878-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.14
+ },
+ "https://www.nature.com/articles/s41598-026-73629-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-73629-x",
+  "title": "Hylocereus undatus peel extract and ZnO nanoparticles suppress cancer through apoptosis and Wnt/\u03b2-catenin inhibition",
+  "link": "https://www.nature.com/articles/s41598-026-73629-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.01
+ },
+ "https://www.nature.com/articles/s41392-026-02834-x": {
+  "guid": "https://www.nature.com/articles/s41392-026-02834-x",
+  "title": "Neoadjuvant concurrent or sequential anthracycline-containing chemotherapy and HER2-targeted agents for HER2-positive breast cancer: a randomized phase 2 study (METIS)",
+  "link": "https://www.nature.com/articles/s41392-026-02834-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 0.8
  }
 }
