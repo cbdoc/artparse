@@ -12338,5 +12338,115 @@
   "date": "2026-11-02T00:00:00+00:00",
   "type": "",
   "score": 1.53
+ },
+ "https://www.nature.com/articles/s41571-026-01219-x": {
+  "guid": "https://www.nature.com/articles/s41571-026-01219-x",
+  "title": "Interpreting surgical consolidation in oligometastatic gastro-oesophageal cancer",
+  "link": "https://www.nature.com/articles/s41571-026-01219-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "Correspondence",
+  "score": 1.0
+ },
+ "https://www.nature.com/articles/s41419-026-09392-8": {
+  "guid": "https://www.nature.com/articles/s41419-026-09392-8",
+  "title": "The convergence of senescence and ferroptosis amplifies DNA damage and triggers apoptosis in patient-derived melanoma models",
+  "link": "https://www.nature.com/articles/s41419-026-09392-8",
+  "abstract": "Therapy-induced senescence (TIS) is a common response to anticancer treatment that enforces durable cell-cycle arrest but can also promote tumor persistence and disease relapse if senescent cells are not efficiently eliminated. The \u201cone\u2013two punch\u201d therapeutic paradigm aims to overcome this limitation by coupling senescence induction with senolytic targeting. In this study, using distinct, clinically relevant BRAF- and NRAS-mutant melanoma PDXs, we identify a novel combination strategy in which a vulnerable cell state is induced and then selectively targeted. Through a high-throughput one\u2013two punch screen, we identified auranofin as a top candidate selectively targeting senescent melanoma cells. Auranofin synergized with multiple senescence-inducing agents, including volasertib, palbociclib, everolimus, and temozolomide, and retained activity across multiple PDX models. In particular, the PLK1 inhibitor volasertib induced robust senescence characterized by G2/M arrest and senescence-associated \u03b2-galactosidase expression, while auranofin triggered oxidative stress through thioredoxin reductase inhibition. Sequential volasertib\u2013auranofin treatment resulted in marked accumulation of reactive oxygen species, intracellular iron, and metabolic stress, consistent with activation of ferroptotic pathways. Importantly, ferroptosis cooperated with senescence to amplify DNA damage and genomic instability, as evidenced by increased \u03b3H2AX foci, nuclear enlargement, and micronuclei formation, culminating in apoptotic cell death. In vivo, combination therapy significantly suppressed tumor growth and prolonged mice survival without overt toxicity, demonstrating robust therapeutic efficacy in both BRAF- and NRAS-mutant melanoma PDXs. Together, our findings define a mechanistic framework in which volasertib-driven senescence creates a ferroptosis-sensitive state that is therapeutically exploited by auranofin, leading to oxidative stress\u2013mediated DNA damage and tumor cell elimination. This study identifies ferroptosis as a critical vulnerability of senescent cells and provides strong preclinical rationale for repurposing auranofin in combination with senescence-inducing therapies, supporting rapid translational advancement of this strategy for aggressive melanoma.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.39
+ },
+ "https://www.nature.com/articles/s42003-026-11153-4": {
+  "guid": "https://www.nature.com/articles/s42003-026-11153-4",
+  "title": "Mathematical and experimental models of interactions among subclones and immunity in melanoma",
+  "link": "https://www.nature.com/articles/s42003-026-11153-4",
+  "abstract": "Melanoma tumors often contain heterogeneous subclones, typically with proliferative or invasive phenotypes. These subclones interact with each other and the immune system to shape tumor progression. Understanding interactions between subclones and the tumor microenvironment is a fundamental challenge for melanoma treatment. To analyze such interactions, we developed dedicated in vivo melanoma mouse and&nbsp;mathematical models. In the experimental models, admixtures of proliferative and invasive subclones of varying proportions were implanted into immunocompromised and immunocompetent mice. Tumor growth and subclone composition were tracked over time. In parallel, we built a computational model to capture the system dynamics. By estimating parameter values of our mathematical model using experimental measurements, we found that, while the proliferative subclone outgrew the invasive subclone, T cell activities selected for the invasive subclone. Initial subclonal proportion in this dynamic system determines the overall tumor sensitivity to immune response. The key interactions identified in this study provide insights into how intratumor heterogeneity and immune pressure influence melanoma progression, suggesting strategies for optimizing individualized therapy. Mouse and computational models of interactions between heterogeneous melanoma subclones and the immune system are developed that show that initial subclonal ratios and the strength of interactions determine overall sensitivity to immune response.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.07
+ },
+ "https://www.nature.com/articles/s41698-026-01718-1": {
+  "guid": "https://www.nature.com/articles/s41698-026-01718-1",
+  "title": "Integration of single-cell and spatial transcriptomics reveals stromal cell features in breast cancer",
+  "link": "https://www.nature.com/articles/s41698-026-01718-1",
+  "abstract": "Stromal cells are key components of the breast cancer tumor microenvironment, yet their heterogeneity, spatial organization, and interactions with tumor and immune cells remain incompletely defined. We integrated single-cell RNA sequencing data from 233,518 non-immune stromal cells across 349 patients with spatial transcriptomic data from 51 patients. This analysis identified 36 fibroblast, endothelial, and mural cell subsets with distinct transcriptional programs, spatial distributions, and functional associations. ABCA8+ lipid-associated fibroblasts were observed at tumor margins, showed predicted interactions with malignant cells, and were associated with exhaustion-associated T-cell phenotypes. CCL19+ inflammatory fibroblasts showed spatial patterns associated with tertiary lymphoid structure formation, whereas tumor-associated pericytes showed predicted interactions with PGF+ tip endothelial cells that may be involved in extracellular matrix deposition and vascular remodeling. Together, these findings provide a high-resolution stromal atlas of breast cancer, resolving stromal subtypes, spatial context, and potential intercellular communication. This resource provides a framework for investigating stromal contributions to tumor progression and immune regulation, although further experimental validation is required.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.8
+ },
+ "https://www.nature.com/articles/s41598-026-79235-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-79235-1",
+  "title": "Preliminary results and clinical experiences of [177Lu]Lu-FAP-2286 for brain metastases in advanced lung cancer",
+  "link": "https://www.nature.com/articles/s41598-026-79235-1",
+  "abstract": "Brain metastases in advanced lung cancer present a therapeutic challenge with limited effective options. Fibroblast activation protein (FAP) is overexpressed in cancer-associated fibroblasts within brain metastatic lesions, making it a promising target for radionuclide therapy. This prospective study evaluated the intracranial efficacy and safety of peptide-targeted radionuclide therapy (PTRT) with [177Lu]Lu-FAP-2286 in 14 patients with FAP-expressing advanced lung cancer and radiologically confirmed brain metastases who had failed prior treatments. Patients received [177Lu]Lu-FAP-2286 (7.4 GBq/cycle, \u2265\u20092 cycles). Intracranial objective response rate was 57.1% and disease control rate was 92.9% by RECIST 1.1, with a metabolic response rate of 64.3% by PERCIST 1.0. Median overall survival was 11.0 months and median progression-free survival was 8.0 months. Patients achieving metabolic response had significantly longer survival. Neurological symptoms and brain-specific quality of life improved significantly, and no grade III/IV adverse events occurred. These findings suggest that systemic [177Lu]Lu-FAP-2286 PTRT is safe and effective for brain metastases in FAP-expressing advanced lung cancer, achieving intracranial tumor regression, symptom relief, and improved quality of life, thereby offering a promising therapeutic option for this refractory population.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.93
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.30.763164v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.30.763164v1?rss=1",
+  "title": "HER3 mediates metabolic reprogramming in metastatic colorectal and pancreatic cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.30.763164v1?rss=1",
+  "abstract": "Liver metastases are a major cause of mortality in colorectal cancer (CRC) and pancreatic ductal adenocarcinoma (PDAC), yet the oncogenic signals that shape tumor metabolism in the hepatic niche remain poorly understood. Here, we show that HER3 activation drives a liver metastasis-specific glycolytic program in both cancer types. Genetic or pharmacological HER3 inhibition suppresses cancer glycolysis while increasing dependence on oxidative phosphorylation (OXPHOS), rendering liver metastases vulnerable to OXPHOS inhibition. Combining the HER3 inhibitor sapitinib with distinct OXPHOS inhibitors led to in vitro synergy and durable tumor-free survival in orthotopic CRC and PDAC liver metastases models, with further validation in patient-derived xenografts. Mechanistically, HER3 promotes glycolysis through activating PFK2 and reduces OXPHOS through activating DRP1-mediated mitochondrial remodeling, both pathways were activated in liver metastases compared to matched primary tumors. Together, our findings identify the HER3-AKT/RSK-PFK2 axis as a driver of glycolysis and metastatic growth and reveal an OXPHOS dependency induced by HER3 inhibition that may be exploited through combined HER3 and OXPHOS targeting in metastatic CRC and PDAC.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "",
+  "score": 2.08
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.30.763251v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.30.763251v1?rss=1",
+  "title": "Seesaw configuration of the ODC-OAZ1-AZIN1 axis governs sensitivity to polyamine-targeting inhibitors of breast cancer cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.30.763251v1?rss=1",
+  "abstract": "Polyamines are endogenous metabolites crucial for various cellular functions, and maintaining their cellular levels is critical for normal cell survival and fate. Polyamine homeostasis is managed by a complex metabolic network, wherein the ODC-OAZ1-AZIN1 protein-protein interaction axis plays a central role in regulating polyamine synthesis and membrane transport. While existing research has established that polyamine-targeted inhibitors (PTIs) significantly perturb this axis in various cancers, and that different breast cancer subtypes display distinct PTI sensitivities, the fundamental mechanism of drug sensitivity difference has remained poorly understood. Here, we combine large-scale bioinformatic analysis with comprehensive experimental verification to reveal a polarized seesaw configuration of the ODC-OAZ1-AZIN1 axis across diverse tumor types, including breast cancer. We show that this seesaw configuration is not only distinct across breast cancer subtypes but also associated with unique cellular states. Furthermore, we reveal that this configuration underpins the distinct sensitivity profiles of these subtypes to both single and combination treatments of PTIs. Crucially, we demonstrate that targeted re-configuration of this axis can shift the drug sensitivity of resistant cells. This study provides the first systematic mechanistic framework linking the configuration of the ODC-OAZ1-AZIN1 axis to PTI sensitivity, thereby providing a configuration-based framework for rational selection of PTI combination regimens and new personalized therapeutic strategies in breast cancer.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "",
+  "score": 1.14
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.29.761968v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.29.761968v1?rss=1",
+  "title": "SDHB deficiency silences ABCB1 expression and confers therapeutic vulnerability across multiple cancer types",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.29.761968v1?rss=1",
+  "abstract": "Succinate dehydrogenase B (SDHB)-deficient cancers, including pheochromocytoma and paraganglioma (PPGL), renal cell carcinoma (RCC), and gastrointestinal stromal tumor (GIST), exhibit aggressive clinical behavior with limited treatment options. To identify novel therapeutic vulnerabilities, we performed high-throughput drug screening using co-cultured human SDHB-deficient and SDHB-reconstituted UOK269 human renal cell carcinoma cells with dual fluorescence labeling. Several compounds displaying preferential cytotoxicity toward SDHB-deficient cells were known substrates of the ATP-binding cassette B1 (ABCB1) transporter, also known as Multidrug Resistance Protein 1 (MDR1). Accordingly, SDHB-deficient cells demonstrated markedly reduced ABCB1 expression, a phenotype confirmed across human SDHB-deficient PPGL, RCC, and GIST samples, but absent in IDH- or FH-deficient tumors. Mechanistic investigation revealed that KDM4A histone demethylase is downregulated in SDHB-deficient tumors, and KDM4A loss (or inhibition) is sufficient to reduce ABCB1 expression, globally increase H3K9me3 levels, and sensitize cells to cytotoxic ABCB1 substrates. TCGA analysis confirmed correlated KDM4A-ABCB1 expression in SDHB-deficient cancers, with ABCB1 levels predicting drug sensitivity across cancer cell lines. Clinical analysis demonstrated that SDHB-mutant PPGL patients treated with vincristine-containing chemotherapy exhibited significantly longer progression-free survival compared to non-SDHB patients. These findings establish a novel metabolic-epigenetic pathway linking SDHB deficiency to ABCB1 silencing and provide rational basis for repurposing vincristine, and related ABCB1 substrate vinca alkaloids, across SDHB-deficient cancer types; offering an alternative precision treatment approach for these challenging malignancies.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "",
+  "score": 1.56
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.28.762598v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.28.762598v1?rss=1",
+  "title": "A mouse model of metastasis-induced breast cancer cachexia with non-cachectic controls bearing isogenic primary tumors",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.28.762598v1?rss=1",
+  "abstract": "Background Patients with advanced cancer frequently develop cachexia, an involuntary weight-loss condition that correlates strongly with metastatic burden. Despite this clinical association, metastasis is rarely considered in preclinical research of cancer cachexia, which is in part due to the lack of rigorously established animal models to investigate metastasis-associated cancer cachexia. Methods To establish an animal model of metastasis-associated cancer cachexia, here we focused on syngeneic mouse models of breast cancer. Using the metastatic 4T1 murine breast cancer cell line and its isogenic non-metastatic 67NR cell line, we generated primary tumors via orthotopic injection into the mammary fat pad and surgically resected the primary tumor to allow sufficient time for spontaneous metastatic outgrowth, or generated experimental lung metastases by direct intravenous injection into the tail vein. Across these tumor-bearing groups, we systematically characterized the metastatic burden and cachectic phenotypes of the mice, including body weight, food intake, body composition, muscle mass, grip strength, locomotor activity, energy expenditure, and respiratory exchange ratio. To isolate the contribution of reduced food intake to the cachectic phenotypes, we pair-fed orthotopic 4T1 tumor-bearing mice (which were non-cachectic) to mice with 4T1 lung metastases (which were cachectic). We further measured muscle atrophy gene expression and profiled circulating cytokines and metabolic hormones for the mouse groups. Results Body weight loss occurred exclusively in mice bearing lung metastases from 4T1 tumors, with no weight loss observed in mice bearing either primary 4T1 tumors or 67NR lung tumors, thus presenting a model of cancer cachexia that is driven by 4T1 lung metastasis. Comprehensive cachexia characterization demonstrated that the 4T1 metastasis model recapitulates all key features of cachexia, manifesting as reduced food intake (or anorexia), depletion of adipose tissues, loss of lean mass including muscle mass loss, and reduced grip strength. Pair-feeding non-cachectic primary 4T1 tumor-bearing mice to 4T1 metastatic mice led to the same losses in body weight, fat, and lean mass as in cachectic mice, but no change in grip strength, indicating that anorexia is the primary driver of tissue wasting whereas muscle weakness arises through a food intake-independent mechanism. Moreover, we identified distinct circulating cytokines and metabolic hormones associated with the metastasis-driven cachexia. Conclusions Our results establish a metastasis-induced breast cancer cachexia model with a tightly matched control group, providing a platform for the field to identify metastasis-derived cachectic mediators and pathways.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "",
+  "score": 0.79
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.02.763650v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.02.763650v1?rss=1",
+  "title": "PERTURBATION OF THE AMINO ACID STRESS RESPONSE PATHWAY EXPOSES A METABOLIC VULNERABILITY IN MULTIPLE AGGRESSIVE CANCER SUBTYPES",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.02.763650v1?rss=1",
+  "abstract": "Cancer cells frequently experience nutrient limitation and depend on adaptive stress-response pathways to maintain metabolic homeostasis. Here, we show that pharmacological perturbation of amino acid stress signaling exerts broad anti-tumor activity across multiple aggressive malignancies, including acute lymphoblastic leukemia, acute myeloid leukemia, triple-negative breast cancer, ovarian cancer, and neuroblastoma. Sensitivity to pathway modulation is associated with a chronic stress-adapted metabolic state marked by constitutive amino acid response signaling, elevated NFE2L2 expression, and reduced mitochondrial abundance despite evidence of efficient oxidative metabolism. Mechanistically, we demonstrate that the ATP-competitive compound GCN2-IN-6 does not phenocopy genetic GCN2 suppression and exhibits context-dependent effects on the amino acid stress response. Nevertheless, tumors experiencing chronic metabolic stress remain exquisitely sensitive to disruption of this adaptive network, regardless of whether signaling is perturbed through canonical inhibition or paradoxical activation. Collectively, our findings identify chronic metabolic stress adaptation as an actionable vulnerability and establish off-balancing amino acid stress signaling as a therapeutic strategy across multiple cancer types",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "",
+  "score": 1.39
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.02.763595v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.02.763595v1?rss=1",
+  "title": "Peripheral Axons Form Endoplasmic Reticulum-Rich Conduits With Breast Cancer Cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.02.763595v1?rss=1",
+  "abstract": "Peripheral nerves are active components of the tumor microenvironment, but the physical routes by which sensory axons communicate with cancer cells remain incompletely defined. Here, we show that primary dorsal root ganglion neurons form thin membrane conduits with EMT6 breast cancer cells that contain endoplasmic reticulum (ER). ER-Tracker labeling and neuron-restricted expression of the ER proteins CNPY2 and ATL3 identified ER-rich axonal extensions terminating on cancer cells. Serial-section scanning transmission electron microscopy resolved ER-like membranes within these conduits and at axon-cancer cell interfaces. Scanning electron microscopy and live holotomographic imaging further revealed dynamic contact formation and associated remodeling of the cancer cell surface. These observations define an ER-containing structural interface between sensory axons and cancer cells and provide a framework for testing whether neuronal ER contributes to direct intercellular signaling or material transfer.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "",
+  "score": 0.93
  }
 }
