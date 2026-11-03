@@ -11578,5 +11578,385 @@
   "date": "2026-11-02T00:00:00+00:00",
   "type": "",
   "score": 1.11
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2298/789592/The-Landscape-of-Prostate-Tumor-MethylationThe": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2298/789592/The-Landscape-of-Prostate-Tumor-MethylationThe",
+  "title": "The Landscape of Prostate Tumor Methylation",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2298/789592/The-Landscape-of-Prostate-Tumor-MethylationThe",
+  "abstract": "Abstract Prostate cancer is characterized by profound clinical and molecular heterogeneity. Although its genomic heterogeneity is well characterized, its epigenomic heterogeneity remains less understood. We therefore created a compendium of 3,001 multiancestry prostate methylomes spanning normal tissue through localized disease of all grades to polymetastatic disease. A subset of 884 samples had multiomic DNA and/or RNA characterization. We identify four epigenomic subtypes that risk-stratify patients and reflect distinct evolutionary trajectories. We demonstrate extensive regulatory interplay between DNA copy number and methylation, with transcriptional consequences that vary across genes and disease stages. We define epigenetic dysregulation signatures for 15 important clinicomolecular features, creating predictive models for each. For example, we identify specific epigenetic features that predict patient outcome and are synergistic with clinical prognostic features. These results define a complex interplay between tumor genetics and epigenetics that converges to modify gene expression programs and clinical presentation, in part through modulation of epigenetic aging. Significance: We define the largest prostate cancer methylome resource to date, revealing four epigenomic subtypes that stratify cancers by their genetics, evolution, and clinical phenotypes. These data demonstrate that genome\u2013epigenome interactions are stage-dependent, positioning DNA methylation as a central, clinically informative driver of prostate cancer heterogeneity.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 0.79
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2274/789591/Targeting-KRAS-Codon-13-Mutations-Using-Direct": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2274/789591/Targeting-KRAS-Codon-13-Mutations-Using-Direct",
+  "title": "Targeting KRAS Codon 13 Mutations Using Direct Combination Approaches in Non\u2013Small Cell Lung Cancer",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2274/789591/Targeting-KRAS-Codon-13-Mutations-Using-Direct",
+  "abstract": "Abstract Direct inhibitors of KRAS G12C are now used as standard-of-care therapy in KRAS G12C -mutant non\u2013small cell lung cancer (NSCLC), but less is understood about the molecular mechanisms and consequent treatment vulnerabilities of KRAS codon 13 mutations in this setting. In this study, we characterized the tumorigenic properties of NSCLC harboring KRAS G13X in a large multinational cohort of patients with NSCLC and in preclinical models of KRAS G13X NSCLC. Induction of KRAS G13C or KRAS G13D expression confers reduced oncopotency compared with allele-specific controls affecting KRAS codon 12, particularly KRAS G13C . We identified functionally relevant comutations in KRAS G13X NSCLC, including KEAP1 , STK11 , BRAF , and NF1 . The novel RAS(ON) G13C-selective inhibitor, RMC-8839, reduces viability in a panel of KRAS G13C NSCLC cell models. To determine combination partners that enhance RAS(ON) mutant-selective inhibition, a drug repurposing screen revealed that KRAS G13C models are selectively vulnerable to chemotherapy. Combination of docetaxel with RMC-8839 demonstrated robust antiproliferative activity in KRAS G13C -driven NSCLC models in vitro and in vivo . Significance: We characterize the second most common KRAS mutational hotspot in NSCLC after codon 12, KRAS G13X , from tumor initiation to advanced disease. KRAS G13C is a novel, directly targetable subset of NSCLC, with vulnerability to the combination of chemotherapeutics and the mutant-selective RAS(ON) inhibitor RMC-8839, a finding immediately relevant to patient care. See related commentary by Araujo and Skoulidi, p. 2206 See related article by Seamon et al., p. 2256",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 2.81
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2392/789590/Gut-Pathobionts-Translocate-into-the-Liver-and": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2392/789590/Gut-Pathobionts-Translocate-into-the-Liver-and",
+  "title": "Gut Pathobionts Translocate into the Liver and Reshape Intrahepatic Microbiome to Facilitate Hepatocellular Carcinoma",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2392/789590/Gut-Pathobionts-Translocate-into-the-Liver-and",
+  "abstract": "Abstract The role of intrahepatic microbiome in hepatocellular carcinoma (HCC) remains elusive. In this study, we profiled matched gut and intrahepatic microbiomes from patients with HCC and healthy subjects. Compared with healthy subjects, we observed increased gut\u2013liver microbiome similarity and a gut pathobiont\u2013centered network in HCC, implying microbial transfer via the gut\u2013liver axis. Consistently, HCC stool transplantation to germ-free mice impaired gut barrier function and increased bacterial load in the liver. Multisite analysis of intrahepatic microbiome and host transcriptome revealed that gut pathobionts in tumor regions positively correlate with host cytokine expression and oncogenic pathways. Administration of HCC-enriched Bacteroides fragilis disrupted gut barrier in mice and led to live bacteria translocation to the liver. B. fragilis exacerbated liver damage and promoted HCC development in mice. Mechanistically, B. fragilis surface protein enolase interacts with and activates vimentin on hepatocytes, triggering oncogenic cascades. Our findings provide insight into how gut pathobionts translocate to the liver to promote hepatocarcinogenesis. Significance: Parallel characterization of stool and intrahepatic microbiomes from patients with HCC and healthy subjects revealed gut\u2013liver microbial transfer. The gut pathobiont B. fragilis disrupts gut barrier and translocates as live bacteria to the liver. Its surface protein enolase binds hepatocyte vimentin to activate proinflammatory and oncogenic signaling, thereby promoting liver tumorigenesis. See related commentary by Chojnacka and Grivennikov, p. 2214",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 0.82
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2242/789589/EML4-ALK-Mediates-Resistance-to-KRASG12C": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2242/789589/EML4-ALK-Mediates-Resistance-to-KRASG12C",
+  "title": "EML4\u2212ALK Mediates Resistance to KRAS G12C Inhibition and Induces an Oncogenic Dependency by Rewiring Signaling through the Wild-Type RAS Pathway",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2242/789589/EML4-ALK-Mediates-Resistance-to-KRASG12C",
+  "abstract": "Abstract KRAS mutations are common oncogenic drivers in human cancers, with the KRAS G12C variant being a key target in lung adenocarcinoma. Despite the FDA approval of KRAS G12C -selective inhibitors, their clinical efficacy has been limited, as evidenced by trials showing modest response rates and resistance development through the selection of acquired genomic alterations. Our study explores the mechanisms underlying acquired EML4\u2013ALK fusion in KRAS G12C -driven tumors developing resistance to KRAS G12C inhibitors and potential therapeutic strategies to overcome it. Our findings reveal that combined ALK/KRAS G12C inhibition is an effective therapeutic approach in this context. Moreover, we observed that KRAS G12C /EML4\u2013ALK tumor cells kept under constant pressure with KRAS G12C inhibitors exhibit sensitivity to single-agent ALK inhibitors, suggesting a potential for rationally designed sequential treatments. Mechanistically, EML4\u2013ALK bypasses KRAS G12C inhibition by activating wild-type RAS, highlighting an additional therapeutic opportunity for multiselective RAS inhibitors under clinical investigation. Significance: Acquired EML4\u2013ALK fusions confer resistance to KRAS inhibition in KRAS G12C -driven lung adenocarcinoma. By rewiring the oncogenic signaling under inhibitor pressure, EML4\u2013ALK creates a new oncogenic dependency that can be exploited for more effective therapeutic strategies. See related commentary by Araujo and Skoulidi, p. 2206",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 2.72
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2366/789588/CDK8-Inhibition-Induces-Mediator-Trapping-and": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2366/789588/CDK8-Inhibition-Induces-Mediator-Trapping-and",
+  "title": "CDK8 Inhibition Induces Mediator Trapping and Impairment of the EWSR1::FLI1 Transcriptional Program in Ewing Sarcoma",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2366/789588/CDK8-Inhibition-Induces-Mediator-Trapping-and",
+  "abstract": "Abstract Ewing sarcoma is characterized by a chromosomal translocation resulting in the fusion protein EWSR1::FLI1. We utilize endogenous EWSR1::FLI1 target gene reporters in patient-derived cell lines to perform a high-throughput phenotypic screen to identify small molecules that impair the EWSR1::FLI1 transcriptional program. We discovered that inhibitors of cyclin-dependent kinase 8 (CDK8), including a novel pyridyl imidazole, altered transcription of EWSR1::FLI1 target genes and CDK8 co-localized with EWSR1::FLI1 preferentially on single GGAA DNA-binding motifs. Using pooled CRISPR screening, biochemical studies, and chromatin profiling, we discovered that CDK8 inhibitors suppressed proliferation of Ewing sarcoma cells through a gain-of-function mechanism by inducing molecular trapping of the CDK8 kinase module and Mediator complex on chromatin. This mechanism has implications for the development of small molecules to target transcription and suggests that impairment of transcriptional regulatory complex dynamics might serve as a vulnerability in cancers in which the dominant oncogenes act as dosage-sensitive transcription factors. Significance: A high-throughput screen using endogenous EF target gene reporter alleles identified CDK8 as a modifier of EF transcriptional regulation. Using pooled CRISPR screening, biochemical studies, and chromatin profiling, we discovered that CDK8 inhibitors impaired transcriptional regulation through molecular trapping of CDK8 and the Mediator complex on chromatin. See related commentary by Stevens and Hatley, p. 2210",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.6
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789587/Serpins-Establish-Fibrin-Rich-Suppressive-Niches": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789587/Serpins-Establish-Fibrin-Rich-Suppressive-Niches",
+  "title": "Serpins Establish Fibrin-Rich Suppressive Niches in Pancreatic Cancer",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789587/Serpins-Establish-Fibrin-Rich-Suppressive-Niches",
+  "abstract": "Major Finding: Serpins drive fibrin-dependent immune suppression and resistance to PD-1 blockade. Concept: Tumor-derived serpins locally reshape the extracellular matrix and promote macrophage polarization to suppress immune surveillance. Impact: Targeting the serpin\u2013fibrin axis may enhance immunotherapy by reducing suppressive macrophages and promoting CD8 + T-cell infiltration.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.95
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2256/789586/Selective-Inhibition-of-KRASG13C-Reveals-an": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2256/789586/Selective-Inhibition-of-KRASG13C-Reveals-an",
+  "title": "Selective Inhibition of KRAS G13C Reveals an Increased Dependence on Wild-type RAS Isoforms in Codon 13 RAS-Mutant Cancers",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2256/789586/Selective-Inhibition-of-KRASG13C-Reveals-an",
+  "abstract": "Abstract Covalent KRAS G12C inhibitors have changed the treatment landscape for patients with non\u2013small cell lung cancer and colorectal cancer, but numerous RAS-mutant cancers lack approved targeted therapies. In this study, we describe RMC-8839, an oral RAS(ON) G13C-selective, covalent, tricomplex inhibitor that induced tumor regressions in selected KRAS G13C -mutant xenograft models. However, one third of KRAS G13C -mutant human cancer cell lines in vitro showed incomplete RAS pathway suppression despite near-complete KRAS G13C engagement, suggesting a role for wild-type RAS(ON). We find that codon 13\u2013mutant RAS differs from other KRAS mutations, exhibiting decreased stability, increased nucleotide exchange, and substantial intrinsic and guanosine triphosphatase-activating protein\u2013stimulated GTP hydrolysis, which decreases oncogenicity. Furthermore, co-occurring RAS pathway mutations leading to increased wild-type RAS activation are enriched in codon 13\u2013mutant tumors. Consistent with a role for wild-type RAS(ON) signaling, the combination of RMC-8839 with a RAS(ON) multiselective inhibitor resulted in deeper inhibition of KRAS G13C -mutant xenograft tumor growth than either inhibitor alone. Significance: An enhanced understanding of the underlying biology of RAS mutations is critical to inform therapeutic strategies. Our preclinical data highlight that codon 13 mutant tumors are more reliant on wild-type RAS signaling than codon 12 tumors and demonstrate that this can be addressed by combining RAS(ON) G13C-selective and multiselective inhibitors. See related commentary by Araujo and Skoulidi, p. 2206 See related article by McDaid et al., p. 2274",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 2.66
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789585/Cancer-AI-Moves-Toward-Foundation-Model": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789585/Cancer-AI-Moves-Toward-Foundation-Model",
+  "title": "Cancer AI Moves Toward Foundation Model Combos",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789585/Cancer-AI-Moves-Toward-Foundation-Model",
+  "abstract": "Abstract: Foundation models are transforming cancer AI, but no single model consistently excels across every task. Researchers are increasingly combining models to improve performance and robustness, from interpreting pathology slides to selecting drugs for individual tumors.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 0.84
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789584/Tumor-Derived-Antioxidants-Suppress-T-Cell": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789584/Tumor-Derived-Antioxidants-Suppress-T-Cell",
+  "title": "Tumor-Derived Antioxidants Suppress T-Cell Activation",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789584/Tumor-Derived-Antioxidants-Suppress-T-Cell",
+  "abstract": "Major Finding: Tumor-derived antioxidants disrupt reactive oxygen species (ROS) balance within the tumor microenvironment, suppressing antitumor immunity. Concept: Peroxiredoxin 1 (PRDX1)-mediated ROS depletion inhibits signaling and effector function of T cells. Impact: PRDX1-driven tumor immunosuppression highlights redox state as a potential targetable vulnerability.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.59
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789583/Macropinocytosis-Enables-Recyclable-Lysosome": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789583/Macropinocytosis-Enables-Recyclable-Lysosome",
+  "title": "Macropinocytosis Enables Recyclable Lysosome-Targeting Chimeras",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789583/Macropinocytosis-Enables-Recyclable-Lysosome",
+  "abstract": "Major Finding: A receptor-independent lysosome-targeting chimera (LYTAC) shuttles its target to the lysosome for degradation and recycles to the cell surface. Concept: A zwitterionic polymer drives uptake by macropinocytosis, and vesicle acidification releases the target, letting the degrader escape via exocytosis. Impact: Receptor-independent recycling widens targeted protein degradation to tumors lacking expression of recycling receptors and enhances the degradation efficiency.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 2.05
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2432/789582/Editor-s-Note-High-Level-Clonal-FGFR-Amplification": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2432/789582/Editor-s-Note-High-Level-Clonal-FGFR-Amplification",
+  "title": "Editor\u2019s Note: High-Level Clonal FGFR Amplification and Response to FGFR Inhibition in a Translational Clinical Trial",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2432/789582/Editor-s-Note-High-Level-Clonal-FGFR-Amplification",
+  "abstract": "The editors are publishing this note to alert readers to an issue about this article ( 1 ). In Fig. 5G, the panel representing Total AKT is a duplication of the panel representing IGF1R. The authors state that both AKT and IGF1R were on the same blot and probed at the same time, which led to this figure error. The authors located the AKT western blot they intended to use in Fig. 5G, which is included within a revised Fig. 5G in Supplementary Data S1 for this notice. The original western blots for this figure are included in Supplementary Data S2.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.31
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789581/Phase-III-Trials-Test-First-Line-Options-in": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789581/Phase-III-Trials-Test-First-Line-Options-in",
+  "title": "Phase III Trials Test First-Line Options in Advanced NSCLC",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789581/Phase-III-Trials-Test-First-Line-Options-in",
+  "abstract": "Abstract: Presented at the 2026 World Conference on Lung Cancer, two phase III trials\u2014PAPILLON and REZILIENT3\u2014established amivantamab and zipalertinib combination therapies as effective first-line strategies for advanced NSCLC with EGFR exon 20 insertions, with significantly improved progression-free survival, although high crossover rates prevented them demonstrating an overall survival benefit. Separately, HARMONi-2 showed that the bispecific antibody ivonescimab improved overall survival versus pembrolizumab in PD-L1\u2013positive NSCLC, supporting its use as standard of care in China while larger global trials continue.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 2.24
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789580/Microplastics-and-Cancer-Still-Searching-for": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789580/Microplastics-and-Cancer-Still-Searching-for",
+  "title": "Microplastics and Cancer: Still Searching for Causation",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789580/Microplastics-and-Cancer-Still-Searching-for",
+  "abstract": "Abstract: Micro- and nanoplastics have been found in tumors throughout the human body, from the gut and lung to the brain and prostate, and laboratory work ties them to inflammation, DNA damage, and other cancer-related changes. But nearly all that evidence is either associative or drawn from animals and cells. Researchers say a causal verdict will require studies that measure exposure before disease appears, a bar the field has not yet cleared.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 0.81
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789579/Lymphoid-Structures-within-Skull-Bone-Marrow": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789579/Lymphoid-Structures-within-Skull-Bone-Marrow",
+  "title": "Lymphoid Structures within Skull Bone Marrow Promote Immunosurveillance",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789579/Lymphoid-Structures-within-Skull-Bone-Marrow",
+  "abstract": "Main Finding: Skull bone marrow contains germinal center-like niches that mount early antigen-specific responses to brain tumors. Concept: T FH cells and B cells in skull bone marrow support local immunosurveillance of brain-derived antigens. Impact: Boosting the lymphoid response of skull bone marrow may enhance antitumor immunity in brain cancers.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.7
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789578/Spatial-Lineage-Tracing-Reveals-Tumor": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789578/Spatial-Lineage-Tracing-Reveals-Tumor",
+  "title": "Spatial Lineage Tracing Reveals Tumor\u2013Microenvironment Coevolution",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789578/Spatial-Lineage-Tracing-Reveals-Tumor",
+  "abstract": "Main Finding: Lineage tracing links subclonal expansion to hypoxic niches that promote metastatic cell states. Concept: Tumor subclonal expansion reshapes local ecosystems, generating hypoxia and immunosuppressive microenvironments that promote metastatic programs. Impact: These findings suggest that hypoxia-driven remodeling of the tumor ecosystem might be a potential target for preventing metastasis.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.12
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2322/789577/A-Pan-Cancer-Single-Cell-Analysis-of-Intratumoral": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2322/789577/A-Pan-Cancer-Single-Cell-Analysis-of-Intratumoral",
+  "title": "A Pan-Cancer Single-Cell Analysis of Intratumoral Copy-Number Diversity and Evolution",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2322/789577/A-Pan-Cancer-Single-Cell-Analysis-of-Intratumoral",
+  "abstract": "Abstract Aneuploidy is a hallmark of human tumors. Although patient-level copy-number alteration (CNA) differences have been investigated extensively in large cohorts, their intratumoral heterogeneity remains understudied. In this study, we conducted a pan-cancer analysis of 94 human tumors at single-cell resolution, representing seven cancer types: bladder, breast, colon, glioblastoma, kidney, lung, and ovarian. Single-cell copy-number profiling was used to analyze 62,646 aneuploid cells, in addition to bulk exome sequencing of most patients and single-nucleus RNA sequencing of six samples. In many cancer types, increased subclonal diversity was associated with higher CNA burden, whole-genome doubling (WGD), TP53 mutations, and increased geographic diversity. Cancer cells from each patient shared a set of truncal CNAs, suggesting evolution from a single ancestral cell. Many tumors accumulated CNAs in bursts of evolution, suggesting that punctuated evolution is common in diverse cancer types. This study greatly improves our knowledge of intratumoral chromosome diversity across human cancers. Significance: This study presents one of the largest pan-cancer single-cell DNA sequencing analyses, profiling intratumoral copy-number heterogeneity across seven major cancer types. The data identified punctuated evolution, clonal origins, subclonal WGD, spatial heterogeneity, and associations between copy-number and transcriptional diversity, with implications for both cancer diagnosis and treatment.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.97
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2214/789576/Breaking-Barriers-Gut-Pathobionts-Promote": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2214/789576/Breaking-Barriers-Gut-Pathobionts-Promote",
+  "title": "Breaking Barriers: Gut Pathobionts Promote Hepatocellular Carcinoma",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2214/789576/Breaking-Barriers-Gut-Pathobionts-Promote",
+  "abstract": "Summary: Although studies of microbiota in hepatocellular carcinoma (HCC) and possible involvement of the gut\u2013liver axis are of significant interest, the origin and functional role of the liver and intratumoral microbiota in HCC have remained unclear. Liu and colleagues show that gut pathobionts, in particular Bacteroides fragilis , translocate through the gut\u2013liver axis, colonize and reshape the intrahepatic microbiome, and promote HCC through a distinct mechanism in which bacterial enolase binds hepatocyte vimentin, revealing potential therapeutic opportunities. See related article by Liu et al., p. 2392",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 0.89
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2206/789575/Expanding-the-RAS-verse-Novel-Inhibitors-Emergent": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2206/789575/Expanding-the-RAS-verse-Novel-Inhibitors-Emergent",
+  "title": "Expanding the RAS-verse: Novel Inhibitors, Emergent Dependencies, Fresh Opportunities in RAS -Mutant NSCLC",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2206/789575/Expanding-the-RAS-verse-Novel-Inhibitors-Emergent",
+  "abstract": "Summary: In this issue, two studies establish KRAS G13C as a directly targetable oncoprotein in non\u2013small cell lung cancer (NSCLC) while revealing distinct dependence of codon 13\u2013mutant NSCLC on wild-type (WT) RAS and enhanced sensitivity to standard-of-care chemotherapy. A third study highlights rewired oncogenic signaling through WT RAS as a therapeutically tractable mechanism of resistance to KRAS G12C inhibitors in the context of acquired oncogenic kinase fusions. See related article by Scaparone et al., p. 2242 See related article by Seamon et al., p. 2256 See related article by McDaid et al., p. 2274",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 2.75
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2344/789574/CDK8-Inhibition-Releases-the-Muscle": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2344/789574/CDK8-Inhibition-Releases-the-Muscle",
+  "title": "CDK8 Inhibition Releases the Muscle Differentiation Block in Fusion-Driven Alveolar Rhabdomyosarcoma",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2344/789574/CDK8-Inhibition-Releases-the-Muscle",
+  "abstract": "Abstract Alveolar rhabdomyosarcoma (aRMS) is a fusion-driven pediatric cancer with poor survival and limited therapeutic options. To uncover novel vulnerabilities, we used complex-Map functional genomic data, identifying CDK8 as a dependency in aRMS. Both CDK8 knockout and pharmacologic inhibition impaired tumor cell growth and induced myogenic differentiation in vitro and in vivo . Compared with genetic loss, CDK8 pharmacologic inhibition induced more dynamic transcriptional changes. With a genome-scale CRISPR\u2013Cas9 drug modifier screen, we determined that the maximal antitumor activity of the CDK8 inhibitor requires the presence of the Mediator kinase module, including CDK8, and transcriptional cooperation with the SAGA complex. We further identified SIX4 as a key transcription factor mediating CDK8 inhibitor\u2013induced transcriptional activation of myogenic differentiation genes and impaired tumor proliferation. These findings suggest a distinct gain-of-function mechanism of the CDK8 inhibitor and establish a strong rationale for CDK8 inhibition as a differentiation-inducing therapeutic strategy in aRMS. Significance: We provide a framework for uncovering therapeutic targets by network-based analysis of functional genomic screens. We identify CDK8 as a druggable target in aRMS and determine that CDK8 inhibition drives myogenic differentiation and impairs tumor progression via a collaborative mechanism involving the Mediator kinase module, SAGA complex, and SIX4. See related commentary by Stevens and Hatley, p. 2210",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.39
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2210/789573/It-s-a-Trap-CDK8-Inhibition-Reveals-a-Shared": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2210/789573/It-s-a-Trap-CDK8-Inhibition-Reveals-a-Shared",
+  "title": "It\u2019s a Trap! CDK8 Inhibition Reveals a Shared Vulnerability through Mediator Trapping in Fusion-Driven Pediatric Sarcomas",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2210/789573/It-s-a-Trap-CDK8-Inhibition-Reveals-a-Shared",
+  "abstract": "Summary: A large proportion of pediatric sarcomas are driven by neomorphic transcription factors that are challenging therapeutic targets. In this issue, two independent studies identify CDK8 as a shared therapeutic vulnerability in pediatric fusion oncoprotein\u2013driven sarcomas and reveal that CDK8 inhibitors disrupt oncogenic transcriptional programs through an unexpected gain-of-function mechanism involving Mediator complex trapping on chromatin. See related article by Zhang et al., p. 2344 See related article by McGinnis et al., p. 2366",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.75
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789572/Anti-B7-H3-ADCs-Take-Center-Stage-against-SCLC-at": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789572/Anti-B7-H3-ADCs-Take-Center-Stage-against-SCLC-at",
+  "title": "Anti\u2013B7-H3 ADCs Take Center Stage against SCLC at WCLC",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789572/Anti-B7-H3-ADCs-Take-Center-Stage-against-SCLC-at",
+  "abstract": "Abstract: Separate phase III trials of the anti\u2013B7-H3 antibody\u2013drug conjugates tambotatug pelitecan and risvutatug rezetecan significantly improved overall survival, progression-free survival, and objective response rates compared with topotecan in patients with relapsed small-cell lung cancer. In a third trial, the combination of the investigational PD-L1 x VEGF-A bispecific antibody pumitamig plus the anti\u2013B7-H3 ADC elfetabart drozuntecan showed encouraging early efficacy in SCLC across lines of therapy and doses. The studies were presented at the 2026 World Congress on Lung Cancer in Seoul, Republic of Korea.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.19
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789571/How-a-Rare-Inherited-Lung-Cancer-Mutation-Took": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789571/How-a-Rare-Inherited-Lung-Cancer-Mutation-Took",
+  "title": "How a Rare Inherited Lung Cancer Mutation Took Root in Appalachia",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789571/How-a-Rare-Inherited-Lung-Cancer-Mutation-Took",
+  "abstract": "Abstract A rare inherited EGFR mutation took root in Southern Appalachia after being carried to the United States by European settlers in the 1700s. Mapping the distribution of this germline EGFR T790M variant could help clinicians identify people at elevated risk of lung cancer and target them for genetic testing and closer surveillance.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.09
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789570/Caloric-Intake-Impacts-Somatic-Mutation-Burden": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789570/Caloric-Intake-Impacts-Somatic-Mutation-Burden",
+  "title": "Caloric Intake Impacts Somatic Mutation Burden Across Mouse Tissues",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789570/Caloric-Intake-Impacts-Somatic-Mutation-Burden",
+  "abstract": "Major Finding: Caloric intake directly influences somatic mutation burdens in mouse kidney, liver, and brain. Concept: Caloric restriction reduces mutations more in regions of low transcriptional activity. Impact: The study establishes that aging-related mutation is modifiable in mice, and understanding the mechanisms via future studies may enable interventions to broadly influence cancer risk.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 0.87
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2414/789569/Tumor-Microbial-Burden-Drives-Immune-Responses": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2414/789569/Tumor-Microbial-Burden-Drives-Immune-Responses",
+  "title": "Tumor Microbial Burden Drives Immune Responses through Regulation of Interferon Signaling",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2414/789569/Tumor-Microbial-Burden-Drives-Immune-Responses",
+  "abstract": "Abstract Tumor microbes are increasingly recognized for modulating tumor behavior and therapy responses. Intratumoral microbial burden (ITMB) analysis across cancers revealed regulation of immune pathways and activated mast cells, mostly in colorectal and gastric cancers. High-ITMB colorectal cancer leads to interferon (IFN) regulation and is associated with improved outcomes in advanced disease. Single-cell sequencing revealed induction of IFN-related genes (IRG) within microbe-containing human colorectal cancer. Gastrointestinal-luminal mismatch repair\u2013deficient (MMRd) tumors had higher ITMB than proficient tumors. In a rectal MMRd cohort with 100% remission after immune checkpoint blockade (ICB), tumor microbes and microbe-containing mast cells increased. In ICB-sensitive syngeneic murine MMRd tumor models, local tumor microbial depletion impaired ICB efficacy while downregulating IFN signaling. Forced upregulation of IRGs in ADAR1-deficient cancer cells restored immunotherapy responses during microbial ablation. These data highlight dynamic interplay among ITMB, host defense, and immunogenicity, which seems key to determine therapy responses. Significance: The ITMB is linked to transcriptional and immune functional changes that seem to determine tumor sensitivity to immunotherapy. These findings highlight the key role of tumor-resident microbes in shaping the tumor ecosystem, which could be targeted to modulate therapy responses.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.36
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2235/789568/Deconvolving-SARS-CoV-2-mRNA-Vaccine-Impact-on": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2235/789568/Deconvolving-SARS-CoV-2-mRNA-Vaccine-Impact-on",
+  "title": "Deconvolving SARS-CoV-2 mRNA Vaccine Impact on Immunotherapy-Related Survival",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2235/789568/Deconvolving-SARS-CoV-2-mRNA-Vaccine-Impact-on",
+  "abstract": "Abstract Real-world data suggest that SARS-CoV-2 mRNA vaccines, administered within 100 days of immune checkpoint inhibitor (ICI) treatment (\u201cperi-ICI vaccination\u201d), may improve ICI effectiveness through synergistic immune priming. In an independent real-world cohort and reanalysis of a published cohort, both from tertiary cancer centers in the United States, multiple analyses did not support a treatment-synergy hypothesis. Applying a prior analytic framework, although longer survival with peri-ICI vaccination was observed at the start of the pandemic, this association was not seen in periods when vaccination was broadly available. Longer survival with vaccination in the early pandemic was also not specific to ICI therapies. Progression-free survival during periods of high vaccine uptake was not longer than in prevaccination periods. Together, these findings indicate that the previously reported vaccination survival advantage is largely explained by selection bias, with patients who had more favorable prognoses more likely to receive the SARS-CoV-2 vaccination, particularly in the early pandemic. Significance: The impact of tumor antigen\u2013agnostic vaccination on immunotherapy response is unclear. In a reanalysis of published data and in an independent cohort, after adjustment for multiple confounders, SARS-CoV-2 mRNA vaccination did not improve immunotherapy-related survival in patients with cancer.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.4
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2217/789567/Targeting-RAS-for-Pancreatic-Cancer": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2217/789567/Targeting-RAS-for-Pancreatic-Cancer",
+  "title": "Targeting RAS for Pancreatic Cancer Interception",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2217/789567/Targeting-RAS-for-Pancreatic-Cancer",
+  "abstract": "Summary: Multiple strategies to target RAS are now available to treat pancreatic cancer. As pancreatic precancers also have KRAS mutations, these tools hold great promise for cancer interception.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 2.4
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789566/New-Studies-Showcase-Capabilities-of-OrganoidsNew": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789566/New-Studies-Showcase-Capabilities-of-OrganoidsNew",
+  "title": "New Studies Showcase Capabilities of Organoids",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789566/New-Studies-Showcase-Capabilities-of-OrganoidsNew",
+  "abstract": "Abstract: Three recent papers show the potential benefits of several hundred new organoids, spheroids, and other cancer models. One study demonstrates that more than 600 of the models mirror their parent tumors. A second study uses organoids to uncover new cancer dependencies, or essential genes, in 147 organoids from 10 cancer types. The third study also identifies new cancer dependencies and shows that organoids from individual patients might lead to new treatment choices.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.67
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789565/Q-amp-A-Eileen-O-Reilly-on-Pancreatic-CancerQ-amp": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789565/Q-amp-A-Eileen-O-Reilly-on-Pancreatic-CancerQ-amp",
+  "title": "Q&A: Eileen O\u2019Reilly on Pancreatic Cancer",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789565/Q-amp-A-Eileen-O-Reilly-on-Pancreatic-CancerQ-amp",
+  "abstract": "Abstract: Eileen M. O\u2019Reilly, MD, a medical oncologist at Memorial Sloan Kettering Cancer Center in New York, NY, whose research focuses on therapies for pancreas cancer, spoke with Cancer Discovery \u2019s Suzanne Rose about daraxonrasib combinations, treatment strategies under development, the need for genomic testing, and what big headlines might come in pancreas cancer.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.72
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789564/Spatial-Proximity-Mapping-Identifies": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789564/Spatial-Proximity-Mapping-Identifies",
+  "title": "Spatial Proximity Mapping Identifies Vulnerabilities for Therapeutic Co-Targeting",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789564/Spatial-Proximity-Mapping-Identifies",
+  "abstract": "Major Finding: Proximity mapping identifies CDCP1 as a tumor-associated proximity antigen partner of EGFR, wherein co-targeting of EGFR and CDCP1 boosts tumor cell killing across multiple modalities. Concept: Photocatalytic proximity labeling and graph-based machine learning map tumor surface protein networks. Impact : The concept of tumor-associated proximity antigens is a promising tool to identify novel and tumor-specific therapeutic co-targets.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.92
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789563/Lean-Adipocytes-Secrete-Lipids-that-Sensitize": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789563/Lean-Adipocytes-Secrete-Lipids-that-Sensitize",
+  "title": "Lean Adipocytes Secrete Lipids that Sensitize Breast Cancer to Ferroptosis",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789563/Lean-Adipocytes-Secrete-Lipids-that-Sensitize",
+  "abstract": "Major Finding: Adipocytes from lean mammary tissue suppress breast cancer growth by paracrine oxylipin signaling. Concept: High levels of the oxylipin 9( S )-HODE in the lean secretome increase lipid peroxidation and ferroptosis in breast cancer cells. Impact: 9( S )-HODE may potentially be leveraged for therapeutic benefit in breast cancer management.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 0.96
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2203/789562/Highlighted-Research-Articles": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2203/789562/Highlighted-Research-Articles",
+  "title": "Highlighted Research Articles",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2203/789562/Highlighted-Research-Articles",
+  "abstract": "",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 0.74
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/2223/789561/Nucleoporins-in-Cancer-Functional-Roles-and": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/2223/789561/Nucleoporins-in-Cancer-Functional-Roles-and",
+  "title": "Nucleoporins in Cancer: Functional Roles and Therapeutic Opportunities",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/2223/789561/Nucleoporins-in-Cancer-Functional-Roles-and",
+  "abstract": "Abstract The nuclear pore complex (NPC) and its building-block proteins, nucleoporins (NUP), play fundamental roles in maintaining cellular fitness by regulating nucleocytoplasmic transport, chromatin and transcriptional activity, and genome stability. These core biological processes are critical for cancer cells, and thus, tumor-driven co-option of NUP-regulated functions has emerged as an important mechanism contributing to the pathogenesis of multiple malignancies. This review discusses how NUP dysregulation mechanistically contributes to tumor initiation and progression and how these insights open opportunities for innovative anticancer therapies, including using clinical-grade molecular glues that induce selective NUP degradation and pharmacologically inhibiting NPC-regulated epigenomic/transcriptomic signaling and nucleocytoplasmic transport. Significance: Recent studies demonstrate that NUPs play fundamental roles in cancer pathogenesis by dysregulating key NPC functions and driving tumorigenesis and disease progression. NUPs and NPC-regulated mechanisms can be pharmacologically targeted, providing a strong rationale for developing much-needed innovative therapeutic strategies to combat cancer.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.88
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789560/Q-amp-A-Keith-Flaherty-on-Advances-in-Cancer": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789560/Q-amp-A-Keith-Flaherty-on-Advances-in-Cancer",
+  "title": "Q&A: Keith Flaherty on Advances in Cancer Research",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789560/Q-amp-A-Keith-Flaherty-on-Advances-in-Cancer",
+  "abstract": "Abstract: Keith T. Flaherty, MD, who began a 1-year term as president of the American Association for Cancer Research in April 2026, spoke with Cancer Discovery \u2019s Suzanne Rose about his work, what he sees as the most exciting advances in cancer research, and his vision for the future.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 0.86
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789559/Binding-To-Release-Enhances-Efficacy-of-Small": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789559/Binding-To-Release-Enhances-Efficacy-of-Small",
+  "title": "Binding-To-Release Enhances Efficacy of Small Molecule\u2013Drug Conjugates",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789559/Binding-To-Release-Enhances-Efficacy-of-Small",
+  "abstract": "Major Finding: Binding-to-release (BTR) drug conjugates inhibit tumor growth in multiple tumor models by specifically and efficiently delivering a membrane-permeable cytotoxic payload. Concept: PhoPEx-based conjugates can be cleaved upon extracellular target binding, eliminating the need for endocytosis-mediated payload release. Impact: This study provides a framework for an innovative therapeutic strategy that can be generalized for various target proteins and tumor types.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.95
+ },
+ "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789558/Domain-Shuffling-Builds-Synthetic-Genes-that-Boost": {
+  "guid": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789558/Domain-Shuffling-Builds-Synthetic-Genes-that-Boost",
+  "title": "Domain Shuffling Builds Synthetic Genes that Boost CAR T-Cell Design",
+  "link": "https://aacrjournals.org/cancerdiscovery/article/16/11/OF1/789558/Domain-Shuffling-Builds-Synthetic-Genes-that-Boost",
+  "abstract": "Major Finding: Recombining protein domains across protein families can generate synthetic transcription factors that outperform naturally evolved transcription factors in CAR T-cell engineering. Concept: Synthetic, domain-shuffled proteins can bind the same genomic sites as natural proteins but regulate them differently. Impact: Domain-level gene engineering could unlock new therapeutic cell states, with implications for cell engineering for anticancer therapies.",
+  "source": "Cancer Discovery Current Issue",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "",
+  "score": 1.02
+ },
+ "https://www.nature.com/articles/s41419-026-09371-z": {
+  "guid": "https://www.nature.com/articles/s41419-026-09371-z",
+  "title": "Targeting UDP-GlcNAc\u2013mediated O-GlcNAcylation in regulatory T cells attenuates immunotherapy resistance in esophageal squamous cell carcinoma",
+  "link": "https://www.nature.com/articles/s41419-026-09371-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "",
+  "score": 2.02
+ },
+ "https://www.nature.com/articles/s41598-026-77240-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-77240-y",
+  "title": "USP54 regulates RIPK1 protein abundance via deubiquitination in acquired sorafenib resistance in hepatocellular carcinoma",
+  "link": "https://www.nature.com/articles/s41598-026-77240-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "",
+  "score": 1.56
+ },
+ "https://www.nature.com/articles/s41418-026-01847-x": {
+  "guid": "https://www.nature.com/articles/s41418-026-01847-x",
+  "title": "Targeting the circ_0042819-PLA2G6 axis sensitizes multiple myeloma to proteasome inhibitors through ferroptosis induction",
+  "link": "https://www.nature.com/articles/s41418-026-01847-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-03T00:00:00+00:00",
+  "type": "",
+  "score": 0.8
  }
 }
