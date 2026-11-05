@@ -13348,5 +13348,75 @@
   "date": "2026-11-04T00:00:00+00:00",
   "type": "",
   "score": 1.11
+ },
+ "https://www.nature.com/articles/s41420-026-03436-w": {
+  "guid": "https://www.nature.com/articles/s41420-026-03436-w",
+  "title": "WDR54 stabilizes the fatty acid transporter SLC43A3 via the deubiquitinase OTUB1 to drive HNSCC progression",
+  "link": "https://www.nature.com/articles/s41420-026-03436-w",
+  "abstract": "Metabolic reprogramming drives head and neck squamous cell carcinoma (HNSCC), yet the underlying mechanisms remain elusive. Here, we identify WDR54 as a critical oncogenic driver. Clinical analyses reveal WDR54 is overexpressed in HNSCC and correlates with poor patient survival. Mechanistically, WDR54 interacts with the deubiquitinase OTUB1, enhancing its capacity to deubiquitinate and stabilize the fatty acid transporter SLC43A3. This prevents SLC43A3 proteasomal degradation, inducing lipid metabolic reprogramming essential for HNSCC proliferation and invasion. Furthermore, pharmacological intervention with dihydroergotamine effectively disrupts this WDR54-OTUB1-SLC43A3 axis, significantly suppressing HNSCC tumor growth in vivo. Collectively, our findings elucidate a previously unrecognized signaling axis integrating protein deubiquitination with lipid metabolism, highlighting dihydroergotamine as a promising targeted therapeutic strategy for HNSCC.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.8
+ },
+ "https://www.nature.com/articles/s42003-026-11237-1": {
+  "guid": "https://www.nature.com/articles/s42003-026-11237-1",
+  "title": "Acquired resistance to vorinostat in cutaneous T cell lymphoma involves augmented ERK phosphorylation",
+  "link": "https://www.nature.com/articles/s42003-026-11237-1",
+  "abstract": "Vorinostat is the first approved histone deacetylase inhibitor used in many countries for treating advanced cutaneous T&nbsp;cell lymphoma (CTCL). However, prolonged application of this drug leads to the development of resistance, presenting a significant challenge to therapy. To better understand the mechanisms through which CTCL cells gain resistance, we established a vorinostat-resistant clone of the human CTCL line HuT78 (HuT78VR). HuT78VR cells exhibited enhanced drug efflux ability with increased expression of the drug efflux pumps ABCB1 and ABCG2. Employing an integrated transcriptomics and proteomics approach, we identified molecular signatures of vorinostat resistance. Specifically, HuT78VR cells presented increased expression of metastasis-related genes (LAIR2, VIM, MMP-9, IFNG, FASLG, CCND1, and CDKN1A) with increased cellular invasiveness and defective apoptosis. Further scrutiny of differentially expressed genes and proteins revealed the involvement of mitogen-activated protein kinase (MAPK) signaling. In line with this, HuT78VR cells gained cross-resistance to inhibitors of histone deacetylase and topoisomerase but remained sensitive to inhibitors of MAPK/ERK. Ulixertinib, an ERK inhibitor, re-sensitized HuT78VR cells to vorinostat in vitro as well as in cell-derived xenografts in mice. These findings expand the understanding of vorinostat resistance in CTCL and suggest that ERK inhibition is an effective therapeutic approach to overcome vorinostat resistance.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.53
+ },
+ "https://www.nature.com/articles/s41598-026-79411-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-79411-3",
+  "title": "Cachexia index as a prognostic marker in gastrointestinal cancer with nomogram development and external validation",
+  "link": "https://www.nature.com/articles/s41598-026-79411-3",
+  "abstract": "The cachexia index (CXI) integrates skeletal muscle, albumin and systemic inflammation. We assessed its prognostic value and developed survival nomograms in 822 patients with gastrointestinal cancer, with external validation in 3,101 patients. CXI thresholds were 90.80 for men and 106.52 for women. Low CXI was associated with poorer disease-free survival (DFS; follow-up-averaged adjusted hazard ratio 1.84, 95% confidence interval 1.45\u20132.33) and overall survival (OS; 1.94, 1.38\u20132.72). Five-year DFS was 50.4% versus 70.9%, and OS was 70.4% versus 87.0%, in the low- and higher-CXI groups, respectively. The nomograms incorporated CXI, weight loss, tumor site and TNM stage. Bootstrap-corrected C-indices were 0.738 for DFS and 0.799 for OS; external C-indices were 0.681 and 0.639. External areas under the curve at two, three and five years were 0.706, 0.689 and 0.692 for DFS and 0.829, 0.707 and 0.638 for OS. The association persisted after age and sex adjustment and exclusion of second primary malignancies. These findings support CXI as a prognostic marker and a component of survival risk stratification in surgically treated gastrointestinal cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.63
+ },
+ "https://www.nature.com/articles/s41375-026-03179-8": {
+  "guid": "https://www.nature.com/articles/s41375-026-03179-8",
+  "title": "Maternal donor risk in haploidentical transplant with post-transplant cyclophosphamide: the role of recipient sex",
+  "link": "https://www.nature.com/articles/s41375-026-03179-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Letter",
+  "score": 0.58
+ },
+ "https://www.nature.com/articles/s41598-026-78835-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-78835-1",
+  "title": "A tumor-associated K318N variant abolishes AGGF1 nuclear import by disrupting key nucleocytoplasmic transport motifs",
+  "link": "https://www.nature.com/articles/s41598-026-78835-1",
+  "abstract": "Aberrant nucleocytoplasmic transport is linked to tumorigenesis. AGGF1 exerts nuclear tumor-suppressing functions, yet how its nuclear import is regulated remains unclear. Through deletion mapping and point mutations, we identified three motifs (272\u2013279, 317\u2013328 and 509\u2013519 aa) governing AGGF1 nucleocytoplasmic distribution. Knockdown of importin \u03b21 and inhibition of importin \u03b11 showed that the importin \u03b11/\u03b21 complex is the primary nuclear import receptor. GST pull-down assays revealed that 317\u2013328 aa and 509\u2013519 aa, but not 272\u2013279 aa, are required for efficient binding to importin \u03b11. None of the three motifs alone was sufficient to efficiently drive nuclear import, whereas the combined 272\u2013328 aa region conferred robust nuclear import. The tumor-associated K318N variant, within 317\u2013328 aa, is absent from gnomAD and causes profound, cell-type-independent cytoplasmic mislocalization that is not attributable to enhanced CRM1-mediated nuclear export or 14-3-3\u03b1/\u03b2-dependent cytoplasmic distribution. Consequently, K318N fails to bind nuclear p53, stabilize p53, or activate its transcription, impairing AGGF1 tumor-suppressing function. RNA-seq showed K318-dependent genes enriched in Rap1 signaling, cytoskeleton regulation, and cardiac muscle morphogenesis, suggesting a predominantly loss-of-function effect. These findings identify key motifs and the nuclear import receptor for AGGF1, and reveal how a single variant disrupts nuclear localization and p53 regulation, potentially contributing to tumorigenesis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.05
+ },
+ "https://www.nature.com/articles/s41598-026-78343-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-78343-2",
+  "title": "A dual-stream Pyramid ViT\u2013ConvFormer architecture leverages dynamic early stopping to classify diffuse large B-cell lymphoma",
+  "link": "https://www.nature.com/articles/s41598-026-78343-2",
+  "abstract": "Molecular stratification of diffuse large B-cell lymphoma (DLBCL) based on MYC rearrangement status (confirmed via fluorescence in situ hybridization) guides frontline therapeutic selection. Although Vision Transformers (ViTs) effectively model global tissue context, lacking localized inductive biases extends training convergence. We developed PyConv, an asymmetrical hybrid architecture engineered for the three-class histopathological classification of MYC-rearranged ($$MYC+$$) DLBCL, non-rearranged ($$MYC-$$) DLBCL, and reactive lymph node (RLN). PyConv combines local ConvFormer blocks with global Pyramid ViT blocks via Multi-Head Cross-Attention (MHCA) fusion. We evaluated the network on a patient-stratified cohort of 180 whole-slide images (69,480 testing patches) against 12 baseline backbones at both patch and patient levels. PyConv achieved a patch classification accuracy and macro F1-score of 0.9962 [95% CI: 0.9884\u20130.9991 via patient-level clustered bootstrapping] and a macro AUROC of 0.9999. Patient-level probability pooling yielded 100% classification concordance on the held-out test cohort (18/18 patients), showing no statistically significant discriminative loss compared to top-performing baselines (e.g., ConvFormer, $$p = 0.9866$$) while integrating global stromal context. PyConv converged by epoch 20, reducing training duration by 68.7% compared to pure Pyramid ViT. PyConv provides an accurate, computationally efficient benchmarking framework for automated lymphoma classification. Although high patient concordance demonstrates internal feasibility, the model serves as an exploratory proof of concept requiring multi-center and multi-scanner validation before clinical translation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.61
+ },
+ "https://www.nature.com/articles/s41598-026-78124-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-78124-x",
+  "title": "Multimodal deep learning with clinical metadata for skin lesion classification",
+  "link": "https://www.nature.com/articles/s41598-026-78124-x",
+  "abstract": "Accurate skin lesion classification often requires integration of lesion appearance with patient clinical information. Although multimodal artificial intelligence (AI) approaches have shown promise, many existing methods rely on computationally intensive fusion mechanisms or simple integration strategies that may inadequately capture interactions between imaging and clinical data. This study aimed to develop and evaluate a multimodal deep learning model that integrates skin images and structured clinical metadata for skin lesion classification and to compare its performance with image-based and prior multimodal baseline models. This retrospective diagnostic study evaluated dataset-specific model performance using 2 public datasets (PAD-UFES-20 and ISIC 2019) and 1 institutional dataset (PKU-Skin). PAD-UFES-20 included 2,298 clinical images with 21 structured clinical variables across 6 lesion classes. ISIC 2019 included 25,331 dermoscopic images across 8 diagnostic categories. PKU-Skin was an institutional dataset of 800 clinical images (643 patients) with corresponding clinical metadata collected at Peking University Shenzhen Hospital and represented a binary classification task involving psoriasis and basal cell carcinoma. Model development and evaluation were performed separately within each dataset. The primary outcome was correct lesion classification. The primary evaluation metric was balanced accuracy. Secondary metrics included sensitivity, specificity, precision, F1 score, and overall accuracy. On PAD-UFES-20, the proposed multimodal model achieved a balanced accuracy of 85.6%, compared with 75.1% for a prior multimodal baseline model, with sensitivity of 76.1%, specificity of 95.2%, F1 score of 78.1%, and overall accuracy of 78.3%. On ISIC 2019, the model achieved a balanced accuracy of 86.0%, F1 score of 84.3%, and overall accuracy of 84.5%. On PKU-Skin, the model achieved a balanced accuracy of 99.6% and overall accuracy of 99.2%; because this dataset represented a separate binary classification task, these results should be interpreted as supportive evidence from an institutional setting rather than formal external validation of a single fixed model. In these retrospective dataset-specific experiments, integrating structured clinical metadata with skin images was associated with improved skin lesion classification performance relative to comparator models. These findings support further evaluation of multimodal approaches for dermatologic decision support, particularly in prospectively collected and clinically matched external datasets.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.43
  }
 }
