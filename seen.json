@@ -13298,5 +13298,55 @@
   "date": "2026-11-04T00:00:00+00:00",
   "type": "",
   "score": 1.52
+ },
+ "https://www.nature.com/articles/s41392-026-03019-2": {
+  "guid": "https://www.nature.com/articles/s41392-026-03019-2",
+  "title": "Tumor vessel sabotage: CD4\u207a T cells enlist macrophages",
+  "link": "https://www.nature.com/articles/s41392-026-03019-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 1.25
+ },
+ "https://www.nature.com/articles/s41419-026-09362-0": {
+  "guid": "https://www.nature.com/articles/s41419-026-09362-0",
+  "title": "UBE2T upregulation underlies the metastasis-associated chemoresistance of breast cancer that can be reversed by BET inhibitors",
+  "link": "https://www.nature.com/articles/s41419-026-09362-0",
+  "abstract": "Most primary breast cancers are sensitive to chemotherapy and some of them can achieve pathological complete response (pCR) by neoadjuvant chemotherapy. However, metastatic breast cancers are almost impossible to reach pCR with chemotherapy and thus are incurable diseases. The mechanisms of metastasis-associated chemoresistance remain poorly understood. Using paired primary and metastatic triple-negative breast cancer (TNBC) models, we identify that UBE2T is responsible for metastasis-associated chemoresistance by promoting PHLPP ubiquitination and AKT phosphorylation, enhancing tumor stemness in metastatic breast cancer. Overexpressed NFYA is the transcription factor that upregulates UBE2T expression. Analysis of clinical samples shows that the NFYA/UBE2T/p-AKT axis was highly activated in metastatic breast cancer. More importantly, bromodomain and extraterminal domain proteins (BET) inhibitors are found to significantly reduce UBE2T transcription, restoring the sensitivity of metastatic breast cancer to chemotherapy both in vitro and in vivo. These findings suggest that BET inhibitors could reverse the metastasis-associated chemoresistance by targeting aberrantly upregulated NFYA/UBE2T/p-AKT pathway in metastatic breast cancer, particularly in TNBC.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-04T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.1
+ },
+ "https://www.nature.com/articles/s41598-026-77501-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-77501-w",
+  "title": "Stage harmonized temporal survival comparisons in de novo metastatic breast cancer using SEER",
+  "link": "https://www.nature.com/articles/s41598-026-77501-w",
+  "abstract": "Temporal survival comparisons in cancer registries depend on how stage is harmonized across changing coding systems. We analyzed SEER 17 breast cancers diagnosed in 2000\u20132023 using a year-specific TNM-priority M-stage algorithm. The primary cohort comprised 35,262 de novo M1 cases diagnosed in 2010\u20132023 with complete covariate and outcome data. Contemporary (2014\u20132023) versus Transition (2010\u20132013) diagnosis was associated with lower breast cancer-specific mortality before adjustment (hazard ratio [HR], 0.870; 95% confidence interval [CI], 0.845\u20130.897) and after demographic and organ-site adjustment (HR, 0.844; 95% CI 0.819\u20130.870). Transition-target inverse probability weighting produced a similar estimate (HR, 0.853; 95% CI 0.827\u20130.879). A strict TNM analysis was unchanged, whereas the prior any-positive-stage rule yielded a near-null crude estimate. Because proportional hazards were not constant, the overall HR is an average association; adjusted HRs were 0.879 during 0\u201324 months and 0.801 after 24 months. The 36-month overall-survival restricted mean difference was 0.66 months (95% CI 0.34\u20130.99). These observational findings show that stage harmonization materially influences temporal comparisons and do not identify effects of imaging or treatment.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-04T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.65
+ },
+ "https://www.nature.com/articles/s41598-026-78763-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-78763-0",
+  "title": "Explainable machine learning estimates clinically significant prostate cancer risk in men with PSA 4\u201320 ng/mL",
+  "link": "https://www.nature.com/articles/s41598-026-78763-0",
+  "abstract": "Men with prostate-specific antigen (PSA) values of 4\u201320 ng/mL often have overlapping risks of benign disease, clinically insignificant prostate cancer, and clinically significant prostate cancer (csPCa). We retrospectively studied 859 men who underwent pathological evaluation; 76 had csPCa. Twelve prediction algorithms were assessed with 500 bootstrap resamples. In every resample, LASSO feature selection, hyperparameter tuning, and model fitting used only the bootstrap training sample, and performance was estimated from patient-level out-of-bag predictions. C5.0 had the highest AUROC point estimate (0.843, 95% CI 0.801\u20130.886), an AUPRC of 0.421, and a Brier score of 0.066. Calibration was broadly concordant at low-to-moderate predicted risks but uncertain in the sparse high-risk tail. At a 0.10 risk threshold, the model would avoid 544.8 biopsies per 1,000 men while missing 10.5 csPCa cases per 1,000. In an algorithm-matched comparison, the full C5.0 and clinical/PSA-only C5.0 models achieved AUROCs of 0.843 and 0.827, respectively (paired difference 0.0157, 95% CI\u2009\u2212\u20090.0086 to 0.0395). The incremental benefit of additional blood-based predictors was therefore uncertain. C5.0 may support pre-biopsy triage, but multicenter external validation, recalibration assessment, and prospective impact studies are required before clinical use.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-04T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.54
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.04.762854v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.04.762854v1?rss=1",
+  "title": "Pervasive chromothripsis drives pleural mesothelioma to impact gene function and patient survival",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.762854v1?rss=1",
+  "abstract": "Pleural mesothelioma (PM) is a tumour type showing high structural complexity but the full spectrum of variants present and their impacts are poorly understood. We comprehensively describe the mutational landscape of mesothelioma, exploiting a large (N=443) cohort profiling the tumour genome and transcriptome in parallel. We find that the majority of candidate driver variants are mediated by copy number alterations (CNAs) and discover high frequencies of complex rearrangements across most tumours, dominated by chromothripsis (74% of tumours) and chromoplexy (59%). Chromothripsis contributes to significant CNA hotspots to delete known PM tumour suppressor genes such as CDKN2A, NF2 and BAP1, thought to be among the earliest events in PM development; and the presence of chromothripsis is associated with significantly worse patient survival. We also discover multi-faceted crosstalk between the mitochondrial and nuclear genomes during PM evolution, involving alterations to both genomes, and mitochondrial expression changes associated with subtypes and chromothripsis.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-04T00:00:00+00:00",
+  "type": "",
+  "score": 1.11
  }
 }
