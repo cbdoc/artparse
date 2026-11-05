@@ -13418,5 +13418,145 @@
   "date": "2026-11-05T00:00:00+00:00",
   "type": "Article",
   "score": 0.43
+ },
+ "https://www.nature.com/articles/s43018-026-01256-6": {
+  "guid": "https://www.nature.com/articles/s43018-026-01256-6",
+  "title": "Basophils boost early antitumor immunity by restraining Treg cells",
+  "link": "https://www.nature.com/articles/s43018-026-01256-6",
+  "abstract": "Basophils are rare immune cells best known for their roles in allergies. We find that they also restrict early metastatic seeding by suppressing regulatory T (Treg) cells through histamine\u2013HRH1 signaling and MCPT8-mediated cleavage of CD25, thereby enhancing antitumor immunity. Progressing tumors subsequently reprogram basophils into a distinct, less protective state.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Research Briefing",
+  "score": 1.32
+ },
+ "https://www.nature.com/articles/s43018-026-01255-7": {
+  "guid": "https://www.nature.com/articles/s43018-026-01255-7",
+  "title": "Spatiotemporal control of CAR-T cell TNF release via tumor-targeted irradiation",
+  "link": "https://www.nature.com/articles/s43018-026-01255-7",
+  "abstract": "Adoptive chimeric antigen receptor (CAR)-T cell therapies have limited efficacy in solid tumors because of poor infiltration and impaired effector function, whereas radiotherapy is constrained by radioresistance and metastatic spread. Here we show that integrating the spatial precision of ionizing radiation with the biological specificity of CAR-T cells enables localized delivery of the inflammatory cytokine tumor necrosis factor (TNF). We identified radiation-responsive genes in tumor-infiltrating T\u2009cells and engineered synthetic radioinducible promoters to drive TNF expression. Human CAR-T cells carrying this construct (riTNF CAR-T cells) secreted high levels of TNF upon irradiation, independently of antigen engagement. In human xenograft and murine tumor models, the combination of riTNF CAR-T cells and local irradiation produced greater tumor regression than either treatment alone or standard CAR-T cells with irradiation. This response was associated with high intratumoral, but not systemic, TNF levels, increased tumor necrosis and apoptosis, vascular disruption and greater CAR-T cell infiltration. These findings establish a platform for spatially and temporally controlled cytokine delivery from engineered CAR-T cells. Masoumi et al. engineered CAR-T cells with a radiation-inducible promoter controlling the expression and local release of the cytokine TNF upon tumor irradiation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.24
+ },
+ "https://www.nature.com/articles/s41588-026-02816-3": {
+  "guid": "https://www.nature.com/articles/s41588-026-02816-3",
+  "title": "AI-guided cancer survival prediction could spare some children high-dose brain radiation",
+  "link": "https://www.nature.com/articles/s41588-026-02816-3",
+  "abstract": "We developed a multimodal artificial intelligence (AI)-based model to generate time-dependent, individualized survival predictions for patients with childhood brain tumors. This may help better identify candidates for therapy de-escalation, maintaining survival while reducing lifelong treatment-related side effects.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Research Briefing",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s42255-026-01650-5": {
+  "guid": "https://www.nature.com/articles/s42255-026-01650-5",
+  "title": "Lactylation couples glycolysis with cell cycle progression in cancer cells",
+  "link": "https://www.nature.com/articles/s42255-026-01650-5",
+  "abstract": "Aurora B is essential for mitotic progression, yet whether its activity is regulated by tumour metabolism remains unclear. Here we show that Aurora B functions as a sensor of glycolytic activity and is activated through lactate-dependent signalling. Mechanistically, increased lactate production during aerobic glycolysis promotes KAT2A-mediated lactylation of phosphoglycerate kinase 1 (PGK1) at K131. Lactylated PGK1 phosphorylates Aurora B at T232, leading to cell cycle progression. Disruption of this pathway, either by expressing a PGK1 K131R mutant or a PGK1 variant defective in Aurora B binding, leads to mitotic defects and cGAS\u2013STING activation. These effects suppress tumour cell proliferation and inhibit tumour growth in mice. Furthermore, combining a peptide that disrupts the PGK1\u2013Aurora B interaction with anti-PD-1 therapy enhances CD8+ T-cell infiltration and produces synergistic anti-tumour effects. Collectively, these findings uncover a critical role of glycolysis in governing tumour cell division. This study shows that Aurora B activation by lactylated PGK1 links glycolysis to mitotic progression and immune evasion in cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.66
+ },
+ "https://www.nature.com/articles/s41598-026-72704-7": {
+  "guid": "https://www.nature.com/articles/s41598-026-72704-7",
+  "title": "Real-world feasibility of a nutritional frailty score-guided multimodal supportive care pathway in patients with digestive cancer",
+  "link": "https://www.nature.com/articles/s41598-026-72704-7",
+  "abstract": "Frailty, malnutrition, and sarcopenia are highly prevalent in digestive oncology and adversely affect treatment tolerance, toxicity, and survival. The integration of multimodal, multidisciplinary supportive care may mitigate these risks, but feasibility and clinical impact in routine practice remain uncertain. We conducted two complementary single-center studies at a French cancer center. We developed a Nutritional Frailty Score to assess the risk of nutritional deterioration in patients receiving first-line chemotherapy for digestive cancers. ParcoursDig (NCT04478175) prospectively assessed the feasibility of systematic multimodal supportive care (dietitian, physiotherapist, palliative care) using risk stratification based on this score in patients with localized or advanced digestive cancers. PrePOP was a retrospective observational study of patients with pancreatic or esophagogastric cancers receiving perioperative chemotherapy and surgery. Outcomes included treatment completion, nutritional changes, toxicities, surgical complications, and survival. In ParcoursDig, only 44% of patients completed the full supportive care pathway (63% in sensitivity analysis), falling short of the predefined feasibility threshold. No significant improvements were seen in health-related quality of life or survival, highlighting real-world implementation challenges. In PrePOP, baseline malnutrition prevalence was 71% (31% severe). Malnutrition was clinically associated with higher rates of chemotherapy dose reduction but not with surgical complications or survival. Weight loss during systemic therapy was common, but early nutritional intervention appeared to prevent further deterioration for some patients. Muscle mass loss during follow-up correlated with poorer prognosis, emphasizing the need for longitudinal, muscle-specific assessment. In this exploratory, single-centre experience, unsupervised, low-intensity interventions did not achieve the predefined feasibility threshold or measurable clinical benefit. Supervised, high-intensity modalities (e.g., structured interval training) and individualized care trajectories with longitudinal follow-up warrant evaluation in larger, multicentre studies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.91
+ },
+ "https://www.nature.com/articles/s44303-026-00211-5": {
+  "guid": "https://www.nature.com/articles/s44303-026-00211-5",
+  "title": "Evaluation of treatment response in patients with recurrent grade 4 glioma using hyperpolarized [1-13C]pyruvate MRI",
+  "link": "https://www.nature.com/articles/s44303-026-00211-5",
+  "abstract": "Hyperpolarized (HP) [1-13C]pyruvate MRI allows for noninvasive assessment of dynamic metabolic activity in the brain and has potential for monitoring treatment response in gliomas. This exploratory study evaluated the ability of serial HP [1-13C]pyruvate MRI to detect treatment-related metabolism and evaluate early therapeutic response. Twenty patients with recurrent grade 4 glioma undergoing cytotoxic, antiangiogenic, and targeted chemotherapies underwent serial HP [1-13C]pyruvate MRI in conjunction with routine clinical MRI. Percentage changes were calculated from the group mean at each timepoint. The lactate/pyruvate ratio in the normal-appearing white matter (NAWM) increased by 14.3% at 1-month in the bevacizumab-treated group, whereas it decreased by 13.1% at 2-month in the everolimus-treated group. Within the T2-lesion, the NAWM-normalized lactate/pyruvate ratio increased by 24.3% in the bevacizumab-treated group and decreased by 7.6% in the everolimus-treated group. Among patients with shorter 6-month progression-free survival, the NAWM-normalized lactate/pyruvate increased by 18.2% from baseline to 2-month follow-up. This exploratory proof-of-feasibility study demonstrates that serial HP [1-\u00b9\u00b3C]pyruvate MRI can detect measurable longitudinal metabolic changes in recurrent grade 4 glioma during treatment. Larger, prospective studies with more homogeneous treatment cohorts are needed to validate these observations and determine their clinical utility as imaging biomarkers of treatment response.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.55
+ },
+ "https://www.nature.com/articles/s41598-026-78910-7": {
+  "guid": "https://www.nature.com/articles/s41598-026-78910-7",
+  "title": "MR imaging and spectroscopy reveals metabolic changes in glioblastoma driven by treatment with temozolomide and lonidamine",
+  "link": "https://www.nature.com/articles/s41598-026-78910-7",
+  "abstract": "Resistance to temozolomide (TMZ) limits the efficacy of treatment in glioblastoma (GBM) which is fuelled by a metabolic reprogramming of the cancer cells and alterations in the tumour microenvironment. Lonidamine (LND), a glycolytic and mitochondrial inhibitor, modulates tumour metabolism and can alter tumour response to treatment. This study investigated the effects of LND in combination with TMZ and used MR imaging and spectroscopy to evaluate metabolic and microstructural changes in a syngeneic GBM model. C57BL/6 mice bearing intracranial GL261 tumours (n\u2009=\u200966) were treated with saline, LND, TMZ, or LND\u2009+\u2009TMZ for five consecutive days. Longitudinal imaging (days 0, 3, 6) included T2-weighted MRI, diffusion weighted imaging (DWI), and conventional and lactate-edited \u00b9H-MRS. Tumour volume, survival, DWI parameters, MCT4 expression, and mitotic indices were assessed. In vitro, acute and chronic bioenergetic reprogramming of GL261 cells was assessed using the Seahorse extracellular flux analysis. Lactate is a not simply an end product of high glycolytic cancer cells, but it has also emerged as a molecule capable to shaping the tumour microenvironment. A significant decrease in lactate observed in the LND and LND\u2009+\u2009TMZ groups indicated a reduction in the steady-state lactate pool suggestive of reduced lactate production, utilization or altered glycolytic flux. However, lactate remained high in the control and TMZ-only groups. This metabolic shift in the LND treatment group was consistent with a marked reduction in MCT4 protein, the lactate transporter, in LND-treated tumours. In vitro bioenergetic profiling of GL261 cells revealed an acute decrease in mitochondrial respiration in response to LND, with partial recovery at later time points. Finally, even though not significant, an enhanced survival benefit of the treatment combination was observed, with no significant differences observed between the groups for tumour volume, DWI-derived parameters, or mitotic index after 6 days. LND induces early metabolic changes detectable by MRS. Although a limited therapeutic benefit of addition LND to TMZ was observed in the early stages of tumour development, its tumour-selective activity and effect on tumour microenvironment is promising and its long-term effects on tumour development should be investigated as part of an optimized combination strategy for TMZ treatment.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.68
+ },
+ "https://www.nature.com/articles/s41598-026-78652-6": {
+  "guid": "https://www.nature.com/articles/s41598-026-78652-6",
+  "title": "Curcumin nanoparticles attenuate radiation-induced liver and kidney injury in rats: a histopathological evaluation",
+  "link": "https://www.nature.com/articles/s41598-026-78652-6",
+  "abstract": "Radiation therapy is a common treatment for a variety of malignancies. However, it can have harmful effects on healthy tissues. Curcumin, a compound derived from turmeric, has antioxidant, anti-inflammatory, and radioprotective properties, making it promising for reducing radiation-induced damage. In this study, we aimed to evaluate the radioprotective effects of curcumin nanoparticles (CurNPs) on the liver and kidneys of rats exposed to radiation. Thirty male Wistar rats were divided into six groups: control, radiation-only, CurNPs (2&nbsp;mg/kg), CurNPs(4&nbsp;mg/kg), CurNPs (2&nbsp;mg/kg)\u2009+\u2009IR, and CurNPs (4&nbsp;mg/kg)\u2009+\u2009IR. The radiation-only group was exposed to a single dose of 6&nbsp;Gy of radiation, while the CurNPs-treated groups received a dose of CurNPs before radiation exposure. The liver and kidney tissues were collected and subjected to histopathological examination. Histopathological analysis revealed that the radiation-only group exhibited severe damage to the liver and kidney tissues, characterized by hepatocyte degeneration, inflammation, and tubular necrosis. In contrast, the CurNPs-treated group demonstrated a significant reduction in radiation-induced pathological changes, with preserved tissue architecture, decreased inflammation, and enhanced cell viability. In conclusion, our histopathological study demonstrates that both 2&nbsp;mg/kg and 4&nbsp;mg/kg CurNPs possess the potential to serve as a promising radioprotective agent for the liver and kidneys but no apparent difference between the two doses.. The use of CurNPs could help mitigate radiation-induced toxicity in cancer patients undergoing radiotherapy. These findings warrant further investigation and provide a foundation for developing innovative radioprotective strategies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.84
+ },
+ "https://www.nature.com/articles/s41588-026-02781-x": {
+  "guid": "https://www.nature.com/articles/s41588-026-02781-x",
+  "title": "An information-theoretic framework for inferring T cell dynamics from single-cell RNA and T cell receptor sequencing",
+  "link": "https://www.nature.com/articles/s41588-026-02781-x",
+  "abstract": "Single-cell T cell receptor (TCR) repertoire sequencing enables simultaneous profiling of gene expression and TCR sequences, providing a coregistered measure of T cell phenotypic diversity and clonal dynamics. However, principled probabilistic frameworks for joint modeling of clonotype and phenotype have remained limited. Here we introduce TCRi, a hierarchical Bayesian information-theoretic framework that infers the joint probability distribution between genetic clonotype and transcriptional phenotype from paired single-cell transcriptomic and TCR sequencing data. TCRi treats phenotype assignment as a probabilistic inference problem: a variational autoencoder embeds single-cell expression into a structured latent space, and a hierarchical Bayesian model learns clonotype-specific phenotype distributions through principled information-sharing across clonotypes, patients and covariates. From these distributions, TCRi computes information-theoretic quantities: clonotypic entropy, phenotypic entropy, phenotypic flux and mutual information between clonotype and phenotype. When TCRi was applied to four real-world datasets comprising 167,118 CD8 T cells from patients with cancer treated with anti-PD-(L)1 immune checkpoint blockade, mutual information emerged as a robust discriminator of therapeutic response. T cells provide a unique setting for quantification of the relationship between genotype and phenotype. The authors introduce TCRi, an information-theoretic framework for this, and find mutual information to be a robust determinant of immunotherapeutic response.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.42
+ },
+ "https://www.nature.com/articles/s41416-026-03645-1": {
+  "guid": "https://www.nature.com/articles/s41416-026-03645-1",
+  "title": "Which is more effective at improving uptake of bowel cancer screening: text message reminders or patient navigation? Results from a three-arm RCT",
+  "link": "https://www.nature.com/articles/s41416-026-03645-1",
+  "abstract": "Text message reminders (TMRs) and patient navigation (PN) increase bowel cancer screening uptake. To date, no studies have directly compared these interventions with one another. We conducted a three-arm randomised controlled trial with individuals, in London, who had not completed bowel cancer screening within 18 weeks of invitation. Participants were randomised to receive no reminder (usual care), TMRs at 19, 21, 23 and 25 weeks, or a TMR at 19 weeks, with telephone PN at 21, 23 and 25 weeks. The primary outcome was participation within 26 weeks of invitation. Differences were assessed using logistic regression. On an intention-to-treat basis (n\u2009=\u20093129), uptake was higher in the TMR and PN groups, compared with usual care (6.5% vs. 2.0%, p\u2009&lt;\u20090.001; 7.5% vs. 2.0%, p\u2009&lt;\u20090.001). There was no significant difference between TMR and PN groups. In the per-protocol analysis (n\u2009=\u20092294), uptake was significantly higher in the PN group than the TMR group (8.6 vs. 12.6%, p\u2009&lt;\u20090.025). Subgroup analyses revealed telephone PN was significantly more effective than TMRs for men, specifically (14.5% vs. 6.7%, p\u2009&lt;\u20090.001). While TMRs are no more effective than PN in general, implementing PN could help reduce disparities in uptake between men and women. ISRCTN17245519.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.59
+ },
+ "https://www.nature.com/articles/s41598-026-59948-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-59948-z",
+  "title": "A mixed-methods evaluation of a language model-powered breast cancer note augmentation tool for patients",
+  "link": "https://www.nature.com/articles/s41598-026-59948-z",
+  "abstract": "Large language models (LLMs) have the potential to make clinical notes more understandable to patients, but tools must be tested with patients pre-deployment. We developed a patient-facing tool that uses an LLM (GPT-4-031) to generate \u201caugmentations\u201d to notes: simplified note text, defined medical terminology, frequently asked questions, extracted key information, and to-do items. We evaluated the tool with 200 healthy female participants and 8 notes. Compared to control, participants with access to augmentations had greater self-reported confidence (2.83 \u00b1 0.05 augmentations, 2.18 \u00b1 0.07 control, p&lt;0.001) and scored higher on comprehension questions (0.63 \u00b1 0.02 augmentations, 0.54 \u00b1 0.04 control, p&lt;0.001). We conducted interviews with 7 participants with a history of breast cancer and their own notes who described ease of use and perceived improvements in note understanding, but also reported concerns around LLMs. Three clinicians conducted an error analysis and found most errors to be minor and related to assumed context.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.57
+ },
+ "https://www.nature.com/articles/s41556-026-02126-0": {
+  "guid": "https://www.nature.com/articles/s41556-026-02126-0",
+  "title": "Positional replication fork instability drives PARP inhibitor cytotoxicity",
+  "link": "https://www.nature.com/articles/s41556-026-02126-0",
+  "abstract": "Although poly(ADP-ribose) polymerase inhibitors (PARPi) show promise for treating homologous recombination-deficient cancers, the observed PARPi hypersensitivity in additional genetic contexts expands their potential use in precision oncology. Yet, the DNA lesions driving PARPi-induced cytotoxicity remain poorly defined. Here we uncover distinct replication-fork lesions in specific genomic regions as key determinants of PARPi cytotoxicity. Using CRISPR screens, we identify that loss of replication-coupled cohesin acetyltransferase ESCO2 confers PARPi hypersensitivity independently of homologous recombination deficiency. Quantitative single-molecule imaging reveals that ESCO2 loss promotes accumulation of G-quadruplex (G4) DNA structures at a subset of replication-associated sites, associated with PARP1 activation and engagement of fork protection factor TIMELESS to mitigate G4-induced stress. Notably, these G4 lesions localize to fragile pericentromeric regions and engage the G4 helicase DDX11. PARP inhibition disrupts this protective G4-processing response by preventing PARP1-dependent engagement of TIMELESS and DDX11, leading to G4 accumulation, DNA damage and chromosomal instability. Together, our findings define the G4\u2013PARP1\u2013TIMELESS\u2013DDX11 axis as a critical safeguard of replication fork stability at hard-to-replicate loci and reveal ESCO2 as a therapeutic target for promoting synthetic lethality in PARPi-treated cancers. Through CRISPR screens and single-molecule imaging, Gupta et al. show that loss of the cohesion acetyltransferase ESCO2 leads to increased G-quadruplex formation at specific regions and drives PARP activation and PARPi hypersensitivity.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.5
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.04.764360v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.04.764360v1?rss=1",
+  "title": "Response to azacitidine and the TIM-3 inhibitor, sabatolimab, in MDS and CMML is associated with distinct immune and antigen-presentation states",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.764360v1?rss=1",
+  "abstract": "Targeting the immune checkpoint TIM-3 is of interest in myeloid neoplasms, yet the hematopoietic and immune changes associated with anti-TIM-3 therapy remain poorly characterized. We used single-cell RNA sequencing to profile bone marrow (BM) and peripheral blood from patients with myelodysplastic syndrome (MDS) and chronic myelomonocytic leukemia (CMML) treated with the hypomethylating agent azacitidine combined with sabatolimab, a monoclonal antibody targeting TIM-3, and integrated Human Cell Atlas reference datasets for comparison. CITE-seq profiling showed that TIM-3 was predominantly expressed on dendritic cells and NK cells, with variable expression across other populations, including CD34 cells and CD8 T cells. At baseline, we identified a population of CD34 myeloid-biased progenitors specific to MDS/CMML samples (\"HSPC-like\") characterized by inflammatory gene expression programs and features of impaired differentiation. In MDS, elevated baseline HLA class II expression across hematopoietic stem and progenitor cells (HSPCs), HSPC-like cells, and multiple myeloid populations was associated with response. Consistent with this finding, trajectory analysis suggested that nonresponders bypassed HLA class II-high states during myeloid differentiation. In MDS, the presence of distinct CD8 T-cell populations and increased interferon-response programs in CD8 T and NK cells at baseline was also associated with response. In both MDS and CMML, treatment among responders was associated with contraction of BM CD8 and CD4 T-cell populations characterized by type I interferon-responsive and inflammatory programs, including IFIT1, IFIT2, and TNF, along with expansion of a distinct GZMH/IFITM1-expressing cytotoxic CD8 T-cell population. Together, these findings identify baseline antigen-presentation and immune-response programs associated with therapeutic response and reveal coordinated remodeling of myeloid and lymphoid compartments during azacitidine/sabatolimab treatment in MDS and CMML.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "",
+  "score": 1.02
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.03.764037v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.03.764037v1?rss=1",
+  "title": "BCL10 Gain-of-Function Impairs Germinal Center Participation by Naive B Cells and Cooperates with BCL6 to Drive Extrafollicular Diffuse Large B-Cell Lymphoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.03.764037v1?rss=1",
+  "abstract": "BCL10 gain-of-function (GoF) mutations occur in diffuse large B-cell lymphoma (DLBCL) cases of the BN2/C1 molecular subgroup. These alterations activate CARD11-BCL10-MALT1 (CBM) signaling and drive resistance to multiple drug classes, but their role in disease pathogenesis is incompletely understood. In particular, interactions between BCL10 GoF and additional DLBCL oncogenes are undefined. Here, we show BCL10 GoF in naive B cells blocks their participation in germinal center (GC) reactions and permits transformation to DLBCL with a non-GC B-cell phenotype. Most clinical cases with BCL10 GoF also carry translocation of the BCL6 proto-oncogene, and we show that co-activation of these two lesions together promotes pronounced oncogenic synergy. Detailed single-cell analyses of underlying premalignant B-cell populations revealed expansion of extrafollicular memory B cells whose gene-expression program remains prominent in resulting lymphomas in both the mouse and corresponding human tumors. We therefore define a novel role for BCL10 activating mutations in enabling BCL6 lymphomagenesis.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "",
+  "score": 0.81
  }
 }
