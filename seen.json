@@ -13908,5 +13908,65 @@
   "date": "2026-11-06T00:00:00+00:00",
   "type": "",
   "score": 1.55
+ },
+ "https://www.nature.com/articles/s41568-026-00988-y": {
+  "guid": "https://www.nature.com/articles/s41568-026-00988-y",
+  "title": "Origins and heterogeneity of colorectal cancer",
+  "link": "https://www.nature.com/articles/s41568-026-00988-y",
+  "abstract": "The undulating topography of the intestinal epithelium creates regionalized homeostatic niches at the base of each crypt, with each niche supporting neutrally evolving oligoclonal stem cell populations. At the crypt base, the fate of stem cell progeny is tightly regulated by intercompartmental polarized morphogenetic gradients, which converge to instruct continuous, but controlled, epithelial-cell turnover. To initiate tumorigenesis, a neoplastic clone must defy or escape such morphogenetic constraints either by outcompeting neighbouring stem cells or by establishing an ectopic stem cell population de novo. The position of the cell-of-origin within the crypt thus determines the oncogenic mechanisms required to subvert local homeostatic control. In turn, this defines the route of carcinogenesis and underpins the pervasive heterogeneity of colorectal cancers. Here, we explore the relationship between the position of the cell-of-origin on the vertical crypt axis and the cell plasticity mechanisms co-opted and corrupted to escape homeostatic control. We consider how this influences clonal dynamics at the pre-cancer stage and initiates distinct carcinogenesis pathways engendering morphologically discrete precursor lesions. Finally, we discuss how such lesions progress to molecularly heterogeneous subtypes with distinct clinicopathological features and therapeutic outcomes, and how phenotypic, rather than just genotypic, heterogeneity promotes tumour-cell adaptation, therapeutic resistance and metastasis. This Review by Sphyris et al. discusses how the cell-of-origin determines the route of colorectal carcinogenesis and how phenotypic plasticity and heterogeneity shape tumour evolution, disease recurrence, metastatic competence and response to therapy.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 0.96
+ },
+ "https://www.nature.com/articles/s41588-026-02854-x": {
+  "guid": "https://www.nature.com/articles/s41588-026-02854-x",
+  "title": "Mapping somatic mutations in every corner of the genome",
+  "link": "https://www.nature.com/articles/s41588-026-02854-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 0.73
+ },
+ "https://www.nature.com/articles/s41588-026-02857-8": {
+  "guid": "https://www.nature.com/articles/s41588-026-02857-8",
+  "title": "MMEJ repair safeguards cancer ecDNA",
+  "link": "https://www.nature.com/articles/s41588-026-02857-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 1.75
+ },
+ "https://www.nature.com/articles/s41467-026-78980-1": {
+  "guid": "https://www.nature.com/articles/s41467-026-78980-1",
+  "title": "[18F]FET PET enables histopathology-validated detection of non-contrast-enhancing glioblastoma",
+  "link": "https://www.nature.com/articles/s41467-026-78980-1",
+  "abstract": "Accurate visualization of glioblastoma is essential for guiding biopsy, resection and radiotherapy. Contrast-enhanced MRI is routine in clinical practice, yet it can miss metabolically active tumor outside areas of blood-brain barrier disruption. In a histopathology-validated cohort with 472 tissue samples of 61 patients with IDH-wildtype glioblastoma, we show that O-(2-[\u00b9\u2078F]fluoroethyl)-L-tyrosine PET ([18F]FET PET) depicts tumor tissue significantly better than contrast-enhanced MRI (CE-MRI), especially in regions that show no enhancement on MRI. [18F]FET PET achieves substantially higher sensitivity for tumor detection (91.2% vs 52.6%) and maintains high reliability in non-enhancing tissue (positive predictive value 98.3%), findings that are consistent across newly diagnosed and recurrent disease and in both cohorts undergoing either resection or biopsy. These results indicate that [18F]FET PET complements MRI by revealing MRI-occult tumor burden. Incorporating amino acid PET into routine planning may therefore improve the accuracy of tumor visualization and, ultimately, patient management. Contrast-enhanced magnetic resonance imaging (CE-MRI) is standard for patients with glioblastoma, but its ability to detect metabolically active tumours cells at the infiltrative edge is limited. Here, the authors present a prospective biopsy-validated study demonstrating that \u00b9\u2078F-FET PET imaging can detect tumour tissue beyond that detected by CE-MRI in patients with IDH-wildtype glioblastoma.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.06
+ },
+ "https://www.nature.com/articles/s41598-026-78193-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-78193-y",
+  "title": "Contemporaneous network analysis characterizes symptom-network topology and core symptoms in patients with a stoma after colorectal cancer surgery",
+  "link": "https://www.nature.com/articles/s41598-026-78193-y",
+  "abstract": "Symptoms co-occur after colorectal cancer stoma surgery, but their network roles remain unclear. This two-center cross-sectional study included 331 consecutively recruited patients. Exploratory factor analysis identified five symptom clusters: Psychological, Peristomal Skin, Energy Deficit, Digestive-Urinary System, and Pain. Apriori association-rule analysis identified weight loss, social impairment, and mucus discharge from the anus as sentinel symptoms within the Energy Deficit, Psychological, and Digestive-Urinary System clusters, respectively; these labels reflect cross-sectional association patterns rather than temporal ordering. In the EBICglasso network, decreased subjective well-being had the highest standardized Expected Influence (z\u2009=\u20091.25) and standardized one-step Bridge Expected Influence (z\u2009=\u20094.74). Complementary nodewise regression yielded R2\u2009=\u20090.634 for this symptom, and the correlation-stability coefficient for Expected Influence was 0.749. Multivariable models for the core and sentinel symptom scores explained 7.8%\u201323.9% of the variance, indicating modest explanatory performance. These pooled findings may inform symptom assessment but may differ across postoperative phases; the mucus-discharge finding is further limited by unrecorded anatomical eligibility. Longitudinal studies should test temporal ordering and predictive utility.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.54
+ },
+ "https://www.nature.com/articles/s41409-026-03076-9": {
+  "guid": "https://www.nature.com/articles/s41409-026-03076-9",
+  "title": "Proton pump inhibitors and outcome after axicabtagene ciloleucel for the treatment of non-Hodgkin B-cell lymphoma, a retrospective study with the DESCAR-T registry",
+  "link": "https://www.nature.com/articles/s41409-026-03076-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Correspondence",
+  "score": 0.7
  }
 }
