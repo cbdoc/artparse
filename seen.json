@@ -13738,5 +13738,175 @@
   "date": "2026-11-05T00:00:00+00:00",
   "type": "",
   "score": 1.27
+ },
+ "https://www.nature.com/articles/s41571-026-01227-x": {
+  "guid": "https://www.nature.com/articles/s41571-026-01227-x",
+  "title": "Unprecedented OS with the addition of tarlatamab to first-line maintenance therapy for ES-SCLC",
+  "link": "https://www.nature.com/articles/s41571-026-01227-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 1.16
+ },
+ "https://www.nature.com/articles/s41571-026-01232-0": {
+  "guid": "https://www.nature.com/articles/s41571-026-01232-0",
+  "title": "Sacituzumab tirumotecan\u2013pembrolizumab has efficacy in PD-L1-negative NSCLC",
+  "link": "https://www.nature.com/articles/s41571-026-01232-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 1.78
+ },
+ "https://www.nature.com/articles/s41698-026-01755-w": {
+  "guid": "https://www.nature.com/articles/s41698-026-01755-w",
+  "title": "Pollutant-induced activation of the AHR\u2013NF-\u03baB\u2013C/EBP\u03b2 axis in colorectal cancer",
+  "link": "https://www.nature.com/articles/s41698-026-01755-w",
+  "abstract": "This study identified environmental pollutants associated with activation of the AHR\u2013NF-\u03baB\u2013C/EBP\u03b2 signaling axis and examined their effects in colorectal cancer (CRC). ToxCast indicators and TCGA-COAD/READ RNA-seq data were integrated to construct a pollutant-response matrix; an SVM model prioritized phenmedipham for mechanistic testing. In vitro, phenmedipham increased AHR, p-p65, and C/EBP\u03b2 expression and pro-inflammatory cytokine secretion, whereas pathway-component silencing attenuated these effects. In vivo, phenmedipham increased colonic tumor burden and histopathological damage; pathway inhibition mitigated these phenotypes. Immunological analyses indicated impaired dendritic-cell activation and T-cell effector responses. These results provide preclinical evidence that phenmedipham can modulate inflammatory signaling and tumor-associated phenotypes in the tested models. They do not establish human carcinogenicity, CRC risk, or population-level exposure\u2013disease causality; epidemiological validation is required.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.98
+ },
+ "https://www.nature.com/articles/s41598-026-73823-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-73823-x",
+  "title": "MSwinALL-Net: a multi-stage Swin Transformer network for acute lymphoblastic leukemia classification",
+  "link": "https://www.nature.com/articles/s41598-026-73823-x",
+  "abstract": "Acute lymphoblastic leukemia (ALL) is a form of blood cancer that requires timely and precise diagnosis for effective treatment. The conventional method relies on manual examination of blood smear images which is a slow and inconsistent process due to cellular diversity and the limited availability of trained professionals. A Swin Transformer based architecture named MSwinALL-Net is proposed to overcome these challenges by incorporating a multi-stage shifted-window mechanism to capture both fine-grained local and global contextual features for identifying subtle abnormalities in leukemia cells. GAN based augmentation was used to synthesize high quality blood smear images. The proposed model outperforms transfer learning approaches by achieving an accuracy of 98.74%, precision of 1.0, recall of 0.99, F1-score of 0.99 and an AUC of 1.0 showing its potential for reliable, automated ALL diagnosis. The model's robustness and generalization are further validated through 5-fold cross-validation on benchmark leukemia datasets where the model outperformed recent transformer based models like ConvNeXt-Tiny and EfficientNetV2 which exhibited unstable and near random performance. These results highlighted MSwinALL-Net's effectiveness and reliability for automated ALL diagnosis in clinical applications. Future enhancement could incorporate more advanced generative frameworks such as StyleGAN and CycleGAN to further enhance synthetic image quality along with explainable AI techniques for providing interpretability and clinical transparency in real-world deployment.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.58
+ },
+ "https://www.nature.com/articles/s41598-026-79706-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-79706-5",
+  "title": "Ultrafine PVP-stabilized platinum nanoparticles for megavoltage X-ray radiosensitization of MCF-7 cells: synthesis, characterization, and free quercetin co-treatment",
+  "link": "https://www.nature.com/articles/s41598-026-79706-5",
+  "abstract": "Ultrafine polyvinylpyrrolidone-stabilized platinum nanoparticles (PVP-Pt NPs) were produced using a single-step hydrothermal route and investigated as candidate nanoradiosensitizers for megavoltage X-ray treatment of MCF-7 breast cancer cells. Their performance was examined both independently and during concurrent treatment with free quercetin (Que). Transmission electron microscopy (TEM) showed approximately spherical Pt nanoparticles, while quantitative TEM image analysis yielded particle diameters of approximately 3\u20136&nbsp;nm with a mean diameter of ~\u20094.5&nbsp;nm. Scanning electron microscopy (SEM) showed a smooth and homogeneous surface without pronounced agglomeration or cracking, consistent with a stabilizing role of PVP in limiting particle coalescence. X-ray diffraction showed reflections consistent with crystalline face-centered cubic (FCC) platinum with the Fm-3&nbsp;m space group. FTIR spectroscopy showed spectral features consistent with possible interactions between PVP functional groups and Pt species. The optical response was evaluated by UV\u2013visible spectroscopy. The cytotoxic and radiation-associated effects of PVP-Pt NPs, free Que, and concurrent PVP-Pt\u2009+\u2009Que treatment were evaluated at concentrations of 0.1, 1, 10, and 100&nbsp;\u00b5g/mL, with and without megavoltage X-ray irradiation at 2 and 4&nbsp;Gy. Without irradiation, significant reductions in MTT-derived cell viability were observed for PVP-Pt and concurrent PVP-Pt\u2009+\u2009Que treatment at 10 and 100&nbsp;\u00b5g/mL, whereas the overall effect of free Que concentration was not statistically significant. Among the investigated formulations, PVP-Pt NPs produced the greatest reduction in MCF-7 cell viability following irradiation. At 10&nbsp;\u00b5g/mL mean MTT-derived cell viability was approximately 45.4% under 2&nbsp;Gy and 38.6% under 4&nbsp;Gy irradiation. These findings support further investigation of ultrafine PVP-Pt nanoparticles as candidate nanoradiosensitizers for enhancing radiation-associated cytotoxicity in MCF-7 breast cancer cells.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.84
+ },
+ "https://www.nature.com/articles/s41571-026-01229-9": {
+  "guid": "https://www.nature.com/articles/s41571-026-01229-9",
+  "title": "Author Correction: Combining locoregional treatments and immunotherapies in patients with unresectable hepatocellular carcinoma",
+  "link": "https://www.nature.com/articles/s41571-026-01229-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Author Correction",
+  "score": 0.88
+ },
+ "https://www.nature.com/articles/s41598-026-79301-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-79301-8",
+  "title": "Identification of esculin as a direct modulator of IGF1 in cervical cancer with integrated computational and experimental studies",
+  "link": "https://www.nature.com/articles/s41598-026-79301-8",
+  "abstract": "Aberrant activation of the insulin-like growth factor 1 (IGF1) signaling axis plays a central role in tumor proliferation, metastasis, and therapeutic resistance. Although most therapeutic strategies have focused on inhibition of the IGF1 receptor (IGF1R), direct targeting of the IGF1 ligand remains largely underexplored. An integrated computational-experimental pipeline was employed to identify phytochemicals that directly modulate IGF1. In the computational phase, a library of 75 natural compounds was screened by molecular docking against model 11 of the NMR conformer of IGF1 (PDB ID: 1PMX), followed by ADMET profiling, PASS-based biological activity prediction, and 500-ns all-atom molecular dynamics (MD) simulations complemented by essential dynamics, free-energy landscape (FEL), and MM-PBSA analyses. In the experimental phase, the top candidates were evaluated using in vitro cytotoxicity assays, ELISA-based IGF1 quantification, and fluorescence spectroscopy with Stern\u2013Volmer analysis. Esculin and rotenone were identified as the top-ranked binders from docking analyses. ADMET profiling indicated more favorable pharmacokinetic and safety characteristics for esculin. PASS predictions supported anticancer and antimetastatic potential for both compounds. Long-timescale MD simulations indicated that esculin altered IGF1 conformational dynamics, as reflected by reduced backbone deviation, controlled residue flexibility, persistent hydrogen-bonding interactions, and confinement within a distinct thermodynamically favorable energy basin compared with apo IGF1 and the rotenone-bound complex; MM-PBSA re-scoring returned comparable total binding free energies for the two complexes. In vitro assays subsequently demonstrated a clear dose-dependent cytotoxic effect of esculin in HeLa cells, whereas rotenone showed minimal antiproliferative effects. Esculin significantly reduced intracellular IGF1 protein levels (p\u2009&lt;\u20090.001) and directly interacted with recombinant IGF1, as indicated by fluorescence quenching. Esculin is identified as a promising natural IGF1-binding compound with modulatory potential, supported by consistent computational and experimental evidence. These findings highlight its potential as a lead compound for the development of IGF1-targeted anticancer therapies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.4
+ },
+ "https://www.nature.com/articles/s41598-026-76186-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-76186-5",
+  "title": "Symptom management self efficacy relates to self perceived burden and IADL in lung cancer patients with treatment associated pneumonitis",
+  "link": "https://www.nature.com/articles/s41598-026-76186-5",
+  "abstract": "To examine symptom management self-efficacy, self-perceived burden, and impairment in instrumental activities of daily living among patients with lung cancer who developed treatment-associated pneumonitis (TAP) after radiotherapy combined with immunotherapy, and to analyze the relationships among these factors. This cross-sectional study included 140 TAP patients from October 2024 to June 2025. Data were collected using the Self-Efficacy for Symptom Management Scale (SESMs), Self-Perceived Burden Scale (SPBS), and Instrumental Activities of Daily Living Scale (IADL). Pearson correlation, group comparisons, and hierarchical regression were performed. Mean SESMs, SPBS, and IADL scores were (6.00\u2009\u00b1\u20090.38), (34.35\u2009\u00b1\u20095.00), and (21.04\u2009\u00b1\u20094.00), respectively. SESMs scores were negatively correlated with SPBS scores (r=-0.663) and IADL scores (r=-0.634) (both P\u2009&lt;\u20090.001); SPBS scores were positively correlated with IADL scores (r\u2009=\u20090.429, P\u2009&lt;\u20090.001). After covariate adjustment, SESMs scores additionally explained 20.5% of the variance in SPBS scores (\u0394R\u00b2 = 0.205) and 17.5% of the variance in IADL scores (\u0394R\u00b2 = 0.175). SPBS and IADL scores jointly explained an additional 21.0% of the variance in SESMs score (\u0394R\u00b2 = 0.210). Among patients with TAP, those with higher symptom management self-efficacy had lower self-perceived burden and less impairment in instrumental activities of daily living.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.9
+ },
+ "https://www.nature.com/articles/s41563-026-02774-5": {
+  "guid": "https://www.nature.com/articles/s41563-026-02774-5",
+  "title": "Nanoparticles as carrier and drug",
+  "link": "https://www.nature.com/articles/s41563-026-02774-5",
+  "abstract": "A lipid nanoparticle formulation degrades an immunosuppressive receptor on tumour-associated macrophages through its lipids alone, while its messenger RNA cargo reprograms these cells in situ into anti-tumour chimeric antigen receptor macrophages, reshaping the immune microenvironment of malignant ascites in gastrointestinal cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "News & Views",
+  "score": 1.23
+ },
+ "https://www.nature.com/articles/s41571-026-01217-z": {
+  "guid": "https://www.nature.com/articles/s41571-026-01217-z",
+  "title": "Emerging strategies for paediatric cancer predisposition: detection, surveillance and prevention",
+  "link": "https://www.nature.com/articles/s41571-026-01217-z",
+  "abstract": "A substantial proportion of childhood cancers occur in children who are genetically predisposed to develop that cancer. Close surveillance of children with cancer predisposition syndromes enables early cancer detection and results in better survival outcomes and less therapy-related toxicity, although many more predisposition syndromes are likely to exist and remain undetected. Building on conventional clinical surveillance protocols, new approaches are being explored, including liquid biopsy, molecular or metabolic biomarkers, enhanced imaging and microbiome profiling for the purposes of both improved surveillance and the discovery of additional predisposing factors. Knowing the specific genes, expressed proteins and biological pathways associated with a specific cancer predisposition syndrome might permit the use of targeted agents or vaccines, as well as the introduction of lifestyle changes to delay, reduce or even eliminate the development of cancer. Preclinical studies investigating the risks and benefits of preventive interventions would be greatly aided by the identification or development of animal models that faithfully recapitulate human syndromes. The incorporation of artificial intelligence to complement the clinical and experimental assessment of cancer risk based on the syndrome, genotype, modifier genes, family history, environmental exposures and other factors will undoubtedly improve the management and, ultimately, the outcomes of children with an increased genetic risk of cancer. In this Perspective, we discuss strategies to identify new cancer predisposition genes, developing approaches to cancer surveillance, emerging efforts for cancer prevention in high-risk patients, and the role of artificial intelligence in improving data analysis and optimizing medical decision-making. Many childhood cancers occur in children with an underlying predisposition to developing cancer. Thus, identifying individuals with a cancer predisposition syndrome (CPS), ideally before the development of cancer, can enable regular clinical surveillance and potentially the introduction of preventive measures. In this Perspective, the authors describe cancer detection, surveillance and prevention strategies for the management of children with a CPS, as well as the potential of artificial intelligence-based methods to optimize the management of these individuals.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 0.75
+ },
+ "https://www.nature.com/articles/s41563-026-02769-2": {
+  "guid": "https://www.nature.com/articles/s41563-026-02769-2",
+  "title": "In situ CAR engineering and nanoparticle-mediated TREM2 degradation for macrophage reprogramming in malignant ascites",
+  "link": "https://www.nature.com/articles/s41563-026-02769-2",
+  "abstract": "Peritoneal metastasis (PM) and the resulting malignant tumour ascites characterize advanced gastrointestinal cancers, often leading to poor prognosis and limited response to current therapies. Single-cell analysis of patient-derived PM and malignant tumour ascites reveals an approximately 90% enrichment of TREM2+-tumour-associated macrophages, which drive CD8+ T cell dysfunction and tumour growth. Here we develop lipid nanoparticles encapsulating mRNA to reprogram these tumour-associated macrophages into chimeric antigen receptor macrophages targeting Claudin18.2-positive tumour ascites. The lipid nanoparticles incorporate a TREM2+ ligand to enhance the targeting of TREM2 macrophages. The piperazine-containing phosphoramide ionizable lipid synergizes with the TREM2 ligand to inhibit ligand dissociation, promoting TREM2 internalization and degradation via lysosomal and autophagosomal pathways. This inhibits AKT signalling and reprograms tumour-associated macrophages towards an antitumour phenotype, enhancing progenitor exhausted and effector memory CD8+ T cell responses, altering the PM transcriptome, and reducing immunosuppression in both malignant tumour ascites and tumours. Combined with PD-1 blockade, this therapy suppresses tumour growth and extends survival in mice, and with matching immunological effects in clinical samples, demonstrates its translational potential for PM immunotherapy. Targeted lipid nanoparticles reprogram TREM2+-tumour-associated macrophages in ascitic fluid into chimeric antigen receptor macrophage cells, providing an in situ cell engineering strategy that alters the tumour microenvironment and promotes tumour cell elimination in rodent models.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.77
+ },
+ "https://www.nature.com/articles/s41584-026-01452-9": {
+  "guid": "https://www.nature.com/articles/s41584-026-01452-9",
+  "title": "Immune checkpoint inhibitor-associated inflammatory arthritis",
+  "link": "https://www.nature.com/articles/s41584-026-01452-9",
+  "abstract": "Immune checkpoint inhibitor-associated inflammatory arthritis (ICI-IA) represents the most common rheumatic immune-related adverse event, characterized by a distinct clonal expansion of CD8+ T cells that often mirrors the immune pathways driving antitumour responses. Clinically, ICI-IA presents with diverse phenotypes, including polyarticular and oligoarticular patterns, and is notably persistent, often continuing as a chronic condition long after the cessation of immunotherapy. Unlike traditional autoimmune arthritis, ICI-IA is predominantly seronegative, making diagnosis reliant on clinical recognition and the exclusion of mimics such as metastatic cancer and other immune-related adverse events. Management strategies prioritize symptom optimization to maintain patient quality of life and facilitate the continuation of life-saving cancer therapy. Treatment includes glucocorticoids and increasing use of conventional and biologic DMARDs. This approach is aimed at minimizing glucocorticoid toxicity while preserving the efficacy of the checkpoint inhibitor therapy, highlighting the need for a balanced, multidisciplinary approach to care. Immune checkpoint inhibitor-associated inflammatory arthritis is the most common rheumatic immune-related adverse event. In this Review, the authors discuss current insights into the pathogenesis, clinical presentations and management of immune checkpoint inhibitor-associated inflammatory arthritis, underscoring its distinct biology and therapeutic considerations.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.12
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.04.764315v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.04.764315v1?rss=1",
+  "title": "Targeting REV1 Exposes Context-Dependent Therapeutic Responses in Colorectal Cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.764315v1?rss=1",
+  "abstract": "Translesion synthesis (TLS) promotes DNA damage tolerance and contributes to chemotherapy resistance by enabling replication across damaged DNA templates. REV1, a central TLS regulator, is a potential therapeutic target to enhance the efficacy of genotoxic chemotherapy. Here, we investigated the therapeutic consequences of pharmacologic and genetic REV1 targeting in colorectal cancer (CRC) and evaluated the sensitivity of patient-derived CRC organoids to the REV1 inhibitor JH-RE-06. JH-RE-06 enhanced oxaliplatin sensitivity in HCT116 cells and 5-fluorouracil (5-FU) sensitivity in HT-29 cells, whereas reciprocal combinations produced limited sensitization, indicating treatment- and cellular context-dependent responses. siRNA-mediated REV1 depletion similarly enhanced chemotherapy sensitivity, supporting REV1 involvement in these responses. MNNG sensitivity assays and MLH1 expression analyses did not reveal consistent treatment-associated changes in mismatch repair function, while targeted HPRT1 sequencing identified no detectable sequence alterations in the region examined. Chemosensitization was not accompanied by consistent increases in caspase-3/7 activation under the conditions tested. REV1 inhibition also caused LC3-II accumulation and, after prolonged inhibitor exposure, reduced beta-tubulin abundance, indicating additional autophagy-associated and cytoskeletal responses. In two patient-derived CRC organoid models, JH-RE-06 exhibited single-agent growth-inhibitory activity, with mean IC50 values of 2.01 micromolar and 1.4 micromolar, respectively. Together, these findings demonstrate context-dependent chemosensitization and organoid growth inhibition following REV1 targeting, suggesting that its therapeutic consequences may extend beyond canonical TLS-mediated DNA damage tolerance.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "",
+  "score": 1.89
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.05.764693v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.05.764693v1?rss=1",
+  "title": "Mutant Isocitrate Dehydrogenase 1 Alters Extracellular Vesicle Secretion and Cargo Composition in Cellular Models",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.05.764693v1?rss=1",
+  "abstract": "Somatic mutations in isocitrate dehydrogenase 1 (IDH1) define major subtypes of adult diffuse gliomas and occur across a broad spectrum of cancers. These mutations ablate the conventional turnover of isocitrate to alpha-ketoglutarate and confer the neomorphic production of D-2-hydroxyglutarate (D2HG), which drives epigenetic remodeling. Growing evidence suggests this neomorphic activity may also affect how tumor cells communicate; small extracellular vesicles (sEVs) are elevated in gliomas, though how mutant IDH1 shapes sEV production and cargo remains poorly understood. Using glioblastoma and chondrosarcoma cell models, we show expression of mutant IDH1 correlates with a trend of increased sEV secretion, and that D2HG is packaged into sEVs that are taken up by cells. Cell-permeable D2HG treatment dose-dependently increased sEV release from IDH1 wild type cells. Untargeted proteomics showed that mutant IDH1 expression remodeled sEV cargo in a cell type-specific fashion, with mutant chondrosarcoma sEVs enriched in one-carbon metabolism enzymes, and mutant glioma sEVs in lysosomal luminal proteins and endoplasmic reticulum (ER) chaperones. Mutant IDH1 glioma cell transcriptomics suggested expanded ER folding capacity and reduced ribosomal pathways, and sEVs from these cells decreased nascent protein synthesis in IDH1 wild type recipient cells. Together, this suggests sEVs can serve as carriers of mutant IDH1 phenotypes.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "",
+  "score": 1.38
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.04.764362v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.04.764362v1?rss=1",
+  "title": "Single-Cell Transcriptomics Reveals Tumorigenic Lineages and Interactions Persisting and Evolving From Premalignancy to Cancer in the Stomach",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.764362v1?rss=1",
+  "abstract": "Background & Aims Gastric cancer is often diagnosed at advanced stages, making the premalignant window critical for early detection. However, the epithelial changes that characterize this stage remain poorly defined. We used CTLA4-knockdown (CTLA4KD) mice, which model human CTLA4 insufficiency-associated gastric cancer, that develops autoimmune gastritis, metaplasia, and adenocarcinoma, to define molecular changes across disease progression. Methods Single-cell RNA sequencing and 40-color spectral flow cytometry were performed on gastric tissue across premalignant and cancer stages. We evaluated epithelial lineage relationships, cell-cell communication pathways, and candidate markers at the transcript and protein levels in murine and human gastric adenocarcinoma. Results We identified a metaplastic/tumorigenic population in CTLA4KD mice that emerged in premalignancy with a chief cell transcriptomic origin. Cell-cell communication analysis revealed a progressive increase in fibronectin (FN1) signaling from premalignancy through cancer, transitioning from stromal to autocrine signaling in the metaplastic/tumorigenic population. Expression of Embigin (EMB), a fibronectin receptor, increased at both transcript and protein levels in premalignancy and remained elevated in cancer. EMB epithelial cells co-expressed CD133, a cancer stem cell marker, consistent with a stem-like phenotype. EMB expression was also higher in human gastric adenocarcinoma than in matched normal tissue. Conclusions Using a model that captures the full histopathological cascade of gastric tumorigenesis, we delineate single-cell transcriptional programs that persist and evolve from premalignancy to adenocarcinoma. In-depth computational analyses identified novel markers involved in cell-cell communication during tumorigenesis, including EMB, an epithelial marker that persists from premalignancy through cancer in the murine model and validated in human gastric adenocarcinoma, suggesting EMB as a marker of premalignant progression.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "",
+  "score": 0.98
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.04.764269v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.04.764269v1?rss=1",
+  "title": "Arrest-associated transcriptional programmes outweigh apoptosis-associated programmes in treatment-naive pancreatic ductal adenocarcinoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.764269v1?rss=1",
+  "abstract": "Background: Pancreatic ductal adenocarcinoma (PDAC) is driven by mutant KRAS, and RAS inhibitors now extend survival in previously treated metastatic disease. Whether treatment shrinks a tumour or only halts its growth depends partly on whether cancer cells die or stop dividing, yet how untreated PDAC cells are balanced between these programmes is unknown. Aims: We aimed to characterise the balance between apoptosis-associated and arrest-associated transcriptional programmes in treatment-naive PDAC and to examine their relationships with tumour subtype, TGM2 expression, tissue organisation, survival and drug sensitivity. Methods and results: We scored 52,999 malignant cells from 18 untreated patients in the Hwang atlas using a transcriptional contrast between genes associated with apoptosis and genes associated with resistance to apoptosis or cell-cycle arrest. In every patient the contrast was shifted toward the arrest-associated side: using equality between the two sides as the dividing threshold, 86.3% of cells with an informative score fell on that side, although the proportion depends on the threshold chosen. The shift recurred in the independent Steele atlas (median 71.6% per sample, range 37.1% to 90.8%). In the discovery cohort, tumours with higher basal-like scores had fewer arrest-side cells, and TGM2 expression was modestly higher on the arrest-associated side in both cohorts. The contrast did not track cell-line drug sensitivity or survival in bulk tumours. Conclusion: Untreated PDAC cells show a reproducible transcriptional bias toward anti-apoptotic and cell-cycle-arrest programmes. Whether this bias predicts cellular responses to treatment remains to be tested.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "",
+  "score": 1.61
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.04.764295v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.04.764295v1?rss=1",
+  "title": "Quantitative live imaging reveals region-dependent medulloblastoma disseminationin the zebrafish brain",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.764295v1?rss=1",
+  "abstract": "Medulloblastoma is the most common malignant pediatric brain tumor, and relapse is frequently driven by dissemination within the central nervous system. Yet the early dynamics of tumor spread remain difficult to resolve in vivo. Here, we orthotopically transplanted human medulloblastoma cells into larval zebrafish and followed individual xenografts by longitudinal high-resolution confocal imaging. ONS-76 showed particularly robust dissemination, with hindbrain tumors spreading into the developing cerebellum in 81.5% of larvae, more than fourfold the frequency observed for forebrain or midbrain tumors. Disseminating cells extended along brain-surface and leptomeningeal-like regions and frequently associated with cerebral vasculature. Quantitative analysis of tumor area, perimeter, compactness, convex hull area, and fractal dimension captured changes in growth and spatial complexity over time. Dasatinib reduced tumor expansion and dissemination-related features in a concentration-dependent manner, while higher doses revealed host toxicity. These findings establish a powerful in vivo model for resolving medulloblastoma dissemination and therapeutic response.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "",
+  "score": 1.55
  }
 }
