@@ -13698,5 +13698,45 @@
   "date": "2026-11-05T00:00:00+00:00",
   "type": "Article",
   "score": 1.71
+ },
+ "https://www.nature.com/articles/s41598-026-78333-4": {
+  "guid": "https://www.nature.com/articles/s41598-026-78333-4",
+  "title": "miR-20a promotes cell proliferation and migration by targeting DLC1 in nasopharyngeal carcinoma",
+  "link": "https://www.nature.com/articles/s41598-026-78333-4",
+  "abstract": "The role of miR-20a in nasopharyngeal carcinoma (NPC) and its relationship with the tumor suppressor DLC1 remain incompletely understood. We analyzed miR-20a expression in public datasets and clinical samples, assessed cell proliferation and migration, and examined target regulation using a dual-luciferase reporter assay. Tumor growth was evaluated in a subcutaneous xenograft model. miR-20a was elevated in NPC tissues and cell lines, and higher expression was associated with poorer survival in a public dataset. miR-20a overexpression promoted cell proliferation and migration, altered epithelial\u2013mesenchymal transition-associated markers, increased MMP-2, MMP-7 and MMP-9 protein levels, and enhanced xenograft growth. miR-20a inhibition increased DLC1 expression and the activity of a reporter containing the wild-type DLC1 3\u2032 untranslated region, without significantly affecting the corresponding mutant reporter. DLC1 knockdown attenuated the inhibitory effects of miR-20a inhibition on colony formation and migration and counteracted associated protein changes. These findings support DLC1 as a functional mediator of miR-20a-associated malignant phenotypes in NPC and provide a rationale for further preclinical investigation of the miR-20a/DLC1 axis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s41392-026-03072-x": {
+  "guid": "https://www.nature.com/articles/s41392-026-03072-x",
+  "title": "Antibody-drug conjugates: unpacking toxicity profiles and optimized designs for enhanced safety and antitumor efficacy",
+  "link": "https://www.nature.com/articles/s41392-026-03072-x",
+  "abstract": "Antibody-drug conjugates (ADCs) have expanded treatment options across multiple malignancies, but their clinical benefit remains constrained by heterogeneous and sometimes serious toxicities. These toxicities rarely arise from a single component; instead, they reflect the association between target biology, molecular architecture, systemic exposure, and tissue susceptibility. We first examine the structural basis of ADC toxicity by discussing the distinct contributions of the antibody\u2013target axis, linker, payload, drug loading, and conjugation strategy to systemic exposure and tissue toxicity. We distinguish organ-selective \u201con-target, off-tumor\u201d injury from target-independent toxicity and further characterize two major off-target routes: context-dependent uptake of intact ADCs through Fc\u03b3 receptor-mediated or pinocytosis-dominant pathways, and spatially distinct exposure to released payload arising from premature systemic release or localized bystander diffusion. Furthermore, we summarize a multidisciplinary management framework, ranging from prophylactic measures to graded interventions across complex scenarios such as treatment rechallenge and combination therapy. Finally, we discuss strategies to widen the therapeutic window through exposure-response-guided dosing, next-generation molecular engineering, and emerging conjugate platforms. Artificial intelligence and computational approaches may further extend safety optimization from drug design to patient stratification and real-world surveillance. By linking molecular design, spatial exposure, and clinical management, this review provides an integrated framework to improve ADC safety while preserving antitumor efficacy.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-06T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.37
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.04.764456v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.04.764456v1?rss=1",
+  "title": "BNCT Triggers Immunogenic Cell Death in B16 Melanoma Without Accompanying T-Cell Infiltration--Implications for Combination Immunotherapy",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.764456v1?rss=1",
+  "abstract": "Objective: Boron neutron capture therapy (BNCT) is a targeted radiotherapy with highly selective tumor killing; its potential to induce immunogenic cell death (ICD) and modulate the tumor immune microenvironment has attracted attention. However, whether BNCT-induced immune activation can overcome the T-cell exclusion barrier of immunologically \"cold\" tumors and translate into intratumoral effector T-cell infiltration remains unclear. Methods: A B16 melanoma model was established in C57BL/6 mice. Mice were assigned to CK, N10/N20 (neutron irradiation alone for 10 or 20 min), BPA, and BNCTN10/BNCTN20 groups (BPA 500 mg/kg plus 10 or 20 min irradiation) to evaluate tumor suppression and survival. In a separate cohort (CK, N20, and BNCTN20), the most efficacious regimen (BNCTN20) was compared with CK on days 3 and 7: H&E staining; immunohistochemistry/immunofluorescence for gamma-H2AX, HMGB1, cleaved caspase-3, PD-L1, CD8+, and granzyme B; ELISA for cytokines and chemokines; and ICP-OES for 10B distribution. Results: BNCT significantly suppressed tumor growth. When CK tumors reached the humane endpoint (~2000 mm3), N20 tumor volume was half that of CK (TGI ~ 49.8%), whereas BNCTN20 reached only one tenth (TGI ~ 88.9%, p < 0.001), with prolonged survival (p < 0.001). BNCT induced gamma-H2AX-associated DNA damage, HMGB1 release, and cleaved caspase-3-mediated apoptosis; upregulated PD-L1; induced a Th1-type response (elevated IFN-gamma/TNF-alpha, reduced IL-10); and enhanced CXCL9/10 signaling. However, intratumoral CD8+ T-cell infiltration and granzyme B expression did not increase, indicating that this activation was not translated into a local effector T-cell response. Conclusions: BNCT inhibited tumor growth and prolonged survival while inducing ICD and a systemic Th1 response; nevertheless, systemic activation failed to translate into local CD8+ T-cell infiltration, while PD-L1 was upregulated, a \"strong direct killing but blocked immune translation\" profile in the B16 cold tumor. PD-L1-associated adaptive immune resistance may limit this conversion, providing rationale for combining BNCT with immune checkpoint blockade.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "",
+  "score": 1.43
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.04.764357v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.04.764357v1?rss=1",
+  "title": "Targeting NF-\u03baB prevents Schwann cell reprogramming and plexiform neurofibroma initiation in mouse model of Nf1",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.764357v1?rss=1",
+  "abstract": "Plexiform neurofibromas arise in approximately half of all individuals with Neurofibromatosis Type I (NF1). Genetic lesions apart from NF1 pathogenic variants are not present in NF1 mutant Schwann cells, suggesting that tumorigenesis may instead require cellular rewiring. To identify putatively re-wired tumor cells, we used multiplex imaging and flow cytometry to delineate markers that distinguish tumor Schwann cell from non-tumor Schwann cells. We identified tumor Schwann cells as CD44+;CD49f+ cells that show increased transcription of epithelial to mesenchymal plasticity (EMP)- associated genes. CD44+;CD49f+ expression was induced by treating Nf1-/- Schwann cells with stressors or by direct NF-{kappa}B pathway activation via IKK2; treated Schwann cells increased secretion of NF-{kappa}B targets and immune cell chemoattractants CCL2 and CCL3. In established tumors, MEK inhibition plus NF-{kappa}B blockade diminished tumor cell proliferation, tumor Schwann cells, immune cell populations, tumor cytokines and tumor number. Notably, transient single agent NF-{kappa}B pathway blockade was sufficient to significantly delay tumor formation in mice. Thus, Nf1 loss in Schwann cells is followed by NF-{kappa}B activation and cellular reprogramming that drives tumor initiation and targeting NF-{kappa}B activation can reduce NF1-deficient tumor formation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-05T00:00:00+00:00",
+  "type": "",
+  "score": 1.27
  }
 }
