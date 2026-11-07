@@ -14128,5 +14128,25 @@
   "date": "2026-11-07T00:00:00+00:00",
   "type": "",
   "score": 2.08
+ },
+ "https://www.nature.com/articles/s41540-026-00843-8": {
+  "guid": "https://www.nature.com/articles/s41540-026-00843-8",
+  "title": "Discrete viscoelastic model of deformable immune cell migration through confined tumor microchannels",
+  "link": "https://www.nature.com/articles/s41540-026-00843-8",
+  "abstract": "Understanding the mechanical behavior of immune cells as they migrate through the complex environment of solid tumors may be crucial for improving immunotherapy strategies. In this work, we present a particle-based model that captures the large deformations of single immune cells migrating through confined microchannels, which mimic the narrow tumor micropores. In our model, the nucleus, the cytoplasm, and the outer cell boundary are represented through discrete particles with different interacting forces that account for the differences in the mechanical properties of the discrete parts of the cell. We compare and validate the model with experimental measurements from microfluidic devices, providing relevant mechanistic insights into the effects of changes in cellular stiffness on migration efficiency.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-07T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.07
+ },
+ "https://www.nature.com/articles/s41598-026-79609-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-79609-5",
+  "title": "Computational discovery of lead natural compounds targeting the HPV16 E6\u2013E6AP\u2013p53 interaction",
+  "link": "https://www.nature.com/articles/s41598-026-79609-5",
+  "abstract": "Human papillomavirus type 16 (HPV16) contributes to malignant progression by recruiting host E6-associated protein (E6AP), which facilitates ubiquitin-mediated degradation of the tumor suppressor protein p53.This study employed an integrated computational strategy to screen natural compounds for their potential to bind HPV16 E6 binding pocket and disrupt\u200b its interaction with the E6AP, thereby potentially preserving p53 function. The HPV16 E6\u2013E6AP\u2013p53 complex (PDB ID: 4XR8) was retrieved, assessed for structural quality, and analyzed for binding pocket identification. GO and KEGG were performed to explore associated biological functions and pathways. Pharmacophore-based virtual screening and molecular docking were conducted to screen high-affinity compounds, followed by ADMET, toxicity prediction, density functional theory (DFT) analysis, and 100 ns molecular dynamics simulation. Finally, protein\u2013ligand interactions were analyzed to characterize key binding residues. Functional enrichment analysis indicated that the E6\u2013E6AP\u2013p53 gene set is associated with apoptosis, DNA damage response, and viral carcinogenesis pathways. Structural validation showed acceptable stereochemical and structural quality metrics. Pharmacophore-based screening of \u200b511 natural compounds followed by molecular docking identified several molecules with favorable binding affinities (\u2212\u200b11.0 to \u2212\u200b11.7&nbsp;kcal/mol). The six top-ranked compounds were then filtered by ADME and toxicity predictions, and C-12 and C-17 were prioritized because they combined high docking affinity (\u2212\u200b11.4&nbsp;kcal/mol) with acceptable pharmacokinetic properties and safety profiles. Interaction analysis confirmed stable binding within the E6\u2013E6AP\u2013p53 pocket. DFT calculations revealed that C-17 exhibited the smallest HOMO\u2013LUMO energy gap compared with the luteolin and C-12, indicating a distinct electronic profile. Molecular dynamics and MM-GBSA analyses indicated greater stability and a more favorable binding free energy for C-17, followed by C-12, over the reference inhibitor, luteolin. Overall, C-12 and C-17 emerged as promising candidates for inhibiting the E6\u2013E6AP\u2013p53 interaction, which may help restore p53 function in HPV-driven tumor biology, and warrant further experimental validation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-07T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.53
  }
 }
