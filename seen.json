@@ -14118,5 +14118,15 @@
   "date": "2026-11-07T00:00:00+00:00",
   "type": "Article",
   "score": 1.53
+ },
+ "https://www.nature.com/articles/s41598-026-76747-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-76747-8",
+  "title": "Prognostic role of 18FDG-PET/CT based biomarker, tumor grading and immunohistochemical markers in breast cancer survival",
+  "link": "https://www.nature.com/articles/s41598-026-76747-8",
+  "abstract": "To determine prognostic strength of 18FDG PET/CT based glucose metabolism, tumor grading and immunohistochemical markers in breast cancer (BC) patients. The cohort study conducted at PET/CT Section of one of the tertiary care hospitals in Karachi, Pakistan. A total of 110 patients with advanced-stage breast cancer (predominantly stage II or higher) who underwent baseline 18F-FDG PET/CT between April 2017 and July 2020 were included. Patients were followed for up to five years from date of baseline 18FDG PET/CT, and metabolic progression-free survival (mPFS) was assessed using serial 18FDG PET/CT findings. Tumor demographics (type, grading, staging) and immunohistochemistry (estrogen receptor ER, human epidermal growth factor receptor-2 HER2/Neu, progesterone receptor PR, Ki-67) were also recorded. Using logistic regression and receiver operating characteristics (ROC) analysis, the significant predictors of complete metabolic response (CMR) based on binary outcome (CMR achieved and not achieved) were analyzed. Kaplan Meier\u2019s survival plots were analyzed to measure mPFS against ROC derived cutoff values of significant predictors. The median age of study group was 57 years (25\u201386 years), significantly obese and 85% invasive ductal CA with 97% grade II-III on Bloom-Richardson classification and stage IV disease (74%). The significant association of maximum standardized uptake value (SUVmax) and Ki-67 index were found in CMR on logistic regression while no significant association of patients\u2019 age, BMI, tumor grading, ER, PR, HER-2/neu status were found in CMR in BC. SUVmax\u2009&gt;\u20095.4 and Ki-67\u2009&gt;\u200930% were found to have significant association with failure to achieve CMR (AUC 0.729 and 0.759; p\u2009=\u20090.0002* and p\u2009=\u20090.0001* respectively). The mPFS was significantly shorter in patients with SUVmax\u2009&gt;\u20095.4 (29 vs. 45 months; Logrank\u2009=\u200916.356; p\u2009=\u20090.0001*) and in patients with Ki-67\u2009&gt;\u200930% index (27 vs. 48 months; Logrank\u2009=\u200914.901; p\u2009=\u20090.0001*). Higher baseline SUVmax (&gt;\u20095.4) and Ki-67 index (&gt;\u200930%) on baseline 18FDG were associated with a lower likelihood of achieving CMR and significantly shorter mPFS in breast cancer patients. Integration of metabolic and proliferative biomarkers may improve prognostic risk stratification, particularly in advanced breast cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-08T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.62
  }
 }
