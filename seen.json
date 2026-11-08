@@ -19,16 +19,6 @@
   "type": "Commentary",
   "score": 1.49
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00308-9?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00308-9?rss=yes",
-  "title": "Latent tumor killers awakened",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00308-9?rss=yes",
-  "abstract": "In this issue of Cancer Cell, Kehl et al. construct a single-cell atlas of bone marrow T cells from patients with bone marrow-resident malignancies, identifying tumor-reactive populations existing in a state of latent competence. A 15-gene signature identifies this subset, which is expanded by immunotherapies and predicts clinical responses.",
-  "source": "Cancer Cell",
-  "date": "2026-08-10T00:00:00+00:00",
-  "type": "Preview",
-  "score": 1.03
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00358-2?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00358-2?rss=yes",
   "title": "Scherer\u2019s map, remapped",
@@ -88,16 +78,6 @@
   "date": "2026-09-01T00:00:00+00:00",
   "type": "Article",
   "score": 0.87
- },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00349-1?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00349-1?rss=yes",
-  "title": "Latent effector T cells mediate immunotherapy responses in the bone marrow microenvironment",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00349-1?rss=yes",
-  "abstract": "Kehl et al. characterize tumor-reactive T cells in the bone marrow of patients with multiple myeloma and AML. These cells adopt an effector state distinct from exhausted solid tumor TILs. The TFiT classifier stratifies immunotherapy, but not chemotherapy, response, identifying a latent, therapeutically engageable anti-tumor compartment.",
-  "source": "Cancer Cell",
-  "date": "2026-08-10T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.88
  },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes",
@@ -288,16 +268,6 @@
   "date": "2026-09-01T00:00:00+00:00",
   "type": "Article",
   "score": 0.77
- },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00825-1?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00825-1?rss=yes",
-  "title": "The structural basis for LRRK2\u2019s activation and autoinhibition",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00825-1?rss=yes",
-  "abstract": "Elevated kinase activity in leucine-rich repeat kinase 2 (LRRK2) is linked to Parkinson\u2019s disease; this study shows that its ROC GTPase acts as a nucleotide-dependent molecular switch that regulates activation and autoinhibition and reveals how some but not all PD mutations disrupt this regulatory switch.",
-  "source": "Cell",
-  "date": "2026-08-10T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.51
  },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00873-1?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00873-1?rss=yes",
