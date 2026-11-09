@@ -129,16 +129,6 @@
   "type": "Correction",
   "score": 0.61
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00383-1?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00383-1?rss=yes",
-  "title": "Retraction Notice to: Methionine restriction promotes cGAS activation and chromatin untethering through demethylation to enhance antitumor immunity",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00383-1?rss=yes",
-  "abstract": "(Cancer Cell 41, 1118\u20131133.e1\u2013e12; June 12, 2023)",
-  "source": "Cancer Cell",
-  "date": "2026-08-11T00:00:00+00:00",
-  "type": "Retraction",
-  "score": 1.24
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)01071-8?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01071-8?rss=yes",
   "title": "Glioma margins gain a third dimension before surgery ends",
@@ -238,16 +228,6 @@
   "date": "2026-09-22T00:00:00+00:00",
   "type": "Short article",
   "score": 0.02
- },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00827-5?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00827-5?rss=yes",
-  "title": "Convergent evolution of metabolic regulation governs redox adaptation in Toxoplasma",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00827-5?rss=yes",
-  "abstract": "A protein called TgPRO enables the metabolic adaptation and survival of apicomplexan parasites such as Toxoplasma under oxidative and nutrient stress.",
-  "source": "Cell",
-  "date": "2026-08-11T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.18
  },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00917-7?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00917-7?rss=yes",
@@ -14128,5 +14108,15 @@
   "date": "2026-11-08T00:00:00+00:00",
   "type": "Article",
   "score": 0.62
+ },
+ "https://www.nature.com/articles/s41392-026-03088-3": {
+  "guid": "https://www.nature.com/articles/s41392-026-03088-3",
+  "title": "Mutant KRAS vaccination for pancreatic cancer interception: the G12D immunogenicity paradox",
+  "link": "https://www.nature.com/articles/s41392-026-03088-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 1.77
  }
 }
