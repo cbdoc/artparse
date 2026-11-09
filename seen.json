@@ -14178,5 +14178,445 @@
   "date": "2026-11-09T00:00:00+00:00",
   "type": "Article",
   "score": 0.83
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00432-0?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00432-0?rss=yes",
+  "title": "The neoantigen quality model: Is closer to self more non-self?",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00432-0?rss=yes",
+  "abstract": "T cells recognize antigens from pathogens and transformed cells. Yet what antigen is \u201cideal\u201d? We propose a theoretical framework in which recognition is governed by T cell selection maximized near, not far from, self. Genomic errors generate antigens closer to self that paradoxically overlap with pathogen antigens and are immunogenic and non-self. We formalize this concept as the Neoantigen Quality Model, recasting antigen recognition as an adaptation to surveil the self and non-self living worlds.",
+  "source": "Cancer Cell",
+  "date": "2026-10-22T00:00:00+00:00",
+  "type": "Commentary",
+  "score": 1.09
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00359-4?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00359-4?rss=yes",
+  "title": "One structural class, one treatment? Firmonertinib in PACC-mutant NSCLC",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00359-4?rss=yes",
+  "abstract": "EGFR PACC-mutant non-small cell lung cancer (NSCLC) has limited treatment options. In this issue of Cancer Cell, Le et al. report preclinical profiles and promising systemic and intracranial efficacy of the broad-spectrum CNS-penetrant tyrosine kinase inhibitor firmonertinib in PACC-mutant NSCLC, supporting its further clinical development in this challenging mutation class.",
+  "source": "Cancer Cell",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "Preview",
+  "score": 2.42
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00398-3?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00398-3?rss=yes",
+  "title": "How far are we from multi-omics states to therapeutic targets in microsatellite-stable colorectal cancer?",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00398-3?rss=yes",
+  "abstract": "In this issue of Cancer Cell, Sadanandam et al. integrate multi-omics profiling of microsatellite-stable colorectal cancer with patient-derived models, identifying focal adhesion kinase and phosphoinositide-dependent kinase 1 as promising therapeutic targets. The study advances multi-omics discoveries toward functional precision oncology and potential treatment strategies to guide clinical translation.",
+  "source": "Cancer Cell",
+  "date": "2026-10-22T00:00:00+00:00",
+  "type": "Preview",
+  "score": 1.47
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00434-4?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00434-4?rss=yes",
+  "title": "Finding MES: A hidden cell state in neuroblastoma",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00434-4?rss=yes",
+  "abstract": "In this issue of Cancer Cell, Patel et al. integrate bulk and single-cell/single-nucleus RNA sequencing with spatial transcriptomics and spatial proteomics across neuroblastoma patient-derived xenografts and annotated tumors to reveal adrenergic and mesenchymal signatures, identify distinct tumor cell populations in vivo, and demonstrate associations with patient outcomes.",
+  "source": "Cancer Cell",
+  "date": "2026-10-26T00:00:00+00:00",
+  "type": "Preview",
+  "score": 0.77
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00436-8?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00436-8?rss=yes",
+  "title": "Intrinsic resistance to KRAS inhibition: Interfering with interferon",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00436-8?rss=yes",
+  "abstract": "In this issue of Cancer Cell, Zhang et al. perform multi-omics profiling on a large collection of patient-derived pancreatic ductal adenocarcinoma organoids to elucidate the mechanisms underlying intrinsic resistance to KRAS inhibition. This work identifies suppression of innate immune signaling through sustained MYC activity as the principal driver of intrinsic resistance.",
+  "source": "Cancer Cell",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "Preview",
+  "score": 1.95
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00429-0?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00429-0?rss=yes",
+  "title": "Chromatin plasticity and lineage repurposing: When gastric identity turns acidic",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00429-0?rss=yes",
+  "abstract": "Chromatin dynamics shape gastric cancer at every stage. In this issue of Cancer Cell, Wang et al. uncover a premalignant chromatin state primed for oncogenic activation alongside a pseudo-gastric subtype that hijacks acid secretion to evade antitumor immunity, revealing gastric proton pumps as a potential therapeutic target.",
+  "source": "Cancer Cell",
+  "date": "2026-10-07T00:00:00+00:00",
+  "type": "Preview",
+  "score": 1.29
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00475-7?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00475-7?rss=yes",
+  "title": "Neutrophils are known by their neighbors in breast cancer",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00475-7?rss=yes",
+  "abstract": "In this issue of Cancer Cell, Xu et al. combine large-scale computational pathology, spatial omics, and functional experiments to examine neutrophil organization in triple-negative breast tumors. They identify two neutrophil niches with different clinical associations: tumor-proximal neutrophils are linked to favorable prognosis, whereas neutrophils near immune cells associate with immunotherapy response.",
+  "source": "Cancer Cell",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Preview",
+  "score": 0.85
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00431-9?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00431-9?rss=yes",
+  "title": "Antibiotics and outcomes of cancer immunotherapy: An updated meta-analysis and clinical applications",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00431-9?rss=yes",
+  "abstract": "Antibiotic-induced dysbiosis is increasingly recognized as a driver of resistance to immune checkpoint inhibitors, yet its clinical impact across cancer immunotherapy has lacked a comprehensive, up-to-date assessment. Porcari et al. report an updated meta-analysis of 116 cohorts and nearly 98,000 ICI-treated patients, showing that antibiotic exposure is significantly associated with worse overall and progression-free survival, and outline stewardship and microbiome-based strategies to prevent and repair dysbiosis in this setting.",
+  "source": "Cancer Cell",
+  "date": "2026-10-27T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 1.18
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00435-6?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00435-6?rss=yes",
+  "title": "Lung neuroendocrine cancer induces immunosuppressive macrophages via serotonin to drive resistance to the T cell engager tarlatamab",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00435-6?rss=yes",
+  "abstract": "Nomura et al. identify a neuroimmune mechanism of resistance to DLL3 \u00d7 CD3-directed T cell engager and ICB therapy in SCLCs and LCNECs. They show that tumor-derived serotonin programs immunosuppressive macrophages through HTR7 signaling, dampening antitumor T cell responses and limiting immunotherapy efficacy, while revealing a therapeutically actionable vulnerability.",
+  "source": "Cancer Cell",
+  "date": "2026-10-22T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.98
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00470-8?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00470-8?rss=yes",
+  "title": "A sex-specific platelet switch controls anti-tumor immunity in glioblastoma",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00470-8?rss=yes",
+  "abstract": "Sloan et al. show that platelets suppress anti-tumor immunity through PAR4 signaling in glioblastoma. Blocking PAR4 selectively benefits females by enhancing estrogen receptor \u03b2-dependent CD8+ T cell responses, uncovering a mechanism that links thrombosis, sex differences, and immunotherapy and suggesting new opportunities for precision cancer treatment.",
+  "source": "Cancer Cell",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.02
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00401-0?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00401-0?rss=yes",
+  "title": "Chromatin accessibility trajectories reveal pre-cancerous epigenetic priming and an acid-driven immunotherapy-resistant gastric cancer subtype",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00401-0?rss=yes",
+  "abstract": "Wang et al. build a chromatin accessibility atlas of 650 gastric tissue samples spanning pre-cancer to advanced cancer, revealing a cancer-like epigenetic priming state in metaplasia that licenses tumor initiation. Advanced cancers segregate into three epigenomic subtypes; the pseudo-gastric subtype resists immunotherapy via FOSL2-driven H+/K+ ATPase expression that acidifies the microenvironment and suppresses CD8+ T cells\u2014a phenotype reversed by the acid blocker vonoprazan.",
+  "source": "Cancer Cell",
+  "date": "2026-10-06T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.43
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00427-7?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00427-7?rss=yes",
+  "title": "Spatial omics resolves adrenergic and mesenchymal cell states in neuroblastoma",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00427-7?rss=yes",
+  "abstract": "Patel et al. combine six spatial-omics platforms with single-cell/single-nucleus RNA sequencing across 54 neuroblastoma tumors to resolve a debate over malignant mesenchymal (MES) tumor cells. Using signatures from patient-derived xenografts, they identify MES tumor cells and show that a higher MES score predicts worse patient outcome.",
+  "source": "Cancer Cell",
+  "date": "2026-10-08T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.74
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00473-3?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00473-3?rss=yes",
+  "title": "A stroma-sensing TGF-\u03b2 blockade reprograms CAF-myeloid niches to induce durable tumor immunity",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00473-3?rss=yes",
+  "abstract": "Kang et al. show that anchoring a soluble TGF-\u03b2 trap (FEBP-sT\u03b2RII) to FN-EDB-rich matrix overcomes fibrotic immune exclusion. This localized blockade drives IFN-\u03b3-dependent CAF-myeloid reprogramming, enhances T cell infiltration, and establishes durable, cross-protective antitumor immunity.",
+  "source": "Cancer Cell",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.48
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00471-X?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00471-X?rss=yes",
+  "title": "Decoding neutrophil spatial heterogeneity and clinical implications in breast cancer",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00471-X?rss=yes",
+  "abstract": "Xu et al. investigate neutrophil spatial heterogeneity by integrating AI-powered computational pathology and single-cell spatial omics in comprehensive breast cancer cohorts. They identify clinically relevant neutrophil spatial patterns and provide mechanistic insights into the underlying biology. Combining neutrophil spatial patterns with established biomarkers further refines patient stratification.",
+  "source": "Cancer Cell",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.67
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00430-7?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00430-7?rss=yes",
+  "title": "Firmonertinib in advanced non-small cell lung cancer with epidermal growth factor receptor P-loop and \u03b1C-helix compressing mutations",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00430-7?rss=yes",
+  "abstract": "Le et al. show that the small molecule TKI firmonertinib has a unique structure to inhibit EGFR PACC mutations in non-small cell lung cancer. In the phase 1b FURTHER trial, patients had robust and durable responses to firmonertinib with tolerable side effects. These findings support advancing to a large, randomized trial.",
+  "source": "Cancer Cell",
+  "date": "2026-10-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.29
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00433-2?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00433-2?rss=yes",
+  "title": "Multiomic characterization of microsatellite-stable colorectal cancer reveals distinct biology and targetable vulnerabilities",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00433-2?rss=yes",
+  "abstract": "Sadanandam et al. integrate multiomic, single-cell, and clinical data from \u223c2,000 CRC tumors (\u223c4,500 multiomic profiles including 195,246 cells/nuclei) to define microsatellite stable (MSS) CRC complexity. Analyses identify replication stress, right-sidedness, glutaminolysis, and MYC-E2F-associated epigenetic programs as key features and FAK, PDK1/2, and proteasomal inhibition, combined with trametinib, as potential therapeutic strategies in MSS CRC.",
+  "source": "Cancer Cell",
+  "date": "2026-10-22T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.53
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00467-8?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00467-8?rss=yes",
+  "title": "KRASG12D-targeted therapy sensitivity depends on interferon signaling activation in pancreatic cancer",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00467-8?rss=yes",
+  "abstract": "Zhang et al. show that intrinsic resistance to KRASG12D-targeted therapy in pancreatic cancer is driven by suppressed interferon signaling associated with sustained MYC activity. Activation of interferon pathways, particularly via IFN-\u03b2, resensitizes resistant tumors and synergizes with KRAS inhibitors, revealing interferon signaling as an actionable target.",
+  "source": "Cancer Cell",
+  "date": "2026-10-29T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.73
+ },
+ "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00474-5?rss=yes": {
+  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00474-5?rss=yes",
+  "title": "Mechanisms of Progression of Myeloid Preleukemia to Transformed Myeloid Leukemia in Children with Down Syndrome",
+  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00474-5?rss=yes",
+  "abstract": "Cancer Cell 36, 123\u2013138.e1\u2013e10; August 12, 2019",
+  "source": "Cancer Cell",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "Correction",
+  "score": 0.67
+ },
+ "https://www.nature.com/articles/s41556-026-02145-x": {
+  "guid": "https://www.nature.com/articles/s41556-026-02145-x",
+  "title": "Author Correction: A tumour-resident Lgr5+ stem-cell-like pool drives the establishment and progression of advanced gastric cancers",
+  "link": "https://www.nature.com/articles/s41556-026-02145-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Author Correction",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s41571-026-01228-w": {
+  "guid": "https://www.nature.com/articles/s41571-026-01228-w",
+  "title": "Risvutatug rezetecan has promising efficacy in osteosarcoma",
+  "link": "https://www.nature.com/articles/s41571-026-01228-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s41571-026-01233-z": {
+  "guid": "https://www.nature.com/articles/s41571-026-01233-z",
+  "title": "Divarasib outperforms first-generation KRAS-G12C inhibitors in NSCLC",
+  "link": "https://www.nature.com/articles/s41571-026-01233-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 2.42
+ },
+ "https://www.nature.com/articles/s41573-026-01552-x": {
+  "guid": "https://www.nature.com/articles/s41573-026-01552-x",
+  "title": "Conditional biologics in cancer immunotherapy: mechanisms, applications and clinical progress",
+  "link": "https://www.nature.com/articles/s41573-026-01552-x",
+  "abstract": "Immunotherapy has transformed cancer treatment, enabling durable responses and long-term survival in many patients. However, widespread use remains limited by refractory indications, immune-related toxicities and acquired resistance. Complications such as cytokine release syndrome, immune-related adverse events, infusion-related reactions and on-target, off-tumour toxicities have emerged as specific safety concerns. Approaches that can direct immunotherapy to the tumour microenvironment (TME), such as intratumoural administration, have only partially mitigated these risks and present additional logistical and technical barriers. Conditional biologics, in which proteins are engineered to become active in response to tumour-associated signals or in the TME, enable the uncoupling of efficacy from toxicity. By enhancing tumour accumulation, targeting activity to a particular cell type and minimizing off-target effects, conditional activation offers a potential strategy to expand the therapeutic window of cancer therapeutics. This Review provides a comprehensive overview of the mechanisms, applications, challenges and future directions of this approach, while assessing completed and ongoing clinical trials. Conditional biologics (CBs) \u2014 protein therapeutics engineered to selectively activate within the tumour microenvironment \u2014 have the potential to increase the potency and limit the off-target adverse effects of cancer immunotherapies. This Review describes the design principles and activation mechanisms of CBs, assesses those being investigated in the clinic, and addresses ongoing challenges and future directions for the field.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.54
+ },
+ "https://www.nature.com/articles/s41585-026-01205-z": {
+  "guid": "https://www.nature.com/articles/s41585-026-01205-z",
+  "title": "Reply to \u2018Ominous-appearing serosal findings on PSMA imaging: careful clinical judgement should complement molecular imaging\u2019",
+  "link": "https://www.nature.com/articles/s41585-026-01205-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Correspondence",
+  "score": 0.68
+ },
+ "https://www.nature.com/articles/s41598-026-80223-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-80223-8",
+  "title": "Prospective evaluation of urinary cytology in the VI-RADS 3 grey zone: association with muscle invasion in bladder tumors",
+  "link": "https://www.nature.com/articles/s41598-026-80223-8",
+  "abstract": "VI-RADS 3 lesions represent a diagnostic grey zone for predicting muscle invasion in bladder cancer. We aimed to evaluate the association between preoperative urinary cytology and pathological muscle invasion and to assess its diagnostic performance in patients with VI-RADS 3 bladder tumors. In this prospective single-center cohort study, patients who underwent TURBT between September 2023 and September 2025 were evaluated. Among 241 consecutive patients, 57 with preoperative VI-RADS 3 lesions and available urinary cytology were included. The primary outcome was pathological muscle invasion (\u2265\u2009T2). Given the few events, analyses were unadjusted: Fisher\u2019s exact test, absolute difference in proportions, odds ratio (OR), and sensitivity, specificity, positive (PPV) and negative predictive values (NPV) with 95% confidence intervals (CIs). Muscle-invasive disease was detected in 5/57 patients (8.8%). Urinary cytology was positive in 12/57 (21.1%) and negative in 45/57 (78.9%). The rate of positive cytology was significantly higher in patients with muscle-invasive disease compared to non\u2013muscle-invasive cases (80.0% vs. 15.4%, p\u2009=\u20090.006). Muscle invasion occurred in 4/12 (33.3%) patients with positive and 1/45 (2.2%) with negative cytology (absolute difference 31.1% points, 95% CI 9.5\u201358.8% points). Sensitivity was 80.0% (95% CI 28.4\u201399.5), specificity 84.6% (71.9\u201393.1), PPV 33.3% (9.9\u201365.1) and NPV 97.8% (88.2\u201399.9). In this cohort, positive urinary cytology was associated with muscle invasion in VI-RADS 3 tumors. Whether cytology adds diagnostic value beyond mpMRI or improves clinical decision-making requires validation in larger multicenter studies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.64
+ },
+ "https://www.nature.com/articles/s41598-026-78930-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-78930-3",
+  "title": "Isthmin-1, meteorin-like, and neuregulin-4 as potential diagnostic novel biomarkers for colorectal cancer in Thi-Qar Governorate, Iraq",
+  "link": "https://www.nature.com/articles/s41598-026-78930-3",
+  "abstract": "Colorectal cancer (CRC) is one of the leading causes of cancer complications and deaths globally. Unfortunately, we have limited tests for early diagnosis of the disease. Nevertheless, novel integrative metabolic and inflammatory markers, including Isthmin-1 (ISM1), Meteorin-like (Metrnl), Neuregulin-4 (NRG4), which have the ability to formulate novel diagnostic strategies and broaden the knowledge of CRC. In a case-control study of 180 individuals, three groups were assessed: patients with CRC, individuals with benign colorectal disease (BCD), and healthy controls (HC), with 60 individuals in each category. ELISA was performed to assess the levels of these markers in individuals\u2019 blood. Statistical results showed clearly higher ISM1 levels in CRC patients (8.91\u2009\u00b1\u20092.14 ng/mL); BCD and HC showed 5.76\u2009\u00b1\u20091.63 ng/mL and 4.83\u2009\u00b1\u20091.41 ng/mL, respectively (p\u2009&lt;\u20090.001). Metrnl values were lowered by 62.8\u2009\u00b1\u200915.7 pg/mL in CRC patients, versus 88.5\u2009\u00b1\u200919.4 pg/mL in BCD and 96.3\u2009\u00b1\u200920.1 pg/mL in HC (p\u2009&lt;\u20090.001). NRG4 values were equally low in CRC patients, averaging 1.74\u2009\u00b1\u20090.52 ng/mL, although this was lower than in HC (p\u2009&lt;\u20090.001). The ROC analysis was promising for the three markers, with AUC of 0.912 for ISM1, 0.895 for Metrnl, and 0.887 for NRG4. In addition, ISM1 was positively associated with tumor stage and tumor size (r\u2009=\u20090.61, 0.53), yet Metrnl and NRG4 had the opposite effect. This study demonstrates that elevated ISM1 levels, in conjunction with decreased Metrnl and NRG4 levels, are significantly associated with CRC and its severity. These biomarkers provide more accurate predictions, which may contribute to enhancing our understanding of early CRC detection and identifying risk factors.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.68
+ },
+ "https://www.nature.com/articles/s12276-026-01883-0": {
+  "guid": "https://www.nature.com/articles/s12276-026-01883-0",
+  "title": "Dynamic SMAD\u2013RUNX2 complexes orchestrate breast cancer bone metastasis",
+  "link": "https://www.nature.com/articles/s12276-026-01883-0",
+  "abstract": "Bone metastasis of breast cancer is a multistep process involving detachment from the primary tumor, homing and adhesion to bone, clonal survival, and osteolysis, driven by dynamic interactions between tumor cells and the bone microenvironment. Although Runt-related transcription factor 2 (RUNX2) has been recognized as a downstream effector of SMADs in bone metastatic programs, our study has revealed that SMAD\u2013RUNX2 complexes also regulate the intrinsic functions of SMADs, thereby acting as active amplifiers of TGF\u03b2 and BMP signaling. We further characterized the distinct roles of the SMAD1\u2013RUNX2 and SMAD2/3\u2013RUNX2 complexes across the bone metastatic cascade using cancer cells overexpressing either wild-type RUNX2 or RUNX2 variants in response to treatment with TGF\u03b2 and BMP. SMAD\u2013RUNX2 complexes were found to play microenvironment-dependent roles during bone metastasis. The TGF\u03b2-induced SMAD2/3\u2013RUNX2 complex promoted osteotropic migration and secondary dissemination, whereas the BMP-activated SMAD1\u2013RUNX2 complex increased cancer cell adhesion and survival in the bone microenvironment, with both complexes increasing osteolytic lesion formation. Mechanistically, the competitive binding of SMAD2/3 and SMAD1 to RUNX2 appeared to underlie the crosstalk between the TGF\u03b2 and BMP pathways. Together, these findings demonstrate a dynamic interplay among SMAD1, SMAD2/3, and RUNX2 that integrates TGF\u03b2 and BMP signaling during bone metastasis, highlighting the potential for developing context-dependent therapeutic strategies. Bone metastasis is a significant complication of breast cancer, severely impacting patients' quality of life and survival. This study explores the roles of SMAD1\u2013RUNX2 and SMAD2/3\u2013RUNX2 complexes in breast cancer bone metastasis. Researchers used breast cancer cells with wild-type or mutated RUNX2 to analyze the effects of these complexes under TGF\u03b2 and BMP treatments. They found that SMAD2/3\u2013RUNX2 promotes cancer cell migration to bone, while SMAD1\u2013RUNX2 enhances cell adhesion to bone. These complexes differentially regulate gene expression related to metastasis, with SMAD2/3\u2013RUNX2 facilitating dissemination and SMAD1\u2013RUNX2 supporting bone colonization. The findings highlight the role of RUNX2 as a transcriptional amplifier in TGF\u03b2 and BMP signaling, suggesting potential therapeutic targets for managing bone metastasis. Future research could focus on disrupting SMAD\u2013RUNX2 interactions to develop treatments for bone metastasis. This summary was initially drafted using artificial intelligence, then revised and fact-checked by the author.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.88
+ },
+ "https://www.nature.com/articles/s41416-026-03626-4": {
+  "guid": "https://www.nature.com/articles/s41416-026-03626-4",
+  "title": "Long-term fatigue dimensions in the Multidimensional Fatigue Inventory (MFI) up to five years after radiotherapy and their trajectories in men diagnosed with non-metastatic prostate cancer in the international REQUITE study",
+  "link": "https://www.nature.com/articles/s41416-026-03626-4",
+  "abstract": "Fatigue is a common, multidimensional symptom in cancer patients. Little is known about fatigue dimensions and their trajectories in prostate cancer (PCa). Using the Multidimensional Fatigue Inventory (MFI), 1097 men treated with radiotherapy for non-metastatic PCa (2014\u20132016) prospectively reported fatigue up to five years later. Prevalent fatigue was defined as scores \u226575th percentile in men aged \u226560 years in a German general population sample. Pre-radiotherapy patient characteristics were examined for their associations with general fatigue, physical fatigue, mental fatigue, reduced activity, and reduced motivation two years later using logistic regression models. Fatigue trajectories up to two years post-radiotherapy were explored using latent class growth analysis and multinomial regression. About 72% (785/1097) of patients reported being fatigued for at least one dimension in the MFI from before the start of radiotherapy up to five years later, with 45% (367/816) being fatigued two years post-radiotherapy. Pre-radiotherapy fatigue level (OR: 4.7\u20139.0), depression (OR: 2.5), diabetes (OR: 1.8\u20132.2), hypertension (OR: 1.6\u20131.8), and BMI (OR: 1.8\u20132.2) were statistically significant predictors of long-term fatigue two years post-radiotherapy across dimensions. Depression, BMI, and pelvic radiotherapy were associated with experiencing a high fatigue trajectory. Early fatigue assessments, in addition to self-reported comorbidities and BMI, showed additional benefits beyond symptom detection by providing prognostic value for poorer long-term fatigue outcomes. Multidimensional fatigue assessments could guide tailored symptom management strategies, targeting specific dimensions to address associated impairments in quality of life and functioning.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.54
+ },
+ "https://www.nature.com/articles/s41590-026-02708-y": {
+  "guid": "https://www.nature.com/articles/s41590-026-02708-y",
+  "title": "Mechanosensitive YAP\u2013RUNX1 signaling drives TH1 cell dysfunction and tumor immunosuppression",
+  "link": "https://www.nature.com/articles/s41590-026-02708-y",
+  "abstract": "Tissue stiffening is a predominant malignant physical alteration in cancer progression, yet its effect on specific immune subsets within the tumor microenvironment is not well defined. Here we show that elevated tissue stiffness subverts tumor-infiltrating type 1 helper T (TH1) cells to drive immunosuppression in pancreatic cancer. Mechanistically, stiffness triggers integrin-mediated mechanotransduction to activate YAP, which translocates to the nucleus and cooperates with RUNX1 to transcriptionally upregulate a set of dysfunction-associated genes. These reprogrammed TH1 cells acquire a distinct dysfunction-associated secretory phenotype, which in turn drives M2-like polarization of macrophages and amplifies local immunosuppression. Notably, inhibiting YAP expression or disrupting YAP\u2013RUNX1 interaction reverses the dysfunctional state of TH1 cells and restores antitumor immunity. These findings delineate a mechano\u2013immunological mechanism by which tumor stiffness subverts TH1 cell functions, indicating a possible therapeutic avenue to alleviate immunosuppression and potentiate immunotherapy efficacy in stiff tumors. Solid tumor stiffness can limit the ability of immune cells to enter and kill tumor cells. Here the authors show that this stiffness activates YAP signaling in type 1 helper T cells, making them dysfunctional and thereby leading to a more immunosuppressive tumor microenvironment.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.86
+ },
+ "https://www.nature.com/articles/s41375-026-03172-1": {
+  "guid": "https://www.nature.com/articles/s41375-026-03172-1",
+  "title": "Mesenchymal stromal cells drive immune escape in MDS and sAML through metabolic rewiring of NK cells",
+  "link": "https://www.nature.com/articles/s41375-026-03172-1",
+  "abstract": "Myelodysplastic neoplasms (MDS) are clonal hematopoietic stem cell disorders that frequently progress to secondary acute myeloid leukemia (sAML). Besides intrinsic genetic changes, the disease\u2019s development is heavily influenced by the bone marrow (BM) microenvironment, especially mesenchymal stromal cells (MSCs). In this study, we present a comprehensive characterization of how unhealthy MSCs affect natural killer (NK) cell anti-leukemic function in MDS and sAML. Using integrated ATAC-seq and RNA-seq profiling, we show that MDS/sAML-derived MSCs induce profound chromatin remodeling in NK cells, marked by reduced promoter accessibility and downregulation of genes essential for stress response and survival. Functionally, pathological MSCs fail to deliver the protective support normally provided by healthy MSCs, instead driving mitochondrial fragmentation and apoptosis in NK cells, ultimately suppressing their cytotoxic activity. Together, these findings reveal a previously unrecognized loss of supportive capacity in pathological MSCs that hampers NK-cell fitness. Therapeutic approaches that bolster mitochondrial resilience in NK cells may help counteract this microenvironment-induced impairment and strengthen immune surveillance in MDS and sAML.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.99
+ },
+ "https://www.nature.com/articles/s41598-026-78101-4": {
+  "guid": "https://www.nature.com/articles/s41598-026-78101-4",
+  "title": "Prevalence of autoimmune disease and associated 5-hydroxymethylcytosine cell-free DNA patterns in appendiceal neoplasms",
+  "link": "https://www.nature.com/articles/s41598-026-78101-4",
+  "abstract": "Autoimmune diseases (AID) are associated with increased risk of developing gastrointestinal cancers, but their relationship with appendiceal neoplasms (AENs) remains unexplored. We performed a multi-institutional retrospective review of 179 AEN patients, identifying 44 (24.6%) with a history of AID, most commonly suspected Hashimoto\u2019s thyroiditis (14.0%). 5-hydroxymethylcytosine (5hmC), an epigenetic marker involved in gene regulation and immune function, offers a promising tool for studying tumor biology. Plasma samples from 68 patients were analyzed using Nano-hmC-Seal (5hmC-Seal) technology to generate genome-wide 5hmC profiles from cfDNA. 5hmC profiling identified 58 candidate differentially hydroxymethylated regions (DhMRs) and 80 candidate differentially hydroxymethylated genes (DhMGs) between AID and non-AID patients based on nominal p-value and effect-size thresholds. These included. several oncogenes, proto-oncogenes, and tumor suppressor genes such as MNT, FYN, ERG, and KAT6B. Functional pathway analysis involving differentially hydroxymethylated regions or genes revealed significant hydroxymethylation of immune-related and oncogenic pathways in patients with autoimmune disease, including intestinal immune network for IgA production, along with the IgE high-affinity receptor, Fc\u03b5RI, and MAPK and ErbB signaling pathways. These findings suggest that autoimmune conditions might contribute to a distinct epigenetic landscape in appendiceal cancers, supporting further investigation into immune-mediated mechanisms of tumorigenesis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.89
+ },
+ "https://www.nature.com/articles/s41598-026-70644-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-70644-w",
+  "title": "Helicobacter pylori infection as a prognostic factor in gastric cancer: Impact of comorbidities on overall survival",
+  "link": "https://www.nature.com/articles/s41598-026-70644-w",
+  "abstract": "Helicobacter pylori infection is a risk factor for gastric cancer, but its impact on prognosis remains underexplored in high-prevalence settings such as Brazil. This study aimed to estimate overall survival in patients with gastric adenocarcinoma and H. pylori infection and identify comorbidities associated with prognosis in a Brazilian multicenter cohort. This was a prospective multicenter cohort study in three Brazilian centers (North, Midwest, Southeast). Sociodemographic, clinical, and histopathological variables were analyzed among patients tested for H. pylori. Frequencies were compared via Pearson's chi-square test. The probability of overall survival was estimated via Kaplan\u2012Meier analysis, and associations with prognostic factors were assessed via Cox regression (stepwise forward, p\u2009&lt;\u20090.20). H. pylori-positive patients had greater survival (65%) than H. pylori-negative patients did (51%), but the difference was not significant. Infection is associated with tumors in the body/antrum and initial stage. In the multiple model, stage III/IV disease and a Charlson Comorbidity Index score\u2009\u2265\u20093 were associated with increased mortality regardless of infection status. Among the negative patients, those with vascular disease had an increased risk of death (HR\u2009=\u20091.67; p\u2009=\u20090.05). Among positive patients, those with peptic ulcer (HR\u2009=\u20096.53; 95% CI 1.44\u201329.54; p\u2009=\u20090.01) and diabetes (HR\u2009=\u20093.81; 95% CI 0.99\u201314.70; p\u2009=\u20090.05) tended to have increased mortality. In this Brazilian multicenter cohort, H. pylori infection was associated with a worse prognosis in patients with gastric adenocarcinoma. Vascular disease increased mortality among negative patients, whereas peptic ulcer and diabetes tended to increase mortality among positive patients. Assessing comorbidities and H. pylori status should be considered in the prognosis and therapeutic management of these patients.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.72
+ },
+ "https://www.nature.com/articles/s41598-026-78856-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-78856-w",
+  "title": "In Vivo T2 mapping for early treatment response assessment in esophageal cancer: a prospective study",
+  "link": "https://www.nature.com/articles/s41598-026-78856-w",
+  "abstract": "To evaluate the feasibility and reproducibility of in vivo T2 mapping in esophageal cancer (EC) and explore its role in early treatment response assessment during nonsurgical multimodal therapy. This prospective study consecutively enrolled patients with pathologically confirmed EC who were undergoing nonsurgical multimodal therapy from February 2024 to February 2026. In vivo T2 mapping MRI was performed before treatment initiation and again prior to the second treatment cycle. Image quality and measurement reproducibility of T2 mapping were evaluated. Quantitative parameters, including pre- and post-treatment T2 values, absolute change (\u0394T2), and percentage change (\u0394T2%), were calculated. Apparent diffusion coefficient (ADC)-derived parameters were also assessed as established diffusion-based quantitative imaging biomarkers for comparison and multiparametric analysis. Treatment response was assessed using predefined clinical response criteria, and patients were classified into responder and non-responder groups. Between-group differences in T2-derived parameters were analyzed. Receiver operating characteristic (ROC) curve analysis and multivariable logistic regression were performed to evaluate treatment response using clinical-adjusted and imaging-based models. Thirty-four patients were identified as responders (CR/good PR), and twenty-two as non-responders (IR/SD/PD) based on clinical response evaluation. T2 values decreased significantly after early treatment compared with baseline (p\u2009&lt;\u20090.05). The magnitudes of \u0394T2 and \u0394T2% were significantly greater in responders than in non-responders. No significant differences were observed in absolute T2 values between the two groups either before or after treatment. The area under the curve (AUC) was 0.738 for \u0394T2 and 0.754 for \u0394T2% in predicting treatment response. The optimal cutoff values for \u0394T2 and \u0394T2% were \u2212\u20095.44 ms and \u2212\u20096.52%, respectively. In the clinical-adjusted model, \u0394T2% remained significantly associated with treatment response after adjustment for age, sex, tumor location, and American Joint Committee on Cancer (AJCC) clinical stage. The imaging-based model showed a higher AUC than \u0394ADC alone (0.834 vs. 0.823), but the difference was not significant (DeLong test, p\u2009=\u20090.554). In vivo T2 mapping demonstrated good measurement reproducibility in EC. Both \u0394T2 and \u0394T2% were associated with treatment response, whereas the incremental value of combining \u0394T2% with \u0394ADC requires further investigation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.01
+ },
+ "https://www.nature.com/articles/s41598-026-77981-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-77981-w",
+  "title": "TMEM45A promote triple-negative breast cancer (TNBC) related depression via the AKT/mTOR signaling pathway",
+  "link": "https://www.nature.com/articles/s41598-026-77981-w",
+  "abstract": "Patients diagnosed with triple-negative breast cancer (TNBC) frequently experience depression, a comorbidity that substantially compromises quality of life and survival outcomes. This study aimed to characterize the functional role and underlying regulatory mechanisms of TMEM45A in triple-negative BC related depression (TN-BCRD). First, we validated the regulatory effects of TMEM45A in 4T1 cells. An in vitro TN-BCRD model was established using HT22 hippocampal neurons co-exposed to 4T1 cell-derived conditioned medium and corticosterone. The siRNA of TMEM45A was transfected into 4T1 cells to investigate the effect of tumor cell-expressed TMEM45A on the TN-BCRD phenotype and the AKT/mTOR signaling pathway. For in vivo validation, we established 4T1 tumor-bearing mice model and examined the effects of tumoral TMEM45A on tumor growth, depression-like phenotypes, and hippocampal AKT/mTOR signaling. TMEM45A is significantly overexpressed in TNBC tissues. Knockdown of TMEM45A induced apoptosis and inhibited migration and invasion in 4T1 cells, while it promoted proliferation and reduced apoptosis in HT22 cells. TMEM45A knockdown also attenuated the activity of AKT/mTOR signaling and reduced the secretion of pro-inflammatory factors in HT22 cells under BCRD conditions. In vivo mice experiments demonstrated that TMEM45A knockdown in 4T1 cells suppressed the tumor growth and rescued depression-like behaviors in tumor-bearing mice. TMEM45A serves as a key regulator of TN-BCRD, and its targeted inhibition may represent a promising therapeutic strategy for this condition.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.88
+ },
+ "https://www.nature.com/articles/s41598-026-78088-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-78088-y",
+  "title": "Eligibility gap scoring across first-line targeted and immunotherapy trials and real-world cohorts in metastatic renal cell carcinoma",
+  "link": "https://www.nature.com/articles/s41598-026-78088-y",
+  "abstract": "First-line treatment for metastatic renal cell carcinoma (mRCC) has shifted toward immune checkpoint inhibitor-based combinations, but pivotal trial populations may differ from patients treated in routine practice. We developed an eligibility gap (EG) score to visualize selected eligibility-related baseline characteristics across first-line mRCC studies. Phase III randomized controlled trials (RCTs), published real-world data (RWD) cohorts, and the original AGEHA-JPN cohort were analyzed. The EG score integrated median age, prior nephrectomy rate, and IMDC risk distribution on a 0\u201399.9 scale. Thirty-six datasets were included: 10 RCTs, 25 published RWD cohorts, and AGEHA-JPN. Median EG scores were higher in RCTs than RWD cohorts (74.0 vs 60.3; p\u2009&lt;\u20090.001), mainly reflecting younger age and higher prior nephrectomy rates, whereas IMDC-domain scores were similar. Asian RWD cohorts had lower median scores than non-Asian RWD cohorts (50.7 vs 64.5). Sensitivity analyses using alternative domain and sample-size weighting preserved the RCT\u2013RWD separation. The EG score provides a descriptive framework for contextualizing selected baseline differences between trial and real-world populations. However, it does not capture factors such as histology, comorbidity, or metastatic burden and is not a comprehensive measure of trial eligibility, generalizability, or prognosis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.84
+ },
+ "https://www.nature.com/articles/s41585-026-01206-y": {
+  "guid": "https://www.nature.com/articles/s41585-026-01206-y",
+  "title": "Ominous-appearing serosal findings on PSMA imaging: careful clinical judgement should complement molecular imaging",
+  "link": "https://www.nature.com/articles/s41585-026-01206-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Correspondence",
+  "score": 0.7
+ },
+ "https://www.nature.com/articles/s41698-026-01773-8": {
+  "guid": "https://www.nature.com/articles/s41698-026-01773-8",
+  "title": "E2F1 signatures stratify immunotherapy response and reveal YWHAQ vulnerability in esophageal squamous cell carcinoma",
+  "link": "https://www.nature.com/articles/s41698-026-01773-8",
+  "abstract": "To improve biological interpretation of immune checkpoint inhibitor (ICI) response in esophageal squamous cell carcinoma (ESCC), we developed an E2F1 transcriptional regulation-related framework integrating spatial multi-omics and experimental validation. Single-cell and post-treatment spatial analyses localized E2F1-associated activity predominantly to malignant epithelial states. In ten ESCC Xenium specimens, paired patient-level analyses linked E2F1-high epithelial neighborhoods to lower CD8 effector T-cell and B-cell densities, a lower immune-active niche score, and higher epithelial CD274-positive fractions. In harmonized public ICI cohorts, E2F1.Sig functioned as an exploratory response-stratification signature, achieving the highest mean area under the curve (AUC) among evaluated immune signatures across validation and external testing cohorts. Separately, TCGA analyses supported prognostic associations of a 20-gene Hub-E2F1.Sig risk score. In ESCC, Hub-E2F1.Sig-based subtyping defined three immune microenvironmental states with distinct survival patterns. Cluster1 showed a more favorable immune contexture and better prognosis, suggesting its association with immune responsiveness. YWHAQ, a key Hub-E2F1.Sig gene, was associated with poor prognosis, and YWHAQ depletion reduced malignant phenotypes, increased cisplatin-associated apoptosis, and attenuated PD-1/PD-L1-associated immunosuppressive features in vitro and in vivo. Virtual screening identified 6\u2019-Sialyllactose as an in silico candidate YWHAQ-binding compound. These findings support an exploratory E2F1-centered framework and nominate YWHAQ as an ESCC-focused therapeutic hypothesis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.03
+ },
+ "https://www.nature.com/articles/s41598-026-76991-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-76991-y",
+  "title": "Redox, lipid, and metabolic changes associated with early tolerance to combination chemotherapy in two pancreatic cancer cell models",
+  "link": "https://www.nature.com/articles/s41598-026-76991-y",
+  "abstract": "Pancreatic ductal adenocarcinoma (PDAC) shows limited responsiveness to chemotherapy and rapidly develops resistance, which can be facilitated by early adaptive tolerance to sub-lethal drug exposure. Here, we investigated changes associated with the development of early tolerance to a chemotherapy combination analogous in composition to FOLFIRINOX in MIA PaCa-2 and PANC-1 cells using a stepwise adaptation approach. Comparison of metabolic similarities and divergences between the two cell lines by dose-response analysis revealed limited, yet progressive and cell-specific, shiftsin drug sensitivity. At the consolidated stage, Nile Red imaging and targeted lipidomics revealed cell line-specific lipid remodeling, including elongation of membrane phospholipid acyl chains in both lines. PANC-1 cells show increased saturation of phosphatidylcholine and triacylglycerols and reduced polyunsaturation of phosphatidylethanolamine and phosphatidylcholine. Antioxidant profiling also shows model-dependent patterns: MIA PaCa-2 cells exhibit increased total catalase, total glutathione S-transferase, and glutathione reductase activities, whereas PANC-1 cells show reduced catalase activity together with increased total glutathione S-transferase activity. These changes are accompanied by increased cytosolic and mitochondrial oxidation-dependent fluorescence in MIA PaCa-2 cells and reduced mitochondrial oxidation-dependent fluorescence in PANC-1 cells. MIA PaCa-2 cells also showed reduced extracellular lactate production, while cellular energy charge remained unchanged in both models. Whether these adaptations can be exploited therapeutically remains to be tested; they nevertheless identify redox- and lipid-related pathways as candidates for functional studies aimed at preventing the transition from tolerance to stable resistance.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.54
+ },
+ "https://www.nature.com/articles/s41598-026-78494-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-78494-2",
+  "title": "Clinical application of deep neural networks in laser endomicroscopic molecular imaging for accurate assessment of lung nodules",
+  "link": "https://www.nature.com/articles/s41598-026-78494-2",
+  "abstract": "Needle-based near-infrared confocal laser endomicroscopy (NIR-nCLE) enables intraoperative imaging of pafolacianine-labeled cells within pulmonary lesions, but interpretation requires operator experience. We evaluated a machine-learning pipeline for classifying NIR-nCLE recordings as benign or malignant using final histopathology as the reference standard. Fifty patients undergoing pafolacianine-guided resection were prospectively enrolled, and 248 lesions were sampled. An AlexNet-based convolutional neural network classified individual frames, with lesions classified as malignant when the proportion of frames predicted to be malignant was \u2265\u20090.02. Lesion-level performance was assessed by stratified five-fold cross-validation using 121 analyzable recordings available in the retained de-identified archive, comprising 70 malignant and 51 benign lesions and 23,589 frames. All frames from each lesion were confined to a single fold; patient-level partitioning was not possible because patient-to-recording links were unavailable. Sensitivity was 98.6% (95% CI 95\u2013100%), specificity was 72.5% (60\u201384%), positive predictive value was 83.1%, negative predictive value was 97.4%, accuracy was 87.6% (81\u201393%), and the area under the receiver operating characteristic curve (AUROC) was 0.97 (0.94\u20130.99). Logistic regression using mean fluorescence intensity alone achieved an AUROC of 0.97 (0.94\u20130.99) and an accuracy of 90.1%; a 100-unit feature-based neural network achieved an AUROC of 0.98 (0.95\u20131.00). In an internal exploratory intraoperative cohort of 10 additional patients, all nine malignant and 18 benign lesions were correctly classified before final pathological evaluation, yielding a sensitivity of 100% (95% CI 66.4\u2013100%) and a specificity of 100% (81.5\u2013100%). Automated classification of NIR-nCLE recordings demonstrated promising preliminary internal performance, with similar AUROC estimates for simpler fluorescence-based models. Independent external validation with patient-level separation is required before clinical use.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s41598-026-74838-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-74838-0",
+  "title": "Development of quinoline derivatives as dual EGFR/HDAC-2 inhibitors: design, synthesis, anticancer evaluation, and molecular dynamics simulations",
+  "link": "https://www.nature.com/articles/s41598-026-74838-0",
+  "abstract": "The quinoline scaffold is widely exploited in the design of new anticancer candidates. As a continuation of our previous work in the search for promising anticancer candidates, we designed novel quinoline-based compounds linked to a range of heterocyclic rings by applying a molecular hybridization strategy. In this work, the resulting quinoline derivatives were synthesized and evaluated for their anti-proliferative activity against three cancer cell lines, namely PC-3, HCT-116, and MDA-MB-231, in addition to one normal cell line, WI-38. Among these compounds, two derivatives (4) and (11) showed potent anti-proliferative activity against MDA-MB-231 breast cancer cells with IC\u2085\u2080 values of 4.91 and 8.25 \u00b5M, respectively. The same two derivatives also showed significant activity against the HCT-116 colon cancer cell line with IC\u2085\u2080 values of 6.38 and 9.44 \u00b5M, respectively. Mechanistic studies further showed that compound (4) potently inhibited EGFRWT (IC\u2085\u2080 = 0.084 \u00b5M) and mutant EGFR forms, as well as HDAC-2 with IC50\u2009=\u20090.123 \u00b5M. All biological assays were performed in three independent experiments (n\u2009=\u20093), and all reported differences versus the untreated control were significant at a two-sided adjusted P\u2009&lt;\u20090.05. Additionally, western blot analysis of compound (4) revealed downregulation of pEGFR, pERK, and pAKT, while RT-qPCR analysis showed upregulation of BAX and caspase-3, -7, and \u2212\u20099 and downregulation of BCL-2 at the mRNA level. Cell-cycle analysis showed that derivative (4) induced arrest at the G1/S boundary. Taken together, all these results, along with molecular docking and molecular dynamics simulations, supported the stable binding within the ATP-binding site of EGFR and the zinc-binding pocket of HDAC-2.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.76
+ },
+ "https://www.nature.com/articles/s41573-026-01561-w": {
+  "guid": "https://www.nature.com/articles/s41573-026-01561-w",
+  "title": "Histone lysine demethylases in the third decade: biology and therapeutic prospects",
+  "link": "https://www.nature.com/articles/s41573-026-01561-w",
+  "abstract": "Histone post-translational modifications, such as methylation, acetylation, phosphorylation and ubiquitination, have fundamental roles in regulating chromatin structure and gene expression. Histone methylation was once considered a static modification until the discovery of the histone lysine demethylase LSD1 (KDM1A), more than two decades ago. Since then, numerous KDMs in two main enzyme classes have been identified. Their diverse roles in regulating gene expression, metabolism, immune responses and disease pathogenesis have been extensively studied and small-molecule inhibitors have been developed. KDMs exert context-dependent functions as either oncogenes or tumour suppressors, which complicates their therapeutic targeting. As we enter the third decade of investigations into histone demethylation, unlocking the full therapeutic potential of inhibiting KDMs will require a deeper understanding of their biology, substrate specificity, interaction networks and regulatory crosstalk. In this Review, we discuss the functions of KDMs in metabolic and immune regulation and their roles in cancer and other diseases. We describe the landscape of KDM inhibitors, especially LSD1 inhibitors, which are the most advanced demethylase inhibitors in clinical trials. We highlight the need for more potent and selective KDM inhibitors, biomarkers of therapeutic response, novel combinatorial treatments and innovative drug discovery strategies. Histone lysine demethylases regulate gene expression and chromatin structure and help to integrate epigenetics with metabolic and immune responses. This Review discusses the diverse contributions of these demethylases to disease pathogenesis, particularly cancer, and the efforts underway to target them with small molecules.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.72
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.10.30.763008v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.10.30.763008v1?rss=1",
+  "title": "Glycolysis and interferon transcription in melanoma immunotherapy",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.30.763008v1?rss=1",
+  "abstract": "Glycolysis and interferon signalling have both been associated with responses to PD-1 blockade, but their joint transcriptional relationship with treatment outcome remains uncertain. We examined whether a state with high glycolysis and low interferon- response was associated with reduced disease control in melanoma. Fixed Hallmark gene sets were scored by single-sample gene set enrichment analysis in GSE91061, GSE78220 and an additional Liu cohort. Disease control analyses included 47, 26 and 100 patients. Conditional odds ratios for the joint state were 6.06 (exact 95% confidence interval, 1.04 to 65.61), 0.35 (0.026 to 3.11) and 1.03 (0.39 to 2.73), respectively. Holm-adjusted P values for the two initial comparisons were 0.073 and 0.365. The additional exploratory P value was 1.000. Continuous models and analyses that omitted each patient in turn did not provide consistent evidence of an adverse association. IFN scores were negatively correlated with DNA-derived tumour purity in 102 patients (Spearman {rho} = -0.671). Among 40 patients with paired biopsies, disease control was associated with higher on-treatment IFN scores after baseline adjustment, although the paired subset had lower baseline glycolysis than patients without paired profiles. In patient-level single-cell analyses, the baseline CD8 T cell correlation weakened when an alternative rank score used a common gene background. The defined joint state was not consistently associated with poorer disease control across cohorts. Bulk IFN scores were related to tumour purity, and cellular correlations were sensitive to scoring choices. These transcriptomic results do not measure pyruvate concentration, glycolytic flux or STAT1 pyruvylation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "",
+  "score": 1.13
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.05.764667v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.05.764667v1?rss=1",
+  "title": "Nutrient Availability as a Driver of Transcriptome Reprogramming in Osteosarcoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.05.764667v1?rss=1",
+  "abstract": "Background: Gene expression in mammalian cells is intricately regulated by environmental and metabolic cues. Among these, nutrient availability represents a key feature of the tumor microenvironment and has recently emerged as a potent modulator of oncogenic signaling networks. In this study, we employed a cell-line model of osteosarcoma, a rare but highly aggressive bone malignancy affecting both humans and dogs. We demonstrate that altering the concentration of a single nutrient can profoundly reprogram gene expression in osteosarcoma cells, revealing a previously underexplored phenomenon: nutrient-dependent gene regulation. This finding highlights potential opportunities for therapeutic intervention and underscores the broader implications of metabolic regulation for personalized medicine and nutrition. Methods/Results: We performed bulk RNA sequencing of an established osteosarcoma cell line cultured under varying concentrations of two key nutrients, glucose and glutamine. Differential gene expression analysis revealed a pronounced nutrient-dependent transcriptional response. The identified genes were functionally associated with pathways involved in cancer, development, nervous system regulation, metabolism, cellular signaling, and immune responses. We identified seven distinct expression patterns, one of which exhibited a striking correlation with cell growth rate and resembled a FOS-like transcriptional signature. Notably, the proto-oncogene FOS was among the identified genes and displayed a strong growth-rate-dependent expression pattern. Conclusion/Impact: Our findings demonstrate that modulation of nutrient availability profoundly reshapes the gene expression landscape of osteosarcoma cells, revealing nutrient-responsive targets with potential therapeutic relevance. This work expands our understanding of metabolic regulation in cancer and suggests that nutrient-based interventions may provide a controllable means of influencing tumor progression. Beyond oncology, such approaches may also have broader implications for developmental biology, autoimmune disorders, and nervous system function. More broadly, this study highlights the potential of metabolic interventions as a strategy for targeted modulation of gene expression programs.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "",
+  "score": 1.02
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.04.764298v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.04.764298v1?rss=1",
+  "title": "Psychoneuroimmunology of Viral Hepatitis and Hepatocellular Carcinoma: A Systematic Review and Meta-Analysis",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.764298v1?rss=1",
+  "abstract": "Hepatocellular carcinoma (HCC) and viral hepatitis (VH) are recognized primarily as hepatic diseases, yet they impose a substantial neuropsychiatric disorders (NPDs) encompassing depression, anxiety, cognitive impairment, and fatigue. Whether these manifestations reflect psychological reactions or biologically grounded psychoneuroimmune dysfunction remains poorly understood. Here, we present a pre-registered systematic review and meta-analysis (PROSPERO 2026 CRD420251081757) synthesizing evidence from 24 studies combining psychosocial outcomes with immune dysregulation markers across HCC and VH populations. Bibliometric and network analyses identified a growing psychoneuroimmunology research hub linking cytokine signaling, microglial activation, blood-brain barrier (BBB) disruption, and gut-liver-brain axis dysregulation to the neuropsychiatric phenotype of these diseases. Meta-analysis revealed a pooled hazard ratio (HR) of 1.92 (95% CI: 1.09-3.39) for adverse outcomes in HCC and a pooled HR of 2.28 (95% CI: 1.48-3.52) for depression associated to genetic variants in VH. TNF-a, but not IL-6, showed a tendency toward lower levels in VH patients with versus without NPDs, suggesting differential inflammatory roles. The literature, however, remains fragmented by heterogeneous designs and a paucity of longitudinal data. A psychoneuroimmunological approach, integrating immune, endocrine, neural, and psychosocial dimensions, is essential for capturing the full systemic impact of HCC and VH and should inform future mechanistic research and multidisciplinary clinical strategies.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "",
+  "score": 0.8
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.05.764738v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.05.764738v1?rss=1",
+  "title": "Synthetic chromatin engineering for STAT1 reactivation toward restoring cisplatin sensitivity in breast cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.05.764738v1?rss=1",
+  "abstract": "Chemoresistant cancers acquire transcriptomic and epigenetic alterations through changes in transcription factor activity and chromatin accessibility. Integrative in silico analyses identified STAT1 as a recurrently suppressed transcription factor in cisplatin-resistant breast cancer. Using cisplatin-resistant triple-negative breast cancer (TNBC) MDA-MB-231 cells, we further confirmed reduced STAT1 expression and activity, accompanied by defective nuclear translocation, indicating that suppression of STAT1 signaling contributes to cisplatin resistance in breast cancer. To restore STAT1 activity, we sought to promote its nuclear localization and transcriptional activation through chromatin engineering. Based on the identification of PHF6 as a direct STAT1-binding protein through in silico and in vitro analyses, we engineered Dual Reader 3 (DR3), a PHF6-derived synthetic chromatin regulator designed to enhance both STAT1 interaction and chromatin engagement through histone H2B ubiquitination. DR3 induced STAT1-associated transcriptional programs, including inflammatory and tumor-suppressive miRNAs. Mechanistically, DR3 physically promoted STAT1 nuclear translocation, activated STAT1 through a non-canonical S727-dependent mechanism independent of Tyr701 phosphorylation, and enhanced chromatin accessibility at STAT1-responsive regulatory regions through histone H2B ubiquitination. CUT&RUN analysis further revealed coordinated transcriptional and epigenetic remodeling associated with DR3-mediated STAT1 activation, including upregulation of HIPK2, which enhanced cellular sensitivity to cisplatin by strengthening the intrinsic DNA damage response. Finally, we investigated whether STAT1 reactivation could alleviate acquired cisplatin resistance. In vivo delivery of DR3 restored cisplatin sensitivity in resistant breast tumors. By coupling STAT1 nuclear translocation with chromatin remodeling, DR3 reactivated STAT1-dependent transcriptional programs and restored cisplatin sensitivity in breast cancer. Together, this study establishes transcription factor reactivation through synthetic chromatin engineering as a potential therapeutic strategy for overcoming chemoresistance in solid tumors.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "",
+  "score": 1.17
  }
 }
