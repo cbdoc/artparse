@@ -14618,5 +14618,75 @@
   "date": "2026-11-09T00:00:00+00:00",
   "type": "",
   "score": 1.17
+ },
+ "https://www.nature.com/articles/s41392-026-03106-4": {
+  "guid": "https://www.nature.com/articles/s41392-026-03106-4",
+  "title": "Cancer drug resistance as a temporal process: cell plasticity, adaptive buffering, signaling pathways and therapeutic interception",
+  "link": "https://www.nature.com/articles/s41392-026-03106-4",
+  "abstract": "Cancer drug resistance remains a principal barrier to durable cancer control, yet it is still often interpreted through endpoint-centred models that emphasise pre-existing resistant clones, incomplete drug exposure or late-acquired mechanisms. These explanations are essential but incomplete. The question is not only why resistant cells exist, but also how residual cells remain alive long enough to become resistant. Across tumour types and therapeutic modalities, treatment reshapes residual populations while it is acting, driving transitions through non-genetic heterogeneity, stochastic cell-fate variability, reversible tolerance, stress adaptation, microenvironmental support and eventually stable resistance. This Review develops a temporal framework in which resistance is resolved into a phase-structured trajectory organised around two mechanistic transitions: entry into adaptive buffering and later stabilisation into resistance hardening. Adaptive buffering is defined operationally as a transient, support-dependent survival state in which residual tumour cells preserve viability by recruiting physiological support systems while molecular and phenotypic reorganisation proceeds. It is not a single pathway or a synonym for drug tolerance, but a functional demand-capacity state whose dependencies change over time. We distinguish adaptive buffering from drug tolerance, persister states, dormancy, minimal residual disease and established resistance and discuss how buffering can be evaluated experimentally using perturbational, single-cell, spatial, computational and functional readouts. The framework suggests that informative biomarkers should assign residual populations to adaptive phases, so that therapy can intercept transient dependencies before adaptive states become hardened and clinically entrenched.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.78
+ },
+ "https://www.nature.com/articles/s41598-026-78726-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-78726-5",
+  "title": "Integrating metabolomics and proteomics uncovers core carbon metabolic dysregulation in Wilms\u2019 tumor in children",
+  "link": "https://www.nature.com/articles/s41598-026-78726-5",
+  "abstract": "The unclear etiology, insufficient molecular classification strategies, and lack of validated therapeutic targets pose a critical barrier to precision treatment for Wilms\u2019 tumor (WT) in children. Therefore, this study aimed to investigate metabolic dysregulations in WT by integrating metabolomics and proteomics. Metabolomic analysis of plasma samples from 36 WT patients and 36 healthy controls revealed 14 differentially abundant metabolites, including 5 upregulated and 9 downregulated. Proteomic analysis of 7 WT tissues and matched adjacent noncancerous tissues identified 3,378 significantly differentially expressed proteins, of which 1,783 were upregulated and 1,595 were downregulated. Integrated multi-omics analysis further identified three aberrant pathways associated with core carbon metabolism dysregulation: the citric acid cycle, ascorbate and aldarate metabolism, and propanoate metabolism. Collectively, these preliminary findings suggest that dysregulated carbon metabolism is associated with WT pathogenesis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.86
+ },
+ "https://www.nature.com/articles/s41392-026-03049-w": {
+  "guid": "https://www.nature.com/articles/s41392-026-03049-w",
+  "title": "Targeting CD44v3 rescues Entrectinib response in brain metastasis of triple negative breast cancer overexpressing TrkA",
+  "link": "https://www.nature.com/articles/s41392-026-03049-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Letter",
+  "score": 1.7
+ },
+ "https://www.nature.com/articles/s41598-026-64608-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-64608-3",
+  "title": "Machine learning model using contrast-enhanced CT for predicting overall survival in unresectable hepatocellular carcinoma treated with TACE plus targeted and immunotherapy: a multicenter study",
+  "link": "https://www.nature.com/articles/s41598-026-64608-3",
+  "abstract": "The aim of this study was to develop and validate a machine learning model based on contrast-enhanced CT (CECT) for predicting the overall survival (OS) in unresectable HCC patients treated with TACE combined with immune checkpoint inhibitors (ICIs) plus molecular targeted therapies (MTTs). This study retrospectively reviewed 180 unresectable HCC patients who received TACE-ICIs-MTTs therapy from 4 medical centers. The study comprised of training cohort (n\u2009=\u200993), internal validation cohort (n\u2009=\u200939) and external validation cohort (n\u2009=\u200948). A series of analyses and kinds of models were conducted to build a Radscore. Then, models were constructed using Radscore and clinical variables selected through multivariate Cox regression analysis, evaluated by the Harrell\u2019s concordance index (C-index) and the area under the curve (AUC). The radiomics-clinical model was further assessed by decision curve and calibration curve analysis. The Radscore was derived from 6 features selected by the optimal model (Lasso Cox\u2009+\u2009RSF with the highest C-index of 0.777). HBV infection and vascular invasion are clinical independent predictors of OS. The radiomics-clinical model demonstrated favorable performance. It achieved C-index values of 0.893(0.859\u20130.927), 0.758 (0.657\u20130.86) and 0.74 (0.624\u20130.856) in the training, internal validation, and external validation cohorts, respectively. In the external validation cohort, the AUCs achieved 0.731 (0.569\u20130.893), 0.7 (0.515\u20130.885), and 0.756 (0.569\u20130.943) for predicting 1-, 2-, and 3-year outcomes, respectively. The machine learning model based on CECT exhibited favorable performance in predicting overall survival in unresectable HCC patients treated with TACE-ICIs-MTTs, showing potential to identify likely responders and guide treatment decision-making.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.8
+ },
+ "https://www.nature.com/articles/s41598-026-80440-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-80440-1",
+  "title": "Heterogeneous chemotherapy-induced peripheral neuropathy trajectories and their associated factors in patients with gastrointestinal tumors: a cohort study",
+  "link": "https://www.nature.com/articles/s41598-026-80440-1",
+  "abstract": "Chemotherapy-induced peripheral neuropathy (CIPN) is a common and important nerve-related side effect of chemotherapy. However, researchers still know little about how CIPN changes over time in patients with gastrointestinal tumors. This prospective cohort study aimed to identify different CIPN patterns during chemotherapy and to examine factors related to these patterns. We recruited 233 patients with gastrointestinal tumors from a tertiary cancer center. All patients had a pathological diagnosis and received first-line chemotherapy with drugs known to cause peripheral nerve damage. At baseline, we collected demographic and clinical data. We also measured cancer-related fatigue with the Revised Piper Fatigue Scale, physical performance with the Short Physical Performance Battery, and self-management efficacy with the Strategies Used by People to Promote Health scale. We assessed CIPN symptoms with the Chemotherapy-Induced Peripheral Neuropathy Assessment Tool after the 1st, 3rd, 5th, and 7th chemotherapy cycles. We used latent class growth modeling to identify CIPN trajectory patterns. We used chi-square tests, analysis of variance, and logistic regression analyses to examine factors related to these patterns. We identified four CIPN trajectories: worsening CIPN symptoms (71 patients, 30.5%), mild stable CIPN symptoms (81 patients, 34.8%), improving CIPN symptoms (42 patients, 18.0%), and severe stable CIPN symptoms (39 patients, 16.7%). Age, smoking history, number of chronic diseases, chemotherapy regimen, standardized cumulative neurotoxic exposure index, cancer-related fatigue, physical performance, and self-management efficacy were related to CIPN trajectory membership. These findings highlight the heterogeneity of CIPN trajectories during chemotherapy and the factors associated with trajectory membership.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.81
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.06.764901v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.06.764901v1?rss=1",
+  "title": "ERV-derived dsRNAs induce stress granules that drive neural crest fate to initiate melanoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.06.764901v1?rss=1",
+  "abstract": "Melanoma arises when melanocytes are oncogenically reprogrammed into neural crest-like cells, but what initiates this switch is unknown. Here we show that endogenous retrovirus (ERV)-derived double stranded RNAs (dsRNAs) induce stress granules (SGs) that drive this fate change. In zebrafish, melanoma progresses through a stage-specific ERV switch: zferv marks precursor cells before crestin activates in tumor cells. Both elements generate dsRNA that triggers eif2ak2-dependent SGs within precursor lesions and through transformation. SGs are tumorigenic as G3BP1 overexpression accelerates melanoma onset, whereas mosaic, melanocyte-specific g3bp1/2 knockout delays it. Small molecule-mediated inhibition of G3BP1/2 eliminates precursor lesions and reduces tumor burden. Similarly, blocking dsRNA sensing prevents SG formation and lowers melanoma incidence. Human nevi and melanomas show analogous, stage-specific ERV programs and SG assembly. In human melanoma cells, SGs sequester and translationally repress SOX10-regulating mRNAs, including the tumor suppressor KMT2D. Mosaic knockout of kmt2d in vivo enhances SOX10-driven neural crest reactivation. Thus, an ERV-SG axis establishes an oncogenic translatome that enables melanoma fate, with diagnostic and therapeutic potential.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "",
+  "score": 1.26
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.07.764837v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.07.764837v1?rss=1",
+  "title": "EGF and EREG regulate early oncoprotein-mediated tissue transformation in intestinal organoids.",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.07.764837v1?rss=1",
+  "abstract": "Somatic mutations, coupled with abnormal extracellular signaling cues, promote tumor development. The abundance and affinity of EGF-family ligands for EGFR influence tissue development and play a central role in organoid culture by differentially regulating the balance between crypt proliferation and villus differentiation in mouse small intestinal organoids (mSIOs). To test how medium ligand composition affects early oncogenic transformation, we generated a Ptprg KO organoid line by CRISPR/Cas9 and two previously described organoid lines harboring synthetic bio-orthogonal expression systems for KRASG12V and {beta}-Ctn4A, activated by the membrane-diffusible ligands TMP or TMP-Cl. Measurements of crypt and villus region area showed that acute oncogenic activity did not alter organoid growth in media containing 50 ng/mL EGF; however, organoids grown without EGF consistently showed differential growth of the crypt region. Furthermore, EREG and sub-saturating EGF (0.5-5 ng/mL) treatments differentially affected crypt/villus development in each organoid line. Finally, we measured organoid morphology and found that crypt domain spatial distribution is independent of crypt area and requires EGF or EREG, highlighting the role of both proliferation and crypt organization in oncogenic tissue transformation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-09T00:00:00+00:00",
+  "type": "",
+  "score": 1.67
  }
 }
