@@ -14898,5 +14898,115 @@
   "date": "2026-11-10T00:00:00+00:00",
   "type": "Article",
   "score": 1.08
+ },
+ "https://www.nature.com/articles/s41568-026-00993-1": {
+  "guid": "https://www.nature.com/articles/s41568-026-00993-1",
+  "title": "3D models to capture and perturb tumour heterogeneity in vitro",
+  "link": "https://www.nature.com/articles/s41568-026-00993-1",
+  "abstract": "Tumour heterogeneity is a defining feature of cancer and a major obstacle to effective therapy as it drives metastasis, resistance and relapse. Experimental tumour models have largely exploited simplified, homogeneous systems that fail to capture the full biological and spatial diversity of real tumours. Recent advances in 3D models have considerably expanded our capacity to model different dimensions of tumour heterogeneity. These platforms also enable controlled perturbations of cancer-cell-intrinsic and microenvironmental features, including genetic programmes, therapy responses and transport, extracellular matrix composition and mechanics, oxygenation, perfusion, stromal and immune interactions, and tissue architecture. Such perturbations could reveal how different aspects of tumour heterogeneity shape disease progression and therapy response dynamics. However, how close we are to generating 3D models that not only recapitulate the dynamic, multiscale nature of human cancers but also enable systematic perturbations for mechanistic insights remains a key question. In this Review, we summarize the current landscape of 3D models and how effectively they capture tumour heterogeneity, what perturbations they enable, and how these capabilities can be matched to specific biological or therapeutic questions. We also discuss outstanding challenges in model fidelity, standardization, scalability, longitudinal analysis and clinical predictability. Tumour heterogeneity drives disease progression yet remains difficult to capture in experimental systems. In this Review, Fomina and McGuigan discuss how emerging 3D tumour models, including organoids, assembloids and microfluidic platforms, recapitulate distinct dimensions of tumour heterogeneity to enable mechanistic studies of cancer biology and drug response. They also outline future directions for improving model fidelity, scalability and translational utility.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.16
+ },
+ "https://www.nature.com/articles/s41420-026-03450-y": {
+  "guid": "https://www.nature.com/articles/s41420-026-03450-y",
+  "title": "Na+/Ca2+ exchanger 1 (NCX1) drives migration and vasculogenic mimicry in mesenchymal glioblastoma",
+  "link": "https://www.nature.com/articles/s41420-026-03450-y",
+  "abstract": "Glioblastoma (GBM) is a highly aggressive brain tumor characterized by diffuse invasion, marked cellular plasticity, and poor prognosis, particularly in the mesenchymal subtype. The Na+/Ca2+ exchanger 1 (NCX1) has been implicated in glioblastoma motility, but its role in patient-derived mesenchymal GBM and vasculogenic mimicry (VM) remains unclear. Here, we investigated NCX1 function in GBM19, a primary mesenchymal glioblastoma stem cell-enriched culture. GBM19 cells displayed coordinated migration and formed Vascular Endothelial (VE)-cadherin-positive loop-like structures consistent with VM, whereas leading-edge cells showed a more migratory phenotype. NCX1 was enriched at the migratory front and was functionally active in both leading-edge and loop cells, as demonstrated by patch-clamp recordings and pharmacological inhibition with bepridil. NCX1 blockade impaired wound closure, disrupted actin organization, altered cell polarity and directional migration, reduced spheroid invasion, and prevented proper loop formation and closure. In vivo, VM-like tumor structures were positive for NCX1 and VE-cadherin. Transcriptomic analysis further showed a positive correlation between NCX1 and the VM-related regulator E74-like factor 2 (ELF2) specifically in mesenchymal GBM, where high ELF2 expression was associated with worse survival. These findings identify NCX1 as a regulator of migration and vasculogenic mimicry in mesenchymal glioblastoma and support its potential as a therapeutic target in aggressive GBM.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.85
+ },
+ "https://www.nature.com/articles/s41585-026-01217-9": {
+  "guid": "https://www.nature.com/articles/s41585-026-01217-9",
+  "title": "Temporal trajectories \u2014 the evolution of lethal metastatic bladder cancer subtypes",
+  "link": "https://www.nature.com/articles/s41585-026-01217-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 0.75
+ },
+ "https://www.nature.com/articles/s41571-026-01230-2": {
+  "guid": "https://www.nature.com/articles/s41571-026-01230-2",
+  "title": "T cell redirection in high-risk smouldering multiple myeloma: can deep responses prevent progression to multiple myeloma?",
+  "link": "https://www.nature.com/articles/s41571-026-01230-2",
+  "abstract": "The randomized phase II ImmunoPRISM trial has shown encouraging efficacy of the B cell maturation antigen-targeted bispecific T cell engager teclistamab in high-risk smouldering multiple myeloma, although several aspects constrain interpretation of the results. Herein, I discuss aspects that should be addressed in future research, such as patient selection, treatment duration, clinically relevant end points and adequate treatment in the control arm, to establish whether deep responses translate into durable prevention of progression with an acceptable benefit\u2013risk profile.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "News & Views",
+  "score": 0.8
+ },
+ "https://www.nature.com/articles/s41577-026-01376-1": {
+  "guid": "https://www.nature.com/articles/s41577-026-01376-1",
+  "title": "Activated TILs are restricted by iron availability in pancreatic cancer",
+  "link": "https://www.nature.com/articles/s41577-026-01376-1",
+  "abstract": "A preprint by Schoenfeld et al. investigates the relationship between iron restriction and the function of tumour-infiltrating lymphocytes in pancreatic ductal adenocarcinoma.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Journal Club",
+  "score": 1.54
+ },
+ "https://www.nature.com/articles/s41388-026-03994-4": {
+  "guid": "https://www.nature.com/articles/s41388-026-03994-4",
+  "title": "B3GNT9-mediated O-glycosylation reprograms fatty acid metabolism in peroxisomes to promote invasion progression of peritumoral glioma cells",
+  "link": "https://www.nature.com/articles/s41388-026-03994-4",
+  "abstract": "Glioblastoma (GBM) is a highly aggressive brain tumor characterized by rapid recurrence and invasion, particularly in the peritumoral brain zone (PBZ), a critical site for tumor spread. Through RNA-seq of tumor core and PBZ tissues from GBM patients, we identified B3GNT9 as significantly upregulated in tumor cells within the PBZ. Bioinformatics analysis revealed that elevated B3GNT9 expression is associated with poor prognosis. Functional studies in glioblastoma cell lines, patient-derived cells, and animal models showed that B3GNT9 overexpression promotes cell proliferation, migration, and invasion. Mechanistically, RNA-seq and in vitro experiments demonstrated that B3GNT9 enhances glioma invasiveness by regulating the fatty acid metabolism gene ACOX1. Quantitative proteomics further identified PPARD as a key transcription factor mediating the B3GNT9-ACOX1 signaling axis. B3GNT9 increases mucin-type O-glycosylation in glioblastoma cells, facilitating O-GalNAc glycosylation of PPARD, which enhances its transcriptional activity and drives ACOX1 expression. High-throughput metabolomics and cellular, organoid, and animal studies revealed that activation of the B3GNT9\u2013PPARD\u2013ACOX1 axis reduces intracellular eicosapentaenoic acid (EPA) levels, promoting GBM invasiveness. These findings highlight the critical role of B3GNT9 and O-glycosylation in GBM progression, suggesting that targeting the B3GNT9\u2013PPARD\u2013ACOX1 axis could offer a promising therapeutic strategy to suppress GBM invasion and recurrence.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.66
+ },
+ "https://www.nature.com/articles/s41598-026-79827-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-79827-x",
+  "title": "Metabolomic rewiring of energy, structural and signaling networks underlies triple negative breast cancer aggressiveness",
+  "link": "https://www.nature.com/articles/s41598-026-79827-x",
+  "abstract": "Triple-negative breast cancer (TNBC) is highly prevalent in West Africa and associated with poor prognosis and limited therapeutic options. Targeted quantitative metabolomic and lipidomic profiling was performed on pretreatment tumor biopsies from Senegalese women with TNBC (n\u2009=\u200940) and hormone-dependent breast cancer (HDBC; n\u2009=\u200940). After exclusion of two PCA outliers, 39 samples per group were analyzed. Using the Biocrates MxP Quant 500 XL platform, 1019 analytes were assayed, and 655 metabolites were retained for statistical analysis. Sixty-nine metabolites differed significantly (p\u2009&lt;\u20090.01, fold change\u2009\u2265\u20091.2), including eight after FDR correction (q\u2009&lt;\u20090.05). OPLS-DA showed robust group separation (Q2cum\u2009=\u20090.56; CV-ANOVA p\u2009&lt;\u20092.62\u2009\u00d7\u200910\u221212). Machine learning classifiers achieved consistent discrimination (AUC\u2009\u2265\u20090.70), with Ridge regression performing best (AUC\u2009=\u20090.79). TNBC showed metabolic patterns consistent with increased glycolysis, fatty acid oxidation, glutaminolysis, and branched-chain amino acid catabolism, together with alterations potentially related to angiogenesis and extracellular matrix remodeling. Lipidomic differences included phosphatidylethanolamines, sphingolipids, and phosphatidylinositol species. Overall, tumor metabolomic and lipidomic profiling discriminated TNBC from HDBC and identified metabolic features associated with aggressive tumor biology in West African patients.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.81
+ },
+ "https://www.nature.com/articles/s41598-026-80095-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-80095-y",
+  "title": "Pan-cancer expression and clinical associations of HSD11B2 and its functional role in breast cancer cells",
+  "link": "https://www.nature.com/articles/s41598-026-80095-y",
+  "abstract": "Although HSD11B2 serves as a crucial enzyme governing glucocorticoid metabolism, its systemic roles across human malignancies have not been fully elucidated. Current evidence remains fragmented, and integrative pan-cancer investigations covering its expression control, clinical relevance, immune correlates and influence on breast cancer aggressiveness are still lacking. To fill this gap, we integrated multi-omics bioinformatic analyses with experimental validation at both the cellular and animal levels, thereby systematically assessing the diagnostic and prognostic significance, underlying molecular mechanisms and tumor-promoting activities of HSD11B2 in breast cancer. Our ultimate goal was to establish HSD11B2 as an indicator usable for pan-cancer diagnosis and prognosis, and to explore its potential as a candidate therapeutic target in breast oncology. Publicly available transcriptomic and clinical datasets, chiefly from TCGA and GTEx, were collected and merged. Using the R computing environment together with multiple multi-omics bioinformatics platforms, we characterized the HSD11B2 expression landscape, its prognostic and diagnostic significance, genetic alterations, epigenetic control, immune infiltration patterns and associated functional pathways across pan-cancer cohorts. How HSD11B2 regulates the proliferative, migratory and invasive behaviors of breast cancer cells was then examined experimentally, using qRT-PCR, Western blotting and immunohistochemistry together with CCK-8, colony formation, Transwell and wound healing assays and a nude mouse subcutaneous xenograft model. HSD11B2 showed broad expression disturbance across the pan-cancer spectrum, being markedly elevated in tumors such as BRCA, CHOL and LIHC but evidently reduced in COAD, KIRC, THCA and additional malignancies. Its transcript level showed significant prognostic associations in eight cancer types and acted as an independent outcome predictor in five of them, and the nomogram built on these variables achieved satisfactory predictive accuracy. Moreover, HSD11B2 transcripts distinguished malignant from normal tissues with excellent accuracy (AUC\u2009&gt;\u20090.9) for CHOL, COAD, KIRC, KIRP and READ. At the regulatory level, HSD11B2 abundance was associated with copy number gain, promoter hypomethylation and m6A regulatory signatures. Tumors with abundant HSD11B2 displayed an immune-desert \u201ccold tumor\u201d phenotype, tightly linked to an immunosuppressive microenvironment. Enrichment analyses connected HSD11B2 predominantly to steroid hormone metabolism, cell-proliferation and immune-regulation pathways. Cellular and animal experiments consistently demonstrated that silencing HSD11B2 markedly weakened the proliferative, migratory and invasive capacities of breast cancer cells in vitro, and xenograft tumors in nude mice grew more slowly upon HSD11B2 knockdown. HSD11B2 holds important clinical significance for prognosis assessment and diagnosis across pan-cancer settings. Through multi-dimensional regulatory control it participates in tumor progression and displays oncogenic activity in breast cancer. Collectively, HSD11B2 represents a promising indicator for pan-cancer diagnosis and prognosis, as well as a potential therapeutic target against this malignancy.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.88
+ },
+ "https://www.nature.com/articles/s41598-026-79734-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-79734-1",
+  "title": "Integrated computational biology approaches provide insights into the potential mechanisms underlying arrhythmias induced by anthraquinone-related antitumor drugs",
+  "link": "https://www.nature.com/articles/s41598-026-79734-1",
+  "abstract": "Despite the significant cardiac toxicity and arrhythmia-inducing potential of anthraquinone-related antitumor drugs (including anthracyclines and anthracenediones) in clinical practice, the underlying common systemic molecular mechanisms remain unknown. Therefore, this study aims to systematically elucidate the multi-target and multi-pathway arrhythmogenic mechanisms of seven representative drugs, with the expectation of providing theoretical support for safe clinical use and the development of related toxicity intervention strategies. This study first employed network toxicology techniques to screen out potential arrhythmogenic targets of seven representative drugs from databases such as PubChem, Novo Pro, and SwissTargetPrediction. Subsequently, based on the STRING database and with the aid of Cytoscape 3.10.1, protein-protein interaction networks and a multi-dimensional \u201carrhythmia-drug-target\u201d network were constructed. Further, GO and KEGG enrichment analyses were conducted to explain the toxicity-related biological processes and key signaling pathways, and their roles in immune infiltration were explored. Finally, molecular docking was used to assess the potential binding interactions between drugs and core targets. Two drug\u2013SRC complexes were selected for further molecular dynamics simulations to evaluate the stability. Combined with ADMET assessment, these computational analyses provide a comprehensive and hypothesis-generating assessment of the potential toxicological profiles and underlying mechanisms of anthraquinone-related antitumor drugs. Through network pharmacology, 195 potential toxicity targets (such as AKT1, SRC, TNF, TP53) were identified, and they were significantly enriched in key signaling pathways such as PI3K-Akt and MicroRNAs in cancer. Immune infiltration analysis further suggested that this process might be related to the regulation of immune cells such as Mast cells activated, T cells CD8 and B cells memory. Molecular docking suggested potential interactions between the drugs and the core target, while dynamic simulations further evaluated the stability of the SRC complex of the two selected drugs. Finally, ADMET predictions indicated that Mitoxantrone and Losoxantrone might block the cardiac hERG potassium channel, prolong the QT interval, and thereby may contribute to arrhythmia. This study provides insights into the potential mechanisms by which anthraquinone-related antitumor drugs induce arrhythmias.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.95
+ },
+ "https://www.nature.com/articles/s41598-026-80034-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-80034-x",
+  "title": "Computational analysis links methylparaben responses in colonic cell models to MAOB and Hippo/Wnt signaling",
+  "link": "https://www.nature.com/articles/s41598-026-80034-x",
+  "abstract": "Methylparaben (MP) is a widely used preservative in personal care products, foods, and pharmaceuticals, resulting in widespread human exposure through dermal contact, dietary intake, and pharmaceutical use. Although the gastrointestinal tract represents a major site of MP absorption following oral exposure, its effects on colonic epithelial homeostasis and the underlying molecular mechanisms remain poorly understood. We employed an integrative approach combining network toxicology, bulk transcriptomic analysis (N\u2009=\u2009685 from four GEO datasets), weighted gene co-expression network analysis (WGCNA), systematic evaluation of 101 machine-learning strategies, molecular docking, 100 ns molecular dynamics (MD) simulations, and single-cell transcriptomic analysis (GSE132465, 33 samples) to investigate MP-associated molecular alterations in colorectal cancer (CRC). The biological effects of MP were further evaluated in normal human colonic epithelial NCM460 cells and colorectal cancer RKO cells using colony formation, wound-healing, and Transwell assays. MP exposure reduced colony formation, wound closure, and invasion in NCM460 cells, whereas the opposite responses were observed in RKO colorectal cancer cells under the tested in vitro conditions. Integration of computationally predicted MP targets with CRC-associated transcriptomic alterations identified 52 overlapping candidate genes. Among 101 machine-learning strategies, the LASSO\u2013Random Forest (LASSO\u2013RF) model showed the best predictive performance for CRC classification and identified six feature genes, including monoamine oxidase B (MAOB), which emerged as a candidate molecular feature. Molecular docking and 100 ns molecular dynamics simulations suggested a potentially stable binding conformation of MP within the MAOB catalytic pocket. Single-cell analysis revealed relatively higher MAOB expression in normal colonic epithelial cells than in inferred aneuploid malignant cells. In silico MAOB perturbation further suggested associations between MAOB-related transcriptional changes and Hippo/Wnt-associated signaling pathways. MP exposure was associated with distinct phenotypic responses in non-transformed colonic epithelial cells and colorectal cancer cells under the tested in vitro conditions. Integrative computational analyses identified MAOB and Hippo/Wnt-associated signaling as candidate molecular features for further investigation. However, the proposed molecular relationships remain hypothetical, and their causal roles in MP-associated cellular responses require direct experimental validation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.83
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.06.764260v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.06.764260v1?rss=1",
+  "title": "EWSR1::ATF1 hyperactivation via TRIM11 depletion triggers lethal metabolic rewiring in clear cell sarcoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.06.764260v1?rss=1",
+  "abstract": "Clear cell sarcoma (CCS) is an ultra-rare and aggressive soft tissue sarcoma driven by the EWSR1::ATF1 fusion oncoprotein. Currently, no effective and well-tolerated treatment options are available to CCS patients. Direct inhibition of fusion transcription factors is precluded by the absence of defined ligand-binding pockets, whereas their abundance is under the control of the ubiquitin-proteasome system (UPS), offering an alternative avenue for biology-guided treatment. Here we show the abundance of EWSR1::ATF1 is tightly regulated by the UPS, and that release of this constraint is lethal to CCS cells. A reporter-based CRISPR/Cas9 knockout screen of UPS components identified TRIM11 as an E3 ligase that regulates turnover of EWSR1::ATF1, which it recognises as a neosubstrate without altering wild-type EWSR1 or ATF1. Depletion of TRIM11 increased nuclear fusion protein abundance, amplified the fusion-driven transcriptional programs and reduced viability. Proteomic analysis identified the cataplerotic enzyme phosphoenolpyruvate carboxykinase 1 (PCK1), a direct EWSR1::ATF1 target, as the key mediator of lethal effects of fusion hyperactivation. Extracellular flux analysis, isotope tracing and quantitative metabolomics revealed excessive cataplerotic carbon withdrawal and impaired oxidative phosphorylation as the underlying mechanism. In patient tumors, high PCK1 expression associated with metastatic transcriptome programs and disease presentation, as well as shorter survival. Taken together, we report that hyperactivation of EWSR1::ATF1 opens a metabolic vulnerability, establishing TRIM11 as an actionable dependency and PCK1 as a candidate prognostic biomarker in CCS.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "",
+  "score": 1.74
  }
 }
