@@ -49,16 +49,6 @@
   "type": "Preview",
   "score": 0.82
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00344-2?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00344-2?rss=yes",
-  "title": "EGFR-targeting ADCs: From oncogene addiction to antigen-guided drug delivery",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00344-2?rss=yes",
-  "abstract": "In this issue of Cancer Cell, Li et al. report a first-in-human phase 1 study of SYS6010, an epidermal growth factor receptor (EGFR)-targeting antibody-drug conjugate, in advanced solid tumors. The study highlights how EGFR-directed therapy moves beyond kinase inhibition toward antigen-guided cytotoxic delivery in non-small cell lung cancer.",
-  "source": "Cancer Cell",
-  "date": "2026-08-13T00:00:00+00:00",
-  "type": "Preview",
-  "score": 1.69
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00356-9?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00356-9?rss=yes",
   "title": "Biological aging and the hidden architecture of early-onset cancer risk",
@@ -78,16 +68,6 @@
   "date": "2026-09-01T00:00:00+00:00",
   "type": "Article",
   "score": 0.87
- },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes",
-  "title": "SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced non-small cell lung cancer: A phase 1 trial",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes",
-  "abstract": "Li et al. report results from a first-in-human study showing that SYS6010, an EGFR-targeted antibody-drug conjugate, demonstrates encouraging antitumor activity with a tolerable safety profile in pretreated advanced NSCLC, providing evidence that warrants further clinical development.",
-  "source": "Cancer Cell",
-  "date": "2026-08-13T00:00:00+00:00",
-  "type": "Article",
-  "score": 1.83
  },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00384-3?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00384-3?rss=yes",
@@ -9819,16 +9799,6 @@
   "type": "Article",
   "score": 0.31
  },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00870-6?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00870-6?rss=yes",
-  "title": "Functional atlas of vertebrate viral RNA elements that stabilize RNA and enhance translation",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00870-6?rss=yes",
-  "abstract": "Functional profiling of \u223c200,000 genomic segments from vertebrate-infecting viruses uncovers RNA elements that boost gene expression by stabilizing mRNAs and enhancing translation, revealing the diversity of TENT4-dependent mixed tailing and identifying canonical poly(A) polymerase-mediated cytoplasmic polyadenylation, together expanding our understanding of post-transcriptional regulation and RNA therapeutic design.",
-  "source": "Cell",
-  "date": "2026-08-13T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.9
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00947-5?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00947-5?rss=yes",
   "title": "Structural basis of a SWI/SNF-associated transcription pre-initiation complex",
@@ -15008,5 +14978,55 @@
   "date": "2026-11-10T00:00:00+00:00",
   "type": "",
   "score": 1.74
+ },
+ "https://www.nature.com/articles/s41392-026-03026-3": {
+  "guid": "https://www.nature.com/articles/s41392-026-03026-3",
+  "title": "Glycolipid-lectin driven endocytosis as a therapeutic vulnerability in breast cancer",
+  "link": "https://www.nature.com/articles/s41392-026-03026-3",
+  "abstract": "Aberrant endocytosis has long been associated with epithelial plasticity and tumorigenesis, but direct in vivo evidence of its causal role in tumor progression and metastasis has been lacking. Here, we identify and molecularly characterize a previously unrecognized form of E-cadherin (ECAD) internalization in mammary epithelial cells. This process is n mediated by the endocytic adapter Epsin 3 (EPN3) through glycolipid-lectin (GL-Lect)-driven endocytosis requiring galectin-3 and Eps15-family adapters. We further define the molecular basis of this pathway, identifying EPN3-specific interaction surfaces that promote ECAD clustering and galectin-3 recruitment, thereby driving clathrin-independent ECAD internalization. Leveraging an EPN3 knock-in mouse model, we show that dysregulation of GL-Lect-driven endocytosis disrupts mammary gland morphogenesis, induces epithelial-to-mesenchymal plasticity (EMP), and activates transcriptional programs associated with tissue remodeling and alveologenesis. These alterations synergize with the ERBB2/Neu breast oncogene to accelerate tumor onset and promote lung metastasis. Importantly, enhanced ECAD endocytosis was directly demonstrated in the intact mammary epithelium and shown to underlie the morphogenetic and invasive phenotypes. Pharmacologic inhibition of the GL-Lect mechanism suppressed ECAD internalization and reversed morphogenetic, polarity, and invasive phenotypes ex vivo, providing proof-of-concept for therapeutic targeting. These findings establish GL-Lect-driven endocytosis as a physiological regulator of mammary epithelial plasticity. When dysregulated, it drives metastatic progression and uncovers a tractable therapeutic vulnerability in breast cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.95
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.08.764983v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.08.764983v1?rss=1",
+  "title": "Ultra-low-dose same-target combinations control drug resistance across stages",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.08.764983v1?rss=1",
+  "abstract": "The emergence of drug resistance continues to limit the long term effectiveness of cancer therapies [1], as tumour cells adapt to therapeutic selective pressure through diverse genetic and non-genetic routes [2,3]. Despite advances in more potent and next generation inhibitors and mechanism based combination therapies [4,5], durable disease control remains difficult to achieve. Here we tested an alternative strategy: combining multiple inhibitors directed against the same oncogenic driver, each at ultra low doses with minimal individual activity, to delay resistance emergence. In epidermal growth factor receptor (EGFR) driven cancer models, such ultra low dose same target combinations (ULDCs) distributed individually weak perturbations across multiple inhibitors directed against the same target and achieved substantial growth inhibition in vitro and antitumour activity in vivo despite weak effects of the corresponding single agents. Under similar levels of growth inhibition (~50%), single-agent EGFR inhibitors generated resistant outgrowth, whereas a five drug ULDC delayed resistance emergence. Increasing the number of inhibitors further delayed resistance emergence, with no detectable resistant outgrowth observed for combinations containing 8 to 14 inhibitors within the experimental timeframe. The five drug ULDC also retained measurable growth inhibitory activity against gefitinib resistant PC-9/GR cells, and resistant cells arising under five drug ULDC treatment exhibited markedly greater reversibility following drug withdrawal than those arising under single agent treatment. Although pharmacological additivity or synergy may contribute to the collective growth inhibitory effects of ULDCs, the divergent long term resistance outcomes observed under similar levels of growth inhibition indicate that resistance behaviour is not determined by inhibitory strength alone. Instead, our findings support a model in which increasing same target inhibitor diversity progressively constrains the adaptive trajectories available during resistance evolution, while therapeutic perturbation architecture may also influence the stability of resistant states that emerge. More broadly, these findings support the concept of same target collective suppression, in which multiple individually weak perturbations directed against the same target can collectively produce substantial antitumour activity and constrain resistance evolution across multiple stages. We propose that increasing same target inhibitor diversity may restrict accessible adaptive trajectories, while therapeutic perturbation architecture may also influence the stability of resistant states.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "",
+  "score": 2.01
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.07.765071v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.07.765071v1?rss=1",
+  "title": "Developing a Multimodal miR-15a Mimic to Overcome Gemcitabine and RAS(ON) Inhibitor Daraxonrasib Resistance in Pancreatic Ductal Adenocarcinoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.07.765071v1?rss=1",
+  "abstract": "Gemcitabine remains a mainstay of pancreatic ductal adenocarcinoma (PDAC) treatment, while the RAS(ON) inhibitor daraxonrasib has recently demonstrated improved survival in previously treated metastatic disease. However, acquired resistance to both therapies remains a major clinical challenge. Here, we developed MTX-5-FU-Gem-miR-15a, a multimodal microRNA (miRNA)-based therapeutic, by chemically modifying tumor-suppressive miR-15a with methotrexate (MTX), 5-fluorouracil (5-FU), and gemcitabine (Gem) to combine sequence-specific gene regulation with disruption of nucleotide metabolism. MTX-5-FU-Gem-miR-15a exhibited low-nanomolar potency across five PDAC cell lines and retained activity in gemcitabine- and daraxonrasib-resistant models under vehicle-free conditions, substantially exceeding that of stoichiometrically matched free antimetabolites. Treatment induced S-phase accumulation, increased DNA damage and apoptosis, and suppressed checkpoint and survival-associated proteins, including WEE1, CHK1, YAP1, and BCL-2. Transcriptomic and proteomic analyses revealed increased DNA replication, replication-stress, and repair-associated programs, together with reduced oncogenic signaling. In gemcitabine-resistant cells, treatment restored the gemcitabine-activating enzyme dCK, reduced ABCC1 and ABCC3 expression, and suppressed resistance-associated signaling programs, indicating partial remodeling of resistance-associated pathways. MTX-5-FU-Gem-miR-15a also synergized with daraxonrasib (mean Bliss synergy score, 22.52) and activated tumor-cell-intrinsic STING-TBK1 signaling, accompanied by increased interferon stimulated gene expression and IFN-{beta} and CXCL10 secretion. Finally, MTX-5-FU-Gem-miR-15a retained low-nanomolar potency in three patient-derived PDAC organoids and significantly suppressed metastatic tumor growth in vivo at 4 mg/kg. Together, these findings support a multimodal miRNA therapeutic strategy that combines replication-associated DNA damage, checkpoint protein suppression, and innate immune activation-associated responses to target therapeutic resistance in PDAC.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "",
+  "score": 2.4
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.07.765033v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.07.765033v1?rss=1",
+  "title": "Miniaturized Traceless Staudinger Ligation Enables Direct-to-Biology Screening of Potent BRD4 PROTACs",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.07.765033v1?rss=1",
+  "abstract": "Direct-to-biology (D2B) approaches accelerate PROTAC discovery by enabling biological screening of crude reaction mixtures without intermediate purification. However, the range of chemical transformations compatible with these workflows remains limited. Herein, we establish a miniaturized, base-free traceless Staudinger ligation platform diversifying linker chemistry for a preexisting library of E3-ligand-linker adducts bearing azide moieties. As a proof-of-concept target, BRD4 was chosen, yielding amide-linked BRD4-targeting PROTACs. By combining phosphine-functionalized JQ1 derivatives with 72 selected azide building blocks, reactions were performed on a 5 L scale in 384-well plates, achieving a mean LC-MS conversion of approximately 65%. Spiking experiments confirmed that the phosphine starting materials had no significant impact on BRD4 degradation, supporting the direct biological evaluation of crude reaction mixtures in the presence of residual starting material. Cellular screening identified 23 hits at 250 nM screening concentration, reducing BRD4 levels below 40%. Two resynthesized and purified PROTACs were subsequently validated, displaying pDC50 values of 8.2 and 7.0 and a Dmax of 90% and 96%, respectively. This work establishes traceless Staudinger ligation as a complementary D2B strategy for the rapid discovery of amide-linked PROTACs.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "",
+  "score": 2.05
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.07.764982v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.07.764982v1?rss=1",
+  "title": "Development of a Thyroid Cancer to Lung Metastasis-on-a-Chip Model",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.07.764982v1?rss=1",
+  "abstract": "Background: Study of the metastatic cascade in differentiated non-medullary thyroid cancer (NMTC) is hampered by the relative lack of preclinical models that metastasize from primary tumors to other organs. We previously identified regulator of calcineurin 1 isoform 4 (RCAN1.4) as a suppressor of NMTC cell growth, invasion, and metastasis using in vitro systems and tail vein injections in immunocompromised mice. We then reported a microfluidic device mimicking the mouse tail vein injection where cancer cells were allowed to flow directly to lung organoid constructs. We now report the development of a full primary tumor to lung metastasis-on-a-chip (MOC) model for TC. Methods: Resin molds for primary and secondary sites connected by a channel were 3D printed and filled with polydimethylsiloxane to create a molded silicone elastomer. The primary site was seeded with an organoid composed of a hyaluronic acid and collagen-based hydrogel into which FTC236 and HTh74 NMTC cells with and without knockdown of RCAN1.4 were engrafted. The secondary site consisted of a hydrogel organoid into which bronchial epithelial cells and lung fibroblasts were seeded. Culture media was circulated and movement of NMTC cells to the secondary site was assessed. Results: Both cell lines that expressed RCAN 1.4 metastasized to the secondary lung site. RCAN1.4-reduced FTC236 cells had increased metastatic behavior vs controls while HTh74 was less affected by RCAN1.4 loss, similar to prior studies. To determine if the MOC could be used for incorporation of immune components and therapeutic modeling, NK-92 cells were added and were shown to be reduce metastases for both cell lines in the presence or absence of RCAN1.4. Analysis of MOC circulating fluid revealed elevated levels of granzyme B, consistent with NK-92 cell activation. Cytokine profiling identified elevated probable NMTC and NK-92-derived factors. Conclusions: These results indicate that NMTC metastatic behavior can be modeled using a novel MOC system for mechanistic and preclinical therapeutic studies.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-10T00:00:00+00:00",
+  "type": "",
+  "score": 1.13
  }
 }
