@@ -15028,5 +15028,65 @@
   "date": "2026-11-10T00:00:00+00:00",
   "type": "",
   "score": 1.13
+ },
+ "https://www.nature.com/articles/s41598-026-79009-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-79009-9",
+  "title": "Podophyllotoxin disrupts the XIAP\u2013caspase-9 interaction to promote apoptosis: insights from a quantitative split-luciferase complementation assay",
+  "link": "https://www.nature.com/articles/s41598-026-79009-9",
+  "abstract": "Podophyllotoxin (PTOX), a plant-derived lignan with potent anticancer properties, is hypothesized to mimic Smac activity by interacting with Inhibitor of Apoptosis Protein (IAP) BIR domains. However, the precise molecular mechanisms governing these interactions remain poorly understood. In this study, we developed and validated a highly sensitive, cell-free split-luciferase complementation assay designed to quantify the real-time interaction dynamics between the BIR2\u2013BIR3 domains of XIAP and its key targets, caspase-3 and caspase-9. Our results demonstrate that the BIR2\u2013BIR3\u2013NLuc/caspase-9-CLuc interaction is significantly more robust and stable than the BIR2\u2013BIR3\u2013NLuc/caspase-3-CLuc interaction, highlighting a preferential binding mechanism at the initiator caspase level. Utilizing this platform, we investigated the effects of PTOX in modulating this interaction. Consistent with in silico docking predictions, PTOX disrupted the XIAP\u2013caspase-9 complex in a concentration-dependent manner, leading to a marked reduction in luminescence and a subsequent restoration of caspase-9 enzymatic activity. While PTOX showed a minor inhibitory effect on the XIAP\u2013caspase-3 interaction, its impact on the caspase-9 axis was markedly more pronounced. Furthermore, Carboplatin, a DNA-crosslinking agent, exhibited no significant impact on these protein-protein interactions, confirming the specificity of the observed PTOX-mediated effects. These findings establish a sensitive, real-time platform for monitoring the XIAP\u2013caspase axis and provide compelling evidence that PTOX acts as a targeted modulator of the apoptotic pathway, warranting its further development as a pharmacological agent.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.49
+ },
+ "https://www.nature.com/articles/s41598-026-80151-7": {
+  "guid": "https://www.nature.com/articles/s41598-026-80151-7",
+  "title": "Quantifying high-LET heavy-ion-induced non-DSB clustered DNA lesions using Geant4-DNA",
+  "link": "https://www.nature.com/articles/s41598-026-80151-7",
+  "abstract": "Ionizing radiation induces complex DNA damage that can challenge repair processes and contribute to genomic instability. In this study, we extend Geant4-DNA to quantify oxidative non-DSB damage containing 8-oxo-7,8-dihydro-2\u2032-deoxyguanosine (8-oxo-dG) and thymidine glycol (dTg) from direct and hydroxyl-radical pathways. Simulations were performed in a reduced-scale human fibroblast chromatin geometry for 12C, 28Si, 40Ar, and 56Fe ions (LET 13\u2013148&nbsp;keV/\u03bcm). For 12C irradiation at 94.55&nbsp;MeV/u, including direct and quasi-direct oxidation raised the simulated 8-oxo-dG yield from 0.0059\u2009\u00b1\u20090.0002 to 0.0239\u2009\u00b1\u20090.0005 lesions/Mbp/Gy, approaching published experimental values. Simulated lesion frequencies matched experimental orders of magnitude, although discrepancies remained and the experimental assays and biological conditions were not fully equivalent to the simulated observables. The resulting damage profiles resolved lesion identity and local multiplicity. Clusters containing one single-strand break and one oxidative base lesion were the predominant non-DSB clustered configurations, particularly SSB\u2009+\u20098-oxo-dG (9.4%\u201313.2%) and SSB\u2009+\u2009dTg (8.5%\u201312.8%). This framework extends Geant4-DNA beyond conventional strand-break analysis, offering lesion-resolved inputs for mechanistic base excision repair models under heavy-ion irradiation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.07
+ },
+ "https://www.nature.com/articles/s41375-026-03173-0": {
+  "guid": "https://www.nature.com/articles/s41375-026-03173-0",
+  "title": "Mediator kinase inhibition exposes a transcriptional vulnerability and synergizes with venetoclax in AML",
+  "link": "https://www.nature.com/articles/s41375-026-03173-0",
+  "abstract": "Acute myeloid leukemia (AML) is a heterogeneous and aggressive hematologic malignancy associated with poor survival despite recent therapeutic advances. To identify novel anti-leukemic agents, we performed a high-throughput viability screen of 10,000 small molecules across 56 genetically diverse primary AML samples. Compounds with similar activity profiles were grouped into Compound Correlation Clusters (CCCs), leading to the identification of CCC163, which includes AML874, as a potent and selective hit. Integrated pharmacological and CRISPR-Cas9 approaches identified the Mediator complex as the molecular target of AML874. We demonstrated that AML874 acts as a selective CDK8/CDK19 inhibitor, disrupting Mediator-dependent transcription. FLT3-mutated AML showed increased sensitivity to AML874, suggesting a subtype-specific vulnerability. Notably, CDK8 inhibition synergized with venetoclax in AML cell lines and patient-derived xenograft models, resulting in enhanced anti-leukemic activity in vivo. Collectively, these findings establish CDK8/CDK19 inhibition as a therapeutically relevant strategy in AML.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.08
+ },
+ "https://www.nature.com/articles/s44484-026-00030-6": {
+  "guid": "https://www.nature.com/articles/s44484-026-00030-6",
+  "title": "Ligs-Mamba: a synergistic Mamba network for video breast Cooper\u2019s ligament segmentation",
+  "link": "https://www.nature.com/articles/s44484-026-00030-6",
+  "abstract": "Accurate segmentation of breast Cooper\u2019s (BC) ligaments in endoscopic mastectomy videos is difficult because of their low contrast, indistinct boundaries, and interference from surrounding tissues. Reliable delineation supports anatomical identification during surgery. Mamba has shown promise in medical image analysis. Compared with Transformer self-attention, its selective scanning mechanism adaptively emphasizes informative features in long sequences. We propose Ligs-Mamba, a Mamba-based framework for video BC ligament segmentation. It comprises an anatomy-aware global Mamba (AGM) module and an uncertainty-focused local Mamba (ULM) module. AGM uses coarse ligament predictions to direct global feature scanning toward anatomically relevant regions, whereas ULM uses uncertainty priors to focus local scanning on ambiguous boundaries. Together, these modules strengthen the representation of low-contrast ligaments while reducing background interference. We also collect and annotate the video-based BC ligament segmentation (VLS) dataset, which contains 90 videos and 6403 frames. To our knowledge, VLS is the first annotated dataset for video BC ligament segmentation, and Ligs-Mamba is the first framework designed for this task. Experiments on VLS show that Ligs-Mamba outperforms state-of-the-art methods in quantitative and qualitative evaluations, producing more accurate ligament masks under challenging conditions.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.5
+ },
+ "https://www.nature.com/articles/s41598-026-74690-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-74690-2",
+  "title": "Unveiling the antitumor and chemo-sensitizing effects of ondansetron in the treatment of MCF-7 breast cancer cells",
+  "link": "https://www.nature.com/articles/s41598-026-74690-2",
+  "abstract": "Breast cancer (BC) remains one of the global leading causes of cancer-related deaths among women. Resistance to chemotherapy and metastatic progression are key challenges. Serotonin (5-HT) and its receptor subtypes are implicated in tumor proliferation, but the oncogenic role of 5-HT3-Rs in BC is not well defined. The widely-used antiemetic, Ondansetron, is a selective 5-HT3 receptor antagonist, that is investigated in this study to explore the potential previously-unrecognized anticancer properties in MCF-7 human BC cells. To investigate the potential effect of Ondansetron, alone or in combination with Doxorubicin, in inhibiting proliferation, survival and migration of MCF-7 BC cells, and to explore some of the underlying molecular mechanisms. MCF-7 cells were treated with Ondansetron and/or Doxorubicin. Cell viability- (MTT), migration- (wound healing), and survival- (clonogenic) assays were conducted. The regulation of some downstream signaling pathways were analyzed by ELISA, Western blotting, or immunofluorescence to assess the modulations of migratory/metastatic (RAS/mTOR/SRC/FAK/MMP-2), survival/angiogenic (Cyclin D1/VEGF-A), and apoptotic (Bcl-2/Cytochrome c/cleaved-caspase-7) biomarkers. Ondansetron significantly reduced cell viability and migration capability and markedly potentiated the cytotoxic effects of Doxorubicin. The combination regimen, downregulated key oncogenic signaling molecules (RAS/mTOR/SRC/FAK/MMP-2/VEGF-A/Cyclin D1) with enhanced Cytochrome c/cleaved-caspase-7 activation, and suppressed the anti-apoptotic protein, Bcl-2. Pharmacological targeting of 5-HT/HTR3 with Ondansetron induces antitumor effects in MCF-7 BC cells by suppressing 5-HT3-mediated survival signaling and metastatic pathways, and increases MCF-7 cells sensitivity to chemotherapy. This study proposes using Ondansetron as a potential adjuvant to Doxorubicin-based treatment of BC, to improve efficacy and reduce toxicity of the chemotherapy.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.97
+ },
+ "https://www.nature.com/articles/s41416-026-03642-4": {
+  "guid": "https://www.nature.com/articles/s41416-026-03642-4",
+  "title": "Toxicity, health-related quality of life and sexuality after molecular profile-based adjuvant treatment in high-intermediate risk endometrial cancer, PORTEC-4a",
+  "link": "https://www.nature.com/articles/s41416-026-03642-4",
+  "abstract": "PORTEC-4a was the first to incorporate molecular-integrated&nbsp;profile-guided adjuvant treatment in early-stage high-intermediate-risk endometrial cancer (EC), demonstrating non-inferiority. Here, adverse events (AE), health-related quality of life (HRQoL) and sexual health are reported. 564 patients were randomised to molecular-based adjuvant treatment (n\u2009=\u2009367) or standard vaginal brachytherapy (VBT, n\u2009=\u2009197). In the molecular-profile arm, patients underwent observation, VBT or pelvic radiotherapy according to molecular-integrated profile. HRQoL and sexual functioning were assessed with EORTC QLQ-C30 and EN24 modules and compared with age-matched normative data. Median follow-up was 58.1 months; 523 (92.7%) patients were evaluable. Grade 1\u20132 AEs were less frequent in the molecular-profile arm at treatment completion compared with the standard arm (28.3% vs. 45.2%, p\u2009&lt;\u20090.01), without differences in grade 3\u20134 AEs (p\u2009=\u20090.46). Throughout follow-up, treatment-related grade 3\u20134 AEs were rare (1% vs. 2%). HRQoL remained comparable to normative data over time. Sexual interest/activity was similar between arms, but lower than normative values. 75.5% of patients reported \u22651 reason for sexual inactivity; disease-related sexual inactivity decreased from 24.2% to 9.2% at 3 years. Molecular-guided adjuvant treatment for patients with high-intermediate riskEC is associated with low toxicity, preserved HRQoL and slightly reduced sexual activity due to personal factors (no partner, sex not important in their relationship or partner-related medical issues) rather than their own illness.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.72
  }
 }
