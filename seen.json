@@ -15518,5 +15518,455 @@
   "date": "2026-11-12T00:00:00+00:00",
   "type": "Article",
   "score": 0.65
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01282-1?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01282-1?rss=yes",
+  "title": "Collaboration across scales: More than the sum of its parts",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01282-1?rss=yes",
+  "abstract": "Science is collaborative by nature, but some questions require coordination on an exceptional scale. Among them is the challenge of creating a comprehensive reference framework for the human brain. In this issue of Cell, together with papers published in Cell Genomics, Cell Reports, Cell Reports Methods, Cell Systems, and Neuron, we present the first publication package from the NIH BRAIN Initiative Cell Atlas Network (BICAN).",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Editorial",
+  "score": 0.32
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01271-7?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01271-7?rss=yes",
+  "title": "Mapping primate brain aging across cell types, regions, and sexes",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01271-7?rss=yes",
+  "abstract": "Aging is the major risk factor for neurodegenerative disease, yet how it affects different cells in the primate brain remains unclear. In this issue of Cell, Yang et al. present a single-nucleus atlas of the aging macaque brain that, together with recent work by Zhang et al., reveals context-dependent aging programs, sex-biased transcriptional aging, and molecular links to Alzheimer\u2019s disease.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Preview",
+  "score": 0.27
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01274-2?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01274-2?rss=yes",
+  "title": "Deploying liquid intelligence in cancer: Finding answers in our blood",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01274-2?rss=yes",
+  "abstract": "Liquid biopsies provide a noninvasive way to screen for disease. This review explains how AI-powered multimodal foundation models will help to identify robust tumor signals from liquid biopsies at scale, but clinical and infrastructural hurdles will need to be addressed to deliver their promise to the clinic.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Review",
+  "score": 1.11
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01284-5?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01284-5?rss=yes",
+  "title": "From the human genome to the human brain cell atlas",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01284-5?rss=yes",
+  "abstract": "The BRAIN Initiative Cell Atlas Network (BICAN) is establishing an evolving reference for neuroscience by integrating cell identities, anatomy, and multimodal evidence across species. In analogy with the Human Genome Project, the BICAN basal ganglia atlas is a model for a federated reference to advance understanding of brain organization, function, variation, and disease.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Commentary",
+  "score": 0.43
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01270-5?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01270-5?rss=yes",
+  "title": "Stepping (hi)stones: Charting a single-cell multiomic path toward understanding the human brain",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01270-5?rss=yes",
+  "abstract": "In this issue of Cell, two single-cell multiomic atlases jointly profile transcription and histone modifications across different regions of the adult human brain, revealing cell-type-specific regulatory landscapes, developmental epigenetic memory, and improved interpretation of neurological variants. These studies establish a framework for understanding human brain cell identity, evolution, and pathology.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Preview",
+  "score": 0.75
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01275-4?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01275-4?rss=yes",
+  "title": "Conserved striatal mechanisms underlying ASD",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01275-4?rss=yes",
+  "abstract": "Autism spectrum disorder (ASD) involves changes in social and stereotypic behaviors regulated by striatal circuitry. Using an innovative cross-species approach, in this issue of Cell, Yuan et al. identify alterations in specific striatal neurons and astrocytes, opening new avenues for investigating cellular and molecular mechanisms underlying striatal dysfunction in ASD.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Preview",
+  "score": 0.08
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01281-X?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01281-X?rss=yes",
+  "title": "Toward an integrated framework for a human and mammalian brain cell atlas",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01281-X?rss=yes",
+  "abstract": "The BRAIN Initiative Cell Atlas Network integrates molecular profiles, spatial maps, and anatomical frameworks into a curated cell-type taxonomy of the human, macaque, and marmoset basal ganglia. This multimodal atlas offers a blueprint for comparing brain cell types across species and for scaling to the whole brain.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.55
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01256-0?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01256-0?rss=yes",
+  "title": "Cross-species multiomic atlas of the primate basal ganglia",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01256-0?rss=yes",
+  "abstract": "A cross-species multiomic atlas of the primate basal ganglia aligns 1.8 million nuclei from human, macaque, and marmoset into 61 cell types conserved over 76 million years. The atlas reveals that dorsal-ventral spatial identity is more evolutionarily constrained than direct and indirect pathway or striosome and matrix identity, identifies a distinct SMYD2-HTR7 spiny projection neuron type, and links regulatory sequence grammars and psychiatric risk variants to specific cell populations.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.18
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01273-0?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01273-0?rss=yes",
+  "title": "Spatial transcriptomics reveals molecular organization of human and nonhuman primate basal ganglia",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01273-0?rss=yes",
+  "abstract": "A cellular-resolution spatial transcriptomics atlas of the basal ganglia in human, rhesus macaque, and common marmoset highlights a conserved molecular organization and introduces an accessible resource for the research community. This atlas reveals complex gene expression gradients that coexist with discrete cell-type specializations.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.27
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01279-1?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01279-1?rss=yes",
+  "title": "Mesoscale molecular architecture of the striatum across cell types and adult aging",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01279-1?rss=yes",
+  "abstract": "Using Slide-tags spatial transcriptomics across 19 human donors, this study shows that the striatum is organized into six molecularly distinct zones that are conserved in macaque and mouse, align with brain-wide projection inputs, and lose their transcriptional distinctiveness with age.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.26
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01276-6?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01276-6?rss=yes",
+  "title": "Common variation of cell abundances and gene expression in the human striatum",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01276-6?rss=yes",
+  "abstract": "Single-cell analyses of the adult human striatum and prefrontal cortex reveal substantial inter-individual variation in cell-type abundance and gene expression. Most aspects of donor-associated cellular and molecular features recur across brain regions, while age and common genetic variation have distinct effects across cell types.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.18
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01269-9?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01269-9?rss=yes",
+  "title": "Multimodal single-cell epigenomic and 3D genome atlas of the human basal ganglia",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01269-9?rss=yes",
+  "abstract": "A single-cell atlas of DNA methylation and 3D genome architecture across the human basal ganglia defines the regulatory signatures of its cell types, including a distinct striatal projection neuron subtype, and predicts cell-type-specific gene regulatory networks. Spatial transcriptomics further reveals interneuron types that differ between the striatal matrix and striosomes.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.4
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01077-9?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01077-9?rss=yes",
+  "title": "Single-cell analysis of chromatin state and transcriptome in the human basal ganglia",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01077-9?rss=yes",
+  "abstract": "A single-cell multi-omic atlas spanning eight regions of the human basal ganglia maps cell-type-specific chromatin landscapes and gene regulation, revealing the regulatory programs that shape cell identity. The atlas provides a framework for interpreting noncoding variants linked to basal ganglia traits and diseases, and it enables the construction of a deep-learning model for predicting how variants affect gene regulation and function.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.24
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01129-3?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01129-3?rss=yes",
+  "title": "Multiscale spatial atlas of human basal ganglia cell types and communities",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01129-3?rss=yes",
+  "abstract": "This study combines MERFISH+ and Stereo-seq to generate a multiscale spatial transcriptomic atlas of the human basal ganglia. It reveals cellular community organization, conserved and species-specialized features of striosome-matrix architecture, and projection-associated molecular signatures inferred from subcellular RNA localization.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.1
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00939-6?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00939-6?rss=yes",
+  "title": "Single-cell multimodal atlas reveals regulatory programs in the human brain",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00939-6?rss=yes",
+  "abstract": "A multimodal, integrative framework for understanding gene regulatory mechanisms across diverse cell types in the adult human brain. This framework helps elucidate how regulatory programs govern neuronal and glial functions, encode developmental trajectories, underlie neurological phenotypes, and change during evolution.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.69
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01218-3?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01218-3?rss=yes",
+  "title": "Spatial and regulatory organization of cell identity across the primate subcortex",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01218-3?rss=yes",
+  "abstract": "Dense multimodal profiling of the marmoset subcortex reveals how spatial context and gene regulatory programs jointly shape cell identity across the primate brain. By linking transcriptional states, chromatin accessibility, and anatomy, this atlas uncovers regulatory principles underlying spatial gradients, neuronal convergence, and evolutionary specialization.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.23
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01278-X?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01278-X?rss=yes",
+  "title": "Morphoelectric diversity and specialization of primate striatal neuron types",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01278-X?rss=yes",
+  "abstract": "Patch-seq in the macaque striatum links transcriptomic cell-type identity to neuronal form and function, revealing non-canonical spiny projection neurons, specialized interneurons, spatially organized morphoelectric gradients, and features that distinguish macaque from mouse neuron types.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.04
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01143-8?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01143-8?rss=yes",
+  "title": "Circuit-aligned specialization of human basal ganglia astrocytes",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01143-8?rss=yes",
+  "abstract": "Astrocyte diversity in the human basal ganglia reflects both large-scale brain identity programs and local microcircuit specialization. Integrated transcriptomic, epigenomic, and spatial analyses link these astrocyte populations to subgroup-specific regulatory features and enhancer logic, providing a framework for understanding and targeting astrocyte heterogeneity.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.36
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01277-8?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01277-8?rss=yes",
+  "title": "Disruption of cell-type-specific molecular programs of striatal spiny projection neurons in autism",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01277-8?rss=yes",
+  "abstract": "Cross-species single-cell profiling identifies molecular disruptions among striatal spiny projection neurons in genetically defined autism. D1 striosome spiny projection neurons are identified as the most affected, with altered synaptic and energy metabolism programs linked to reduced EGR1/EGR3 activity, partly reproduced by EGR1/EGR3 loss in organoids.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.14
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01219-5?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01219-5?rss=yes",
+  "title": "A single-cell and spatial 3D multi-omic atlas of developing human basal ganglia",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01219-5?rss=yes",
+  "abstract": "Single-cell and spatial profiling of the developing human basal ganglia show that their principal neurons, spiny projection neurons, mature through unusually synchronized epigenomic remodeling; that oligodendrocytes pass through a transient chromatin state during differentiation; and that spiny projection neurons carry an elevated genetic risk for schizophrenia and bipolar disorder.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.27
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01116-5?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01116-5?rss=yes",
+  "title": "Single-cell, multi-region profiling of the macaque brain across the lifespan",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01116-5?rss=yes",
+  "abstract": "Yang, Watkins et al. generate a 5.3 million cell transcriptomic atlas of the aging primate brain, which reveals that glia drive most age-related compositional shifts. These data uncover region-, cell-type-, and sex-specific molecular trajectories linked to neurodegenerative disease, providing key insights into the cellular mechanisms underlying brain aging and vulnerability.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.52
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01272-9?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01272-9?rss=yes",
+  "title": "An integrative single-cell epigenomic atlas annotates the regulatory genome of the adult mouse brain",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01272-9?rss=yes",
+  "abstract": "A comprehensive single-cell epigenomic atlas integrates four histone modifications, chromatin accessibility, DNA methylation, the 3D genome, and the transcriptome, and resolves functional chromatin states of the adult mouse brain. This integrative framework, together with sequence-based deep learning, identifies active and repressive regulatory mechanisms and their dynamic deployment underlying cell-type-specific gene regulation.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.87
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01283-3?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01283-3?rss=yes",
+  "title": "Harmonized brain ontology and 3D atlases for human, macaque, and marmoset basal ganglia",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01283-3?rss=yes",
+  "abstract": "A Harmonized Ontology of Mammalian Brain Anatomy (HOMBA) enables consistent creation of structural and cellular brain atlases and ontologies as well as the integration of multimodal data and samples across species.",
+  "source": "Cell",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.34
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01209-2?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01209-2?rss=yes",
+  "title": "Deep sequencing of 3,367 maize genomes uncovers substantial contribution of rare variants to agronomic traits",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01209-2?rss=yes",
+  "abstract": "Deep coverage sequencing of 3,367 maize genomes reveals substantial contributions of rare variants to trait heritability and provides insights into how selection reshapes their contribution to complex traits.",
+  "source": "Cell",
+  "date": "2026-10-27T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.06
+ },
+ "https://www.nature.com/articles/s43018-026-01260-w": {
+  "guid": "https://www.nature.com/articles/s43018-026-01260-w",
+  "title": "A single-cell lung cancer atlas reveals cellular and molecular drivers of metastasis and clinical outcome",
+  "link": "https://www.nature.com/articles/s43018-026-01260-w",
+  "abstract": "Non-small-cell lung cancer (NSCLC) remains a leading cause of cancer-related mortality, characterized by extensive cellular and molecular heterogeneity. Here, to capture this complexity, we present LuCaS+, a multicenter single-cell RNA sequencing atlas comprising over 2.5 million nuclei from 454 clinically annotated patients with NSCLC with long-term follow-up. LuCaS+ consists of a discovery dataset (Berlin and Cologne, 364 patients) and an independent validation dataset (Munich, 90 patients). Leveraging this dataset, we identified tumor subpopulations with high metastatic potential associated with oncogenic signaling, immune evasion and epithelial\u2013mesenchymal transition. In early-stage adenocarcinoma (lung adenocarcinoma), these cells showed strong prognostic value. Integrating tumor and microenvironmental cell profiles improved survival prediction across all stages, identifying distinct tumor\u2013immune\u2013stromal interaction patterns. These included monocyte- and fibroblast-driven inflammation (lung adenocarcinoma), VEGF\u2013TGF\u03b2-mediated angiogenic feedback loops (lung squamous cell carcinoma) and immune-permissive niches promoting antitumor immunity. LuCaS+ offers a clinically anchored single-cell resource to enable personalized, biology-driven therapies in NSCLC. Jurmeister et al. present a multicenter single-nucleus RNA sequencing atlas of lung cancer combined with spatial transcriptomics and clinical outcomes, delineating cancer\u2013host cell interactions and uncovering tumor subtypes associated with metastatic relapse.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Resource",
+  "score": 1.35
+ },
+ "https://www.nature.com/articles/s41568-026-00991-3": {
+  "guid": "https://www.nature.com/articles/s41568-026-00991-3",
+  "title": "Beyond the tumour: circulating extracellular matrix fragments as next-generation cancer biomarkers",
+  "link": "https://www.nature.com/articles/s41568-026-00991-3",
+  "abstract": "Tumour progression fundamentally disrupts extracellular matrix (ECM) homeostasis, generating circulating molecular signatures that reflect the integrated activities of cancer cells, stromal fibroblasts and infiltrating immune populations. These tumour ECM-derived fragments comprise specific protease-generated neo-epitopes of collagens, proteoglycans and glycoproteins, and provide dynamic, real-time readouts of microenvironmental remodelling that distinguish them from other classes of biomarker, such as genomic biomarkers. Recent technical advances in neo-epitope detection platforms have enabled measurement of specific ECM fragments with exceptional sensitivity and specificity, transforming these signatures from research tools into clinically viable biomarkers. ECM fragment fingerprints are demonstrating utility across the cancer continuum, including tracking disease activity; differentiating malignancy from benign conditions during early detection; stratifying patients by biological aggressiveness of the disease independent of anatomical staging; monitoring the treatment response with pharmacodynamic precision; and predicting immunotherapeutic efficacy through immune\u2013ECM interaction signatures. Established regulatory pathways through the US Food and Drug Administration Biomarker Qualification Program and European Union In Vitro Diagnostic Regulation frameworks provide clear routes to clinical implementation. Thus, the convergence of robust analytical platforms, mechanistic understanding and regulatory readiness is positioning ECM fragment fingerprinting as a potential emerging component of precision oncology, complementing genomic profiling to enable comprehensive tumour ecosystem characterization and rational therapy selection. Through the action of proteases, the tumour-derived extracellular matrix (ECM) generates circulating ECM fragments that reflect dynamic tumour microenvironment remodelling in real time. In this Perspective article, the authors propose that advances in neo-epitope detection have enabled the use of ECM fragments as sensitive and specific biomarkers in clinical applications ranging from early detection and prognostication to treatment monitoring and immunotherapy prediction, complementing genomic profiling in precision oncology.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 0.88
+ },
+ "https://www.nature.com/articles/s41419-026-09356-y": {
+  "guid": "https://www.nature.com/articles/s41419-026-09356-y",
+  "title": "ELF3 crotonylation-mediated crosstalk with ubiquitination suppresses immune escape in cervical cancer through the induction of DNA replication stress",
+  "link": "https://www.nature.com/articles/s41419-026-09356-y",
+  "abstract": "DNA replication stress is a prevalent feature in carcinogenesis. Irreparable DNA damage leads to genomic instability and the accumulation of cytosolic DNA, thereby activating the innate immune response and contributing critically to tumor suppression. However, the role of DNA replication stress remains poorly characterized in cervical cancer. By means of single-cell RNA sequencing analysis, we identified ELF3 as a key transcription factor mediating DNA replication stress in cervical cancer. ELF3 is upregulated in cervical cancer. Mechanistically, upon DNA damage, ELF3 protein abundance is reduced due to p300-mediated crotonylation at lysine residues K318 and K320, which enhances its ubiquitination and subsequent proteasomal degradation, thereby compromising ELF3 protein stability. Depletion of ELF3 suppresses RFC3 transcription and impedes cell cycle progression. Furthermore, either mimicking ELF3 crotonylation or knocking down ELF3 results in the accumulation of cytosolic DNA, triggering the cGAS-STING signaling pathway and activating innate immunity. Consequently, tumor cells recruit and activate CD8+ T cells via the macrophage migration inhibitory factor (MIF)\u2013CD74/CXCR4 receptor\u2013ligand axis, leading to suppressed tumor growth and enhanced responsiveness to anti\u2013PD-1 immunotherapy. In conclusion, our findings demonstrate that targeting ELF3 represents a promising therapeutic strategy to potentiate immunotherapy in cervical cancer, offering novel mechanistic insights and a theoretical foundation for improving clinical outcomes.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.35
+ },
+ "https://www.nature.com/articles/s41590-026-02732-y": {
+  "guid": "https://www.nature.com/articles/s41590-026-02732-y",
+  "title": "Author Correction: Serine protease inhibitor A3 is a soluble SIRP\u03b1 ligand that suppresses inflammation and antitumor immunity",
+  "link": "https://www.nature.com/articles/s41590-026-02732-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Author Correction",
+  "score": 1.15
+ },
+ "https://www.nature.com/articles/s41586-026-11409-3": {
+  "guid": "https://www.nature.com/articles/s41586-026-11409-3",
+  "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+  "link": "https://www.nature.com/articles/s41586-026-11409-3",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Author Correction",
+  "score": 1.29
+ },
+ "https://www.nature.com/articles/s41598-026-80275-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-80275-w",
+  "title": "Association of hypoglycemic agents with the risk of immune checkpoint inhibitor-induced pneumonitis in patients with type 2 diabetes",
+  "link": "https://www.nature.com/articles/s41598-026-80275-w",
+  "abstract": "Immune checkpoint inhibitors (ICIs) are effective cancer therapies but can cause immune-related adverse events, including ICI-related pneumonitis (ICI-P), a potentially fatal complication. Whether baseline glucose-lowering therapy is associated with subsequent ICI-P in patients with type 2 diabetes (T2D) remains unclear. We conducted a retrospective cohort study using a large-scale Japanese claims database (DeSC) from April 2014 to October 2023. Patients with T2D who were newly initiated on ICI-based chemotherapy were included, and glucose-lowering medication use was defined at ICI initiation. Associations with subsequent ICI-P were estimated using multivariable logistic regression. ICI-P was identified using International Classification of Diseases 10th Revision codes recorded after chest imaging; a sensitivity analysis used ICI-P requiring hospitalization. Among 21,738 eligible patients, 1,164 (5.4%) developed ICI-P. No glucose-lowering medication class used at ICI initiation was significantly associated with ICI-P in the primary analysis; for DPP-4 inhibitors, the adjusted odds ratio (OR) was 0.89 (95% confidence interval [CI], 0.75\u20131.05). Concomitant ICI use was associated with higher odds of ICI-P (OR, 1.40; 95% CI, 1.10\u20131.77), whereas older age was associated with lower odds (OR per 10 years, 0.82; 95% CI, 0.75\u20130.90). In the hospitalization-based sensitivity analysis, thiazolidinediones, SGLT2 inhibitors, glinides, and insulin were associated with higher odds of the outcome; these findings should be interpreted cautiously because this analysis included fewer events and multiple medication-class estimates. In this large real-world cohort, baseline use of glucose-lowering medications was not clearly associated with subsequent ICI-P in the primary analysis. These findings do not support a clear protective association between baseline glucose-lowering therapy and ICI-P and should be interpreted in light of residual confounding and outcome misclassification.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.11
+ },
+ "https://www.nature.com/articles/s41375-026-03187-8": {
+  "guid": "https://www.nature.com/articles/s41375-026-03187-8",
+  "title": "Survival trends in Waldenstr\u00f6m macroglobulinemia and comparison of outcomes with the general United States population",
+  "link": "https://www.nature.com/articles/s41375-026-03187-8",
+  "abstract": "Therapeutic options for Waldenstr\u00f6m macroglobulinemia (WM) have expanded but improvements in overall-survival (OS) are difficult to interpret due to competing non\u2013WM mortality. We conducted a large single-center retrospective study of 1020 patients with WM to evaluate survival trends. Patients were stratified by era of active WM diagnosis using a two-era model (1996\u20132005 and post-2006). OS did not differ significantly across eras in the overall cohort (p\u2009=\u20090.64). However, among patients aged &lt;65 years at the time of active WM diagnosis, OS improved in the post-2006 era (median 18.8 vs. 14.1 years, p\u2009=\u20090.018). Cause-specific-survival (CSS) improved across eras, increasing from 15.6 years in 1996\u20132005 to 18.9 years post-2006 (p\u2009&lt;\u20090.0001). Competing-risk-analysis (CRA) demonstrated a reduction in WM-related mortality over time (p\u2009&lt;\u20090.001). However, excess mortality persisted, with a standardized mortality ratio (SMR) of 2.79 (p\u2009&lt;\u20090.001) among patients &lt;65 years compared with a matched U.S. population. Our findings highlight improvements in WM-specific survival, while gains in OS are observed in younger patients.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.61
+ },
+ "https://www.nature.com/articles/s41375-026-03194-9": {
+  "guid": "https://www.nature.com/articles/s41375-026-03194-9",
+  "title": "In memoriam: Robert A. Kyle, M.D. (1928\u20132026)",
+  "link": "https://www.nature.com/articles/s41375-026-03194-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Obituary",
+  "score": 0.35
+ },
+ "https://www.nature.com/articles/s41420-026-03448-6": {
+  "guid": "https://www.nature.com/articles/s41420-026-03448-6",
+  "title": "Ribosome biogenesis-related gene activity reveals immune features, prognostic differences, and FKBP4 targeting in metastatic melanoma",
+  "link": "https://www.nature.com/articles/s41420-026-03448-6",
+  "abstract": "Patients with metastatic melanoma continue to have poor clinical outcomes. Although ribosome biogenesis-related genes (rbRGs) have been implicated in the initiation and progression of multiple malignancies, their expression landscape, biological roles, and clinical relevance in metastatic melanoma remain incompletely defined. In this study, we integrated single-cell RNA sequencing (scRNA-seq) data with bulk transcriptomic profiles and found that rbRG activity exhibited marked heterogeneity in metastatic melanoma and was associated with malignant biological features and poor prognosis. Given the important role of immune microenvironmental remodeling in tumor progression, we further stratified patients based on rbRG activity and found that different rbRG activity groups exhibited distinct immune microenvironmental states. This stratification also helped identify patient subgroups more likely to benefit from immunotherapy, suggesting its potential value for clinical stratification. To further investigate the relationship between rbRG activity and metastatic melanoma prognosis, we developed and validated a prognostic rbRG-related signature (rbRGS) using 101 machine-learning algorithm combinations, with univariable Cox regression identifying FK506-binding protein 4 (FKBP4) as a key prognostic gene. Virtual knockout analysis and in vitro experiments showed that FKBP4 knockdown suppressed malignant phenotypes and energy metabolism in melanoma cells. Finally, molecular docking, molecular dynamics simulations, and in vitro functional assays suggested that epigallocatechin-3-gallate (EGCG) may interact with FKBP4 and inhibit its function. Overall, this study provides new insights into patient stratification, biomarker discovery, and the prediction of immunotherapy response in metastatic melanoma. It also provides preliminary evidence for the potential role of FKBP4 in melanoma-associated malignant phenotypes and energy metabolism, supporting further investigation of EGCG as a candidate FKBP4-targeting compound.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.2
+ },
+ "https://www.nature.com/articles/s41598-026-80483-4": {
+  "guid": "https://www.nature.com/articles/s41598-026-80483-4",
+  "title": "Pan-cancer analysis and exploratory clinical evaluation reveal the prognostic and immunological relevance of MUC16/CA125",
+  "link": "https://www.nature.com/articles/s41598-026-80483-4",
+  "abstract": "Mucin 16 (MUC16), a transmembrane mucin carrying the antigenic epitopes detected clinically in serum as CA125, has been implicated in cancer progression, but its expression landscape, prognostic significance, and immunological associations remain incompletely characterized from a pan-cancer perspective. This study integrated transcriptomic, proteomic, single-cell transcriptomic, spatial transcriptomic, immune infiltration, and pharmacogenomic data to characterize MUC16 across cancer types, with clinical analyses using peripheral blood test data and tumor tissue immunohistochemistry staining. Pan-cancer analyses revealed cancer-type-specific MUC16 dysregulation and heterogeneous prognostic associations, while its mutations were most frequently observed in melanoma and NSCLC. Pathway analyses revealed associations between MUC16 expression and multiple oncogenic as well as immune-related pathways. Higher MUC16 expression was preferentially detected in malignant-cell populations, with inverse associations with several immune-cell populations, including CD8\u207a T cells. Correlation analyses identified TFAP2A, VTCN1, and hsa-miR-21-5p as molecular factors associated with MUC16 expression. Clinical analyses further showed increased MUC16 protein expression in LUAD tissues and associations of serum CA125 levels with lower total lymphocyte and CD3\u207a T-cell counts. Computational drug analyses identified candidate compounds and pharmacogenomic associations for subsequent validation. Collectively, these findings support the prognostic and immunological relevance of MUC16, warranting further experimental and clinical investigation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.09
+ },
+ "https://www.nature.com/articles/s41467-026-79155-8": {
+  "guid": "https://www.nature.com/articles/s41467-026-79155-8",
+  "title": "Engineering CAR-V\u03b42 T cells to boost persistence and anti-tumor function",
+  "link": "https://www.nature.com/articles/s41467-026-79155-8",
+  "abstract": "Chimeric antigen receptor (CAR)-modified V\u03b42 T cells are an attractive therapeutic cell platform for cancer immunotherapy. However, their clinical efficacy is limited by short in vivo persistence due to insufficient cytokine support and high susceptibility to activation-induced cell death (AICD). Through comparison of membrane-bound (mb) cytokines, we identified mbIL-18 to support superior anti-tumor activity of CAR-V\u03b42 T cells in vitro and in vivo. To reduce constitutive surface exposure of IL-18 and enable antigen-driven signal 3, we fused MyD88 - the key IL-18R signaling mediator - to an extracellular domain of Fas (Fas88). Antigen stimulation-induced FasL engagement of Fas88 triggered IL-18 signaling while simultaneously protecting V\u03b42 T cells from AICD. Fas88-armed human CAR-V\u03b42 T cells produced superior yet stimulation-dependent in vivo expansion and functional persistence in xenograft models of hematologic and solid malignancies. Together, these findings highlight the importance of IL-18 signaling and AICD resistance for CAR-V\u03b42 T cell activity, enabling a single-transgene modification to limit inflammatory risk and facilitate clinical translation. CAR-V\u03b42 T cells show promise for cancer immunotherapy, but their efficacy is limited by poor persistence and activation induced cell death. Here, this group propose an engineered CAR-V\u03b42 T design that leverages IL18 signaling inducing a durable expansion in vivo.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.98
+ },
+ "https://www.nature.com/articles/s41467-026-78554-1": {
+  "guid": "https://www.nature.com/articles/s41467-026-78554-1",
+  "title": "ISG15 promotes PARP inhibitor resistance in BRCA1-deficient cells by facilitating DNA replication and repair",
+  "link": "https://www.nature.com/articles/s41467-026-78554-1",
+  "abstract": "The use of poly(ADP-ribose) polymerase inhibitors (PARPi) has proven largely successful in targeting BRCA1/2-mutated tumours. However, the emergence of PARPi-resistant disease can reduce the efficacy of this treatment, posing significant challenges in the clinic. Here, we use multiple models of BRCA1-/- cells and patient-derived xenografts (PDXs) that have been treated with PARPi until they no longer responded to the drug, to characterise genomic and transcriptomic alterations specific to PARPi resistance. We find that abrogation of TP53BP1 expression occurs spontaneously during prolonged PARPi treatment, alongside TP53BP1 genomic deletions and promoter methylation. Additionally, innate immune response genes, including ISG15 and factors of the ISGylation machinery are upregulated in PARPi-resistant cells and tumours. We demonstrate that ISG15 inhibition re-sensitises PARPi-resistant cells to the drug and, conversely, that ISG15 overexpression in BRCA1-/- cells promotes PARPi resistance. Mechanistically, BRCA1-/- PARPi-resistant cells rely on ISG15 for replication fork progression and restart of stalled forks and for DNA double-strand break (DSB) repair via homologous recombination (HR). Our results indicate that complex ISG15 interactions with DNA replication/repair factors can drive PARPi resistance in BRCA1-deficient cancer cells and that targeting ISG15 has the potential to overcome PARPi resistance. Despite promising initial responses, BRCA1/2-mutated cancers treated with PARP inhibitors (PARPi) often develop resistance. Here, the authors show that PARPi-resistant BRCA1-deficient models lose TP53BP1 expression&nbsp;and upregulate factors of the&nbsp;ISGylation machinery, including ISG15, which supports replication fork progression/restart and facilitates homologous recombination-mediated&nbsp;DNA repair, driving PARPi resistance.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.32
+ },
+ "https://www.nature.com/articles/s41598-026-75486-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-75486-0",
+  "title": "Incomplete nodal verification limits risk estimation for intermediate size rectal neuroendocrine tumors in SEER",
+  "link": "https://www.nature.com/articles/s41598-026-75486-0",
+  "abstract": "Management of 10\u201320 mm rectal neuroendocrine tumors (NETs) remains uncertain. Registry analyses are vulnerable to verification bias because regional nodal status is selectively observed, particularly after local excision. We quantified the nodal-verification deficit and the resulting limits on nodal-risk inference in SEER. We analyzed adults with pathologically confirmed, non-distant, 10\u201320 mm rectal NETs in SEER 17 registries diagnosed during 2004\u20132023 who underwent strict local excision or radical resection. Surgery codes were harmonized across the 2023 coding transition. Node-evaluable status included exact examined-node counts and SEER special codes documenting aspiration, sampling, dissection, or node removal. The primary analysis reported verification rates, an NX\u2009=\u2009N0 lower estimate, complete-case estimates, Manski-type bounds, and illustrative fixed-risk scenarios. Descriptive survival analyses were restricted to 2004\u20132021. The primary cohort included 1,157 patients, of whom 1,008 underwent local excision and 149 radical resection. Ninety-four patients (8.1%) were node-evaluable: 13/1,008 (1.3%) after local excision and 81/149 (54.4%) after radical resection. Pathologically verified nodal positivity was present in 62 patients. Treating all unverified patients as N0 yielded a lower estimate of 5.4%, whereas the complete-case estimate was 62/94 (66.0%; 95% CI 55.9\u201374.7%). The conservative partial-identification interval was 5.4%-97.2%. Under purely illustrative assumptions that 5%, 7.5%, or 10% of unverified patients were node-positive, overall scenario prevalences were 10.0%, 12.2%, and 14.5%, respectively. The 2004\u20132021 survival cohort included 1,006 patients and 39 rectal NET-specific deaths. SEER empirically demonstrates a profound nodal-verification deficit after local excision. The lower bound obtained by coding NX as N0 and the high complete-case estimate answer different, highly selected questions and neither identifies population nodal risk. The principal contribution of this analysis is a quantified, citable demonstration of this structural limitation rather than a corrected surgical threshold.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.69
+ },
+ "https://www.nature.com/articles/s41598-026-78812-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-78812-8",
+  "title": "Endoscopic ultrasound image-based nomogram combining radiomics, deep learning, and clinical features for differentiating gastric gastrointestinal stromal tumors from leiomyomas",
+  "link": "https://www.nature.com/articles/s41598-026-78812-8",
+  "abstract": "Accurately differentiating between gastric gastrointestinal stromal tumors (GISTs) and leiomyomas before surgery holds great importance due to their divergent malignant potential; however, conventional endoscopic ultrasonography (EUS) has inherent limitations, especially for lesions under 2&nbsp;cm. In this retrospective study involving 408 patients (198 GISTs and 210 leiomyomas) with gastric submucosal tumors (&lt;\u20092&nbsp;cm), a novel deep learning-radiomics (DLR) signature was developed via feature-level early fusion, concatenating compressed deep features from a pre-trained MobileNet_v2 with handcrafted radiomics features, followed by joint feature selection. This DLR signature was integrated with independently identified clinical factors to construct a combined nomogram. The proposed combined nomogram exhibited better diagnostic performance, and the test AUC was 0.901 (95% CI 0.846\u20130.956), while accuracy, sensitivity, and specificity were 0.846, 0.833, and 0.857, respectively, significantly outperforming the standalone radiomics (AUC\u2009=\u20090.822), deep transfer learning (DTL; AUC\u2009=\u20090.820), DLR (AUC\u2009=\u20090.860), and clinical (AUC\u2009=\u20090.724) signatures (DeLong test; all p\u2009&lt;\u20090.05). The model showed excellent calibration and the greatest net clinical benefit among various threshold probabilities on decision curve analysis. This multimodal AI-driven nomogram provides a non-invasive tool for accurately differentiating gastric GISTs from leiomyomas in lesions smaller than 2&nbsp;cm, with the ability to guide personalized management and reduce unnecessary invasive procedures.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.47
+ },
+ "https://www.nature.com/articles/s41598-026-77822-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-77822-w",
+  "title": "Comparative network meta-analysis of immunotherapy and targeted agents for glioblastoma survival and response",
+  "link": "https://www.nature.com/articles/s41598-026-77822-w",
+  "abstract": "Glioblastoma (GBM) remains a lethal malignancy. While immunotherapy has revolutionized oncology, its success in GBM has been inconsistent. We conducted a systematic review and network meta-analysis (NMA) to quantify the comparative efficacy of immunotherapeutic and targeted agents against the Standard of Care (SoC).&nbsp;Following PRISMA-NMA guidelines, we searched PubMed and ClinicalTrials.gov for randomized controlled trials. A Bayesian random-effects NMA was conducted using&nbsp;gemtc&nbsp;in R interfaced with&nbsp;JAGS. Heterogeneity was summarized using tau-squared, I-squared and Cochran's Q. Node-splitting was planned but was not estimable because the network geometry lacked comparisons informed by both direct and indirect evidence.&nbsp;Twenty-six randomized contrasts from 23 trials contributed to the overall survival (OS) network and 28 randomized contrasts from 24 trials to the progression-free survival (PFS) network, across 24 unique trials; because trials could contribute to more than one outcome network, these overlapping counts are not additive. Objective response rate (ORR) was too sparse for treatment ranking and was reported descriptively for two trials contributing five arms and three treatment\u2013control contrasts. No investigational regimen showed a pooled OS or PFS advantage over harmonized control regimens, as all pooled relative-effect 95% credible intervals included 1.0, and rankings were sensitive to sparse network structure.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.88
+ },
+ "https://www.nature.com/articles/s41698-026-01758-7": {
+  "guid": "https://www.nature.com/articles/s41698-026-01758-7",
+  "title": "Telomere maintaining germline and somatic variants in thyroid cancer and melanoma",
+  "link": "https://www.nature.com/articles/s41698-026-01758-7",
+  "abstract": "Non-medullary thyroid cancer (NMTC) and melanoma are associated with inherited long telomere syndrome (LTS) caused by germline pathogenic/likely pathogenic variants (PV/LPV) in POT1, TINF2, and ACD. We hypothesized that LTS-associated germline PV/LPV and somatic TERT promoter variants represent alternative telomere maintenance mechanisms. We analyzed germline LTS gene variants, somatic TERT promoter mutations/TERT fusions, TERT expression, oncogenes, and pathology where available from 995 NMTC and 993 melanoma patients. Germline LTS variants were present in 1.5% and 0.7% of NMTC and melanoma patients. Pooled analysis of NMTC patients with germline LTS-variant and somatic sequencing data in three studies suggest that LTS-positive patients have fewer TERT promoter mutations than LTS-negative patients [0/20 vs 146/1066; p\u2009=\u20090.054]. In NMTC, TERT promoter mutations/fusions were associated with high TERT expression levels and tumor mutation burden, and aggressive pathology. These data suggest that LTS variants and TERT mutations/fusions may represent alternative telomere-maintaining mechanisms with different pathological associations in NMTC.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.94
+ },
+ "https://www.nature.com/articles/s41592-026-03295-4": {
+  "guid": "https://www.nature.com/articles/s41592-026-03295-4",
+  "title": "PANGEA: an integrated cell atlas across diverse biological contexts enables systematic profiling of multicellular responses in human diseases",
+  "link": "https://www.nature.com/articles/s41592-026-03295-4",
+  "abstract": "Diseases affect multiple cell types within tissues, but the overall landscape of the multicellular responses in human diseases remains largely unexplored. Here we categorize the multicellular responses of human diseases based on a remapped atlas of human cells, PANGEA, incorporating 12.6 million cells acquired from a pipeline that automatically processes raw sequence files from public repositories. We constructed a hierarchical cell classification framework comprising 32 major cell types and 165 cellular subtypes. On the basis of this annotation framework, we explored an extensive atlas of human cells containing 46.5 million cells from 160 diseases across 48 organs and revealed core archetypes of human diseases repeatedly found across organs. We show that this cell atlas could also serve as a reference for unbiased analysis in spatial transcriptomics, revealing spatial features associated with immunotherapy responses. Collectively, our study provides foundational resources for cell ontologies, enabling cross-tissue comparisons of cellular features in human diseases. PANGEA is a comprehensive single-cell transcriptomic atlas of 160 human diseases across 48 organs.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Resource",
+  "score": 1.14
+ },
+ "https://www.nature.com/articles/s41591-026-04712-z": {
+  "guid": "https://www.nature.com/articles/s41591-026-04712-z",
+  "title": "Effect of two common GVHD prophylaxis regimens on the gut microbiome in a randomized phase 3 trial",
+  "link": "https://www.nature.com/articles/s41591-026-04712-z",
+  "abstract": "Allogeneic hematopoietic cell transplantation can cure certain hematological disorders but has many complications. In retrospective studies, low gut microbiome diversity is associated with adverse clinical outcomes. In 2023, the Blood and Marrow Transplant Clinical Trials Network 1703 randomized phase 3 trial demonstrated the superiority of post-transplant cyclophosphamide (PTCy) and mycophenolate mofetil to tacrolimus and methotrexate (Tac/MTX) for graft-versus-host disease prophylaxis in participants with hematological malignancies undergoing allogeneic hematopoietic cell transplantation. Here we report on the microbiome-focused companion study to 1703, Blood and Marrow Transplant Clinical Trials Network 1801, which coenrolled participants and shared trial registration. The primary endpoint was association between microbiome diversity at neutrophil engraftment and non-relapse mortality after 1\u2009year; secondary endpoints included associations with other clinical outcomes and with baseline microbiome diversity. Based on 2575 longitudinally collected stool samples from 304 participants (Tac/MTX n\u2009=\u2009147, PTCy n\u2009=\u2009157), no association between engraftment microbiome diversity and non-relapse mortality was observed (P\u2009=\u20090.314), not meeting the primary endpoint. Lower baseline microbiome diversity was associated with shorter overall survival (P\u2009=\u20090.007). Safety data were reported in the original 1703 publication. In exploratory analyses, microbiome diversity and absolute microbial load were lower in PTCy compared to Tac/MTX on days 14\u201328 following HCT, independent of non-prophylaxis antibiotics exposure. Microbial domination events, when a single species exceeds 30% relative abundance, did not differ significantly between study arms and reflected both pathogen blooms and less severe disruptions of the microbial community. Clostridium scindens and secondary bile-acid metabolism pathways were less prevalent in PTCy than in Tac/MTX following HCT. In summary, we find prophylaxis regimens likely exert independent effects on both the microbiome and immune compartments and can also impact their interaction. Understanding whether and how microbiome-targeted interventions might improve transplant outcomes will therefore require careful disentangling of these effects within each specific treatment context. ClinicalTrials.gov identifier: NCT03959241 . In a prespecified companion study (BMT CTN 1801) of the randomized phase 3 BMT CTN 1703 trial comparing two common GVHD prophylaxis regimens, microbiome diversity at engraftment did not associate with non-relapse mortality, but secondary analyses found baseline microbiome diversity was associated with clinical outcomes.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.58
+ },
+ "https://www.nature.com/articles/s41598-026-77608-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-77608-0",
+  "title": "Positional encoding cross-attention ResNet50 framework for lung cancer classification across CT and histopathological imaging modalities",
+  "link": "https://www.nature.com/articles/s41598-026-77608-0",
+  "abstract": "Lung cancer remains one of the leading causes of cancer-related mortality worldwide, primarily due to delayed diagnosis and limitations associated with manual interpretation of medical images. Deep learning approaches, particularly convolutional neural networks such as ResNet50, have demonstrated significant potential for automated medical image analysis. However, accurately capturing both low-level structural information and high-level semantic information within medical images remains a challenging task. This study proposes a Positional Encoding Cross-Attention ResNet50 framework that enhances feature representation learning through interactions between shallow structural features and deep semantic features extracted from different stages of the same backbone network. A two-dimensional positional encoding mechanism is incorporated to preserve spatial information, while a cross-attention module enables the model to selectively emphasize diagnostically relevant image regions. The proposed framework was independently evaluated on publicly available chest CT scan and histopathological image datasets for lung cancer classification. Experimental results demonstrate that the attention-enhanced architecture improves classification performance by effectively integrating structural and semantic information within each imaging modality. In addition, a separate rule-based clinical decision-support module provides indicative assessments of cancer stage, severity, and recovery range based on externally supplied clinical parameters. These outputs should be interpreted as decision-support estimates rather than validated prognostic predictions. The findings demonstrate the effectiveness of intra-modality attention-guided feature learning for lung cancer image classification across multiple imaging modalities.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.69
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.09.765457v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.09.765457v1?rss=1",
+  "title": "Single Nucleus Profiling Reveals Rewired Tumor-Immune-Stromal Cell Communication in Plasmacytoid Urothelial Carcinoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.09.765457v1?rss=1",
+  "abstract": "Plasmacytoid urothelial carcinoma (PUC) is an aggressive histologic subtype of bladder cancer associated with worse patient outcomes and therapeutic response compared to conventional urothelial carcinoma (CUC). While recent work has demonstrated metastatic lymph nodes from PUC tumors have an inflamed phenotype, how the tumor microenvironment (TME) and crosstalk between tumor, stromal, and immune cells in primary PUC bladder tumors differs from those in CUC remains poorly understood. The impact of these differences on response to immunotherapy is also unknown. To understand TME differences between CUC and PUC and their impact on cell signaling, we performed single nucleus RNA sequencing on PUC and CUC tumors, as well as Xenium spatial transcriptomics on a mixed CUC / PUC tumor. We identified increased signaling between PUC-enriched, CDH1-low urothelial cells, immunosuppressive lipid-associated macrophages, and SFRP2+/CTHRC1+ fibroblasts in PUC tumors compared to CUC. Spatial transcriptomics identified increased macrophage infiltration in PUC histology and colocalization of PUC tumor cells, immunosuppressive macrophages, and SFRP2+ fibroblasts. Taken together, this study delineates PUC architecture and demonstrates interplay CDH1-low tumor cells, EMT, and immunosuppressive macrophages, identifying possible therapeutic vulnerabilities in PUC.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.25
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.09.765294v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.09.765294v1?rss=1",
+  "title": "Tet2-Clonal Hematopoiesis Promotes Whereas Dnmt3a-CH Inhibits Breast Cancer Progression During Aging",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.09.765294v1?rss=1",
+  "abstract": "Clonal hematopoiesis of indeterminate potential (CHIP) driven by somatic mutations in blood cells increases with age and is associated with adverse outcomes in cancer patients. How CHIP mutations influence solid tumor progression remains unclear. Using inducible murine models of Dnmt3a- or Tet2-mutant CHIP combined with orthotopic syngeneic breast cancer models, we demonstrate that upon aging Dnmt3a-mutant CHIP prevents whereas Tet2-mutant CHIP drives breast cancer progression. Dnmt3a-mutant immune infiltrates established interferon-mediated MHCIIhigh tumor-associated macrophages (TAMs) that supported cytotoxic CD8+ T cell-mediated tumor rejection. In contrast, Tet2-mutant TAMs exhibited an inflammatory, immunosuppressive phenotype characterized by increased IL-1 and CXCL2 production, reduced MHCII expression, and impaired T cell recruitment and activation. Therapeutic blockade of IL-1R1 or CXCR2 reduced tumor progression in aged Tet2-mutant CHIP mice and partially restored anti-tumor immunity. These findings establish that the effects of CHIP on cancer are mutation- and age-dependent and identify IL-1/CXCL2-driven inflammation as a therapeutic vulnerability of tumor-promoting Tet2-mutant CHIP.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "",
+  "score": 1.13
  }
 }
