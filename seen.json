@@ -4579,16 +4579,6 @@
   "type": "Article",
   "score": 0.03
  },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00876-7?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00876-7?rss=yes",
-  "title": "Ancient genomes reveal distinct human dispersals and social stratification in the settlement history of western Remote Oceania",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00876-7?rss=yes",
-  "abstract": "The peopling of Remote Oceania involved some of humanity\u2019s greatest expansions into the open ocean. Ancient DNA spanning the last 3,000 years from the Solomon Islands, Vanuatu, Fiji, and Tonga reveals the sources and timing of dispersals following the initial settlement and uncovers social practices of an early Fijian community that experienced recent Papuan-related gene flow.",
-  "source": "Cell",
-  "date": "2026-08-14T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.01
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)01195-5?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01195-5?rss=yes",
   "title": "Pangenome-guided breeding restores high-altitude adaptation and improves yield in Tartary buckwheat",
@@ -9748,16 +9738,6 @@
   "date": "2026-08-28T00:00:00+00:00",
   "type": "Article",
   "score": 0.87
- },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00875-5?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00875-5?rss=yes",
-  "title": "Brain perivascular macrophages regulate endothelial cell function via a cMAF-dependent transcriptional program in mouse and human",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00875-5?rss=yes",
-  "abstract": "This study identifies cMAF as a key transcription factor that orchestrates the molecular crosstalk between brain perivascular macrophages and arteries, thereby sustaining cerebrovascular function in health and disease.",
-  "source": "Cell",
-  "date": "2026-08-14T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.95
  },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00877-9?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00877-9?rss=yes",
@@ -15378,5 +15358,95 @@
   "date": "2026-11-11T00:00:00+00:00",
   "type": "",
   "score": 1.49
+ },
+ "https://www.nature.com/articles/s41392-026-03028-1": {
+  "guid": "https://www.nature.com/articles/s41392-026-03028-1",
+  "title": "Immune niche remodeling: sustaining CAR-T persistence in solid tumors",
+  "link": "https://www.nature.com/articles/s41392-026-03028-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-12T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 1.09
+ },
+ "https://www.nature.com/articles/s41598-026-79749-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-79749-8",
+  "title": "Effects of ALK5 inhibition combined with bipolar irreversible electroporation on tumor response and fibrosis in prostate cancer",
+  "link": "https://www.nature.com/articles/s41598-026-79749-8",
+  "abstract": "Irreversible electroporation (IRE) has emerged as a potential therapeutic option that selectively ablates cancer cells in the prostate while preserving normal tissue architecture and minimizing adverse effects. However, IRE-induced cell death triggers an inflammatory response that promotes collagen deposition, leading to fibrotic tissue remodeling. This study investigated the efficacy and safety of combination therapy using IRE and a transforming growth factor-\u03b2 (TGF-\u03b2) type I receptor kinase (ALK5) inhibitor in a human prostate cancer xenograft mouse model, with focus on whether ALK5 inhibitor could mitigate excessive fibrosis while preserving the anti-tumor effect of IRE. EW-7197, a specific ALK5 inhibitor, effectively suppressed cell proliferation and fibrogenesis in vitro. A total of 24 mice inoculated with DU145-Luc cells were enrolled. Tumor progression was monitored via in vivo imaging system, magnetic resonance imaging, and gross examination, and the anti-tumor and anti-fibrotic effects were assessed through histological analysis. The tumor suppression-related parameters in the IRE and IRE@EW-7197 groups were significantly lower than those in the control and EW-7197 groups (all p\u2009&lt;\u20090.05). The IRE@EW-7197 group showed the greatest numerical reduction in tumor volume without statistical difference compared with the IRE group. Fibrosis-related markers were significantly suppressed in the EW-7197 and the IRE@EW-7197 groups. These findings suggest that ALK5 inhibition attenuated excessive fibrosis and modulated the inflammatory response without compromising the short-term anti-tumor efficacy of IRE. The combination therapy may represent a promising strategy to mitigate IRE-induced fibrosis in prostate cancer, although longer-term studies are needed to determine whether it confers additional oncologic benefit.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.92
+ },
+ "https://www.nature.com/articles/s41598-026-80469-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-80469-2",
+  "title": "Development of an explainable machine-learning-based predictive model for cisplatin-induced nephrotoxicity using real-world data",
+  "link": "https://www.nature.com/articles/s41598-026-80469-2",
+  "abstract": "Cisplatin (CDDP)-induced nephrotoxicity (CIN) is a major dose-limiting adverse effect. The early detection and precise prediction of CIN are essential for optimizing CDDP-based chemotherapy. In this single-center study, we developed novel machine learning-based predictive models for CIN using a large-scale clinical dataset incorporating demographic characteristics and time-series laboratory data. To address the limitations of previous studies, class imbalance was handled while preserving the full dataset, and the model performance was evaluated using an independent test dataset. Among the 1,705 enrolled patients, 551 (32%) experienced nephrotoxicity. Four models were constructed using random forest, support vector machine, logistic regression, and artificial neural network algorithms. The logistic regression model achieved the highest performance among the four constructed models with scores of 0.626 (F1.5), 0.791 (AUC-ROC), 0.702 (AUC-PR), 0.739 (accuracy), 0.645 (recall), and 0.188 (Brier score). Shapley additive explanation analysis demonstrated that baseline serum creatinine and serum creatinine levels on days 4\u20136 after CDDP administration were the key contributors to model predictions. In conclusion, we developed a machine learning-based model for predicting CIN using real-world clinical data. Following external validation, this model may have potential to support the early identification of patients susceptible to CIN.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.79
+ },
+ "https://www.nature.com/articles/s41419-026-09414-5": {
+  "guid": "https://www.nature.com/articles/s41419-026-09414-5",
+  "title": "Metabolic rewiring that protects against ferroptosis underlies resistance to CDK4/6 inhibition in prostate cancer",
+  "link": "https://www.nature.com/articles/s41419-026-09414-5",
+  "abstract": "The G1/S phase transition of the cell cycle, controlled by cyclin-dependent kinase 4/6 (CDK4/6), is frequently deregulated in metastatic prostate cancers, establishing a rationale for CDK4/6 inhibition as a therapeutic strategy. However, clinical trials in prostate cancer have shown limited efficacy due to resistance mechanisms that remain unclear. In this study, we demonstrate that&nbsp;acquired resistance to the CDK4/6 inhibitor ribociclib in prostate cancer cells is driven by enhanced mitochondrial metabolic activity and increased dependence on fatty acid \u03b2-oxidation for energy production through the TCA cycle. Metabolic rewiring increased expression of ferroptosis regulators that drive an acquired protection from accumulation of polyunsaturated phospholipids, lipid peroxidation and ferroptosis mediated via GPX4. Exogenous PUFAs enhanced sensitivity to GPX4 inhibition in resistant cells, which was abrogated by exogenous MUFAs. These findings reveal novel mechanisms of resistance to cell cycle blockade and highlight potential adaptations for intervention with therapeutics that induce cell cycle arrest in prostate cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.13
+ },
+ "https://www.nature.com/articles/s41598-026-78012-4": {
+  "guid": "https://www.nature.com/articles/s41598-026-78012-4",
+  "title": "Integrated multi-omics prioritizes small-molecule candidates for the N-cadherin HAV site and reveals endpoint-level toxicity trade-offs",
+  "link": "https://www.nature.com/articles/s41598-026-78012-4",
+  "abstract": "N-cadherin (CDH2) is a central effector of epithelial-to-mesenchymal transition (EMT) that contributes to invasion, metastasis and therapy resistance. Although peptide and antibody approaches validate N-cadherin as a therapeutic target, small-molecule modulators of its adhesive interface remain limited. We aimed to prioritize candidate compounds that suppress EMT-associated transcriptional programs, show plausible binding at the N-cadherin HAV (His79-Ala80-Val81) hotspot, preserve the biomass objective in context-specific metabolic models, and minimize predicted endpoint-level toxicity liabilities. LINCS L1000 level-5 profiles were screened for concordant down-regulation of CDH2, SNAI1 and SNAI2, yielding 20 compounds across cell lines, doses and exposure times. Compounds were docked to the N-cadherin EC1 HAV pocket and compared with a spatially separated non-HAV EC1 control surface. Toxicity was evaluated using a multi-task DeepChem Graph Convolutional Network trained on Tox21 with a scaffold-based split. Predicted toxicity risk was summarized using max-risk, defined as the highest predicted positive-class probability across 12 endpoints. Context-specific metabolic effects were modeled with Human1 using E-Flux, pFBA and FVA, and summarized using Objective Preservation Ratio (OPR), Metabolic Impact Score (MIS), Targeted Pathway Selectivity (TPS), and Homeostasis Disruption Score (HDS). Evidence pillars were winsorized, normalized and integrated using a transparent weighted composite score. Docking energies ranged from \u2212\u20098.1 to \u2212\u20095.9 kcal mol\u20131, and 19 of 20 compounds showed more favorable predicted binding at the HAV pocket than at the non-HAV control surface. The toxicity model achieved a micro-averaged ROC-AUC of 0.775 (bootstrap 95% CI 0.756\u20130.794) and PR-AUC of 0.335 (bootstrap 95% CI 0.298\u20130.374). Across modeled conditions, median OPR was 1.12, median TPS was 0.165, median MIS was 0.79, and HDS was uniformly low. Under the conservative max-risk-based integration, BRD.K09587429 ranked first (composite score 0.656). It showed concordant suppression of CDH2, SNAI1 and SNAI2, a HAV-site docking score of \u2212\u20096.7 kcal mol\u20131, OPR of 1.081, TPS of 0.184, and max-risk of 0.554 at SR-ARE. BRD.K04021425 ranked second and was retained as the alternative candidate, with the strongest docking score and the lowest endpoint-level max-risk. A 100-ns molecular dynamics simulation showed persistent computational occupancy of the HAV-site region, with His79 and Ala80 remaining within 0.4&nbsp;nm of the ligand in 96.9% and 99.1% of frames, respectively, over the 20\u2013100 ns interval. MM-PBSA analysis of 81 snapshots yielded a favorable end-state binding-energy estimate of \u2212\u200924.58\u2009\u00b1\u20096.90&nbsp;kcal mol\u20131, which remained consistent when analysis was restricted to the final 50 ns (\u2013\u200927.22\u2009\u00b1\u20095.68&nbsp;kcal mol\u20131). This multi-omics framework prioritizes candidate N-cadherin/EMT modulators by jointly considering transcriptomic directionality, HAV-site docking, endpoint-resolved toxicity, and metabolic selectivity. BRD.K09587429 emerged as the highest-ranked discovery-stage candidate, with molecular dynamics showing persistent computational occupancy of the HAV-site region and MM-PBSA indicating a favorable model-dependent end-state energetic profile; however, direct binding, functional N-cadherin antagonism, molecular mechanism, and the predicted SR-ARE-associated liability require experimental validation. The framework distinguishes structural plausibility from safety and can be adapted to other protein-protein interfaces relevant to metastatic cancer biology.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.69
+ },
+ "https://www.nature.com/articles/s41598-026-79145-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-79145-2",
+  "title": "A hybrid L\u00e9vy- and differential evolution-enhanced multi-objective particle swarm optimization framework for high-dimensional cancer classification using gene selection and sample seduction",
+  "link": "https://www.nature.com/articles/s41598-026-79145-2",
+  "abstract": "Feature redundancy, small sample size and noise in high dimensional microarray data pose serious challenge for cancer classification. To tackle these limitations, this work proposes a hybrid multi-objective optimization framework for simultaneous gene selection and sample refinement. The proposed method combines an improved particle swarm optimization strategy with fuzzy clustering to improve the relevance of features and the quality of the training data. We use a binary optimization scheme to find discriminative gene subsets and a continuous optimization scheme to select representative training samples. The two-stage strategy effective reduces the dimensionality and improves the classifier generalization. The model is evaluated using standard classification algorithms and ensemble techniques on several benchmark microarray cancer datasets. The experimental results show that the proposed framework achieves significant improvements in terms of classification accuracy, stability and computational efficiency in comparison with the conventional methods. The feature selection combined with sample optimization allows robust performance on high dimensional and imbalanced datasets, illustrating the potential of the approach for reliable cancer diagnosis and predictive analytics.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.65
+ },
+ "https://www.nature.com/articles/s41598-026-80041-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-80041-y",
+  "title": "Association of sampling method and FFPE storage duration with comprehensive genomic profiling success in gastrointestinal tract cancers",
+  "link": "https://www.nature.com/articles/s41598-026-80041-y",
+  "abstract": "Comprehensive genomic profiling (CGP) relies on high-quality formalin-fixed, paraffin-embedded (FFPE) tissue, but the association between storage duration and CGP success may differ according to sampling method. We retrospectively analyzed 273 FFPE samples submitted for CGP from patients with gastrointestinal tract cancers between July 2020 and March 2026. CGP success rates were 76.8% for endoscopic biopsy samples, 80.2% for primary surgery samples, and 84.2% for metastatic surgery samples. In multivariable analysis, endoscopic biopsy sampling and longer FFPE storage duration were independently associated with lower CGP success. A significant interaction between sampling method and storage duration indicated that the association of prolonged storage with CGP success differed according to sampling method. Predicted CGP success declined more rapidly in endoscopic biopsy samples. The estimated storage durations corresponding to a predicted success probability of 80% were 240 days for endoscopic biopsy samples, 868 days for primary surgery samples, and 891 days for metastatic surgery samples. These findings suggest that the suitability of archived FFPE tissue for CGP should be considered in relation to both storage duration and sampling method, and that earlier CGP submission may be particularly important for endoscopic biopsy samples.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.92
+ },
+ "https://www.nature.com/articles/s41598-026-79963-4": {
+  "guid": "https://www.nature.com/articles/s41598-026-79963-4",
+  "title": "AKR1C3 induces resistance of hepatocellular carcinoma cells to sorafenib via modulating the ROS/SIRT1/BRD4/NFIC signaling pathway",
+  "link": "https://www.nature.com/articles/s41598-026-79963-4",
+  "abstract": "This study aimed to investigate how AKR1C3 mediates resistance to sorafenib in hepatocellular carcinoma (HCC) cells. Bioinformatics analysis was employed to screen genes specifically expressed in sorafenib resistance HCC. Single\u2011cell transcriptomic profiling further dissected HCC cellular heterogeneity, revealing a proliferative cancer cell population with high migration/proliferation scores, a dedifferentiated state, complex communication networks centered on hepatocytes, and increased M2 macrophage/neutrophil infiltration. Western blotting, flow cytometry, and immunohistochemistry revealed that, compared to parental Huh7 cells, sorafenib\u2011resistant Huh7 cells showed significantly elevated AKR1C3, Nrf2, p\u2011SIRT1, SHP2, p\u2011PI3K, CyclinA1, MMP9, and HIF1\u03b1, and reduced P22, P47, BRD4, NFIC, and PTEN.&nbsp;Direct ROS measurement using DCFH-DA flow cytometry further confirmed that ROS levels were significantly reduced in sorafenib resistance cells. Flow cytometry demonstrated the role of AKR1C3 in normal hepatocytes (LO2). Compared to parental Huh7 cells, sorafenib resistance Huh7 cells exhibited significantly elevated expression of AKR1C3, Nrf2, p-SIRT1, SHP2, p-PI3K, CyclinA1, MMP9, and HIF1\u03b1 proteins, while expression levels of P22, P47, BRD4, NFIC, and PTEN were significantly reduced. Immunofluorescence showed enhanced relative fluorescence intensity of AKR1C3 and SHP2. Furthermore, AKR1C3 promoted the proliferation, migration, invasion, and angiogenesis of Huh7 cells by mediating the ROS/SIRT1/BRD4/NFIC signaling pathway, thereby conferring sorafenib resistance in hepatocellular carcinoma cells.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.36
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.09.765526v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.09.765526v1?rss=1",
+  "title": "Preferential recruitment of PML isoform II by incoming HPV16 genome transport vesicles facilitates early stage of infection",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.09.765526v1?rss=1",
+  "abstract": "The interplay between promyelocytic leukemia nuclear bodies (PML NBs) and viral infections is complex and multifaceted, with viruses often engaging in a delicate balance of exploitation and evasion of host immune responses. It is well-established that incoming human papillomavirus (HPV) virions associate with PML NBs; however, the mechanism by which HPV targets PML NBs to facilitate early transcription and replication remains elusive. We have shown that HPV genomes are delivered to the nucleus inside membrane-bound vesicles during mitosis and that PML proteins are recruited to HPV-harboring nuclear vesicles prior to egress. Herein, we demonstrate that the PML isoform II (PMLII), but not other PML isoforms, is selectively attracted to incoming HPV still residing in transport vesicles. Using individual PML NB isoform and HPV16 minor protein, L2, over-expression experiments in HeLa cells, we conclude that PML II binds to the lipids of the HPV harbouring membrane-bound vesicles rather than L2. This is in line with previous observations that PML II is the only isoform binding to lipid droplets in the nucleus. We observed that the association of PML NBs with the HPV16 viral genome was transient and lost over time. We also found that nuclear Phospholipase C {beta}4 and {gamma}1 colocalize with PML II-L1 complexes in infected cells. Our data support a model in which PML II contributes to the establishment of early HPV16 infection by organizing host lipid regulatory factors at incoming viral transport vesicles.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "",
+  "score": 0.79
  }
 }
