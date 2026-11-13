@@ -16468,5 +16468,65 @@
   "date": "2026-11-13T00:00:00+00:00",
   "type": "",
   "score": 1.53
+ },
+ "https://www.nature.com/articles/s41467-026-79341-8": {
+  "guid": "https://www.nature.com/articles/s41467-026-79341-8",
+  "title": "CCR8-depleting antibodies restore response to radiotherapy plus anti-PD1 therapy in head and neck cancer by targeting intratumoral CCR8+ regulatory T cells",
+  "link": "https://www.nature.com/articles/s41467-026-79341-8",
+  "abstract": "Despite advances in immunotherapy (IO) and radiation therapy (RT), anti-PD-1 (aPD-1) therapy has provided only modest benefit in head and neck squamous cell carcinoma (HNSCC) for reasons that remain poorly understood. CCR8 is a chemokine receptor selectively enriched on tumor infiltrating regulatory T cells (Tregs), making it an attractive candidate for therapeutic targeting. Given our knowledge that immunosuppressive T-regulatory cells are associated with resistance to RT and IO, but have no effective targeting strategy in HNSCC, we investigate the depletion of tumor specific Treg subsets on tumor growth in female mice. In human and murine HNSCC, we characterize a subset of CCR8+ Tregs that are an immunosuppressive cell population associated with incomplete response to RT and IO. In preclinical models of HNSCC, we find that RT drives CCR8+ Treg infiltration into the primary tumor to promote tumor growth and recurrence, which can be reversed with administration of CCR8-depleting antibodies (aCCR8). Finally, we show that resistance to RT+aPD1 combination therapy is mediated by aPD1 activation of CCR8+ Tregs to facilitate tumor growth, which can be reversed with aCCR8. These findings reveal the immunosuppressive profile of CCR8+ Tregs in HNSCC and pave the way for novel combination strategies of IO in HNSCC. Previous evidence has implicated regulatory T cells (Tregs) in treatment resistance in head and neck cancer. Here the authors report that radiotherapy and anti-PD1 therapy drive the accumulation and activation of intratumoral CCR8+ Tregs, promoting tumor growth and recurrence, which can be reversed with administration of CCR8 depleting antibodies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.26
+ },
+ "https://www.nature.com/articles/s41514-026-00569-1": {
+  "guid": "https://www.nature.com/articles/s41514-026-00569-1",
+  "title": "Cellular senescence in the photoaged skin microenvironment promotes early melanoma progression",
+  "link": "https://www.nature.com/articles/s41514-026-00569-1",
+  "abstract": "Exposure to ultraviolet (UV) radiation and natural aging are the major risk factors for the development of cutaneous melanoma (CM), yet the mechanisms by which they foster a tumor-permissive skin microenvironment (ME) remain unclear. We show that aging and chronic exposure to UVB induced accumulation of cellular senescence, enhanced expression of the senescence-associated secretory phenotype (SASP), inflammation in the skin, and dermal remodeling leading to an immunosuppressive ME and accelerated melanoma growth. The secretome from UVB-induced senescent fibroblasts (SnDFbs) promoted melanoma cell proliferation, invasion, and migration in vitro. Co-implantation of melanoma cells with SnDFbs also enhanced tumor growth in vivo. Notably, elimination of UVB-induced senescent cells using senolytic drugs or a genetically engineered mouse model mitigated tumor progression and regulated the UVB-induced immunosuppressive microenvironment. Our findings highlight SnDFbs as key drivers of early melanoma progression and therefore as potential targets for early intervention strategies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.96
+ },
+ "https://www.nature.com/articles/s41523-026-01078-w": {
+  "guid": "https://www.nature.com/articles/s41523-026-01078-w",
+  "title": "Coordinated patterns of genomic instability and immunogenicity predict 10-year breast cancer progression across subtypes and patient characteristics",
+  "link": "https://www.nature.com/articles/s41523-026-01078-w",
+  "abstract": "Genomic instability is associated with breast cancer immune response. We sought to evaluate joint effects of genomic instability and immune response on recurrence using validated RNA-based assays and statistical models for assessing joint expression in a population-based dataset (N\u2009=\u20092783). Prognostic value of the resulting coordinated signature, Repair, Immune, and Genomics for Oncologic Reclassification (RIGOR150), was assessed in estrogen receptor (ER)+ and ER\u2212 breast cancers (N\u2009=\u20091899 with recurrence information) and validated in public datasets. RIGOR150 was strongly associated with recurrence risk in training (Hazard Ratio [HR] for high vs. low-risk = 5.10, 95% confidence interval [CI] = 3.19, 8.15) and test data (HR\u2009=\u20093.07, 95% CI\u2009=\u20091.73, 5.45) and was validated in external datasets. Among ER+ tumors, RIGOR150 high-risk was associated with early (0\u20135 years, HR\u2009=\u20095.75, 95% CI\u2009=\u20093.38, 9.77) and late recurrence (5\u201310 years, HR\u2009=\u20092.67, 95% CI\u2009=\u20091.26, 5.65). RIGOR150 added prognostic value independent of existing risk predictors (21-gene recurrence score and PAM50), and was associated with neoantigens, proliferation, and tumor-immune cell proximity. Overall, joint patterns of genomic instability and immunogenicity augment current breast cancer prognostic scores, providing early and late prognostication.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.84
+ },
+ "https://www.nature.com/articles/s41598-026-79899-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-79899-9",
+  "title": "Sex differences in colorectal cancer incidence and survival vary by age and tumor subsite in a nationwide Korean cohort",
+  "link": "https://www.nature.com/articles/s41598-026-79899-9",
+  "abstract": "Colorectal cancer (CRC) is one of the most common malignancies worldwide, and sex differences in its incidence and survival have been consistently reported. However, whether these disparities vary according to age, anatomical subsite, and disease stage remains incompletely understood. We conducted a nationwide retrospective cohort study using linked Korean cancer registry and mortality data. Among 215,830 individuals aged\u2009\u2265\u200920 years diagnosed with CRC during 2012\u20132020, directly age-standardized incidence rate ratios (IRRs) comparing males with females were estimated, and overall survival was evaluated using multivariable Cox models. The IRR increased from 1.17 (95% confidence interval [CI], 1.14\u20131.21) at &lt;\u200950 years to 1.94 (95% CI, 1.92\u20131.96) at 50\u201374 years. Male predominance was most pronounced in rectal and left-sided colon cancers, whereas right-sided colon cancer showed modest sex differences. Among individuals aged\u2009&lt;\u200950 years, left-sided colon cancer showed female predominance (IRR, 0.92). Males had poorer overall survival, with the greatest disadvantage at 50\u201374 years (hazard ratio [HR], 1.34), in localized disease (HR, 1.50), and in rectal cancer (HR, 1.31). These findings indicate age-dependent and anatomically heterogeneous sex differences in CRC incidence and survival and support further investigation of sex- and age-informed prevention, screening, and management strategies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.6
+ },
+ "https://www.nature.com/articles/s41408-026-01676-8": {
+  "guid": "https://www.nature.com/articles/s41408-026-01676-8",
+  "title": "Impact of residual clonal plasma cell proliferation rate after autologous stem cell transplant on outcomes in multiple myeloma",
+  "link": "https://www.nature.com/articles/s41408-026-01676-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Correspondence",
+  "score": 0.68
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.11.762754v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.11.762754v1?rss=1",
+  "title": "mRNA-LNP vaccination induces microenvironment remodeling and generation of tissue-resident memory T cells in glioblastoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.11.762754v1?rss=1",
+  "abstract": "Glioblastoma remains highly refractory to immunotherapy, in part because of a profoundly immunosuppressive tumour microenvironment that limits effective T-cell responses. Although mRNA vaccines can induce anti-tumour immunity, how they reshape the glioblastoma immune ecosystem to support durable tumour control is not well understood. Here we use an immunocompetent EGFRvIII-driven syngeneic glioblastoma model and antigen-specific mRNA lipid nanoparticle (mRNA-LNP) vaccination to define the cellular and spatial mechanisms underlying therapeutic response. In our model, vaccination induced durable EGFRvIII-specific humoral and cellular immunity, resulting in complete tumour eradication and long-term protection against intracranial rechallenge. Integrative analyses incorporating flow cytometry, tumour interstitial fluid profiling, multiplex immunostaining, spatial transcriptomics and ligand-receptor modelling demonstrated extensive remodelling of the tumour microenvironment following vaccination. Early tumour control was associated with expansion of pro-inflammatory and antigen-presenting myeloid populations, increased cytotoxic CD8 T-cell infiltration and activation, enhanced interferon-responsive signalling, and the formation of immune-supportive spatial niches enriched for antigen presentation and chemokine-mediated cellular communication. Vaccination promoted inflammatory chemokine relay networks centred on the CXCL16-CXCR6 axis, a pathway linked to tissue residency programming in the central nervous system. Functional depletion studies identified CD4 and CD8 T cells as essential mediators of therapeutic efficacy, while durable protection was maintained by tumour-specific brain-resident memory CD8 T cells that persisted despite peripheral lymphocyte depletion. Together, these findings identify T-cell-driven microenvironmental remodelling as a critical mechanism linking mRNA vaccination to the establishment of long-term brain-resident anti-tumour immunity in glioblastoma.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "",
+  "score": 2.07
  }
 }
