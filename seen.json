@@ -16208,5 +16208,265 @@
   "date": "2026-11-13T00:00:00+00:00",
   "type": "Article",
   "score": 0.69
+ },
+ "https://www.nature.com/articles/s43018-026-01270-8": {
+  "guid": "https://www.nature.com/articles/s43018-026-01270-8",
+  "title": "The deep learning framework Hist2Prot infers single-cell spatial proteomics from histology to predict biomarkers and clinical outcomes",
+  "link": "https://www.nature.com/articles/s43018-026-01270-8",
+  "abstract": "Spatial proteomics enables high-resolution mapping of protein expression within the tumor microenvironment, but its routine clinical application remains limited by cost, technical complexity and restricted tissue coverage. Here we present Hist2Prot, a deep learning framework that generates single-cell spatial proteomic profiles from routine hematoxylin and eosin histology. Trained on approximately 51 million paired cells from a same-section G4X spatial proteomics dataset, Hist2Prot was evaluated in internal test cohorts, independent same-platform G4X cohorts and external cross-platform datasets comprising approximately 72 million additional cells, showing concordance with measured protein profiles and outperforming established baselines. Hist2Prot-derived virtual proteins preserved immune, stromal and tumor cell phenotypes and recapitulated clinically relevant tumor microenvironment organization. Across seven independent patient cohorts comprising 1,774 patients, virtual spatial proteomics improved molecular biomarker, prognostic and immunotherapy response prediction beyond hematoxylin and eosin morphology alone. Hist2Prot enables scalable single-cell computational spatial proteomics from routine histology for precision oncology. Fan et al. propose an artificial intelligence model to infer spatial proteomic patterns at the single-cell level from routine hematoxylin and eosin slides to predict molecular biomarkers, prognosis and immunotherapy response in multiple cohorts.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.84
+ },
+ "https://www.nature.com/articles/s41568-026-00997-x": {
+  "guid": "https://www.nature.com/articles/s41568-026-00997-x",
+  "title": "The antioxidant addiction of cancer",
+  "link": "https://www.nature.com/articles/s41568-026-00997-x",
+  "abstract": "Reactive oxygen species (ROS) production in cancer cells is elevated by oncogenic signalling, tumour suppressor loss, metabolic reprogramming, and nutrient stress within the tumour microenvironment. Hydrogen peroxide can promote cellular states that favour cancer initiation and a metastatic phenotype. By contrast, excessive ROS production, particularly the uncontrolled generation of lipid peroxides, can trigger cell death pathways such as ferroptosis, thereby limiting cancer progression and metastasis. Cancer cells, therefore, increase their antioxidant capacity to maintain ROS levels high enough to support signalling, but below toxic levels. Antioxidant systems can suppress early neoplastic transformation in some tissues by limiting ROS during precancerous lesion formation. However, after transformation, these pathways can support tumour maintenance, metastatic dissemination and therapy resistance. For decades, strategies to modulate oxidative stress focused primarily on administering dietary antioxidants. However, the lack of clinical benefit from broad dietary antioxidant supplementation and even evidence of harm in some settings, together with growing evidence that tumours are selectively dependent on specific antioxidant pathways at distinct stages of tumorigenesis and metastasis, has shifted attention towards targeting antioxidant defences in established cancers. The key question is whether these pathways can be targeted with sufficient selectivity to spare normal tissues. In this Perspective, I examine how tumour stage-specific dependencies on antioxidant pathways create therapeutic vulnerabilities that can be exploited to treat tumours, prevent metastasis and overcome therapy resistance. Antioxidant pathways support tumour growth, metastasis and therapy resistance while protecting cancer cells from ferroptosis. In this Perspective, Navdeep Chandel explores how stage-specific antioxidant dependencies can be exploited for therapy.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 1.07
+ },
+ "https://www.nature.com/articles/s41467-026-79579-2": {
+  "guid": "https://www.nature.com/articles/s41467-026-79579-2",
+  "title": "Author Correction: The conformation-selective PI3K\u03b4 inhibitor roginolisib in patients with advanced or metastatic cancer, including metastatic uveal melanoma: first-in-human clinical trial",
+  "link": "https://www.nature.com/articles/s41467-026-79579-2",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Author Correction",
+  "score": 1.61
+ },
+ "https://www.nature.com/articles/s43856-026-02001-x": {
+  "guid": "https://www.nature.com/articles/s43856-026-02001-x",
+  "title": "Development and validation of a machine learning model to predict the daily risk of febrile neutropenia in patients with AML undergoing chemotherapy",
+  "link": "https://www.nature.com/articles/s43856-026-02001-x",
+  "abstract": "Infections are among the main complications in patients with acute myeloid leukemia (AML) undergoing intensive chemotherapy, increasing morbidity and mortality. However, no established tools exist to detect early signs of infection. Here, we develop and validate a machine learning model to predict the daily risk of febrile neutropenia (FN). We conducted a retrospective observational study using registry data from two university hospital districts in Finland. We included adult patients with newly diagnosed AML undergoing intensive chemotherapy (n\u2009=\u2009271, 48-hour FN outcomes=540), excluding acute promyelocytic leukemia. The model used a 48-hour prediction window and 1.2\u2009M clinical data points to generate daily FN risk estimates. We built the model using the Extreme Gradient Boosting algorithm, explained variable importance with Shapley Additive Explanations, and evaluated and validated performance using measures of discrimination, calibration, and clinical utility. We show how seven variables predict daily FN risk: white blood cell count, temperature, time since cycle start, C-reactive protein trend, absolute neutrophil count, treatment phase, and prior antibiotic treatment. We achieve an AUROC of 0.91 (95% CI, 0.89\u20130.93) and a calibration slope of 0.95 (95% CI, 0.73\u20131.16) in the development cohort\u2019s test set (n\u2009=\u200955, 48-hour FN outcomes=109) and validate performance in the external cohort (n\u2009=\u2009136, 48-hour FN outcomes=124, AUROC 0.79 (95% CI, 0.75\u20130.82), calibration slope 0.65 (95% CI, 0.51\u20130.79)). While prospective validation is warranted, this study suggests that routinely collected clinical data may be useful for daily prediction of FN and that further development of such screening tools could potentially support personalized infection prevention. Infections can be a life-threatening complication of chemotherapy in patients with acute myeloid leukemia. Here, we developed a screening tool to help physicians detect these infections early. Using registry data from two Finnish university hospital districts, we trained an AI model to predict early infection onset over the next 48\u2009hours. The model required seven variables, including routine laboratory tests, temperature measurements, time since each chemotherapy cycle started, and information on the treatment phase and antibiotic use. Such a screening tool could potentially support more personalized supportive care. However, the results must be confirmed prospectively before clinical adoption.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.59
+ },
+ "https://www.nature.com/articles/s41599-026-09663-x": {
+  "guid": "https://www.nature.com/articles/s41599-026-09663-x",
+  "title": "Understanding the psychosocial burden of cancer in Ethiopia: a synthesis of qualitative evidence",
+  "link": "https://www.nature.com/articles/s41599-026-09663-x",
+  "abstract": "Cancer is a leading cause of morbidity in Ethiopia, where a growing burden of disease meets limited healthcare infrastructure. While clinical management is prioritized, the psychosocial dimensions of the patient experience remain under-explored. This systematic qualitative review synthesizes existing evidence on the psychosocial experiences of cancer patients in Ethiopia, exploring the intersection of cultural, social, and economic factors. Guided by the ENTREQ framework and PRISMA guidelines, a comprehensive search was conducted across PubMed, Scopus, Web of Science, Google Scholar, and Embase for studies available through April 2025. Qualitative and mixed-methods studies examining emotional, psychological, social, spiritual, or cultural dimensions of cancer in Ethiopia were included. Methodological quality was assessed using the Joanna Briggs Institute Critical Appraisal Checklist, and data were integrated using a manual thematic synthesis approach. Ten studies were analyzed, encompassing 240 participants across various cancer types, including breast, cervical, and esophageal cancers. Six interconnected themes emerged: (1) Emotional and Psychological Distress, (2) Self-Stigma and Disruption of Communal Life, (3) Family-Centered Decision-Making and Treatment Delays, (4) Coping Strategies, (5) Financial and Logistical Burdens, and (6) Gendered Impacts on Body Image and Identity. The evidence suggests a complex interaction between established cultural frameworks and biomedical treatment, a tension further strained by widespread economic instability. These findings underscore the importance of developing family-oriented care models that respect local traditions and integrate community-based spiritual support while simultaneously addressing systemic financial barriers.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Review",
+  "score": 0.57
+ },
+ "https://www.nature.com/articles/s41598-026-78523-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-78523-0",
+  "title": "Fitness-for-purpose of hospital clinical data warehouses for oncology real-world evidence generation: a PICOTS-informed feasibility assessment",
+  "link": "https://www.nature.com/articles/s41598-026-78523-0",
+  "abstract": "We assessed the fitness for purpose of routinely collected data from hospital clinical data warehouses (CDWs) for a predefined oncology real-world evidence (RWE) study. Using a gastric cancer post-listing study as the empirical use case, we evaluated CDW data from two tertiary hospitals in South Korea. We examined 159 prespecified variables for availability, completeness, data format, and capture frequency, linked the variable-level findings to Population, Intervention, Comparator, Outcomes, Timing, and Setting (PICOTS) components and key covariates, and assessed system-level CDW implementation. Of 159 variables, 127 (79.9%) were directly captured, 2 (1.3%) were objectively derivable from structured data, 21 (13.2%) were ascertainable from composite clinical information, and 9 (5.7%) were unavailable. Population and Comparator eligibility, Timing, Setting, and key covariates were feasible; Intervention was feasible with caveats, whereas Outcomes had limited feasibility, particularly for clinically interpretive endpoints requiring composite clinical ascertainment. System-level implementation was high across assessed domains, whereas studyspecific variable-level limitations remained in completeness and ascertainment. Broad availability of relevant clinical information did not consistently translate into direct analytic readiness, particularly for clinically interpretive variables, indicating the need for studyspecific assessment and, where necessary, targeted clinical ascertainment, external data linkage, or validation to support the intended analysis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.8
+ },
+ "https://www.nature.com/articles/s41598-026-77778-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-77778-x",
+  "title": "Run-to-run variability of large language models extracting structured data from Turkish colorectal cancer pathology report summaries",
+  "link": "https://www.nature.com/articles/s41598-026-77778-x",
+  "abstract": "Large language models are increasingly used to convert free-text pathology reports into structured data, but validation usually relies on a single query. We submitted an identical zero-shot prompt containing 75 semi-structured, single-centre Turkish colorectal cancer pathology report summaries to ChatGPT, Gemini and DeepSeek through public web interfaces, ten times each in new conversations at two time points, and compared eight extracted variables with a manually curated reference standard. Accuracy was at ceiling: 14,972 of 15,000 fields (99.8%) were correct across direct-extraction runs, and a regular-expression program written by Gemini was equally accurate, showing that the task is solvable by pattern matching and cannot discriminate between models on comprehension. Repeated querying nevertheless revealed variability invisible in single runs. In one of ten runs, ChatGPT left tumour differentiation empty in 28 records; within that run, omission was strongly associated with source-text spelling (28/29 versus 0/26 records). In five of ten runs, Gemini generated and executed parsing code, with output indistinguishable from direct extraction. Output layout varied between runs and over time. These findings establish that such instability occurs, not its frequency. Single-query accuracy does not establish reproducibility. For structured data extraction, outputs from public chat services should not be used without verification.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.5
+ },
+ "https://www.nature.com/articles/s41598-026-77634-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-77634-y",
+  "title": "A gradient multi-isocenter VMAT strategy for efficient craniospinal irradiation on an intelligent couch-shifting accelerator",
+  "link": "https://www.nature.com/articles/s41598-026-77634-y",
+  "abstract": "Delivering high-quality craniospinal irradiation (CSI) remains challenging because of the need to achieve adequate target coverage across ultra-extended volumes while minimizing dose to normal tissue and maintaining clinically practical treatment efficiency. Although helical tomotherapy (HT) provides excellent dose conformity for CSI, prolonged delivery time and increased low-dose exposure may limit its clinical applicability. This study aimed to investigate whether increasing the number of isocenters in a gradient multi-isocenter volumetric modulated arc therapy (VMAT) strategy could enhance modulation capability for extended target volumes and provide a clinically feasible alternative to HT. Sixteen patients who received CSI at The Fourth Hospital of Hebei Medical University between January 2022 and March 2026 were retrospectively selected. For each patient, two VMAT strategies using an intelligent couch-shifting accelerator (TaiChiPro) were generated: a conventional multi-isocenter configuration (Group A) and an increased-isocenter configuration (Group B). HT plans delivered on a Radixact\u2122 system were generated as reference plans (Group C). Dosimetric parameters of the planning target volume (PTV), organs at risk (OARs), low-dose exposure of normal tissue, monitor units (MU), delivery time, and patient-specific quality assurance results were evaluated. All plans met clinical dose constraints. Increasing the number of isocenters improved the dose modulation capability of VMAT for extended target volumes. Compared with the conventional VMAT approach, the increased-isocenter VMAT strategy achieved lower V5, V10, and Dmean values for selected OARs, including the parotid glands and kidneys, as well as reduced low-dose exposure to normal tissue (P\u2009&lt;\u20090.05). Compared with HT, both VMAT strategies substantially reduced delivery time by approximately 78% (1355.98\u2009\u00b1\u2009219.63&nbsp;s vs. 301.08\u2009\u00b1\u200927.56&nbsp;s vs. 302.30\u2009\u00b1\u200919.02&nbsp;s, P\u2009&lt;\u20090.001) and decreased low-dose exposure to selected normal tissue. HT maintained advantages in target conformity index (CI), homogeneity index (HI), as well as in reducing Dmax to selected central nervous system structures. However, no significant differences were observed between conventional and increased-isocenter VMAT regarding target coverage. Both VMAT strategies achieved clinically acceptable dose continuity across the target junction regions. Patient-specific quality assurance (QA) further demonstrated reliable delivery accuracy, with gamma passing rates exceeding 97% across all evaluated plans. A gradient multi-isocenter VMAT strategy implemented on an intelligent couch-shifting accelerator offers improved dose modulation for craniospinal irradiation while substantially improving delivery efficiency and reducing low-dose exposure to normal tissue. Increasing the number of isocenters may further improve OARs sparing without substantially increasing treatment time, while maintaining clinically acceptable target dose distributions. This approach provides a practical option for complex ultra-extended field radiotherapy, particularly in institutions without dedicated tomotherapy systems.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.75
+ },
+ "https://www.nature.com/articles/s41598-026-80454-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-80454-9",
+  "title": "A regulatory node in the transcriptional network underlying multiple senescence subtypes in WI-38 human fibroblasts",
+  "link": "https://www.nature.com/articles/s41598-026-80454-9",
+  "abstract": "Cellular senescence is a stable cell cycle arrest accompanied by inflammatory responses that contribute to aging, age-related diseases, and cancer. Establishment of the senescent state requires extensive transcriptomic reprogramming; however, identifying transcriptional regulators that contribute to this process remains challenging. To address these challenges, we applied an in silico approach based on upstream regulator analysis using Ingenuity Pathway Analysis to systematically infer candidate transcriptional regulators from transcriptomic data. By analyzing datasets from WI-38 human fibroblasts exposed to distinct senescence-inducing stresses, including DNA damage, plasma membrane damage and calcium influx, we identified MYBL2 as a transcriptional regulator consistently implicated across multiple cellular senescence subtypes. Experimental validation demonstrated that MYBL2 downregulation is sufficient to induce several features associated with cellular senescence hallmarks and that MYBL2 overexpression suppresses these responses, consistent with its role in cell cycle progression. Taken together, these findings position MYBL2 as a shared regulatory node whose downregulation drives sustained cell cycle arrest in WI-38 cells.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.91
+ },
+ "https://www.nature.com/articles/s41598-026-79591-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-79591-y",
+  "title": "Clinicopathological significance of cuproptosis-related genes DLD, LIAS, and PDHA1 in bladder cancer",
+  "link": "https://www.nature.com/articles/s41598-026-79591-y",
+  "abstract": "Bladder cancer (BC) is the most common malignancy of the urinary tract, with high recurrence rates and frequent progression. Cuproptosis is a copper-dependent form of regulated cell death and a potential contributor to tumorigenesis; however, clinical evidence regarding the role of cuproptosis-related genes in BC remains limited. This study investigated the expression of DLD, LIAS, and PDHA1 in BC tissues. Gene expressions were quantified by RT-qPCR in 62 BC and 38 non-neoplastic bladder tissues. Clinicopathological associations were assessed, and diagnostic performance was evaluated using receiver operating characteristic (ROC) analysis and multivariable logistic regression. Analyses revealed that LIAS expression was significantly lower in tumor tissues than in non-neoplastic tissues, showing a 1.59-fold reduction (P\u2009=\u20090.036), whereas DLD and PDHA1 showed no significant differences. All three genes were significantly downregulated in muscle-invasive (MIBC) compared to non-muscle-invasive (NMIBC) tumors (DLD, P\u2009=\u20090.001; LIAS, P\u2009&lt;\u20090.001; PDHA1, P\u2009=\u20090.030). Furthermore, lower DLD and LIAS expressions were significantly associated with advanced pathological stages and higher tumor grades (P\u2009&lt;\u20090.05). Individually, the genes showed limited discriminatory performance, with area under the curve (AUC) values ranging from 0.54 to 0.63. However, their combined model showed improved performance, yielding an AUC of 0.81. Collectively, these findings indicate that DLD, LIAS, and PDHA1 expression levels are associated with tumor status and clinicopathological features in BC. Such patterns may reflect metabolic changes that alter tumor cell susceptibility to copper-dependent cell death, although the underlying biological mechanisms remain to be determined. The combined expression profile may have preliminary utility as an exploratory discriminatory panel for BC. However, this study did not directly evaluate cuproptosis activity or establish a mechanistic or causal relationship between these genes and copper-dependent cell death; validation in larger, independent cohorts is required.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.76
+ },
+ "https://www.nature.com/articles/s41591-026-04772-1": {
+  "guid": "https://www.nature.com/articles/s41591-026-04772-1",
+  "title": "Vaccines could be a new frontier in KRAS targeting",
+  "link": "https://www.nature.com/articles/s41591-026-04772-1",
+  "abstract": "A convergence of therapeutic and technological advances reveals KRAS-targeting vaccination as a potential new approach to preventing the recurrence of pancreatic cancer, but many hurdles remain.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "News & Views",
+  "score": 1.47
+ },
+ "https://www.nature.com/articles/s41598-026-78251-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-78251-5",
+  "title": "RGVT: retrieval-guided Vision Transformer for CT-based kidney lesion classification and segmentation",
+  "link": "https://www.nature.com/articles/s41598-026-78251-5",
+  "abstract": "Kidney lesion classification and segmentation from computed tomography images remain challenging because cysts, stones, tumors, and normal renal tissue may show overlapping visual characteristics, low-contrast boundaries, and inter-patient variability. This study proposes RGVT, a retrieval-guided Vision Transformer framework for CT-based kidney lesion classification and segmentation. The proposed framework extracts global image features using a Vision Transformer encoder and retrieves visually similar reference-case embeddings from a training-set memory bank. These retrieved embeddings are fused with current-case image features through cross-attention to improve lesion representation before classification and segmentation. The framework was evaluated on a CT kidney lesion dataset1 containing cyst, normal, stone, and tumor classes and was compared with U-Net, U-Net\u2009+\u2009HC, and Swin Transformer baselines. In the original image-level evaluation, RGVT achieved an accuracy of 96.40%, precision of 96.20%, recall of 96.00%, F1-score of 96.10%, and macro-AUC of 0.977. For binary kidney-stone segmentation on KSSD2025, RGVT achieved a Dice score of 94.20% and an IoU of 89.50%. An additional group-disjoint analysis was performed using the same RGVT architecture and is reported in the Supplementary Information to examine the effect of examination-level separation on classification performance. The retrieval memory was restricted to training-group representations in this additional analysis. These results are intended to provide complementary evidence regarding the behavior of retrieval-guided visual feature fusion under different data-partitioning conditions.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.56
+ },
+ "https://www.nature.com/articles/s41598-026-75634-6": {
+  "guid": "https://www.nature.com/articles/s41598-026-75634-6",
+  "title": "Predicting chemotherapy response in small cell lung cancer using habitat imaging and peritumoral radiomics: a dual-center study",
+  "link": "https://www.nature.com/articles/s41598-026-75634-6",
+  "abstract": "This study developed and validated a CT-based model combining habitat imaging and peritumoral radiomics to predict platinum-based chemotherapy response in small cell lung cancer (SCLC), and determined the optimal peritumoral margin. This dual-center retrospective study enrolled 315 SCLC patients receiving first-line platinum-based chemotherapy, divided into chemotherapy-sensitive and chemotherapy-resistant groups based on RECIST 1.1. Patients from Center 1 (n\u2009=\u2009212) were split into training and internal validation sets (8:2), and those from Center 2 (n\u2009=\u2009103) formed the external validation set. Clinical-imaging features were selected via univariate and multivariate logistic regression to build the Clinical model. Three peritumoral margins (0\u20133&nbsp;mm, 0\u20136&nbsp;mm, -3 to +\u20093&nbsp;mm) and intratumoral habitats were analyzed. Features were selected via LASSO regression. Finally, an integrated model was built by combining habitat features, peritumoral features, and clinical-imaging factors. Model performance was evaluated using receiver operating characteristic (ROC) curves, decision curve analysis (DCA), and the Hosmer-Lemeshow goodness-of-fit test to assess discrimination, clinical utility, and calibration. The 0\u20133&nbsp;mm peritumoral margin was optimal, with the model achieving AUCs of 0.851, 0.790, and 0.750 in the training, internal validation, and external validation sets, respectively. The habitat model showed promising performance with AUCs of 0.978, 0.873, and 0.882. The nomogram combined clinical-imaging, 0\u20133&nbsp;mm peritumoral, and habitat features, achieving AUCs of 0.987, 0.909, and 0.911 across the three datasets. This nomogram shows promise for predicting SCLC chemotherapy response and may facilitate clinical translation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.71
+ },
+ "https://www.nature.com/articles/s41598-026-77174-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-77174-5",
+  "title": "HPLC-based identification of bioactive flavonoids from Drimia indica (Roxb.) Jessop and their in silico and in vitro cytotoxic activities",
+  "link": "https://www.nature.com/articles/s41598-026-77174-5",
+  "abstract": "Drimia indica (Roxb.) Jessop, a geophytic medicinal plant in the family Asparagaceae, has long been used in traditional medicine, yet its bioactive flavonoid constituents remain largely uncharacterised. In this study, we explored the pharmacological potential of flavonoids derived from Drimia indica through an integrated approach encompassing phytochemical isolation, computational modelling, and in vitro biological assays. Using silica gel column chromatography followed by high-performance liquid chromatography, we identified three major flavonoids: quercetin, myricetin, and naringenin, based on retention-time comparison with commercial standards. Providing HPLC-based evidence supporting the presence of myricetin and naringenin in this species. We evaluated the biological relevance of these flavonoids using the MCF-7 breast cancer cell line, with a focus on PI3K\u03b1. Molecular docking and dynamics studies revealed strong and stable interactions between quercetin, myricetin, and naringenin and proteins involved in PI3K\u03b1 signalling. This study provides targeted evidence for the presence of myricetin and naringenin in D. indica through HPLC-based identification, along with their notable cytotoxicity against MCF-7 breast cancer cells, underscoring their anticancer potential and supporting the medicinal relevance and sustainable use of Drimia indica.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.96
+ },
+ "https://www.nature.com/articles/s41419-026-09385-7": {
+  "guid": "https://www.nature.com/articles/s41419-026-09385-7",
+  "title": "Palmitoylation of Smad2 assists TGF\u03b2-Smad signaling to promote breast cancer metastasis",
+  "link": "https://www.nature.com/articles/s41419-026-09385-7",
+  "abstract": "Although the role of palmitic acid (PA) as a membrane component in promoting cancer invasion and migration has been explored, it remains unclear whether and how PA enhances breast cancer metastasis via palmitoylation modification. Here, we observed that PA promotes epithelial-mesenchymal transition (EMT), invasion, and migration in breast cancer cells, which could be antagonized by the palmitoyl-transferase inhibitor 2-bromopalmitate (2-BP) through regulating TGF\u03b2-Smad pathway. Specifically, we screened and identified that Smad2 undergoes ZDHHC7-mediated palmitoylation, which stabilizes Smad2 protein, enhances Smad2/Smad3 interaction, and promotes their binding to DNA elements following TGF\u03b2 stimulation, thereby promoting EMT. Consequently, ZDHHC7 enhanced breast cancer cell migration, and its depletion effectively suppressed breast cancer lung metastasis. Based on these findings, we generated cell-penetrating peptides to block Smad2 palmitoylation, resulting in disrupting its interaction with Smad3, and in turn attenuate breast cancer EMT, invasion, and migration in cells and in orthotopic mouse models. In summary, our study reveals a novel mechanism by which PA promotes breast cancer metastasis through ZDHHC7-mediated palmitoylation of Smad2, and proposes a therapeutic strategy to inhibit breast cancer lung metastasis by using a specific peptide targeting this modification.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.96
+ },
+ "https://www.nature.com/articles/s41556-026-02114-4": {
+  "guid": "https://www.nature.com/articles/s41556-026-02114-4",
+  "title": "Diffuse assemblies drive oncogenic signalling",
+  "link": "https://www.nature.com/articles/s41556-026-02114-4",
+  "abstract": "Cytoplasmic condensates formed by receptor tyrosine kinase (RTK) fusion oncoproteins have been implicated in the regulation of oncogenic signalling. A study shows that low\u2011order RTK assemblies operate independently of condensate formation and that they are sufficient to activate the canonical RAS\u2013ERK cascade driving downstream oncogenic output.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "News & Views",
+  "score": 1.5
+ },
+ "https://www.nature.com/articles/s44294-026-00169-0": {
+  "guid": "https://www.nature.com/articles/s44294-026-00169-0",
+  "title": "MRI-based mathematical modeling to predict the response of cervical cancer patients to chemoradiation",
+  "link": "https://www.nature.com/articles/s44294-026-00169-0",
+  "abstract": "Patients with locally advanced cervical cancer have a 20\u201330% risk of residual disease after completion of standard-of-care chemoradiation. A reliable and patient-specific method to predict treatment response is currently lacking but would be valuable for selecting therapeutic regimens with improved outcomes. We developed an MRI-based mathematical model for tumor cell movement, proliferation, and response to chemoradiation. The model was calibrated for each patient using their own MRI data before (V1) and after two weeks (V2) of chemoradiation. In the study cohort of 10 patients, the concordance correlation coefficients between the observed and predicted changes in tumor cellularity and volume from V1 to V3 (after five weeks of chemoradiation) were 0.96 and 0.78, respectively. Thus, our model can accurately predict response to chemoradiation for cervical cancer patients using each patient\u2019s MRI data, thereby offering potential for personalizing chemoradiation regimens during treatment.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.71
+ },
+ "https://www.nature.com/articles/s41698-026-01772-9": {
+  "guid": "https://www.nature.com/articles/s41698-026-01772-9",
+  "title": "AI-based prediction of actionable genomic alterations from H&E-stained slides",
+  "link": "https://www.nature.com/articles/s41698-026-01772-9",
+  "abstract": "Precision oncology based on the identification of actionable genomic alterations (AGAs) has been transformative in the care of solid tumors, yet optimal treatment selection is often hindered by tissue exhaustion and slow turnaround times. Artificial intelligence (AI) addresses these barriers by predicting AGAs directly from routine hematoxylin and eosin (H&amp;E)-stained slides. Recent landmark studies, including the prospective EAGLE and ANNAR trials, have demonstrated that deep learning models can identify alterations such as EGFR in non-small cell lung cancer and FGFR in urothelial cancer across diverse global cohorts. By providing near-instant, non-destructive results, AI-based prediction can triage patients for molecular testing or clinical trials at the time of initial diagnosis. This perspective evaluates the maturing evidence base and outlines a pragmatic pathway for integrating these tools into clinical practice. Ultimately, these models offer the opportunity to extract critical molecular information from slides generated in every laboratory worldwide and to significantly improve timely access to the rapidly evolving therapeutic landscape of solid tumors.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 0.85
+ },
+ "https://www.nature.com/articles/s41556-026-02112-6": {
+  "guid": "https://www.nature.com/articles/s41556-026-02112-6",
+  "title": "Low-order assemblies drive oncogenic RTK fusion signalling without condensation",
+  "link": "https://www.nature.com/articles/s41556-026-02112-6",
+  "abstract": "Receptor tyrosine kinase (RTK) fusions are a large class of oncoproteins found in ~5% of cancers. Key questions remain, however, about how RTK fusions transmit oncogenic signals, including how these largely cytoplasmic proteins activate downstream pathways that originate at the plasma membrane. Fusions are often multimeric and can form mesoscale condensates in cancer cells, and condensation has been implicated as an essential mechanism to enable signal transmission from the cytoplasm. However, whether condensates play a causal role or whether smaller \u2018diffuse\u2019 assemblies are sufficient to transduce signals, has been challenging to establish. Here we apply advanced microscopy, single-cell analysis and synthetic fusions to determine the principles by which multimerization and condensation drive signalling from cytoplasmic RTK fusions. For EML4\u2013ALK, a prominent fusion that forms condensates, we found poor correlation between condensation and signalling and abundant EML4\u2013ALK activity in the diffuse phase. Synthetic RTK fusions showed that cytoplasmic dimers of ALK or RET domains\u2014and even constitutively active monomers\u2014were sufficient to induce strong Ras\u2013Erk signalling despite the absence of condensates, and non-condensing fusions were sufficient to transform cells in vitro and in subcutaneous tumour models. A panel of various other cancer-driving RTK fusions showed that low-order multimerization was widespread across fusions, whereas mesoscale condensation was rare and did not correlate with signalling. Our results suggest that low-order multimerization is sufficient to drive fusion phosphorylation, which is necessary and sufficient to trigger downstream oncogenic signalling. Gonzalez-Martinez, Mumford et al. show that condensate-forming fusion oncoprotein EML4\u2013ALK can drive oncogenic Ras\u2013Erk signalling from small multimers in the dilute phase, whereas its propensity for biomolecular condensation is dispensable.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.17
+ },
+ "https://www.nature.com/articles/s41585-026-01204-0": {
+  "guid": "https://www.nature.com/articles/s41585-026-01204-0",
+  "title": "Shared decision-making in the treatment of metastatic prostate cancer",
+  "link": "https://www.nature.com/articles/s41585-026-01204-0",
+  "abstract": "Treating patients with metastatic prostate cancer is complex as various treatment options are available, each having specific benefits and risks. Health-care providers and patients are often faced with several reasonable options but no clear \u2018correct\u2019 choice. To optimize treatment outcomes, including quality of life and health-care provider and patient satisfaction, patients and care-givers need to engage in the treatment decision-making process. Shared decision-making (SDM) is a process in which the health-care provider, patient, family and/or care-giver are all actively involved in sharing information and building agreement on which treatment or treatments to implement based on preferences and the clinical situation. SDM is recommended by prostate cancer clinical practice guidelines, but implementation varies owing to multiple challenges, including time constraints, logistical concerns and lack of health-care provider comfort in implementing approaches. SDM continues to be explored in the context of localized prostate cancer, but evidence and literature on the importance of SDM in the management of metastatic prostate cancer is scarce. The multidisciplinary health-care team, patients, care-givers, patient advocacy groups, industry, health authorities and other key collaborative partners all have a role in SDM in this disease context. Opportunities to support the initiation and/or further development of effective SDM in clinical practice include targeted clinician training, use of validated decision aids, improved multidisciplinary team support, and increased patient and care-giver involvement. Here, the authors outline the collaborative approach needed to advance the concept of shared decision-making in the treatment of metastatic prostate cancer, examining the roles of health-care providers, the multidisciplinary team, patients, care-givers, patient advocacy groups, industry, health regulatory authorities and other key collaborative partners.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 0.6
+ },
+ "https://www.nature.com/articles/s41598-026-72010-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-72010-2",
+  "title": "Combined Saussurea costus and doxorubicin suppresses breast cancer cell migration and proliferation through MMP2/MMP9 downregulation: in vitro and molecular docking evidence",
+  "link": "https://www.nature.com/articles/s41598-026-72010-2",
+  "abstract": "Breast cancer (BC) is still a major cause of cancer-related death in women and requires new strategies for treatment. Saussurea costus (COS) has been reported to exhibit anticancer activity, and doxorubicin (DOX) is a commonly used chemotherapeutic agent. The relationship between their roles and BC cell behavior and regulation remains unclear. 28 compounds were identified in the COS ethanolic extract by LC\u2013ESI\u2013MS/MS. The docking and dynamics study of major compounds with MMP2 and MMP9 was performed. The effects of COS, DOX, and their combination on MCF7 and MDA-MB-231 cells were assessed for cytotoxicity, proliferation, migration (wound healing and transwell), colony formation, apoptosis (annexin-V), cell cycle, and MMP2/MMP9 mRNA expression. The main compounds found were apigenin (12.99%), medioresinol (8.32%), and luteolin (8.12%). Luteolin had the most negative value for protein binding (MMP2: \u2212&nbsp;8.90 kcal/mol; MMP9: \u2212&nbsp;9.50 kcal/mol) and medioresinol for mRNA binding. COS demonstrated dose-dependent cytotoxicity (IC50: 106.8\u2009\u00b1\u20091.43 \u03bcg/mL for MCF7; 116.8\u2009\u00b1\u20095.66 \u03bcg/mL for MDA-MB-231). The COS\u2009+\u2009DOX combination significantly reduced proliferation, migration, and colony formation, and increased apoptosis (MCF7: 34.85\u2009\u00b1\u20091.84%, MDA-MB-231: 45.56\u2009\u00b1\u20097.74%), and induced G2/M arrest in MDA-MB-231 cells. The expression of MMP2 and MMP9 mRNA was significantly downregulated. The COS\u2009+\u2009DOX treatment had a combinatorial effect in suppressing BC cell growth and migration, which was associated with downregulation of MMP2/MMP9 and induction of apoptosis. While these findings suggest a potential mechanistic role for MMP2/MMP9 downregulation, future studies measuring protein expression and enzymatic activity are required to confirm functional inhibition. Given its potential therapeutic significance, further in vivo studies are warranted.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.79
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.12.766318v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.12.766318v1?rss=1",
+  "title": "NRF2-driven thiol metabolism creates a selective vulnerability to selenite",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.766318v1?rss=1",
+  "abstract": "NRF2 hyperactivation caused by mutations in KEAP1 or NFE2L2 occurs in 20-30% of non-small cell lung cancers and confers therapy resistance. Here we show that NRF2-driven metabolic reprogramming creates a selective vulnerability to selenite. NRF2-dependent thiol export promotes the extracellular reduction of selenite to selenide. Our data support a model in which selenide enters cells and reaches mitochondria, where sulfide-quinone oxidoreductase uses selenide and glutathione to generate the selenopersulfide GS-SeH. A four-hour pulse of selenite was sufficient to induce cell death after washout, consistent with a selenium redox cycle that consumes NADPH and regenerates selenide. Within hours, selenite abolished aconitase activity and impaired mitochondrial respiration. The resulting cell death occurred independently of apoptosis, ferroptosis, pyroptosis, necroptosis and disulfidptosis. In mice, a selenite-rich diet selectively suppressed the growth of NRF2-hyperactive tumors. These findings identify an NRF2-driven metabolic vulnerability and support further investigation of selenite as a therapeutic strategy for NRF2-hyperactive cancers.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "",
+  "score": 2.0
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.11.766035v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.11.766035v1?rss=1",
+  "title": "Multimodal Liquid Biopsy Improves Longitudinal Circulating Tumor DNA Detection in Children with Central Nervous System Tumors",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.11.766035v1?rss=1",
+  "abstract": "Background: Circulating tumor DNA (ctDNA) is a promising biomarker for pediatric central nervous system (CNS) tumors, but limitations in sensitivity and universally accepted detection criteria remain. We evaluated multimodal ctDNA detection using a novel composite scoring framework integrating mutation, copy number, and fragmentomic analysis in longitudinal plasma and CSF samples from children with CNS tumors. Methods: Tumor, blood and/or CSF samples were collected from pediatric CNS tumor patients. DNA was extracted from plasma, CSF, tumor, and whole blood. All samples underwent targeted and whole genome sequencing. Plasma and CSF samples were evaluated for ctDNA positivity--defined by a composite score [\u2265]2--utilizing a tri-modal approach of whole genome sequencing for copy number alterations and fragmentomics and targeted sequencing. Results: The cohort included 28 patients: medulloblastoma (39%), diffuse midline glioma (25%), high-grade glioma (18%), pilocytic astrocytoma (11%), and ependymoma (7%). A total of 140 plasma and 27 CSF samples were collected longitudinally. Combining all three modalities identified ctDNA in 70% of CSF and 17% of plasma samples, exceeding rates achieved by any single modality alone. Post-diagnosis plasma ctDNA positivity was significantly associated with worse progression-free and overall survival. CSF demonstrated significantly higher ctDNA signal intensity than plasma across all assay modalities. Conclusions: A multimodal composite scoring approach improves longitudinal ctDNA detection in pediatric CNS tumors. Although CSF remains the most sensitive biofluid, plasma ctDNA reflects disease progression in select patients. These findings support integrated, multimodal liquid biopsy strategies for disease monitoring and highlight the need for prospective validation of standardized detection criteria.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "",
+  "score": 1.61
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.11.766052v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.11.766052v1?rss=1",
+  "title": "Global effects of the guanine quadruplex binding ligands Pyridostatin and TMPyP4 on microRNA regulation in response to ionizing radiation in HeLa cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.11.766052v1?rss=1",
+  "abstract": "Guanine quadruplexes (G4s) are secondary structures in DNA and RNA that regulate a wide range of biological processes. Small molecules that assist in formation, stabilization or destabilization of G4s indirectly alter the cellular functions governed by these structures. Pyridostatin (PDS) and TMPyP4 are two well-characterized G4-binding ligands that have been shown to modulate various cellular functions, particularly in cancer cells. However, their effects on microRNAs (miRNAs), which are key regulators of post-transcriptional gene expression, remain poorly understood. HeLa cells treated either with PDS or TMPyP4 and gamma radiation were subjected to small RNA sequencing. Analysis results revealed a higher overall small RNA content in PDS treated cells, whereas TMPyP4 treated cells exhibited a greater number of differentially expressed miRNAs following gamma radiation exposure. Target gene analysis of the top differentially regulated miRNAs revealed that molecular functions related to DNA/nucleic acid binding activities of various factors, including RNA polymerase II cis-regulatory region sequence-specific binding activity, were largely affected. Furthermore, KEGG pathway enrichment studies suggested that observed changes may result from alterations in signal transduction pathways in cells treated with G4 ligands and gamma radiation compared to untreated control cells. Additionally, G4 ligand treatment altered the cellular expression levels of histone modifying enzymes, including histone deacetylases and methyltransferases. This finding suggest that the two G4 binding ligands- PDS and TMPyP4 differentially regulate miRNA expression profiles, histone modifying enzymes and associated biological pathways in HeLa cells.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "",
+  "score": 1.1
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.11.765976v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.11.765976v1?rss=1",
+  "title": "Regulation of the Epstein-Barr Epigenome by Histone Variant MacroH2A",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.11.765976v1?rss=1",
+  "abstract": "Histone variants play an important role in regulating chromatin dynamics of Epstein-Barr Virus (EBV). Here, we investigate the role of histone variant macroH2A in EBV chromatin structure, gene expression and copy number control during latent infection. ChIP-seq analysis in EBV+ SNU719 gastric carcinoma and Mutu I Burkitt lymphoma cells revealed that macroH2A was most enriched at repetitive DNA elements, including oriLyt, BHLF1, LF3 and terminal repeat (TR) regions of the EBV genome. MacroH2A depletion in EBV-associated gastric cancer cell line SNU719 led to a small increase in some viral lytic genes and increase in viral DNA copy number. RNAseq transcriptomics after macroH2A depletion identified major perturbations in cellular gene pathways, including beta-catenin/TCF signaling and chromatin remodeling. Depletion of macroH2A during EBV lytic reactivation reduced EBV lytic gene activation, but increased EBV DNA copy number. Previous study demonstrated a colocalization and cooperative binding between histone variant H2A.Z and EBNA1. We now show that depletion of macroH2A causes an increase in both H2A.Z and EBNA1 at oriP and cellular binding sites for EBNA1. We also found that gammaH2AX localizes to oriP and that this depends on macroH2A. Finally, we show that CRISPR/Cas9 knockout of macroH2A increases the replication and episome maintenance of oriP-containing plasmids. Taken together, these findings indicate that macroH2A localizes to the repetitive elements of EBV, including oriLyt, and can function to limit H2A.Z and EBNA1 binding at oriP, which alters DNA damage signaling at oriP and limits episomal replication. These findings provide a novel role for macroH2A in maintaining EBV copy number and genome integrity.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "",
+  "score": 1.08
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.11.765995v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.11.765995v1?rss=1",
+  "title": "Epigenomic circuits shaping cellular heterogeneity in pleural mesothelioma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.11.765995v1?rss=1",
+  "abstract": "Pleural mesothelioma (PM) is an aggressive and lethal malignancy with current treatments offering limited clinical benefit. In this study, we utilized single-cell chromatin accessibility and transcriptomic profiling of patient-matched samples to infer the epigenomic regulation underlying cellular heterogeneity in PM. High-resolution epigenomic profiling suggested transcriptional regulators with putative pro-tumoral roles in mesothelioma, whose function was experimentally tested using genetic perturbations across four PM cell lines. Furthermore, we observed several putative associations between epigenomic circuits and macrophage ontogeny, a sarcomatoid-like neoplastic state, and a fetal-like endothelial cell state. Our analysis also showed similarities between the chromatin accessibility landscapes of exhausted CD8 T and KLRC1 natural killer cells and identified NR4A2 as a potential shared regulator of dysfunction in both lymphocyte subsets. We further identified a state-specific distal enhancer near NR4A2 and experimentally validated its regulation of NR4A2 expression in Jurkat cells. Together, we provide an epigenomic map of PM and nominate candidate transcription factors and regulatory elements for future functional investigation, including their potential relevance to epigenetic editing strategies to limit tumor growth and enhance anti-tumor immunity.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-13T00:00:00+00:00",
+  "type": "",
+  "score": 1.53
  }
 }
