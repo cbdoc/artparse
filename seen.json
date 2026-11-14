@@ -16528,5 +16528,55 @@
   "date": "2026-11-13T00:00:00+00:00",
   "type": "",
   "score": 2.07
+ },
+ "https://www.nature.com/articles/s41746-026-03466-9": {
+  "guid": "https://www.nature.com/articles/s41746-026-03466-9",
+  "title": "Beyond skin deep: physiologic oral pigmentation as an overlooked validation gap in AI-assisted oral cancer screening",
+  "link": "https://www.nature.com/articles/s41746-026-03466-9",
+  "abstract": "AI-assisted oral cancer screening tools, exemplified by MeMoSA, have been validated almost exclusively in Asian populations. We propose a testable hypothesis: physiologic oral pigmentation, which varies by race independent of pathology, may cause classifiers to misclassify normal variation as suspicious or miss camouflaged lesions. Following precedent from pulse oximetry and dermatology AI, we call for pigmentation-stratified validation before deployment in racially diverse settings such as the United States.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 0.58
+ },
+ "https://www.nature.com/articles/s41598-026-78239-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-78239-1",
+  "title": "Association between diagnosis to treatment interval and survival outcomes in diffuse large B-cell lymphoma using a causal inference approach",
+  "link": "https://www.nature.com/articles/s41598-026-78239-1",
+  "abstract": "Timely care is an important aspect of health care quality, particularly for aggressive malignancies like diffuse large B-cell lymphoma (DLBCL). However, the prognostic impact of diagnosis-to-treatment interval (DTI) in DLBCL remains inconclusive. Thus, we evaluated the impact of DTI on survival outcomes using causal inference methods. A total of 2610 DLBCL patients treated with immunochemotherapy from the Lymphoma and Related Diseases Registry were included. Inverse probability of treatment weighting (IPTW) based on propensity scores estimated via generalized boosted models was applied to adjust for differences in adverse prognostic factors between DTI cohorts. The median DTI was 15&nbsp;days, with an interquartile range of 8\u201328&nbsp;days. Patients who received treatment within 14&nbsp;days had adverse clinical characteristics, including stage III/IV, poor performance status, elevated LDH, B-symptoms, bulk disease,\u2009&gt;\u20091 extranodal sites involved and anaemia. In univariable analyses, shorter DTI (\u2264\u200914&nbsp;days) was associated with worse overall survival (OS) and progression-free survival (PFS). However, after IPTW adjustment, shorter DTI was significantly associated with improved OS (adjusted hazard ratio\u2009=\u20090.68; 95% CI: 0.52, 0.88). our study suggest that short DTI should be interpreted primarily as a marker of disease severity rather than as an adverse prognostic factor itself.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.65
+ },
+ "https://www.nature.com/articles/s41409-026-03038-1": {
+  "guid": "https://www.nature.com/articles/s41409-026-03038-1",
+  "title": "Optimal levetiracetam dosage regimen for preventing seizures related to immune effector cell-associated neurotoxicity syndrome",
+  "link": "https://www.nature.com/articles/s41409-026-03038-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Correspondence",
+  "score": 0.68
+ },
+ "https://www.nature.com/articles/s41598-026-77322-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-77322-x",
+  "title": "Serum trace element profiles and gallbladder cancer risk in an Indian population: evidence from a case\u2013control study",
+  "link": "https://www.nature.com/articles/s41598-026-77322-x",
+  "abstract": "Gallbladder cancer (GBC), a rare yet aggressive biliary tract malignancy, exhibits marked geographic variation in incidence, with particularly high rates reported across northern and eastern India (including the gangetic plain) as well as parts of north-eastern India. This spatial distribution suggests that environmental exposures and region-specific risk factors play a significant role in GBC etiology. This study aimed to investigate the association of serum essential and non-essential trace elements, individually and as mixtures, with GBC risk. In this hospital-based case\u2013control study, a total of 912 GBC cases and 1140 visitor controls were enrolled at Tata Memorial Hospital, India. The concentration of non-essential (Cr, Ni, As, Cd, Pb, U) and essential elements (Mn, Cu, Se) were measured in serum samples, following acid digestion with trace metal-grade nitric acid (50-fold dilution), using ICP-MS. With highly right-skewed distributions, trace element concentrations were log-transformed for statistical and sensitivity analysis. Individual effects were presented using logistic regression model adjusting for prespecified confounders, while joint metal mixture effects were obtained using WQS and qgcomp methods. In addition to primary logistic regression analysis, two-part and winsorization models were performed to assess the robustness of findings. A strong non-linear association for Cu, Mn, Cd and U (P-overall\u2009\u2264\u20090.05; P-nonlinear\u2009\u2264\u20090.05) was observed. The strongest inter-metal correlation was observed for Mn-U. Exposure to metal mixture showed one-unit increase in the WQS index with increased GBC risk (OR\u2009=\u20096.19; 95% CI 4.84\u20137.95;P\u2009\u2264\u20090.001), with the highest weight contributed by Cu (~\u200960%), followed by Cd (~26\u2009%) and Mn (~\u200913%). A DAG-informed confounder set, applied to an internal validation dataset generated from the training-validation split, confirmed a significant WQS-GBC association (OR\u2009=\u20092.71; 95% CI 2.26\u20133.25; P\u2009\u2264\u20090.001), supporting the robustness of the primary metal mixture findings. An exploratory mediation analysis indicated no statistically significant evidence of mediation through gallstone (\u03b2ACME: 0.01; 95% CI \u2009\u2212\u20090.00\u20130.03; P\u2009=\u20090.064). Metal mixtures might be significantly associated with GBC and identification of the source of exposure, particularly in the high-risk areas of the GBC, would be useful in primary prevention.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.71
+ },
+ "https://www.nature.com/articles/s44303-026-00217-z": {
+  "guid": "https://www.nature.com/articles/s44303-026-00217-z",
+  "title": "MRI of ASCT2-mediated amino acid uptake in xenograft tumor models",
+  "link": "https://www.nature.com/articles/s44303-026-00217-z",
+  "abstract": "Alanine-serine-cysteine transporter 2 (ASCT2) is a prognostic marker for many cancers. While histological expression is the current clinical metric for ASCT2 evaluation, expression does not scale with activity because post-translational modifications are required for translocation to the plasma membrane. Methods to trace ASCT2 activity ex vivo have not been developed and commercialized. We investigated the utility of imaging alanine as a biomarker for ASCT2 in cancer. Alanine is a major ASCT2 substrate that can be detected in magnetic resonance imaging (MRI) scanners using the chemical exchange saturation transfer (CEST) method. Initially, we demonstrated that its CEST contrast was higher than other major ASCT2 substrates at physiological pH (7.3). We then investigated the sensitivity of alanine-weighted CEST (ALAwCEST) imaging to ASCT2 in vivo using a genetically-engineered patient-derived pancreatic cancer model that we developed. ASCT2 protein expression at the cell surface was 1.6-fold higher in SLC1A5-overexpressing Pa20c cells than na\u00efve Pa20c cells (p\u2009=\u20090.0221). Upon bolus injection of alanine (6\u2009mmol/kg i.v.) in tumor-bearing mice, CEST MRI enhancement was higher in SLC1A5-overexpressing Pa20c tumors than na\u00efve tumors (p\u2009&lt;\u20090.0001). We next investigated the feasibility of ALAwCEST to distinguish prostate tumors with differing levels of ASCT2 content. Enhancement upon injection of 13C3-alanine was more pronounced in LNCaP prostate tumors than DU-145 prostate tumors in vivo (p\u2009&lt;\u20090.0001). Notably, the temporal dynamics of ALAwCEST signal enhancement depended on the volume of the tumor. Mass spectrometric imaging of 13C-labeled metabolites and CEST imaging of metabolite phantoms revealed these differences in in vivo dynamics could be attributed to differences in alanine uptake and metabolism. Overall, we demonstrated the feasibility of ALAwCEST imaging for reporting ASCT2-mediated amino acid uptake in multiple human xenograft tumor models and its utility for cancer applications.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.14
  }
 }
