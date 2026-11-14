@@ -16578,5 +16578,95 @@
   "date": "2026-11-14T00:00:00+00:00",
   "type": "Article",
   "score": 1.14
+ },
+ "https://www.nature.com/articles/s41467-026-79121-4": {
+  "guid": "https://www.nature.com/articles/s41467-026-79121-4",
+  "title": "A subspecialty diagnostic system powered by self-supervised learning for cervical histopathology",
+  "link": "https://www.nature.com/articles/s41467-026-79121-4",
+  "abstract": "Cervical cancer remains a major malignancy in women, with large-scale human papillomavirus-based screening generating a large volume of biopsies and, for advanced cases, surgical specimens, imposing an overwhelming diagnostic burden that necessitates precise histopathological evaluation. Although deep learning shows promise, general foundation models offer a broader reach but remain limited in capturing subspecialty-specific features and task adaptability. We introduce the Cervical Subspecialty Pathology (CerS-Path) diagnostic system, built upon the subspecialized dataset and developed through two synergistic pretraining stages: self-supervised learning on approximately 190 million tissue patches to build a cervical-specific feature extractor, and multimodal enhancement with 2.5 million image-text pairs, followed by diagnostic functions integration and downstream task enhancement. CerS-Path integrates eight functions\u2014across morphological diagnosis, predictive analytics, and multimodal tasks\u2014to cover the diagnostic workflow from biopsies to resection specimens. Comprehensive evaluations demonstrate improved performance in cervical pathology in female patients, where CerS-Path outperforms state-of-the-art foundation models across 26 of 30 diagnostic tasks. Furthermore, in multicenter retrospective and prospective validation across six independent cohorts of women, CerS-Path achieves up to 99% sensitivity for clinically relevant lesion detection with acceptable specificity across sites, highlighting its potential for screening-derived histopathology and suitability for integration into high-volume diagnostic pathways. Foundation models could be promising for cervical cancer screening, but have important limitations for their clinical deployment. Here, the authors introduce the Cervical Subspecialty Pathology (CerS-Path) diagnostic system, a self-supervised learning framework for cervical cancer pathology that outperforms state-of-the-art foundation models across multiple diagnostic tasks.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.56
+ },
+ "https://www.nature.com/articles/s44303-026-00218-y": {
+  "guid": "https://www.nature.com/articles/s44303-026-00218-y",
+  "title": "Beyond animal-first radiotheranostics",
+  "link": "https://www.nature.com/articles/s44303-026-00218-y",
+  "abstract": "Radiotheranostics has achieved clinical maturity, yet preclinical development remains reliant on animal studies. Direct, dynamic measurement of radionuclide distribution offers a distinctive opportunity to develop quantitative New Approach Methodology (NAM) frameworks. We propose integrating human-relevant models, radionuclide sensing, historical biodistribution data and AI-assisted computational prediction. Fit-for-purpose validation, defined contexts of use and domains of applicability, and quantified predictive uncertainty could support reliable translational decisions and enable development beyond animal-first pipelines.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 0.79
+ },
+ "https://www.nature.com/articles/s41598-026-74096-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-74096-0",
+  "title": "Artifact-aware lightweight dermoscopic lesion segmentation with reproducible corruption robustness evaluation",
+  "link": "https://www.nature.com/articles/s41598-026-74096-0",
+  "abstract": "Automated dermoscopic lesion segmentation is a key step in computer-aided skin cancer analysis, yet lightweight models for resource-constrained dermoscopic image analysis can be unstable when images contain acquisition artifacts such as hair, specular highlights, skin lines, and air bubbles. This paper addresses this problem by proposing an artifact-aware lightweight U-shaped segmentation framework together with a reproducible corruption benchmark for robustness evaluation. The proposed framework first estimates artifact-prone regions through a multi-cue stem that combines Laplacian, bright-region, dark-region, and learned responses. It then uses efficient multi-scale encoder blocks with depthwise separable operations and channel gating to preserve lesion-relevant features under a limited parameter budget. During decoding, a mask-guided skip-fusion module integrates coarse lesion predictions with propagated artifact cues, reducing the direct transfer of contaminated shallow features while retaining boundary information. To evaluate robustness beyond clean ISIC images, we construct fixed corrupted subsets from ISIC 2017 and ISIC 2018 by applying four clinically motivated artifact categories at two severity levels, with unchanged ground-truth masks and recorded artifact metadata. Experiments compare clean-only training, direct artifact augmentation, and curriculum-based artifact exposure against representative lightweight baselines. The results show that the proposed framework maintains competitive clean-domain accuracy, improves corrupted-domain robustness, benefits from curriculum training under stronger artifact severity, and transfers better to PH2 without fine-tuning. Ablation studies further verify the complementary effects of artifact-aware input modeling, robust encoder design, and mask-guided skip fusion. Overall, this work provides a lightweight segmentation framework and a reproducible evaluation protocol for studying artifact robustness in dermoscopic image segmentation. Our code is available at: https://github.com/28001736/ARL-UNet.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s41419-026-09408-3": {
+  "guid": "https://www.nature.com/articles/s41419-026-09408-3",
+  "title": "Endothelial sialyl Lewis X-modified integrin \u03b13 drives fatty-acid metabolic reprogramming to shape Th17 plasticity in bladder cancer",
+  "link": "https://www.nature.com/articles/s41419-026-09408-3",
+  "abstract": "Tumor endothelial cells (TECs) are active regulators of the tumor immune microenvironment, and their surfaces are enriched with diverse glycans. However, the influence of endothelial glycosylation on immune regulation remains poorly understood. Here, we show that sialyl Lewis X (sLeX) glycosylation of integrin \u03b13 (ITGA3) in endothelial cells (ECs) promotes endothelial-to-mesenchymal transition (Endo-MT) by stabilizing Slug and repressing CDH5 transcription via the EGFR-AKT-GSK3\u03b2 axis. This process is accompanied by downregulation of fatty aldehyde dehydrogenase (FALDH/ALDH3A2), with impaired fatty acid oxidation and decreased mitochondrial ROS. Reduced ROS levels attenuated the production of the pro-inflammatory cytokines IL-1\u03b2 and IL-6, enhanced TGF-\u03b2 production, and reduced Th1-like Th17 responses, thereby favoring Treg-like Th17 phenotypes. Functionally, endothelial sLeX-modified ITGA3 reshapes the immune microenvironment toward a regulatory immune phenotype. Collectively, these findings identify a link between endothelial glycosylation, metabolic reprogramming, and immune regulation, and suggest that sLeX-modified ITGA3 contributes to endothelial-mediated modulation of Th17-associated responses in bladder cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.17
+ },
+ "https://www.nature.com/articles/s41598-026-79095-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-79095-9",
+  "title": "Venetoclax combined with multi-frequency decitabine, vincristine and dexamethasone (VDVD) as induction therapy for patients with de novo acute leukaemia of ambiguous lineage",
+  "link": "https://www.nature.com/articles/s41598-026-79095-9",
+  "abstract": "Acute leukaemia of ambiguous lineage (ALAL) is a rare and heterogeneous leukaemia with unsatisfactory outcomes from conventional chemotherapy. Venetoclax (VEN) has shown potential efficacy in ALAL. Our pilot study demonstrated that VEN combined with multi-frequency decitabine (DEC) was safe and effective in elderly acute myeloid leukaemia (AML) patients. We therefore designed VDVD regimen (VEN, multi-frequency DEC, vincristine, dexamethasone) as induction therapy for de novo ALAL. VDVD comprised VEN (100&nbsp;mg d1, 200&nbsp;mg d2, 400&nbsp;mg d3-11), DEC (20&nbsp;mg/m\u00b2 every 8&nbsp;hours d4-6), vincristine (2&nbsp;mg/d d1,8), and dexamethasone (10&nbsp;mg/m\u00b2 d1-4,8\u201311). Dasatinib was added for BCR::ABL1-positive patients. Hematopoietic stem cell transplantation (HSCT) was recommended upon achieving complete remission (CR) or complete remission with incomplete hematologic recovery (CRi). The primary endpoint was overall response rate (ORR); secondary endpoints included overall survival (OS), event-free survival (EFS) and disease-free survival (DFS). This multicenter retrospective study included 19 patients with de novo ALAL (median age 58 years, range 15\u201371) from 8 hospitals in China, all of whom were treated with the VDVD regimen.After one induction cycle, ORR(CR\u2009+\u2009morphologic leukaemia-free state, MLFS\u2009+\u2009partial remission, PR) was 94.73% (18/19), with CR rate of 84.21% (16/19). No induction deaths occurred. At median follow-up of 11 months (range 2\u201336), 3 (15.79%) patients underwent HSCT. Median OS was 11 months (range 2\u201336), median EFS and DFS were both 9.5 months (range 1\u201331\u200b). In conclusion, the VDVD regimen demonstrates promising efficacy and a manageable safety profile as induction therapy for de novo ALAL.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s41698-026-01764-9": {
+  "guid": "https://www.nature.com/articles/s41698-026-01764-9",
+  "title": "HGS-BioAbductor: hypergraph-based explainable survival modelling and LLM-based biological hypothesis abduction",
+  "link": "https://www.nature.com/articles/s41698-026-01764-9",
+  "abstract": "Explainable deep survival modeling remains challenging due to the performance-explainability trade-off in prognostic models and the gap between feature importance and biological abduction. To address these limitations, we present HGS-BioAbductor, a framework that first constructs a biologically embedded hypergraph neural network for accurate survival prediction. Then, from predictive biomarkers and pathways identified by eXplainable Artificial Intelligence (XAI), it leverages a multi-agent-based tournament process to derive novel molecular mechanisms, and the plausibility and novelty of all hypotheses are quantitatively assessed with automatically queried literature. Across 18 independent clinical proteomics/transcriptomics datasets, HGS achieved the highest C-index in 16/18 benchmarks compared to seven other baselines and outperformed interpretable counterparts by a large margin (+0.1-0.2 C-index). Furthermore, in a case study of hepatocellular carcinoma (HCC), the system demonstrates its ability to propose new hypotheses about previously underexplored proteins in HCC prognosis, e.g., PFKFB2, with strong plausibility in the literature (&gt;0.8), and knockdown experiments in Huh7 and MHCC-LM3 cell lines confirmed that PFKFB2 promotes HCC cell proliferation and colony formation. This work bridges data-driven omics discovery with biological interpretability supported by literature, offering an automated and end-to-end paradigm for clinical omics analysis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.93
+ },
+ "https://www.nature.com/articles/s41746-026-03446-z": {
+  "guid": "https://www.nature.com/articles/s41746-026-03446-z",
+  "title": "Measurement fidelity and external validation of automated breast DCE-MRI segmentation",
+  "link": "https://www.nature.com/articles/s41746-026-03446-z",
+  "abstract": "Automated breast dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) segmentation could facilitate quantitative tumor measurement, but geometric overlap alone does not establish the fidelity of mask-derived measurements. We developed an enhancement-aware three-dimensional MedNeXt framework with gated skip fusion and boundary supervision and evaluated it in a retrospective multi-cohort design spanning locked internal testing, source-held-out assessment, retrospective external validation, and radiologist review. Measurement fidelity was the primary endpoint. Across 521 paired internal-test and DUKE cases, median errors were 9.7% for tumor volume, 1.8\u2009mm for 3D maximum surface diameter, and 10.2% for operational enhancement-defined volume, with corresponding ICCs of 0.97, 0.80, and 0.97. Median Dice was 0.831 internally and 0.823 in the DUKE source-held-out stratum, and was 0.812 and 0.806 in the BC-MRI-SEG and public BreastDCEDL_AMBL retrospective external-validation cohorts, respectively, using the frozen checkpoint without external-label tuning. No major correction was required for 78 of 80 masks in the blinded two-reader review. In 276 paired response-analysis cases, AUROC was 0.732 with automatic geometry and 0.757 with expert geometry (difference, \u22120.025; 95% CI, \u22120.095 to 0.045); discrimination non-inferiority was not demonstrated. These findings support automated segmentation as a starting point for radiologist-supervised retrospective quantitative research within the evaluated cohorts, while distinguishing measurement fidelity from downstream predictive equivalence.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.61
+ },
+ "https://www.nature.com/articles/s41598-026-80245-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-80245-2",
+  "title": "Genotoxic stress responses in wild-type and Nijmegen Breakage Syndrome hiPSC and NPC models of early development",
+  "link": "https://www.nature.com/articles/s41598-026-80245-2",
+  "abstract": "Benzo[a]pyrene diol epoxide (BPDE), a metabolite of Benzo[a]pyrene, is a byproduct of incomplete combustion of organic matter. The accumulation of BPDE-DNA bulky adducts can lead to mutations caused by DNA base-pair substitutions. Although the effects of BPDE on somatic cells have been described, its harmful effects on early human development have not been studied. Here, we investigated the effect of BPDE on human induced pluripotent stem cells (hiPSCs) and their differentiated neural progenitor cells (NPCs) as a model of early embryonic development. Furthermore, we compared hiPSCs and NPCs derived from patient suffering from Nijmegen Breakage Syndrome (NBS), which is a chromosomal instability disorder characterized by defective DNA repair and increased risk of malignancies. Transcriptome and selected protein analysis indicated that hiPSCs compared to NPCs are more sensitive to BPDE exposure. The affected biological processes included p53-mediated DNA damage response, DNA repair by lesion bypass, cell cycle checkpoints and extrinsic apoptosis. In addition, NBS-derived cells exhibited a reduced apoptotic response and a distinct p53 response compared their healthy counterparts. Overall, this iPSC-based model provides insights into the cellular responses to BPDE during early human development in both healthy individuals and NBS patients.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.32
+ },
+ "https://www.nature.com/articles/s41388-026-04014-1": {
+  "guid": "https://www.nature.com/articles/s41388-026-04014-1",
+  "title": "PDGF-BB and bFGF repress Kai1 in pericytes through Src\u2013DNMT-associated promoter methylation and lysosomal trafficking",
+  "link": "https://www.nature.com/articles/s41388-026-04014-1",
+  "abstract": "Tumor angiogenesis is sustained not only by endothelial activation but also by adaptive reprogramming of the perivascular niche. Tetraspanin Kai1 (CD82) functions as a pericyte-intrinsic suppressor of angiogenic activation, yet the mechanisms underlying its loss within angiogenic tumor microenvironments remain poorly understood. Here, we demonstrate that PDGF-BB and basic fibroblast growth factor (bFGF), but not VEGF-A, reduce Kai1 expression in murine pericyte-like model. Mechanistically, PDGFR/FGFR signaling is associated with a dual-layer regulatory program: (1) Src-sensitive increases in DNMT1 and DNMT3A are associated with increased Kai1 promoter methylation and reduced transcription; and (2) PKC-sensitive, Flotillin-1-associated trafficking contributes to Kai1 internalization and lysosomal degradation. Functionally, DNMT inhibition or lysosomal blockade restored Kai1 levels and attenuated growth factor-induced sprout outgrowth in 3D spheroids. In vivo, combined DNMT and lysosomal inhibition reduced tumor growth in WT mice, whereas a comparable reduction was not observed in Kai1 KO mice. Collectively, our findings identify a growth factor\u2013programmed \u201coff-switch\u201d that disables a pericyte-intrinsic anti-angiogenic brake. These findings nominate pericyte Kai1 regulation as a potential mechanism for future investigation in VEGF-independent vascular remodeling.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.23
  }
 }
