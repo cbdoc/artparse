@@ -3149,16 +3149,6 @@
   "type": "Article",
   "score": 1.27
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00354-5?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00354-5?rss=yes",
-  "title": "Intratumoral Bacillus cereus orchestrates stem-like lymphoid niches to potentiate immunotherapy response in hepatocellular carcinoma",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00354-5?rss=yes",
-  "abstract": "Hu et al. integrate spatial multi-omics to identify stem-like lymphoid niches (SLNs) organized by CD70+ ILC2s and Tpex cells that predict PD-1/PD-L1 immunotherapy responses in hepatocellular carcinoma (HCC). They reveal that Bacillus cereus-PI-PLC increases SLN abundance and synergizes with PD-L1 blockade, highlighting microbiota-driven enhancement of cancer immunotherapy through SLNs therapeutically in HCC.",
-  "source": "Cancer Cell",
-  "date": "2026-08-17T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.97
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00355-7?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00355-7?rss=yes",
   "title": "Proteo-genomics-guided interpretation of somatic mutations in cancer genomes",
@@ -16738,5 +16728,25 @@
   "date": "2026-11-14T00:00:00+00:00",
   "type": "Article",
   "score": 0.56
+ },
+ "https://www.nature.com/articles/s41598-026-79550-7": {
+  "guid": "https://www.nature.com/articles/s41598-026-79550-7",
+  "title": "Identifying potential combinatorial mechanism between paclitaxel and Almonertinib in lung cancer through multi-omics integration",
+  "link": "https://www.nature.com/articles/s41598-026-79550-7",
+  "abstract": "Combination therapy using epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) and cytotoxic chemotherapy is a promising strategy to overcome resistance in non-small cell lung cancer (NSCLC). However, the complicated molecular mechanisms remain elusive. Here, we employed an integrated multi-omics approach to dissect the molecular responses to the third-generation EGFR-TKI Almonertinib (Alm) and paclitaxel (PTX) and their combination in EGFR-mutant NSCLC cells. Transcriptomic and metabolomic profiling revealed that the combination therapy elicits an unique molecular signature distinct from either monotherapy alone. We identified a specific gene cluster (C8) that was suppressed only by the drug combination, and mainly enriched in cell cycle, DNA replication and mitochondrial function. The downregulation of these processes was validated in H1975 cells, and key genes (e.g., XRCC2, SKA3, TOMM40) also exhibited prognostic relevance. Meanwhile, metabolomic analysis uncovered a combination-specific blockade of mitochondrial fatty acid oxidation, evidenced by L-Carnitine depletion and accumulation of Hexanoyl-L-Carnitine and Oleoyl-L-Carnitine. This work demonstrates the potential combination interaction of Alm and PTX, converging on the suppression of cell cycle and the induction of carnitine metabolism blockage. Our findings provide a profound mechanistic rationale for this combination therapy.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.08
+ },
+ "https://www.nature.com/articles/s41598-026-80206-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-80206-9",
+  "title": "The pancreatic cancer secretome activates the STAT3 signaling in pancreatic stellate cells to drive the secretion of muscle atrophy-inducing factors",
+  "link": "https://www.nature.com/articles/s41598-026-80206-9",
+  "abstract": "The pancreatic tumor microenvironment, a major component of pancreatic tumors, plays important roles in tumor progression, metastasis, and chemotherapy resistance. In patients with advanced pancreatic cancer, unintentional weight loss by muscle and/or adipose tissue atrophy, called cancer cachexia, is frequently observed. Although it is well established that cancer cells secrete muscle atrophy-inducing factors (MAIF), we investigated whether cancer cells also produce factors to facilitate the secretion of MAIF from microenvironmental cells. To test this possibility, pancreatic stellate cells were treated with conditioned medium from various pancreatic cancer cells (CCM). We revealed that CCM consistently activated STAT3 to secrete MAIF from stellate cells and that the secretion was not observed when CCM from brefeldin A (BFA)-treated cancer cells was added. These results suggest that conventionally secreted factors from cancer cells are responsible for the secretion of MAIF from stellate cells. On the other hand, BFA did not inhibit the secretion of MAIF from either pancreatic cancer cells or stimulated stellate cells. We therefore propose that not only conventionally, but also unconventionally secreted factors contribute to muscle atrophy.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-14T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.15
  }
 }
