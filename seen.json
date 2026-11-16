@@ -49,16 +49,6 @@
   "type": "Preview",
   "score": 0.82
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00356-9?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00356-9?rss=yes",
-  "title": "Biological aging and the hidden architecture of early-onset cancer risk",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00356-9?rss=yes",
-  "abstract": "Across birth cohorts, in a Nature Medicine study, Tian et al. identify larger biological age gaps associated with early-onset lung, colorectal, and uterine cancers across birth cohorts. These findings position biological age as an integrative marker of physiological dysregulation. Future work combining aging clocks and mutational signatures could distinguish tumor-promoting states from tumor-initiating exposures.",
-  "source": "Cancer Cell",
-  "date": "2026-08-18T00:00:00+00:00",
-  "type": "Spotlight",
-  "score": 0.78
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00360-0?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00360-0?rss=yes",
   "title": "Integrated clinicogenomic analysis reveals the evolution and metastatic tropisms of advanced colorectal cancer",
@@ -208,16 +198,6 @@
   "date": "2026-09-22T00:00:00+00:00",
   "type": "Short article",
   "score": 0.02
- },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00917-7?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00917-7?rss=yes",
-  "title": "Mutually beneficial interactions between bacteria and Arabidopsis promote phosphorus nutrition and growth",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00917-7?rss=yes",
-  "abstract": "Over 20% of root-associated bacteria promote Arabidopsis seedling growth under phosphorus (P) deficiency in a host-dependent manner. Further analyses showed that P-deficient plants secrete malate to attract Acinetobacter species to the rhizoplane, where the bacteria utilize plant-secreted nitrogen and carbon sources to fuel P mobilization that benefits both parties.",
-  "source": "Cell",
-  "date": "2026-08-18T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.04
  },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00932-3?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00932-3?rss=yes",
@@ -9729,16 +9709,6 @@
   "type": "Article",
   "score": 0.87
  },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00877-9?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00877-9?rss=yes",
-  "title": "Multimodal brain cell atlas across the adult macaque lifespan",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00877-9?rss=yes",
-  "abstract": "A multimodal single-nucleus atlas of 2,955,873 nuclei spanning eight macaque brain regions across the adult lifespan, including exceptionally old individuals, reveals region-specific and shared patterns of cellular vulnerability during aging. This framework provides a basis for dissecting shared and divergent molecular programs underlying primate brain aging, longevity, and neurodegeneration.",
-  "source": "Cell",
-  "date": "2026-08-18T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.41
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00945-1?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00945-1?rss=yes",
   "title": "Identification of the tendon/ligament stem cell in mice and humans",
@@ -16948,5 +16918,75 @@
   "date": "2026-11-15T00:00:00+00:00",
   "type": "Article",
   "score": 1.7
+ },
+ "https://www.nature.com/articles/s41598-026-80266-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-80266-x",
+  "title": "Factors associated with unmet patient care, sexual health, and health system needs among cancer patients at an oncology center in Southern Ethiopia, 2024",
+  "link": "https://www.nature.com/articles/s41598-026-80266-x",
+  "abstract": "Unmet health care needs refer to the gap between patients perceived need for services and the care they receive. These needs may occur during the course of cancer diagnosis and treatment and can cause psychological distress, ineffective coping, and reduced quality of life. Evidence on patient care/support, sexuality, and health system needs among cancer patients in Ethiopia is limited. To assess the prevalence and factors associated with unmet patient care/support, sexuality, and health system needs among cancer patients at the Oncology Center of Hawassa University Comprehensive Specialized Hospital, Hawassa, Ethiopia, in 2024. An institution-based cross-sectional study was conducted among 321 cancer patients selected via simple random sampling. Data were collected using an interviewer-administered structured questionnaire and analyzed using SPSS 26. Multivariable logistic regression identified factors associated with unmet needs; p\u2009&lt;\u20090.05 was considered significant. Of 311 participants (response rate 96.9%), the mean age was 45.16 years. Unmet needs were highest in the health system and information domain (72.3%), followed by patient care/support (43.4%) and sexuality (27.7%). Low Income (Adjusted Odds Ratio [AOR]\u2009=\u20095.96; 95% Confidence Interval (CI): 2.29\u201314.13) and middle income (AOR\u2009=\u20094.64; 95% CI: 1.48\u201314.50) predicted unmet health system needs. Co-existing illness was associated with unmet patient care/support needs (AOR\u2009=\u20091.87; 95% CI: 1.09\u20133.52), and time since diagnosis predicted unmet sexuality needs (AOR\u2009=\u20091.05; 95% CI: 1.01\u20131.11). Unmet supportive care needs are high, particularly in the health system and information domain. Interventions addressing income, co-existing illnesses, and disease duration are recommended to improve supportive care and patient quality of life.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.58
+ },
+ "https://www.nature.com/articles/s41598-026-80452-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-80452-x",
+  "title": "Antitumor activity and immune-related gene expression changes following recombinant Mycobacterium smegmatis treatment in a mouse model of bladder cancer",
+  "link": "https://www.nature.com/articles/s41598-026-80452-x",
+  "abstract": "Bladder cancer requires additional therapeutic strategies because of frequent recurrence and progression risk. We evaluated recombinant Mycobacterium smegmatis expressing a human macrophage migration inhibitory factor\u2013interleukin-7 fusion protein (rSmeg-hMIF-hIL-7) in a syngeneic subcutaneous MBT-2 bladder cancer model. Among mice that developed measurable tumors, intraperitoneally treated mice showed reduced tumor growth and longer endpoint-free survival, defined as time to death or humane-endpoint euthanasia. RNA sequencing of four control and three treated tumors identified 116 differentially expressed genes at a fold-change magnitude\u2009\u2265\u20092 and false discovery rate (FDR)\u2009&lt;\u20090.05. Enrichment analyses highlighted immune-related transcriptional differences, although tissue-collection timing and tumor burden limited their attribution to treatment. Cross-species expression comparison identified five exploratory candidates: CCL15, CCRL2, ST3GAL5, SIGLEC6, and TMEM255A. Four showed FDR-significant survival associations in exploratory unadjusted Cox analyses within the same TCGA-BLCA cohort. Expression patterns concordant with those in treated mouse tumors were also associated with papillary histology. RT-qPCR using the same biological samples supported increased Ccl6 and St3gal5 expression after multiple-testing correction. These findings support the antitumor potential of rSmeg-hMIF-hIL-7 and provide exploratory links between murine tumor transcriptional differences and human bladder cancer characteristics.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.03
+ },
+ "https://www.nature.com/articles/s41598-026-75661-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-75661-3",
+  "title": "Association of MMP9 (rs17576 and rs3787268) genetic variants with breast cancer susceptibility: integrating molecular and bioinformatics approaches",
+  "link": "https://www.nature.com/articles/s41598-026-75661-3",
+  "abstract": "Matrix metalloproteinase-9 (MMP9) plays an important role in extracellular matrix remodeling and has been implicated in tumor invasion and metastasis in several cancers, including breast cancer (BC). This study aims to elucidate the genetic factors influencing breast cancer risk by analyzing the role of MMP9 (rs17576 and rs3787268) variants in cancer susceptibility. We employed a holistic methodology that integrates genetic analysis with sophisticated bioinformatics techniques to elucidate their potential influence on the progression of breast carcinoma using multi-platform functional evidence. A case\u2013control study was conducted including 120 breast cancer patients and 120 age-matched healthy controls. Genotyping of rs17576 and rs3787268 was performed using TaqMan allelic discrimination assays. Logistic regression models were applied to evaluate genotype, allele, and haplotype associations with breast cancer susceptibility. Complementary bioinformatic analyses (GEPIA2, GTEx, TNMplot, muTarget, STRING, I-Mutant, and 3DSNP) were performed to investigate gene expression patterns, eQTL effects, protein stability, and potential molecular interactions. The missense variant MMP9*rs17576 showed a significant association with breast cancer susceptibility under several genetic models (A/G: OR\u2009=\u20092.31, 95% CI\u2009=\u20091.24\u20134.29, p\u2009=\u20090.007; and G/G: OR\u2009=\u20092.46, 95% CI\u2009=\u20091.16\u20135.22, p\u2009=\u20090.017). The G allele frequency was higher in patients than in controls (52.5% vs. 41.2%; OR\u2009=\u20091.57, 95% CI\u2009=\u20091.10\u20132.26, p\u2009=\u20090.013). In contrast, the intronic variant MMP9*rs3787268 showed no independent association with breast cancer susceptibility. Bioinformatic analyses suggested that rs17576 may influence MMP9 function and regulation, including predicted protein destabilization (\u0394\u0394G\u2009=\u2009\u2212\u20090.34&nbsp;kcal/mol), breast-tissue eQTL effects, and potential involvement in tumor-related molecular pathways. Expression analyses also indicated increased MMP9 expression in breast cancer tissues and association with disease progression. These findings suggest that the MMP9*rs17576 variant may contribute to breast cancer susceptibility in Egyptian women, whereas MMP9*rs3787268 showed no independent association. Given the single-population design, these results should be interpreted cautiously and require validation in larger, ethnically diverse cohorts together with functional investigations.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.65
+ },
+ "https://www.nature.com/articles/s41598-026-80730-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-80730-8",
+  "title": "Clinical significance of recurrently mutated genes in VHL wild-type clear cell renal cell carcinoma",
+  "link": "https://www.nature.com/articles/s41598-026-80730-8",
+  "abstract": "Clear cell renal cell carcinoma (ccRCC), the most common subtype of kidney cancer, is characterized by its genomic heterogeneity and high risk of recurrence after nephrectomy. While the majority of ccRCC tumors harbor somatic mutations in VHL tumor suppressor gene (VHLmut), approximately 20\u201325% lack VHL mutations (VHLwt), and may exhibit different progression patterns. VHLwt tumors remain significantly underrepresented in genomic studies. Our objective was to compare prognostic significance of somatic mutations in ccRCC-associated genes between patients with VHLmut and VHLwt tumors. We analyzed genomic and clinical data of 914 ccRCC patients (720 VHLmut and 194 VHLwt) from the Cancer Genomics of the Kidney (CAGEKID) cohort. Prognostic impacts of individual and co-occurring mutations in 12 RCC-related genes as well as chromosomal copy number variations (CNVs), associated with survival, were evaluated in VHLmut and VHLwt groups through survival analyses. Findings were compared between the two groups. Prognostic significance of somatic mutations in BAP1, SETD2 and PBRM1, is dependent on VHL mutational status. Co-occurring mutations in PBRM1 and SETD2 were significantly associated with poorer clinical outcomes in VHLmut tumors, but not in VHLwt tumors. TP53 mutations were associated with poorer survival in VHLwt tumors. The differing prognostic effects of somatic mutations by VHL status suggest distinct underlying mechanisms of disease progression in VHLwt ccRCCs, highlighting the need to consider VHLwt separately from VHLmut tumors in prognostic and predictive models. Further investigations of these observations in independent cohorts are warranted.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.83
+ },
+ "https://www.nature.com/articles/s41419-026-09410-9": {
+  "guid": "https://www.nature.com/articles/s41419-026-09410-9",
+  "title": "Combining inhaled hyperoxia and olaparib for treating lung metastases in uveal and cutaneous melanoma",
+  "link": "https://www.nature.com/articles/s41419-026-09410-9",
+  "abstract": "Uveal melanoma is highly metastatic, particularly to the liver and lungs, and is frequently associated with loss on chromosome 3 and a gain on chromosome 8. This alteration promotes sustained tumor hypoxia, making this cancer type a strong candidate for reoxygenation strategies aimed at limiting tumor adaptation to hypoxia. Here, we investigated the therapeutic potential of supplemental oxygen, alone or in combination with the PARP inhibitor olaparib which has also been shown to impair tumor adaptation to hypoxia and the would attenuates hyperoxia-induced inflammatory burst, in uveal melanoma cell lines. Non-tumoural lung epithelial cells served as control. Exposure to supplemental oxygen increased oxidative stress and impaired uveal melanoma cell viability, proliferation, and migration, while control cells were minimally affected. Co-treatment with olaparib effectively modulates the hyperoxia-induced inflammatory response. Notably, both hyperoxia and the combination treatment triggered pyroptosis, an immunogenic form of cell death. In vivo, a partial model of metastatic cutaneous melanoma exposed to inhaled hyperoxia showed a significant reduction in lung metastatic burden. These findings support the use of reoxygenation combined with PARP1 inhibitors as a promising strategy to enhance tumor stress responses and promote immunogenic cell death in metastatic uveal melanoma, with an emphasis on the modulation of inflammatory signaling.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.74
+ },
+ "https://www.nature.com/articles/s41391-026-01169-6": {
+  "guid": "https://www.nature.com/articles/s41391-026-01169-6",
+  "title": "Phase I trial of using a prostatic urethral lift implant with stereotactic ablative body radiotherapy for men with prostate cancer and benign prostatic hyperplasia (NCT05311527)",
+  "link": "https://www.nature.com/articles/s41391-026-01169-6",
+  "abstract": "Prostatic urethral lift (PUL), an established minimally invasive surgical intervention for benign prostatic hyperplasia (BPH), may serve as a strategy to alleviate obstructive symptoms and to broaden eligibility for stereotactic ablative body radiotherapy (SAbR). We evaluated the safety and feasibility of combining PUL, spacer gel, fiducial markers, and SAbR for men with prostate cancer (PCa) who have underlying obstructive urinary symptoms due to BPH. This phase I, non-blinded, single-arm clinical trial included men with intermediate-risk PCa with symptomatic BPH with the American Urological Association Symptom Score (AUASS)\u2009\u2265\u200917. PUL, rectoprostatic spacer gel and fiducial markers were placed during a single procedure under general anesthesia. Subjects subsequently underwent SAbR to a dose of 4000\u2009cGy in 5 fractions to the prostate and proximal seminal vesicles. Among the 15 enrolled study participants, four individuals experienced Clavien\u2013Dindo grade 1\u20132 perioperative complications related to PUL implantation. In addition, eight patients experienced CTCAE v5.0 grade 1\u20132 genitourinary adverse events during or following SAbR. No grade \u22653 toxicities occurred. Mean AUASS significantly improved from 22.1 to 14.0 at 3 months post-SAbR (p\u2009&lt;\u20090.01). Mean EPIC urinary obstructive/irritative scores improved over time from 64.6 to 81.3 (p\u2009=\u20090.02), and patients reached peak flow faster at 3 months post-SAbR (p\u2009=\u20090.03). PUL with spacer gel, followed by SAbR, appears to be a safe and feasible strategy for PCa patients with underlying BPH. While waiting for a longer-term follow-up, we observed a modest improvement in obstructive urinary symptoms at 3 months post-radiation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Brief Communication",
+  "score": 0.69
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.09.765248v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.09.765248v1?rss=1",
+  "title": "Minor intron splicing restricts E2F transcription factor activity in RB-deregulated prostate cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.09.765248v1?rss=1",
+  "abstract": "Castration-resistant prostate cancer with neuroendocrine differentiation (CRPC-NE) arises in RB1-mutated lineage plastic cells in response to androgen receptor (AR)-targeted therapies. RB1 loss leads to constitutive E2F activation and cylin-dependent kinase (CDK) inhibitor resistance, making it challenging to restrict E2F activity. A post-transcriptional node is that typical E2Fs contain a rare but highly conserved minor intron, processed by the minor spliceosome (MiS). In an in vivo CRISPR screen, we nominate the MiS as the strongest dependency, and U6atac correlates strongest with E2F transcriptional programs in a clinical CRPC cohort. U6atac depletion led to mis-splicing of typical E2Fs, cell cycle arrest, and translation of a minor intron-containing E2F1 isoform (E2F1-MIRI) as a pharmacodynamic biomarker. Combined E2F activator depletion, induced further neuroendocrine (NE) specification. U6atac depletion shifted NE identity along the ASCL1 axis without the secretory granule program, and induced cell-surface antigens including DLL3, nominating MiS inhibition as a combination partner for antigen-directed agents.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-15T00:00:00+00:00",
+  "type": "",
+  "score": 1.71
  }
 }
