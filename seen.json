@@ -16988,5 +16988,185 @@
   "date": "2026-11-15T00:00:00+00:00",
   "type": "",
   "score": 1.71
+ },
+ "https://www.nature.com/articles/s41419-026-09336-2": {
+  "guid": "https://www.nature.com/articles/s41419-026-09336-2",
+  "title": "Matrix stiffness drives early OSCC metastasis by inducing a PERK-dependent unfolded protein response",
+  "link": "https://www.nature.com/articles/s41419-026-09336-2",
+  "abstract": "Occult metastasis remains a major cause of treatment failure in early-stage oral squamous cell carcinoma (OSCC). The underlying drivers of this early metastatic switch are poorly understood. Here, through integrated multi-omics analysis of early-stage OSCC, we identify a profound proteostatic crisis, characterized by a severe decoupling of the transcriptome and proteome, as a hallmark of metastatic tumors. This imbalance is driven by heightened endoplasmic reticulum (ER) stress, which is orchestrated by the stiff microenvironment enriched with cancer-associated fibroblasts (CAFs) and dense collagen. Mechanistically, we demonstrate that matrix stiffness activates the PERK-associated unfolded protein response (UPR), which not only helps cancer cells survive proteotoxic stress but also promotes a pro-metastatic phenotype. In vitro and in vivo, pharmacologically targeting the ER stress sensor PERK robustly suppressed stiffness-induced invasion and metastasis. Our findings reveal that the matrix stiffness-PERK axis is a critical driver of early OSCC metastasis, offering PERK as a promising therapeutic target.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.91
+ },
+ "https://www.nature.com/articles/s41523-026-01079-9": {
+  "guid": "https://www.nature.com/articles/s41523-026-01079-9",
+  "title": "Directional mitochondrial transfer and microenvironmental adaptation in breast cancer",
+  "link": "https://www.nature.com/articles/s41523-026-01079-9",
+  "abstract": "Intercellular mitochondrial transfer may reallocate metabolic and signalling capacity across breast-tumour ecosystems, but evidence varies by donor, cargo and method. We synthesise direct breast-cancer and cross-system studies using a direction- and cargo-resolved framework. Stress may create transfer-permissive interfaces, whereas active transfer requires donor-resolved cargo in recipient cells. We define evidence standards, identify causal boundaries for therapy resistance and propose direction-selective block\u2013restore strategies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Review",
+  "score": 0.94
+ },
+ "https://www.nature.com/articles/s41525-026-00630-8": {
+  "guid": "https://www.nature.com/articles/s41525-026-00630-8",
+  "title": "QuBIN: quantum-accelerated discovery of conserved interactions in multi-omics networks",
+  "link": "https://www.nature.com/articles/s41525-026-00630-8",
+  "abstract": "Identifying conserved and condition-specific modules in multi-omics networks is essential for biomarker discovery to advance precision medicine, yet the growing scale of genome-wide data imposes significant computational challenges. Parallel computing does not address intrinsic time complexity of exhaustive gene-gene condition searches, particularly when bootstrapping is required for network stability. These limitations motivate computational paradigm shifts. Here, we present a quantum computing based pipeline (QuBIN) for large-scale multi-omics network analysis using Grover\u2019s search algorithm to reduce query complexity in gene regulatory network (GRN) interrogation. We describe the algorithmic design, quantum circuit implementation, and validation of accuracy and scalability in the noisy intermediate-scale quantum (NISQ) era. The pipeline can potentially accelerate identification of statistically significant and overlapping gene-gene interactions across patient cohorts inferred using Prediction Logic Boolean Implication Networks (PLBINs), leveraging the quadratic speedup of Grover\u2019s algorithm. We applied this pipeline to DNA copy number variation (CNV) mediated transcriptional networks in non-small cell lung cancer, querying overlapping edges from networks comprising 28,390 and 7063 edges across both intra-cohort and inter-cohort datasets, simulated using tensor network methods. Achieving 100% accuracy in&nbsp;identifying overlapping edges.&nbsp;Both tensor network simulations and hardware tests establish a proof of concept for quantum-accelerated multi-omics analysis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.96
+ },
+ "https://www.nature.com/articles/s41598-026-77336-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-77336-5",
+  "title": "YOLOv11-PVT: a transformer-enhanced framework for accurate multi-class brain tumor classification from MRI images",
+  "link": "https://www.nature.com/articles/s41598-026-77336-5",
+  "abstract": "Brain tumor classification and detection from Magnetic Resonance Imaging(MRI) images is critical for early diagnosis. State-of-the-art deep learning (DL) methods, such as the You Only Look Once (YOLO) family of detectors, have recently gained widespread success in analysis of medical images. In this paper, based on the state-of-the-art YOLOv11 and YOLOv8 architectures, The study has propose a brain tumor detection framework and improve the performance of brain tumor detection by replacing the conventional Cross Stage Partial(CSP)-based backbone with a Pyramid Vision Transformer (PVT). The baseline YOLOv11 model is trained with a balanced and augmented Brain Tumor MRI Dataset, achieving improved Precision, Recall, F1-score, Mean Average Precision(mAP@0.5), and mAP@0.5:0.95 compared with baseline YOLOv8 and YOLOv11 models. To overcome the limitations of convolution-based feature extraction, particularly the lack of global contextual information and difficulty in detecting small or low-contrast tumors, this study proposes a hybrid YOLOv11-PVT model. The PVT backbone generates hierarchical multi-scale features and global attention representations, thereby providing richer contextual information. Results show that the proposed YOLOv11-PVT framework demonstrated improved sensitivity and stronger IoU-based localization consistency compared with the baseline YOLOv11 model. These results demonstrate that transformer-enhanced backbones can improve the robustness and localization capability of tumor detection systems.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.72
+ },
+ "https://www.nature.com/articles/s41592-026-03291-8": {
+  "guid": "https://www.nature.com/articles/s41592-026-03291-8",
+  "title": "Tracing the genetic roots of cellular identity in tumors",
+  "link": "https://www.nature.com/articles/s41592-026-03291-8",
+  "abstract": "A new Bayesian framework, Echidna, integrates bulk whole-genome sequencing with single-cell RNA sequencing to connect clonal copy-number states with transcriptional programs, providing a tractable way to ask how much of a tumor cell\u2019s identity is encoded by its genome.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "News & Views",
+  "score": 0.84
+ },
+ "https://www.nature.com/articles/s41420-026-03416-0": {
+  "guid": "https://www.nature.com/articles/s41420-026-03416-0",
+  "title": "A pan-cancer multi-omics atlas identifies HTR7 as a neuroimmune modulator associated with macrophage polarization and poor prognosis in AML",
+  "link": "https://www.nature.com/articles/s41420-026-03416-0",
+  "abstract": "Serotonin signaling is increasingly implicated in cancer biology, but the role of 5-hydroxytryptamine receptor 7 (HTR7) in tumor growth and macrophage polarization remains poorly defined. We integrated pan-cancer multi-omics data from 33 TCGA tumor types with single-cell and spatial transcriptomics, functional assays, xenograft models, and computational drug screening, focusing on acute myeloid leukemia (AML). HTR7 was upregulated in multiple malignancies and preferentially enriched in monocyte/macrophage populations, with spatial expression overlapping macrophage-rich regions. In clear cell renal cell carcinoma, CellChat predicted TNF- and SPP1\u2013integrin-mediated communication involving HTR7-positive macrophages. HTR7 depletion suppressed proliferation and migration in glioma, breast cancer, and hepatocellular carcinoma cells, reduced Vimentin and SNAI1 expression, and inhibited hepatocellular carcinoma and AML xenograft growth. In AML, elevated HTR7 expression was independently associated with shorter overall survival. HTR7 depletion reduced leukemic cell viability and induced G0/G1 arrest, while RNA sequencing revealed suppression of PI3K/AKT and cell-cycle programs. In primary human monocyte-derived macrophages and THP-1-derived macrophages, HTR7 knockdown impaired IL-4/IL-13-induced M2-like polarization and reduced M2-associated marker expression. In AML cell lines, HTR7 depletion reduced AKT and NF-\u03baB phosphorylation and MRC1 and IL10 expression, whereas SC79 partially reversed these effects. Virtual screening and molecular dynamics simulations identified nilotinib as a candidate HTR7 ligand, and cellular thermal shift assays showed increased HTR7 thermal stability, consistent with intracellular target engagement. Higher HTR7 expression was associated with greater nilotinib sensitivity in BeatAML, whereas HTR7 depletion modestly increased nilotinib IC\u2085\u2080 values in AML cells. Together, these findings support HTR7 as a neuroimmune regulator of tumor growth and M2-like macrophage polarization, and as a candidate prognostic biomarker and therapeutic target in AML.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.03
+ },
+ "https://www.nature.com/articles/s41598-026-79748-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-79748-9",
+  "title": "Brain tumor classification from contrast-enhanced T1 MRI, a patient-wise deep learning study",
+  "link": "https://www.nature.com/articles/s41598-026-79748-9",
+  "abstract": "Accurate classification of intracranial tumors on contrast-enhanced T1-weighted MRI (CE-T1) is challenged by heterogeneous enhancement patterns and strong correlations among multiple slices from the same patient. We propose a compact CE-T1 MRI analysis framework that standardizes image intensities, enhances local CLAHE (contrast using contrast-limited adaptive histogram equalization), and applies a lightweight convolutional classifier whose slice-level probabilities are aggregated to obtain a single patient-level prediction. An independent optional U-Net-based pathway provides binary tumor segmentation when spatial delineation is required. Evaluation was performed using a strictly patient-wise, leakage-controlled protocol with stratified five-fold cross-validation on 233 subjects (3,064 slices) comprising glioma, meningioma, and pituitary adenoma. The classifier achieved 99.4% patient-level accuracy, with macro-averaged sensitivity and specificity of 99.3% and 99.0%, respectively. The optional segmentation pathway achieved a mean Dice similarity coefficient of 97.3%. Post-hoc temperature scaling reduced the patient-level expected calibration error from 3.0% to approximately 1.2%, although larger independent cohorts are required to determine the stability of this estimate. The classifier contains 7.8 million parameters and requires approximately 15.9 GFLOPs per $$256\\times 256$$ slice, with an end-to-end inference latency of approximately 0.41 s per slice under the evaluated hardware configuration. These findings demonstrate strong patient-level performance within the evaluated retrospective cohort. The framework is intended as a research-stage approach for reproducible evaluation rather than a clinically validated diagnostic system for routine radiology practice. However, no independent quantitative external validation was performed; therefore, multi-centre evaluation across different scanners, acquisition protocols, institutions, and patient populations is required before generalizability or clinical applicability can be established.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.68
+ },
+ "https://www.nature.com/articles/s41598-026-80025-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-80025-y",
+  "title": "Explainable hybrid CNN\u2013transformer with fuzzy feature optimization for thyroid nodule malignancy classification on ultrasound",
+  "link": "https://www.nature.com/articles/s41598-026-80025-y",
+  "abstract": "Thyroid nodule malignancy classification using ultrasound remains challenging owing to the differences in assessment by TI-RADS among different observers as well as the lack of interpretability in deep learning models. This study proposes a framework that is based on hybrid CNN-Transformer architecture with fuzzy feature optimization and visual explanation. This system combines convolution feature extraction, Transformer modeling, fuzzy membership feature selection, Softmax classifier, and Grad-CAM explanation. Model training was done using the TG3K+TN3K dataset, whereas DDTI, AUITD-Algerian, and micro-lesion synthetic dataset were used for testing. The performance evaluation of the model included classification metrics, cross-dataset testing, TI-RADS feature alignment, probability calibration, ablation testing, computation speed, and reader study by three radiologists. The model based on the suggested framework attained 91.8% accuracy, 89.8% sensitivity, 93.0% specificity, and 90.5% F1-score, along with an ROC-AUC of 0.932 and an inference time of 0.54&nbsp;s per image. The use of Grad-CAM resulted in 82.85% mean feature alignment with TI-RADS region annotations by radiologists. Diagnostic accuracy increased by 9% points with the use of the assistance of AI. The calibration of probability led to a decrease in expected calibration error from 11.6 to 3.8%. However, factors such as disparities between the datasets used, the retrospective manner in which evaluation was done, and the use of artificial perturbations are some of the reasons why there is no immediate application of these findings into practice. This is because further prospective validation from multicenter studies is necessary to confirm clinical applicability of the results.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.48
+ },
+ "https://www.nature.com/articles/s41598-026-80638-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-80638-3",
+  "title": "Integrative metabolomics and gene expression analyses reveal acetogenin-rich annona muricata leaf extract suppresses MCF-7 cell proliferation in obesogenic microenvironment",
+  "link": "https://www.nature.com/articles/s41598-026-80638-3",
+  "abstract": "Obesity is associated with a significantly poorer prognosis in patients with Luminal A breast cancer, this investigation sought to determine the growth-inhibitory potential of Annona muricata leaf extracts against MCF-7 cells under obesogenic conditions and to identify key bioactive compounds through integrative metabolomics, gene expression analysis, and molecular docking. MCF-7 cells cultured in an obesogenic microenvironment were treated with 96, 75, and 25% ethanol extracts of A. muricata leaves. Antiproliferative assay was determined by IC\u2085\u2080 values. Expression of BAX and E2F2 was analysed to assess apoptotic and proliferative responses. Metabolomic profiling was executed via LC-MS/MS, with subsequent multivariate statistical tools\u2014specifically PCA and PLS regression\u2014employed to identify correlations between specific metabolites, IC\u2085\u2080 data, and gene expression patterns. Selected metabolites were evaluated by molecular docking against MDM2 (PDB ID: 1T4E). The 96% ethanol extract exhibited the strongest antiproliferative activity (IC\u2085\u2080 = 1.671&nbsp;\u00b5g/mL). All extracts upregulated BAX, particularly the 75% extract, while E2F2 was downregulated in the 25 and 96% extracts. LC\u2013MS/MS identified 339 annotated metabolites with clear PCA clustering. The PLS model showed excellent predictive performance (R\u00b2Y\u2009=\u20090.9897; Q\u00b2-cum\u2009=\u20090.9762; RMSEE\u2009=\u20090.0541). Metabolites at retention times 24\u201340&nbsp;min with VIP 1 were mainly acetogenins, including muricatocin A and chatenaytrienin 1, negatively correlated with IC\u2085\u2080 and associated with increased BAX and decreased E2F2. Docking analysis showed stronger binding affinities than the native ligand. Acetogenin-rich A. muricata extract demonstrates potent antiproliferative activity under obesogenic conditions, potentially through inhibition of the MDM2\u2013p53 interaction and modulation of apoptotic and proliferative pathways.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.89
+ },
+ "https://www.nature.com/articles/s41592-026-03279-4": {
+  "guid": "https://www.nature.com/articles/s41592-026-03279-4",
+  "title": "Echidna: a Bayesian framework for integrative inference of copy number alterations impacting phenotypic plasticity",
+  "link": "https://www.nature.com/articles/s41592-026-03279-4",
+  "abstract": "The ability of cells to adapt their behavior in response to genetic or environmental changes is a fundamental biological process that drives cellular diversity in both normal and pathological contexts, including in tumor evolution. Copy number alterations (CNAs), which can include large-scale changes in genomic ploidy, play a key role in creating adaptive advantages in evolving cell populations. However, tracing these populations across experiments and disentangling the role of CNAs from other sources of transcriptional variability remains challenging and expensive. Here we present Echidna, a Bayesian hierarchical model that integrates single-cell RNA sequencing and bulk whole-genome sequencing data to enable robust integrative inference of CNAs, jointly across samples and treatment time points, to better understand the impact of genomic events on cellular phenotype. Applying Echidna to patient tumor specimens, we demonstrate its superior performance in clonal reconstruction and derive insights into therapy resistance mechanisms. Echidna integrates genomic and transcriptomics data to reveal how copy number alterations shape tumor evolution and therapy resistance.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.48
+ },
+ "https://www.nature.com/articles/s42256-026-01327-4": {
+  "guid": "https://www.nature.com/articles/s42256-026-01327-4",
+  "title": "Interpretable distance-resolved graph learning for cancer gene priority screening",
+  "link": "https://www.nature.com/articles/s42256-026-01327-4",
+  "abstract": "Systematic screening for cancer genes (CGs) is still a central goal in precision oncology, yet integrating sparse and spatially dispersed oncogenic signals to identify testable candidates remains challenging. Here we present CGMap, an interpretable graph-learning framework that uses a width-oriented parallel architecture to prioritize potential CGs from biomolecular networks and trace mechanistic cues. By constructing distance-resolved channels, CGMap localizes spatially dispersed CG signals across multiple topological scales while avoiding representation homogenization. A global diffusion module quantifies gene cooperativity along pathway contexts and yields traceable virtual interactions that map predictions to potential regulatory hypotheses, providing intrinsic interpretability for model decisions. Across multiple biomolecular networks in a pan-cancer setting, CGMap analysed 12,022 genes, consistently outperformed existing methods while remaining computationally efficient and prioritized 70 reliable candidates, including those previously unannotated in established databases. Importantly, the prioritized candidates were associated with the suppression of tumour-related phenotypes, including reduced cell proliferation, migration and invasion, along with a shift of epithelial-to-mesenchymal transition (EMT)-related features toward a non-mesenchymal state, as supported by parallel loss-of-function assays across cancer and non-malignant cell lines. Wang et al. propose CGMap, a distance-resolved graph-learning framework that maps dispersed oncogenic signals into structured priorities, narrowing the cancer gene candidate space and establishing an interpretable path from hypotheses to practical validation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.5
+ },
+ "https://www.nature.com/articles/s41587-026-03344-5": {
+  "guid": "https://www.nature.com/articles/s41587-026-03344-5",
+  "title": "A CD7-targeted AAV variant enables efficient T and NK cell engineering in vivo",
+  "link": "https://www.nature.com/articles/s41587-026-03344-5",
+  "abstract": "Adeno-associated virus (AAV) vectors have been applied for precise genome engineering in human T cells but poor tropism restricts their efficiency and translational potential. Here, through directed evolution of the AAV6 capsid in primary human T cells, we identified a family of variants containing an APR motif at residues 455\u2013457. The lead candidate, AAV.APR31, enabled robust transduction of primary T and NK cells at nearly 100\u20131,000-fold lower doses than AAV6 and outperformed the human T cell-tropic capsid AAV-hT7. CRISPR screening identified CD7 as a lineage-specific entry enhancer alongside the canonical AAVR pathway and structural analysis suggested that the APR motif facilitates CD7 engagement. Unlike existing delivery systems confined to one engineering mode, AAV.APR31 enabled transient transgene delivery, site-specific knock-in and transposon integration in human T and NK cells, generating CAR-T cells functionally equivalent to lentiviral vector-manufactured products. Systemic administration of AAV.APR31-generated CAR-T cells in vivo resulted in potent tumor control in hematologic and solid tumor mouse models. Adeno-associated virus vectors targeted to CD7 enable T and NK cell engineering in vivo.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.03
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.12.765417v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.12.765417v1?rss=1",
+  "title": "GATA2 SUMOylation Regulates GATA2 Stability to Control Uterine Serous Carcinoma Invasion",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.765417v1?rss=1",
+  "abstract": "Uterine serous carcinoma (USC) is an aggressive uterine cancer subtype that rapidly invades the uterine myometrium and is responsible for 40% of uterine cancer deaths. The molecular mechanisms that underlie this aggressive phenotype are poorly understood. We reported recently that USC tumors with low expression of the zinc-finger transcription factor GATA Binding Protein 2 (GATA2) exhibit aggressive tissue invasion, while retention of GATA2 expression is an independent predictor of 100% recurrence-free and cancer-specific survival in patients with early-stage USC. Here, we explored the mechanism of GATA2 loss in USC tumors that portend invasion. We show that GATA2 in human USC cell lines has a rapid 128-minute protein half-life due to post-translational SUMOylation, which targets GATA2 for ubiquitin-dependent proteasomal degradation. Treatment with small-molecule SUMOylation inhibitors, siRNA-mediated depletion of SUMO-2/3, or mutation of GATA2 K222 and K389 increases GATA2 levels and suppresses invasion in USC cell lines and USC tumor spheroids without impacting cell proliferation or viability. Primary USC tumors from newly diagnosed patients show markedly increased SUMO-2/3 levels and upregulation of SUMOylation pathways compared to other uterine cancer subtypes or benign endometrium, and heat-shock mediated induction of USC SUMO signaling leads to a SUMOylation-dependent reduction in GATA2 levels. Our results implicate SUMOylation as a dynamic regulator of USC GATA2 levels and support a model in which stress-related increases in SUMO activity deplete GATA2 to drive USC invasion. Our findings also raise the possibility that small-molecule SUMOylation inhibitors may benefit patients with early-stage USC disease.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.22
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.12.766113v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.12.766113v1?rss=1",
+  "title": "A marine worm oxygen carrier to improve the quality of preserved tumor samples",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.766113v1?rss=1",
+  "abstract": "Biobanked tissue samples are essential for cancer research, yet pre-analytical ischemia-hypoxia during tissue handling can compromise tissue or derived models quality, limiting their value for translational research. Here, we investigated whether M101, an extracellular hemoglobin from Arenicola marina, could mitigate, indirectly by providing oxygen, handling-induced ischemia-hypoxia in cancer tissues and subsequent live 3D models. Using prostate cancer PC3 and ovarian cancer TOV-21G XG preserved ex vivo, M101 reduced the emergence of hypoxia-associated markers, including the hypoxia-inducible factor 1-alpha, and attenuated metabolic stress. In XG-derived micro-dissected 3D tumor models cultured for 8 days, M101 improved tissue morphology, reduced fragmentation, and was associated with higher proliferative activity and lower inflammatory interleukin-6 release. Together, these findings suggest that M101 helps preserve structural and functional features of biobanked tumor models during ex vivo handling. Thus, oxygen carriers could represent a bio-compatible strategy to improve the fidelity of biobanked samples and patient-derived tumor models for precision oncology applications.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.86
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.07.761937v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.07.761937v1?rss=1",
+  "title": "Sisyphus at the splenic flexure: sidedness in colorectal cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.07.761937v1?rss=1",
+  "abstract": "Colorectal cancer is divided into left and right to guide prognosis and therapy, yet a precise definition of left vs right sided colorectal cancer is still not fully agreed upon. The published conventions place it anywhere between the cecum and the rectosigmoid junction. The dichotomy assumes side homogeneity, i.e., that colorectal subsites within a side add limited information once the side is known. That assumption has been examined primarily through mutation prevalence, a quantity that confounds how often a driver arises with how strongly it is selected once it has. Analyzing 1,027 whole-exome and whole-genome sequenced colorectal tumors, we decomposed the prevalence of six driver groups into mutation supply and cancer effect, and asked whether a binary side label captures how each of their prevalence, mutation supply, and cancer effect vary along the colorectum. Mostly it does: the mutational input behaves as two blocks, and even the more than thirty-fold strengthening of cancer effect on BRAF V600E from sigmoid colon to cecum is adequately captured by side. But APC shows nominal evidence against side homogeneity in both prevalence and cancer effect while showing little net left-right difference, and PIK3CA H1047 rejects it in supply. The evidence for finer resolution is real but partial, and the failures do not announce themselves. We recommend additional research recording primary tumor location at the finest practicable resolution--at minimum, International Classification of Diseases for Oncology, 3rd Edition (ICD-O-3) topography. Such well-annotated datasets would enable the left-right boundary to be a reversible analytic choice rather than an irreversible annotation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.88
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.12.765990v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.12.765990v1?rss=1",
+  "title": "Decomposing tissue-of-origin aging clocks reveals composite aging states across cancers",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.765990v1?rss=1",
+  "abstract": "Aging is accompanied by tissue-specific molecular remodeling, yet whether tumors retain or depart from these programs remains unclear. In a pan-cancer analysis we show that age-associated molecular changes in tumors are organized by tissue of origin and partially mirror matched normal tissue trends. We introduce tissue-of-origin aging clocks to measure each tumor's deviation from its expected tissue aging, and ClockSHAP to decompose deviations into pathway-level contributions. Across breast and five other cancers, this decomposition reveals composite aging states in which youth-like deviations in proliferative pathways coexist with older-like deviations in damage-response and signaling pathways. In breast cancer, a clock trained only on normal tissues, applied without retraining, reproduces its deviations and pathway structure in two independent cohorts (~9,700 tumors), aligns with molecular subtype and TP53 mutation status, and predicts survival. These findings show how cancers reshape tissue-of-origin aging programs and provide a framework for applying and interpreting aging clocks in disease.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "",
+  "score": 0.78
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.12.766269v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.12.766269v1?rss=1",
+  "title": "Development of Novel NPC1-Targeting Autophagy Inhibitors for the Treatment of Uveal Melanoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.766269v1?rss=1",
+  "abstract": "Background: Uveal melanoma (UM) is the most common primary intraocular malignancy in adults, and up to 50% of patients develop liver metastases. Metastatic UM responds poorly to conventional chemotherapy and currently available immunotherapies, highlighting the need for new therapeutic strategies. Because UM cells rely on lysosome-dependent stress-response pathways, including autophagy, we evaluated previously reported betulinic acid (BetA) derivatives and identified ALS-997 as a potent inhibitor of autophagic flux in UM cells. Methods: The anticancer activity of BetA derivatives was evaluated using the NCI-60 cancer cell line panel and WST-1 viability assays in UM cell lines and normal human melanocytes. Effects on autophagy and lysosomal function were assessed by western blotting for mTOR and autophagy associated proteins, LysoTracker Green imaging, and filipin III/LAMP2 staining. Apoptosis was evaluated by PARP cleavage and caspase-3 cleavage. The interaction of ALS-997 with Niemann-Pick disease type C1 (NPC1) was examined using a cellular thermal shift assay and computational molecular docking. NPC1 expression in UM cells and normal melanocytes was compared by quatitative PCR and western blotting. Results: ALS-997 preferentially reduced the viability of UM cell relative to normal melanocytes. Treatment with ALS-997 disrupted autophagic flux and lysosomal function, induced lysosomal cholesterol accumulation, and activated apoptotic signaling. ALS-997 also altered the thermal stability of NPC1, supporting cellular target engagement, while molecular docking predicted a direct interaction between ALS-997 and NPC1. NPC1 expression was higher in UM cells than in normal melanocytes. Conclusions: ALS-997 is a BetA-derived compound that disrupts lysosomal cholesterol homeostasis and autophagic flux, leading to apoptosis in UM cells. These findings support NPC1 as a potential therapeutic target in UM.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.51
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.12.766289v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.12.766289v1?rss=1",
+  "title": "Integrative analysis identifies LATS1 as a context-specific regulator of melanoma progression and immune response",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.766289v1?rss=1",
+  "abstract": "Malignant melanoma incidence is increasing, and survival remains poor following metastasis. The main driver oncogenes are BRAF and NRAS. Advancements in targeted agents and immunotherapies have improved survival rates, especially for patients with BRAF mutant melanoma. However, no targeted therapy options are available for patients with NRAS-mutant melanoma. Unfortunately, the development of resistance to all existing therapies remains a challenge. Recent evidence has shown that the MST2/Hippo pathway is deregulated in melanoma. The MST2 pathway core kinase LATS1 is a signalling hub that mediates the crosstalk between cell death and proliferation networks, and its inactivation has been related to melanoma progression and resistance to targeted therapy. However, the mechanisms by which LATS1 influences melanoma biology remain unclear. Here, to investigate this role of LATS1, we developed a lats1 knockout zebrafish melanoma model driven by either BRAF or NRAS mutations. Loss of Lats1 associates with reduced tumour-free survival in BRAF-mutant melanoma and a more invasive phenotype in NRAS-mutant melanoma, confirming a tumour-suppressive function. Integrating transcriptomics and proteomics datasets, we mapped molecular mechanisms mediated by Lats1 in tumours driven by these oncogenes, including pathways associated with the immune response regulated by Lats1. Subsequent validation in patient data confirmed an immune-evasive phenotype, associated with decreased LATS1 expression in BRAF-mutant melanoma. Additionally, the loss of LATS1 in NRAS mutant melanoma patients altered the expression of key DNA damage repair genes. Thus, this study identifies novel pathways controlled by LATS1 in melanoma, which aid in our understanding of the disease and offers new insights to be explored for the development of novel treatment strategies.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.19
  }
 }
