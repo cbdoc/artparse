@@ -9669,16 +9669,6 @@
   "type": "Short article",
   "score": 0.83
  },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00924-4?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00924-4?rss=yes",
-  "title": "Gut microbiota generate dinitrosyl iron complexes with cardiometabolic benefits",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00924-4?rss=yes",
-  "abstract": "Gut bacteria convert inorganic nitrate and non-heme iron into bioactive dinitrosyl iron complexes (DNICs) that distribute systemically and signal independently of free nitric oxide. These microbe-derived DNICs protect against cardiometabolic disease and fatty liver by restoring compromised metabolic signaling pathways.",
-  "source": "Cell",
-  "date": "2026-08-19T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.16
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)01003-2?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01003-2?rss=yes",
   "title": "Copper ion-induced MYH9 polymerization executes cuproptosis",
@@ -9728,16 +9718,6 @@
   "date": "2026-09-11T00:00:00+00:00",
   "type": "Article",
   "score": 0.17
- },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00920-7?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00920-7?rss=yes",
-  "title": "RNA structures regulate norovirus life cycle and enable rational attenuation in vivo",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00920-7?rss=yes",
-  "abstract": "Genome-wide mapping of RNA structure in murine norovirus reveals structural elements whose disruption impairs viral replication in cells and in vivo. Such structural disruptions generate a genetically stable virus that elicits protective immunity in vivo, offering a rational strategy for RNA virus vaccine design.",
-  "source": "Cell",
-  "date": "2026-08-19T00:00:00+00:00",
-  "type": "Article",
-  "score": 0.31
  },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00947-5?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00947-5?rss=yes",
@@ -17168,5 +17148,25 @@
   "date": "2026-11-16T00:00:00+00:00",
   "type": "",
   "score": 1.19
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.13.766277v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.13.766277v1?rss=1",
+  "title": "RBM15::MKL1 uncouples SPOC-dependent m6A remodeling from WTAP recruitment",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.766277v1?rss=1",
+  "abstract": "The recurrent t(1;22) translocation associated with pediatric acute megakaryoblastic leukemia generates the RBM15::MKL1 (RM) fusion protein that retains the RNA-binding and SPOC domains of RBM15. RBM15 recruits the N6-methyladenosine (m6A) methyltransferase complex (MTC), of which WTAP is a key regulatory component. How RM engages this machinery and whether the SPOC domain is required for its leukemogenic activity remain unclear. Here, we investigated the molecular determinants of WTAP recruitment by RBM15 and RM and their contribution to RM-mediated disruption of megakaryocyte differentiation. Structure-guided mutagenesis identified a conserved basic surface within the isolated RBM15 SPOC domain that is required for WTAP association. Unexpectedly, disruption of this surface or complete SPOC deletion failed to abolish WTAP association with full-length RBM15 or RM, indicating that additional determinants mediate MTC recruitment. In human erythroleukemia cells, RM impaired TPA-induced megakaryocytic maturation, as assessed by differentiation markers, polyploidization, and morphology; this blockade persisted following SPOC disruption. However, transcriptomic analysis demonstrated that RM lacking the SPOC domain elicited an attenuated gene expression response compared with unmutated RM, including alterations in WNT/Beta-catenin-associated genes. m6A-enriched RNA profiling further revealed extensive remodeling of the m6A epitranscriptome by RM, while SPOC deletion shifted RM-associated m6A changes toward a more wild-type-like state. Together, these findings demonstrate that although the SPOC domain contributes to RM-mediated molecular regulation, it is dispensable for stable MTC association and maintenance of the differentiation blockade, revealing previously unrecognized redundancy in RBM15-mediated recruitment of the m6A machinery.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "",
+  "score": 1.22
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.12.765851v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.12.765851v1?rss=1",
+  "title": "SLC25A39 loss disrupts mitochondrial redox homeostasis and exposes therapeutic vulnerabilities in glioblastoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.765851v1?rss=1",
+  "abstract": "Glioblastoma is an incurable brain tumour characterised by extensive hypoxia and phenotypic plasticity, both of which drive therapy resistance. Mitochondrial glutathione, dependent on the inner membrane carrier SLC25A39, is central to buffering the oxidative stress that hypoxia generates; its regulation and significance in glioblastoma are nonetheless unknown. We find that SLC25A39 expression is hypoxia-inducible and HIF-dependent, enriched in hypoxic tumour niches and heterogeneously expressed within and between tumours. Its loss depletes mitochondrial glutathione, causing oxidative damage to nucleic acids and lipids, mitochondrial hyperfusion, impaired respiration and a compensatory shift towards glycolysis, glutamine catabolism and serine synthesis. SLC25A39-deficient cells grow poorly, yet resist temozolomide while becoming markedly sensitive to navitoclax, an inhibitor of Bcl-2 and Bcl-xL, which increases cell killing when combined with radiation and temozolomide. In this work, we identify SLC25A39 as a metabolic vulnerability and candidate stratification marker in glioblastoma.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-16T00:00:00+00:00",
+  "type": "",
+  "score": 2.27
  }
 }
