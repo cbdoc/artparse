@@ -17538,5 +17538,125 @@
   "date": "2026-11-17T00:00:00+00:00",
   "type": "",
   "score": 1.1
+ },
+ "https://www.nature.com/articles/s43018-026-01308-x": {
+  "guid": "https://www.nature.com/articles/s43018-026-01308-x",
+  "title": "Author Correction: The pro-oncogenic noncanonical activity of a RAS\u2022GTP:RanGAP1 complex facilitates nuclear protein export",
+  "link": "https://www.nature.com/articles/s43018-026-01308-x",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "Author Correction",
+  "score": 1.68
+ },
+ "https://www.nature.com/articles/s41598-026-80723-7": {
+  "guid": "https://www.nature.com/articles/s41598-026-80723-7",
+  "title": "Comparison of pharmacokinetic properties of mitomycin C-based regimens for hyperthermic intraperitoneal chemotherapy in a rat model",
+  "link": "https://www.nature.com/articles/s41598-026-80723-7",
+  "abstract": "Mitomycin-C (MMC) is the most widely used agent for hyperthermic intraperitoneal chemotherapy (HIPEC) in colorectal peritoneal metastases, though dosing and intervals vary across institutions. This study aimed to compare the pharmacokinetic profiles of three MMC-based HIPEC regimens. Eighteen male Sprague\u2013Dawley rats were randomized into three groups for 90&nbsp;min of HIPEC at 41\u201342\u2103. Group 1 received 35&nbsp;mg/m\u00b2 in three divided doses at 0, 30, and 60&nbsp;min; Group 2 received 40&nbsp;mg/m\u00b2 in two divided doses at 0 and 60&nbsp;min; Group 3 received a single bolus dose of 35&nbsp;mg/m\u00b2 at HIPEC initiation. Peritoneal fluid and plasma concentrations were measured by liquid chromatography-tandem mass spectrometry. MMC concentrations differed significantly across groups over the 90-minute perfusion period (p\u2009&lt;\u20090.001). Peritoneal concentrations at 90&nbsp;min were comparable among groups (73.63 vs. 75.92 and 79.58 ng/mL), whereas the plasma concentration was lower in Group 1 (1.59 vs. 2.45 and 2.02 ng/mL; p\u2009=\u20090.043). The peritoneal-to-plasma AUC ratios were comparable among groups (52.1 vs. 47.7 vs. 47.1, respectively; p\u2009=\u20090.849). In conclusion, the three MMC-based HIPEC protocols showed no significant differences in the peritoneal-to-plasma AUC ratio, although Group 1 demonstrated lower plasma MMC concentrations.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.38
+ },
+ "https://www.nature.com/articles/s41598-026-80992-2": {
+  "guid": "https://www.nature.com/articles/s41598-026-80992-2",
+  "title": "BIABooster-based characterization of the cell-free DNA fragmentome in healthy adult blood donors reveals stable reference profiles and pre-analytical influences",
+  "link": "https://www.nature.com/articles/s41598-026-80992-2",
+  "abstract": "Circulating cell-free DNA (cfDNA) is a versatile biomarker in oncology, prenatal testing, and organ transplantation. Although cfDNA concentration and genomic markers are widely used, its fragment size distribution (fragmentome) offers additional diagnostic potential. However, robust reference profiles for healthy individuals\u2014particularly for fragments exceeding 300&nbsp;bp\u2014remain lacking. We used the BIABooster system to analyse cfDNA from 240 healthy adult blood donors, collected in two French cities of different climate at four different time points over a one-year period. cfDNA concentration and size distribution up to 1650 bp were measured and synthesised in 10 concentration and size descriptors. Potential correlations with demographic and haematological parameters were assessed. For selected samples, cfDNA was also analysed up to 10 kb, and the impact of an end-repair step was investigated. cfDNA size profiles were highly consistent across collection sites and time points and were not significantly affected by the demographic and haematological parameters investigated. In particular, the relative abundances of mono- and di-nucleosomal cfDNA fractions were remarkably stable across individuals. Analysis of longer cfDNA fragments revealed an unexpected peak around 3.2 kb that appeared to depend on pre-analytical conditions. This study establishes a detailed characterisation cfDNA fragmentation profiles in healthy adult blood donors and highlights their limited variability across geographic, temporal, demographic and common haematological parameters. It also demonstrates that pre-analytical conditions, particularly blood collection procedures, can influence specific fragmentome features and should therefore be carefully considered when developing cfDNA size profiling for clinical applications.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.21
+ },
+ "https://www.nature.com/articles/s41598-026-80400-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-80400-9",
+  "title": "Chronic HIV infection modulates the cargo of plasma exosomal ncRNAs associated with non-AIDS-defining cancers",
+  "link": "https://www.nature.com/articles/s41598-026-80400-9",
+  "abstract": "Non-coding RNAs (ncRNAs) are key regulators of gene expression, and their dysregulation has been described in the context of both HIV-1 pathogenesis and tumor development. We investigated the impact of chronic HIV infection on plasma exosomal ncRNA cargo in people living with HIV (PLWH) with non-AIDS-defining cancers (NADCs). Exosomal ncRNAs from 60 participants (PLWH with NADCs, cancer-free PLWH, HIV-negative individuals with NADCs, and healthy controls) were profiled by small RNA sequencing and validated by RT-qPCR. Exosomes were purified by size-exclusion chromatography and characterized by electron microscopy and nanoparticle tracking analysis. Differential expression and pathway enrichment analyses revealed a distinct ncRNA signature in PLWH with NADCs, including ncRNAs previously associated with cancer-related processes, such as SNORD3A, miR-126-5p and miR-451a, highlighting alterations in pathways previously implicated in inflammation, immune regulation, and cancer biology. This signature was not observed in cancer-free PLWH and HIV-negative individuals with cancer, suggesting that the coexistence of persistent HIV infection and cancer may be associated with specific features of the plasma exosomal ncRNA profile. Our findings provide evidence of distinct exosomal ncRNA profiles associated with NADCs in PLWH, laying the basis for further investigation of ncRNAs as candidate circulating biomarkers and as potential indicators of cancer-associated biological processes in PLWH, supporting future efforts toward improving the understanding and clinical management of HIV-associated malignancies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.78
+ },
+ "https://www.nature.com/articles/s44303-026-00205-3": {
+  "guid": "https://www.nature.com/articles/s44303-026-00205-3",
+  "title": "Photochemistry overcomes thermal limitations in the synthesis of 177Lu-labelled antibodies for radioimmunotherapy of gastric adenocarcinoma",
+  "link": "https://www.nature.com/articles/s44303-026-00205-3",
+  "abstract": "The exquisite target selectivity of monoclonal antibodies (mAbs) makes them an attractive starting point for developing radiopharmaceuticals for applications in diagnostic imaging and molecularly targeted radio(immuno)therapy (RIT). Combining mAbs with therapeutic \u03b2\u2212-emitting radionuclides like 177Lu, offers ways to overcome drug resistance but radiosynthesis of 177Lu-mAbs poses numerous chemical challenges. Classic 177Lu-radiochemistry relies on high temperatures and prolonged reaction times to achieve quantitative labelling but this is incompatible with the regular approach of radiolabelling antibodies that are pre-functionalised with a metal ion free chelate. Here, photochemistry was used to produce 177Lu-onartuzumab in &lt;30\u2009min which was subjected to an array of chemical, in vitro stability, cellular and in vivo tests using mouse models of human gastric adenocarcinoma. Pilot imaging and biodistribution analyses confirmed the tumour targeting specificity of 177Lu-onartuzumab. In RIT experiments, intravenous administration of low activities of [177Lu]Lu-1-onartuzumab (3.764\u2009\u00b1\u20090.079 MBq) to mice bearing MKN-45 subcutaneous xenografts, followed by temporal \u03b3-ray imaging and ultrasound analysis demonstrated pronounced therapeutic response versus chemical dose and tumour growth control groups. Collectively, the experimental data, alongside retrospective dosimetry modelling, validated the photoradiosynthesis approach for creating viable, molecularly targeted 177Lu-mAbs in a flash.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.2
+ },
+ "https://www.nature.com/articles/s41598-026-78838-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-78838-y",
+  "title": "Design and evaluation of indole-based hydrazones targeting heparanase with cytotoxic activity in human breast cancer cells",
+  "link": "https://www.nature.com/articles/s41598-026-78838-y",
+  "abstract": "Heparanase, an endoglycosidase implicated in tumour growth, invasion, and metastasis,\u200b remains an attractive target for anticancer drug discovery. In this study, a series of indole-based hydrazones was designed to target heparanase with potential anticancer inhibition in breast cancer cells. Structure-based analyses, including molecular docking and molecular dynamics simulations, suggested that several derivatives can interact with residues in the heparanase binding region, including recurrent contacts involving GLU 225, GLN 270, HIS 296, TYR 298, and TYR 348. In silico ADME profiling indicated generally acceptable drug-like properties for the designed series. The designed compounds were synthesized and characterized by FTIR, 1H NMR, 13C NMR, and HRMS, and conformational features were further examined by DFT studies. Among the synthesized compounds evaluated for heparanase inhibition using the HTRF assay, derivative E showed the highest apparent inhibitory response; however, its activity remained substantially weaker than that of the reference inhibitor PG545 and lacked a clear dose-dependent trend, indicating only modest inhibitory potential. Furthermore, cytotoxicity testing in MCF-7 breast cancer cells identified compound A as the most active compound, with an IC50 value of 2.078 \u00b5M. Overall, these results identify indole-based hydrazones as preliminary scaffolds for further optimization toward heparanase-related anticancer applications.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.09
+ },
+ "https://www.nature.com/articles/s44294-026-00170-7": {
+  "guid": "https://www.nature.com/articles/s44294-026-00170-7",
+  "title": "Sex differences in cancer prevention and patient perceptions among people aging with HIV",
+  "link": "https://www.nature.com/articles/s44294-026-00170-7",
+  "abstract": "Cancer is the leading cause of mortality in the aging population of people with HIV (PWH) in the U.S. Women with HIV in particular are less likely to engage in preventive health behaviors and have elevated risk for poor cancer outcomes. To assess sex differences in cancer prevention behaviors and patient perceptions, we administered a cross-sectional survey between April and June 2024 among adult PWH receiving care at a Ryan White-funded health clinic network. Adjusted prevalence ratios (aPRs) were calculated stratified by long-term (\u226510 years) HIV survivorship status. Among the 508 participants, 115 (22.6%) were women, and 333 (65.6%) were long-term HIV survivors. Compared to male long-term survivors, female long-term survivors reported lower anal cancer screening uptake (aPR: 0.61, 95% CI: 0.43,&nbsp;0.87), greater provider unreliability (aPR: 2.19, 95% CI: 1.20,&nbsp;3.99), poorer patient-provider communication (aPR: 2.79, 95% CI: 1.20,&nbsp;6.50), and greater HIV stigma (aPR: 2.00, 95% CI: 1.11,&nbsp;3.60). Sex-specific survivorship care models are needed among women aging with HIV.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s41598-026-74171-6": {
+  "guid": "https://www.nature.com/articles/s41598-026-74171-6",
+  "title": "Cyclodextrin encapsulation enhances the stability, anticancer, antimicrobial, and antibiofilm activities of chios mastic gum essential oil",
+  "link": "https://www.nature.com/articles/s41598-026-74171-6",
+  "abstract": "In this study, mastic gum essential oil (Pistacia lentiscus var. Chia; PL) was encapsulated within 2-hydroxypropyl-\u03b2-cyclodextrin (CD). This formulation aimed to improve the limited compatibility, volatility, and stability of PL, while enhancing its biological performance. PL-CD nanoparticles were characterized using FTIR, \u00b9H NMR, 2D NOESY, thermal analysis, DLS, SEM, and TEM. These analyses confirmed successful encapsulation, with a high entrapment efficiency of 91.04\u2009\u00b1\u20090.76%. TEM analysis showed PL-CD nanoparticles ranging in size from 28.18 to 135.26&nbsp;nm. In contrast, DLS showed a larger hydrodynamic diameter. Encapsulation also improved the thermal stability of PL and produced favorable degradation behavior. Short-term storage and photostability assessment showed no detectable changes in weight, color, clarity, or odor for up to 105&nbsp;h under light or dark ambient conditions. Biological evaluation of PL-CD showed enhanced antimicrobial and antibiofilm activity. PL-CD exhibited MIC values of 2.5\u20135&nbsp;mg/mL, representing up to an eight-fold improvement compared with free PL. It also inhibited biofilm formation by more than 92% across the tested bacterial strains. Biocompatibility studies using HSF cells showed that PL-CD showed a safe profile under the tested conditions. Anticancer evaluation using MCF-7 and MDA-MB-231 breast cancer cells showed concentration- and time-dependent reductions in MTT-derived metabolic activity after PL-CD treatment. Annexin V/PI flow cytometry further showed increased apoptotic cell populations following PL-CD exposure. These findings indicate that the observed cytotoxic response was associated with apoptosis. The developed PL-CD nanostructures represent a promising platform for further investigation in antimicrobial, antibiofilm, and anticancer applications.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.8
+ },
+ "https://www.nature.com/articles/s41571-026-01224-0": {
+  "guid": "https://www.nature.com/articles/s41571-026-01224-0",
+  "title": "Cancer vaccines in the era of immunotherapy: from antigen delivery to immune ecosystem engineering",
+  "link": "https://www.nature.com/articles/s41571-026-01224-0",
+  "abstract": "Therapeutic cancer vaccines reliably induce tumour-specific immune responses, although translating this immunogenicity into durable tumour control remains a major challenge. This disconnect is probably the result of a series of biological bottlenecks, from antigen selection and presentation to T cell priming, tumour infiltration and resistance to immune suppression. Advances in neoantigen identification, vaccine technologies, immune profiling and computational biology have renewed and re-energized the field. Emerging evidence from clinical trials testing neoantigen-directed vaccines indicates that therapeutic vaccination can improve clinical outcomes particularly when applied in earlier disease settings and integrated within broader immunotherapeutic strategies. In this Review, we examine the mechanisms limiting vaccine efficacy, discuss how they are informing the design of next-generation vaccines, and explore the biomarkers and therapeutic strategies that might enable vaccination to achieve more consistent clinical benefit. Therapeutic cancer vaccines reliably induce antitumour immune responses but evidence of translation into clinical benefit has largely been lacking. In this Review, the authors discuss key biological bottlenecks contributing to this disconnect as well as advances in antigen discovery, vaccine platform design, immune monitoring and computational biology that are enabling new therapeutic strategies with the potential for broad and durable clinical benefit, exploiting vaccines as modulators of the immune ecosystem rather than simply antigen-delivery systems.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.25
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.766135v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.766135v1?rss=1",
+  "title": "A genetically engineered porcine model of pancreatic ductal adenocarcinoma captures the biological complexity of the human disease.",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.766135v1?rss=1",
+  "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive cancer with limited treatment options and poor patient outcomes. The lack of clinically relevant large animal models hinders the investigation of early disease mechanisms and translational therapeutic strategies. In this study, we present a genetically engineered porcine PDAC model involving pancreas-specific activation of latent KRASG12D alone (KC) or in combination with TP53R167H (KPC), developed in a midipig background. KC pigs predominantly developed progressive acinar-to-ductal metaplasia (ADM), whereas KPC pigs showed accelerated tumour progression, including PanINs, invasive carcinoma, perineural invasion, and early lymphatic dissemination. Histopathological and molecular analyses revealed pronounced intra- and inter-tumour heterogeneity, a complex stromal microenvironment, and expression of key PDAC markers. Tumours exhibited early alterations in oncogenic KRAS signalling, including increased dosage and differential expression of isoforms, together with dysregulation of tumour suppressor networks involving p16 and TP53 family members. Single-cell transcriptomics and flow cytometric analyses demonstrated an organised and functionally active immune landscape in early lesions, characterised by infiltrating effector and regulatory T-cell populations. Porcine pancreatic cancer cell lines (PoPaCa) were established from KC and KPC tumours, recapitulating key genetic and transcriptional features of the primary lesions. Exploratory drug screening demonstrated heterogeneous responses to clinically relevant and experimental compounds. Responses to gemcitabine and paclitaxel overlapped qualitatively with those observed in human PDAC cell lines, whereas pronounced sensitivity to the GPX4 inhibitor RSL3 and partial responsiveness to trametinib identified testable therapeutic phenotypes for further validation. Together, this genetically engineered porcine PDAC model captures early molecular, cellular, and microenvironmental features of pancreatic tumorigenesis and provides a translational platform to study disease initiation, tumour heterogeneity, immune interactions, and therapeutic response beyond the constraints of rodent models.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 1.99
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.15.766807v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.15.766807v1?rss=1",
+  "title": "A thermoreversible hydrogel model for in situ and ex situ analysis of tumor-immune interactions",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.15.766807v1?rss=1",
+  "abstract": "Despite the clinical success of cancer immunotherapy, many patients fail to respond or develop resistance, highlighting the need to understand how interactions between tumor and immune cells influence treatment outcomes. Three-dimensional in vitro models allow these interactions to be studied under controlled conditions. However, Matrigel and other biologically derived scaffolds can vary in composition, offer limited independent control over matrix properties, and require cell-recovery procedures that complicate downstream analysis. Here, we present a co-culture model of melanoma spheroids and primary CD8+ T cells based on a defined, thermoreversible synthetic polyisocyanopeptide (PIC) hydrogel. PIC supported T cell viability and migration, with mean motility parameters similar to those in Matrigel and lower variability between experiments. Fluorescence imaging revealed CD8+ T cell infiltration and increased melanoma-cell apoptosis during co-culture. Cooling enabled recovery of nearly all embedded cells in less than 3 min without chemical or enzymatic matrix digestion. Metabolic profiling of recovered T cells identified time-dependent changes in intracellular lactate, amino acids, and tricarboxylic acid cycle intermediates, alongside changes in extracellular metabolite availability. Flow cytometry distinguished T cell populations with different effector profiles, with higher expression of effector markers in the fraction associated with melanoma spheroids. By combining a defined synthetic matrix with in situ imaging and rapid recovery for ex situ analysis, this model connects the spatial dynamics of tumor-immune interactions with metabolic and immune phenotypes, providing a basis for studies of immune-cell function and responses to immunotherapy.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 1.29
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.09.765391v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.09.765391v1?rss=1",
+  "title": "FasL blockade suppresses liver metastasis and prolongs survival in small-cell lung cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.09.765391v1?rss=1",
+  "abstract": "Small-cell lung cancer (SCLC) is an aggressive malignancy characterised by early metastatic dissemination, frequent relapse and poor long-term survival. Despite advances in immunotherapy, durable disease control remains challenging, highlighting the need to identify therapeutic vulnerabilities beyond conventional tumour-cell killing and immune checkpoint inhibition. Here, we uncover an unexpected contribution of Fas-Fas ligand (FasL) signalling to SCLC metastatic progression and demonstrate the therapeutic potential of targeting this pathway. Using an autochthonous Rb1/Trp53-deficient mouse model, we show that genetic Fas deletion markedly suppresses liver metastatic disease, identifying a previously unrecognised contribution of Fas signalling to metastatic progression. Notably, despite this antimetastatic effect, Fas deletion during tumour initiation did not improve survival and was accompanied by pronounced alterations in pulmonary tissue architecture. As these alterations may reflect adverse consequences of Fas deletion in non-malignant pulmonary populations, we reasoned that pharmacological FasL blockade in established disease could provide therapeutic benefit while circumventing the detrimental consequences for pulmonary tissue homeostasis associated with genetic Fas deletion. Remarkably, only six administrations of a soluble Fas-Fc fusion protein over three weeks significantly prolonged survival and substantially reduced the incidence and burden of liver metastases. FasL blockade was also associated with enhanced inflammatory and immune-response transcriptional signatures in the liver, while its combination with anti-PD-1 increased pulmonary immune-cell accumulation without conferring additional survival benefit. These data suggest that the biological consequences of targeting this pathway may depend on the timing and cellular context of intervention. Together, our findings identify Fas-FasL signalling as an unexpected regulator of SCLC metastatic progression and establish FasL blockade as a promising therapeutic strategy capable of prolonging survival in established disease beyond conventional immune checkpoint inhibition.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 1.75
  }
 }
