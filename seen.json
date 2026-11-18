@@ -3059,16 +3059,6 @@
   "type": "Preview",
   "score": 1.75
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00353-3?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00353-3?rss=yes",
-  "title": "Tumor cells recruit macrophage bodyguards to outlast chemotherapy",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00353-3?rss=yes",
-  "abstract": "In Cell Press Blue, Carvalho et al. identify spatially organized tumor-macrophage niches, EMT-like CD44high cancer cells paired with SPP1/PARP14high macrophages, that drive chemoresistance in bladder cancer. PARP14 inhibition can flip this protective niche into an inflammatory, cisplatin-sensitizing state.",
-  "source": "Cancer Cell",
-  "date": "2026-08-20T00:00:00+00:00",
-  "type": "Spotlight",
-  "score": 1.22
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00396-X?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00396-X?rss=yes",
   "title": "Beyond BMI: The diet-microbiome context of the obesity paradox",
@@ -17658,5 +17648,105 @@
   "date": "2026-11-17T00:00:00+00:00",
   "type": "",
   "score": 1.75
+ },
+ "https://www.nature.com/articles/s41598-026-79295-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-79295-3",
+  "title": "Consistent time-varying association between ctDNA and post-resection colon and rectal cancer recurrence: The \u03b2-CORRECT study",
+  "link": "https://www.nature.com/articles/s41598-026-79295-3",
+  "abstract": "In this retrospective study of 468 patients with Stage II, III, or resectable Stage IV colorectal cancer (CRC), the association between circulating tumor DNA (ctDNA) detected with a tumor-informed molecular residual disease (MRD) assay and recurrence was evaluated. Tumor DNA and RNA sequencing of tumors were also performed to assess associations of tumor genomic alterations and expression with ctDNA status, DFS, and site of recurrence. Among 417 patients with a median follow-up of 1.9 years, ctDNA detection was strongly associated with shorter DFS during surveillance (HR 36.6), post-surgery (HR 7.5) and post-definitive therapy (HR 24.0), independent of clinicopathological factors. Each 10-fold increase in ctDNA level was associated with a two-fold increase in recurrence risk. Median lead time between ctDNA detection and clinical recurrence was 97 days. Among ctDNA-positive patients, adjuvant chemotherapy was associated with improved DFS (HR\u2009=\u20090.3), whereas no benefit was observed among ctDNA-negative patients (HR\u2009=\u20091.8). Significant interactions were observed between ctDNA status and RAS/BRAF alterations and WNT and MAPK pathway alterations. RNA sequencing identified distinct expression patterns associated with the epithelial-mesenchymal transition. These findings support ctDNA as an independent prognostic marker in resected CRC and identify molecular features associated with MRD and recurrence risk.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.23
+ },
+ "https://www.nature.com/articles/s41598-026-80112-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-80112-0",
+  "title": "A multiscale analysis of the TNBC immune landscape",
+  "link": "https://www.nature.com/articles/s41598-026-80112-0",
+  "abstract": "Triple-negative breast cancer (TNBC) is a highly aggressive and heterogeneous subtype of breast cancer (BC). Women of African ancestry (WAA) tend to receive more severe and frequent diagnoses of TNBC. The majority of TNBC research is conducted on patients of European descent, with a limited number of studies including cell lines or patients of African descent. We investigated four cell lines from these two patient groups using quantitative polymerase chain reaction (qPCR) to determine the expression of immune-related genes. Additionally, six patient samples were analyzed using spatial transcriptomics to determine the expression levels and tumor localization of our genes of interest in TNBC cell lines. We curated a group of 26 immune-related genes that were differentially expressed between WAA and women of European ancestry (WEA) TNBC and mammary epithelial cells (MEC) cell types using qPCR. After comparing the genes with TNBC tumor samples from WAA and WEA, we elected to investigate six genes of interest in more depth using spatial transcriptomic analysis, eventually narrowing our gene pool to three primary genes: NFATC4, CD68, and SMAD7. From the integrated analysis of cell line and spatial transcriptomic datasets, we identified NFATC4, CD68, and SMAD7 as candidate immune-associated genes associated with TNBC tumor heterogeneity. These findings suggest that ancestry-associated differences in the TNBC immune microenvironment may involve distinct immune regulatory programs, although larger studies and further investigation are required to fully validate these observations.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.9
+ },
+ "https://www.nature.com/articles/s41392-026-03070-z": {
+  "guid": "https://www.nature.com/articles/s41392-026-03070-z",
+  "title": "Deep single-cell immune- and signaling profiles predict therapy response in chronic myeloid leukemia within hours",
+  "link": "https://www.nature.com/articles/s41392-026-03070-z",
+  "abstract": "Chronic myeloid leukemia (CML) is effectively treated with small molecule BCR::ABL1 tyrosine kinase inhibitors (TKIs) but as in all cancers, early identification of suboptimal responders and non-responders is a challenge. Through mass cytometry analysis of peripheral blood leukocytes collected on the first day of TKI treatment, we generated high-dimensional single-cell data from de novo chronic phase CML patients enrolled in two multicenter clinical trials (clinicaltrials.gov: NCT01725204 and NCT01061177). In leukocytes, dasatinib and nilotinib inhibited intracellular signaling within 1 or 3 h after first oral dose, respectively, and each TKI had a unique signaling signature reflecting its kinase specificity profile beyond BCR::ABL1. From these data, an immune and signaling profile was constructed for each patient that predicted the treatment response (BCR::ABL1IS, %) during the first 12 months of treatment. The predictive features were drug specific: response to dasatinib was dominated by leukemic burden, neutrophil maturity (pSTAT3 Y705) and immune effector activity (pERK \u00bd in T- and NK cells), whereas response to nilotinib was driven by the intrinsic signaling states of CD34+CD38lowCD25+ LSC-like cells (cleaved caspase-3, pCRKL Y207 and STAT3 [total and Y705]). These results show that single cell immune and signaling profiles measured within hours of first dose can predict 12-month treatment response, anticipating future optimization of kinase inhibitor treatment within days rather than months.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.07
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.15.766789v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.15.766789v1?rss=1",
+  "title": "HDAC1/2 maintain TERT mRNA stability in TERT-rearranged neuroblastoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.15.766789v1?rss=1",
+  "abstract": "Genomic TERT locus rearrangements define an aggressive high-risk neuroblastoma subgroup characterized by enhancer hijacking, high-level TERT expression and continuous telomerase activation. Although these structural alterations supply a strong transcriptional drive, the post-transcriptional mechanisms preserving TERT mRNA presence remain incompletely understood. We identified histone deacetylases 1 and 2 (HDAC1/2) as essential post-transcriptional guardians of TERT mRNA stability in TERT-rearranged neuroblastoma. Pharmacological inhibition or RNAi-mediated depletion of HDAC1 and HDAC2, but not HDACs 3-11, rapidly downregulated TERT transcript levels and suppressed telomerase enzymatic activity. Transcript decay kinetics following transcriptional arrest with actinomycin D confirmed that HDAC1/2 blockade accelerates TERT mRNA decay, reducing transcript half-life by 30-47%. High-resolution ChIP-seq profiling across the translocation breakpoint demonstrated HDAC inhibition does not alter local chromatin accessibility. Array-based DNA methylation profiling showed only a mild, non-specific global reduction in CpG island methylation upon panobinostat exposure and no focal correlation with TERT transcript loss across the breakpoint locus. Depleting TERT mRNA via HDAC1/2 inhibition dismantled a core 50-gene TERT-associated oncogenic expression network. Ectopic re-expression of TERT cDNA partially rescued cellular viability and normalized expression of key signature genes despite continuous HDAC inhibition. HDAC1/2 inhibition significantly attenuated tumor growth, reduced intratumor TERT expression and prolonging overall survival in both preventive and therapeutic TERT-rearranged xenograft mouse models. Our data establish a post-transcriptional rather than transcriptional mode of TERT regulation and confirm tumor suppression is partly driven by depleting TERT transcripts, uncovering a HDAC1/2 dependency in TERT-driven neuroblastoma. We provide a molecular rationale for therapeutic strategies disrupting HDAC1/2-mediated TERT mRNA stabilization.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 1.4
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.765581v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.765581v1?rss=1",
+  "title": "From Calcium-dependent currents to Multitarget Therapy: A Pharmacological Strategy for Glioblastoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.765581v1?rss=1",
+  "abstract": "Glioblastoma (GBM) is an aggressive primary brain tumor with limited treatment options and substantial interpatient heterogeneity. Ion transport and cell-volume regulation may represent pharmacological vulnerabilities in glioma stem cells (GSCs). Here, we characterized membrane currents in patient-derived GSCs, identifying a calcium-dependent anion conductance consistent with volume-regulated anion channels (VRACs) and an inward current consistent with Na+/Ca++ exchanger exchanger (NCX) activity. Based on these findings, we investigated individual compounds and developed a multitarget cocktail comprising niflumic acid (NFA), bumetanide (BTN), and R-ketorolac (R-K) to target complementary mechanisms involved in ion homeostasis, cell-volume regulation, and cellular dynamics. The cocktail affected cell viability and mechanical properties and showed synergistic effects in U87 cells and patient-derived GSCs with similar electrophysiological profiles. Treatment did not measurably alter spontaneous activity in cultured hippocampal neurons but caused substantial HMC3 cytotoxicity. Encapsulation in transferrin-functionalized liposomes attenuated HMC3 toxicity while preserving activity against glioblastoma cells, suggesting a potential strategy to improve treatment selectivity. Further pharmacological studies identified a potential vulnerability associated with NCX activity, although its contribution to cytotoxicity remains unclear. Overall, our findings highlight electrophysiological heterogeneity in patient-derived GSCs and support further investigation of ion transport as a therapeutic target in GBM. Combining multitarget pharmacology with targeted drug delivery may help address heterogeneous treatment responses, although further studies are needed to establish the underlying mechanisms, safety, and vivo efficacy.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 1.96
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.766672v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.766672v1?rss=1",
+  "title": "Extracellular matrix spatial ecosystems define stem-like niches and predict post-recurrence survival in glioblastomas",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.766672v1?rss=1",
+  "abstract": "Extracellular matrix (ECM) remodeling is a hallmark of glioblastoma (GBM) yet has typically been studied through a reductionist lens, as individual genes or pathways rather than large scale, spatially integrated analyses coordinated with biological states. Focusing on whole matrisome gene expression, we identified three reproducible and spatially coherent ECM transcriptional programs, termed Homeostatic, Stress, and Fibrous, that were associated with specific microenvironmental functions and neoplastic cell states, with the strongest association noted between Homeostatic ECM and neoplastic quiescent stem cell-like (QSC) niches. Ligand-receptor analyses identified FGF1 and BGN as candidate ECM-driven regulators of QSC. In an independent longitudinal bulk transcriptomic cohort, ECM-based models outperformed traditional clinical and biomarker variables for predicting post-recurrence survival, with elevated Homeostatic ECM activity associated with improved post-recurrence survival, while MGMT promoter methylation no longer remained prognostic. Overall, these findings establish ECM organization as a clinically relevant dimension of GBM biology and nominate ECM-associated signaling as candidate therapeutic targets.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 1.46
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.17.766937v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.17.766937v1?rss=1",
+  "title": "Focused ultrasound-enhanced carboplatin delivery improves radiotherapy response and survival in a preclinical glioblastoma model",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.17.766937v1?rss=1",
+  "abstract": "Rationale Glioblastoma is highly resistant to conventional therapies due to the limited penetration of chemotherapeutics across the blood-brain and blood-tumor barriers (BBB, BTB). Although platinum-based drugs show strong cytotoxic and radiosensitizing properties in several cancers, their inability to achieve therapeutic concentrations within the central nervous system (CNS) severely limits their efficacy in brain tumors. This study investigated whether focused ultrasound (FUS)-mediated BBB/BTB disruption combined with intravenous carboplatin and stereotactic radiotherapy could improve drug delivery, tumor control, and survival in a preclinical glioblastoma model. Methods F98 glioma-bearing rats were treated with a single dose of 15 Gy radiation therapy (RT), carboplatin only, carboplatin + RT, FUS + carboplatin or FUS + carboplatin + RT. FUS-mediated permeabilization was confirmed by magnetic resonance imaging (MRI), and platinum accumulation was quantified by inductively coupled plasma mass spectrometry and synchrotron X-ray fluorescence. Tumor progression and microenvironmental changes were monitored using multiparametric MRI (diffusion, perfusion, and vascular permeability), followed by voxel-wise clustering analysis and histopathological validation. Results The FUS + carboplatin + RT group demonstrated the strongest therapeutic benefit, compared to all other treatment groups, yielding up to a 122% increase in median survival relative to the untreated group. This treatment also reduced necrotic core expansion and induced a transient increase in tumor perfusion, suggesting improved vascular function. FUS enhanced carboplatin delivery to both the tumor and peritumoral brain, with platinum distribution closely correlating with MRI signal enhancement. Voxel-wise clustering of multiparametric MRI identified biologically distinct tumor regions that were subsequently validated by immunohistochemistry. Conclusion The combination of FUS-mediated carboplatin delivery and radiotherapy represents a safe, non-invasive strategy that enhances drug delivery and improves survival in an aggressive preclinical model of glioblastoma. By overcoming a major limitation of current therapies, this approach shows promising potential for clinical translation. Keywords Glioblastoma, Focused Ultrasound, Blood-Brain Barrier, Chemotherapy, Radiotherapy",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 2.11
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.766910v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.766910v1?rss=1",
+  "title": "Tumor-responsive AAV arms cancer cells to enhance CAR-T cell therapy in solid tumors",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.766910v1?rss=1",
+  "abstract": "Chimeric antigen receptor (CAR)-T-cell therapy remains limited in solid tumors by the scarcity of suitable target antigens and an immunosuppressive tumor microenvironment. Here, we developed a tumor-responsive recombinant adeno-associated virus (rAAV) strategy that harnesses aberrant NF-{kappa}B activity to establish a shared synthetic CAR target across tumor types. Using an NF-{kappa}B-responsive decoy minimal promoter (DMP), rAAV-SA drove tumor-preferential surface expression of a synthetic antigen (SA), enabling antigen-dependent CAR-T-cell activation, degranulation, and cytotoxicity. Systemic rAAV-SA delivery combined with CAR-T cells produced antitumor activity in triple-negative breast cancer (TNBC) and colorectal cancer xenograft models. We subsequently engineered rAAV-ARMS (antigen redirection and multifunctional secreted effectors), integrating SA expression with tumor-local production of an IL-15/IL-15R sushi-domain fusion, CXCL10, and IFN-{gamma}. Compared with antigen redirection alone, rAAV-ARMS enhanced CAR-T-cell-mediated killing in three-dimensional tumor spheroids and, in a TNBC xenograft model, increased intratumoral T-cell accumulation and improved the efficacy of intravenously administered CAR-T cells, without overt systemic toxicity under the conditions examined. These findings establish a tumor-programmed platform for target-redirected universal CAR-T-cell therapy in solid tumors.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 1.16
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.13.766477v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.13.766477v1?rss=1",
+  "title": "Ventricular proximity associates with survival and immune remodelling in glioblastoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.766477v1?rss=1",
+  "abstract": "Glioblastoma is clinically and molecularly heterogeneous, yet whether its position relative to the lateral ventricles shapes tumour biology remains unclear. Here we measured tumour ventricle distance in 57 patients with IDH-wildtype glioblastoma and combined survival analysis with RNA sequencing, whole-genome sequencing, proteomics and multiplex immunofluorescence. Proximity to the ventricles was associated with shorter survival. Ventricle-proximal tumours lacked a distinct genomic driver but displayed an inflammatory yet immunoregulatory profile: antigen-presentation, leukocyte-activation and cytokine programmes coexisted with checkpoint and immunosuppressive transcripts, and proteomics revealed concordant complement and myeloid signals. In tissue, these tumours tended to show more Ki67-positive cells and proliferating SOX2-positive stem-like cells, suggesting increased plasticity of the stem-like compartment, without more CD4- or CD8a-positive lymphocytes. Ventricular proximity thus marks a clinically adverse context with a distinct immune-inflammatory profile, providing a framework for validation and patient stratification.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 1.32
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.766479v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.766479v1?rss=1",
+  "title": "The intestinal microbiome shapes responses to the GD2/GD3 cancer vaccine in children with high-risk neuroblastoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.766479v1?rss=1",
+  "abstract": "The intestinal microbiome influences vaccine responses, but its role in therapeutic cancer vaccination remains largely unexplored. We investigated the gut microbiome, vaccine immunogenicity and clinical outcomes in 137 children with high-risk neuroblastoma receiving GD2/GD3 vaccination with oral b-glucan. Microbiome-perturbing antibiotic exposure was associated with inferior progression-free survival (PFS). Among patients vaccinated in first remission, higher a-diversity and enrichment of Lachnospiraceae, including Blautia, were associated with higher anti-GD2 IgG1 responses, while higher Clostridia abundance was associated with superior PFS. Patients had microbiome profiles resembling those of chronologically younger healthy children, consistent with delayed microbiome maturation. A greater discrepancy between patients' chronological age and the age of microbiome-matched healthy children was associated with inferior PFS among patients in first remission. In a complementary mouse model, antibiotic treatment impaired vaccine-induced anti-GD2 IgG responses and accelerated tumor growth. Together, these findings support a role for the intestinal microbiome in therapeutic cancer vaccine responses and identify microbiome maturation as a clinically relevant feature in pediatrics.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 0.96
  }
 }
