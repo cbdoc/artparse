@@ -17748,5 +17748,265 @@
   "date": "2026-11-17T00:00:00+00:00",
   "type": "",
   "score": 0.96
+ },
+ "https://www.nature.com/articles/s43018-026-01286-0": {
+  "guid": "https://www.nature.com/articles/s43018-026-01286-0",
+  "title": "Single-cell states meet clinical outcomes in lung cancer",
+  "link": "https://www.nature.com/articles/s43018-026-01286-0",
+  "abstract": "Single-cell technologies are yet to transform routine oncology practice, partly owing to a scarcity of large, clinically annotated patient cohorts. A study introduces LuCaS+, a multicenter single-nucleus RNA sequencing atlas of lung cancer, demonstrating that transcriptional states can predict tumor metastatic potential and enhance survival stratification.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "News & Views",
+  "score": 0.95
+ },
+ "https://www.nature.com/articles/s43018-026-01307-y": {
+  "guid": "https://www.nature.com/articles/s43018-026-01307-y",
+  "title": "Author Correction: Recapitulating the adenoma\u2013carcinoma sequence by selection of four spontaneous oncogenic mutations in mismatch-repair-deficient human colon organoids",
+  "link": "https://www.nature.com/articles/s43018-026-01307-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "Author Correction",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s41571-026-01234-y": {
+  "guid": "https://www.nature.com/articles/s41571-026-01234-y",
+  "title": "From the ESMO Congress 2026",
+  "link": "https://www.nature.com/articles/s41571-026-01234-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 0.49
+ },
+ "https://www.nature.com/articles/s41419-026-09397-3": {
+  "guid": "https://www.nature.com/articles/s41419-026-09397-3",
+  "title": "S100A16 drives hepatocellular carcinoma by promoting KCNJ8-mediated choline metabolic dysregulation and immunosuppression",
+  "link": "https://www.nature.com/articles/s41419-026-09397-3",
+  "abstract": "Dysregulated choline metabolism is an established metabolic hallmark that fuels hepatic inflammation and tumorigenesis. However, the upstream regulators of this pathway in hepatocellular carcinoma (HCC) are incompletely understood. Here, we identify S100 calcium-binding protein A16 (S100A16) as a pivotal driver of HCC that operates through choline metabolic reprogramming. Integrated transcriptomic and metabolomic analyses revealed a strong association between S100A16 upregulation and choline metabolism dysregulation in HCC. Clinically, S100A16 was significantly elevated in HCC tissues and patient sera, and its high expression correlated with poor overall and disease-free survival. Functionally, S100A16 overexpression promoted, while its knockdown suppressed HCC cell proliferation, invasion, migration, endoplasmic reticulum (ER) stress, and the production of metabolite phosphatidylcholine in vitro. Consistent with this, S100A16 overexpression potentiated tumor growth in subcutaneous xenograft models and enhanced pulmonary metastasis in vivo. Mechanistically, we delineated a novel signaling axis wherein S100A16 activates the Wnt5A/B-\u03b2-catenin pathway, leading to the upregulation of potassium inwardly-rectifying channel subfamily J member 8 (KCNJ8), which in turn drives choline metabolism dysregulation and ER stress. Importantly, hepatocyte-specific conditional knockout of S100A16 in a murine HCC model not only attenuated these oncogenic processes but also remodeled the immunosuppressive tumor microenvironment by rescuing CD8+ T cell exhaustion and reducing the infiltration of CD206+ M2-type tumor-associated macrophages. In summary, our study unveils S100A16 as a central regulator of choline metabolism and immunosuppression in HCC, positioning it as a promising diagnostic biomarker and therapeutic target for this cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.14
+ },
+ "https://www.nature.com/articles/s43856-026-01992-x": {
+  "guid": "https://www.nature.com/articles/s43856-026-01992-x",
+  "title": "Patient-derived organoids reveal strain-specific efficacy of engineered bacteria in colorectal cancer",
+  "link": "https://www.nature.com/articles/s43856-026-01992-x",
+  "abstract": "Engineered bacteria are emerging as promising vectors for drug delivery and immune modulation within solid tumors, yet standardized preclinical models for evaluating strain-specific efficacy, tumor selectivity, and host interactions remain lacking. Patient-derived organoids recapitulate the architecture and genetic fidelity of primary tissue, offering a physiologically relevant alternative to conventional cell lines for testing microbial cancer therapeutics. We established a co-culture platform pairing patient-derived colorectal cancer and matched normal mucosa organoids with two clinically relevant engineered bacterial strains: attenuated Salmonella typhimurium and Escherichia coli Nissle 1917. Colonization dynamics were quantified by colony-forming unit assay and time-lapse fluorescence imaging. Strain-specific host responses were characterized through transcriptomic profiling, histological staining, quantitative morphological analysis, and secondary organoid-forming assays across two genotypically distinct patient lines. Here we show that both strains preferentially colonize colorectal cancer organoids over matched normal mucosa. Salmonella achieves markedly higher colonization efficiency and exerts a greater impact on host transcriptional and morphological responses than E. coli Nissle 1917. Comprehensive phenotypic profiling reveals strain-specific disruption patterns, and cancer organoid responses are both strain- and patient genotype-dependent. Patient-derived organoid co-cultures serve as a scalable and informative platform for preclinical chassis selection in microbial cancer therapeutics, capturing interpatient variability in a manner analogous to patient-derived organoid-based drug screening. These findings support attenuated Salmonella as a particularly effective chassis for future engineered bacterial therapies targeting colorectal cancer. Bacteria can be engineered to seek out and attack tumors, but testing which bacterial strain works best is difficult without models that accurately reflect human biology. Standard laboratory cancer cell lines lack the three-dimensional structure and genetic diversity of real tumors. In this study, we grew miniature tumor \u201corganoids\u201d directly from colorectal cancer patient tissue and used them to test two engineered bacterial strains: an attenuated Salmonella and a probiotic E. coli. We found that both bacteria preferentially colonized tumor organoids over healthy tissue, but Salmonella colonized far more efficiently and triggered stronger changes in tumor cell behavior. Responses also differed between patient samples, suggesting that the best bacterial strain may vary by individual. These results show that patient-derived organoids are a powerful tool for selecting the right bacterial chassis before moving into animal or clinical studies. ED Summary: O\u2019Connor et al. use a patient-derived organoid co-culture platform to evaluate engineered bacterial therapies for colorectal cancer and capture strain- and patient-specific responses. Both bacteria preferentially colonise tumours, but attenuated Salmonella shows stronger colonisation and biological effects than E. coli Nissle.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.01
+ },
+ "https://www.nature.com/articles/s42003-026-11325-2": {
+  "guid": "https://www.nature.com/articles/s42003-026-11325-2",
+  "title": "Optical coherence tomography and radiomics for structural, vascular and motion analysis of chorioallantoic membrane xenografts",
+  "link": "https://www.nature.com/articles/s42003-026-11325-2",
+  "abstract": "The in ovo model is an alternative in vivo system for studying tumor biology. However, non-invasive, label-free, rapid visualization of tumor growth, morphology, motion and vascularization at micrometer resolution remains challenging. Here, we investigated the potential of optical coherence tomography (OCT) and OCT angiography (OCT-A) to fill the gap as imaging tools for tumor development monitoring. Using a self-built OCT system (at 1304\u2009nm), combined with automated radiomics analysis, we investigated patient-derived xenografts grown on the chorioallantoic membrane (CAM) and the CAM itself. OCT, OCT-A, motion-mode OCT, and Doppler OCT were acquired without immobilization, yielding high-contrast images (\u2009~\u20094\u2009mm penetration) at micrometer resolution. This enabled differentiation of chick extra-embryonic membranes, assessment of CAM layers and thickness, vessel architecture, diameters, flow, as well as embryonic motion. Biological features of CAM xenografts were consistent with literature, and xenograft development was tracked over time and correlated with endpoint histology. Automated radiomics analysis extracted quantitative features of xenograft progression that support qualitative findings. OCT, its functional extensions, and radiomics thus provide a high-performance imaging platform for investigating tumor biology in CAM xenograft models.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.66
+ },
+ "https://www.nature.com/articles/s41586-026-11270-4": {
+  "guid": "https://www.nature.com/articles/s41586-026-11270-4",
+  "title": "Conservation of the tumour microenvironment across organs and species",
+  "link": "https://www.nature.com/articles/s41586-026-11270-4",
+  "abstract": "Current understanding of the host tissue response to solid tumours is largely based on investigations of tumour types in isolation1. Given the breadth and diversity of human tumour pathology and contributions of tumour microenvironment (TME) cells to disease progression, pan-cancer analysis is needed to bridge major themes of stromal and immune cell evolution. To date, however, efforts to compare the TME response across cancers have been limited in scope2,3. Here we conduct a comprehensive pan-cancer analysis by algorithmically screening thousands of publicly available single-cell transcriptomic datasets for stromal and immune signatures across species and tissue types. We demonstrate conserved hallmarks of host cell transcriptional programming in response to malignancy across 42 cancer types in more than 2,000 human and mouse tumour samples. These findings are codified as an interactive web atlas ( tmeatlas.stanford.edu ) and software package (scTME) that will serve as practical resources for the systematic interrogation of the TME in tumours. A pan-cancer single-cell analysis of the tumour microenvironment across 42 cancer types and across 2&nbsp;species is described.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.1
+ },
+ "https://www.nature.com/articles/s41388-026-04044-9": {
+  "guid": "https://www.nature.com/articles/s41388-026-04044-9",
+  "title": "PIM kinase inhibition induces epigenetically conditioned transcriptional changes, abnormal RNA splicing and DNA damage in diffuse large B-cell lymphoma cells",
+  "link": "https://www.nature.com/articles/s41388-026-04044-9",
+  "abstract": "Diffuse large B-cell lymphoma (DLBCL) is characterized by pronounced molecular heterogeneity and remains incurable in a substantial fraction of patients who relapse or develop refractory disease following standard chemoimmunotherapy. PIM kinases are constitutively active oncogenic serine/threonine kinases implicated in lymphoma pathogenesis, transcriptional control and cell viability. However, the detailed molecular mechanisms by which PIMs regulate transcriptional programs, RNA metabolism, and genome stability remain largely unknown. Here, we demonstrate that PIM kinases maintain interphase phosphorylation of histone H3 at serine 10 (H3S10ph). Genetic or pharmacological inhibition of PIM kinase family leads to a global reduction of H3S10ph and other active histone marks, impaired RNA polymerase II elongation, and widespread transcriptional repression. Integrated epigenomic and transcriptomic analyses reveal that PIM family inhibition preferentially affects gene networks involved in RNA metabolism, including RNA processing, splicing, and RNA methylation pathways. PIM1 proximity proteome analysis identified multiple splicing-related proteins, and PIM1 co-association with SF3B1, XAB2, and EDC3 was confirmed using co-immunoprecipitation. Functionally, PIM kinase inhibition induces extensive alternative mRNA splicing abnormalities, promotes the accumulation of RNA\u2013DNA hybrids (R-loops), and triggers DNA damage-associated checkpoint responses. Consistent with these findings, in preliminary in vitro drug combination studies, PIM inhibition synergizes with DNA-damaging chemotherapy and targeted inhibitors of the DNA damage response. Collectively, our results implicate PIM kinases in the regulation of transcription, RNA metabolism, and genome stability in DLBCL and provide a preclinical rationale for further investigation of combinations of PIM inhibitors with DNA-damaging agents or DNA damage response inhibitors.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.31
+ },
+ "https://www.nature.com/articles/s41698-026-01765-8": {
+  "guid": "https://www.nature.com/articles/s41698-026-01765-8",
+  "title": "Accelerating access to precision oncology trials: risk-benefit framework for local biomarker tests for patient enrollment",
+  "link": "https://www.nature.com/articles/s41698-026-01765-8",
+  "abstract": "Using biomarker test results from a patient\u2019s medical record or testing by a local clinical site can accelerate trial enrollment when compared with using a trial sponsor\u2019s clinical trial assay or candidate companion diagnostic provided by central laboratories. However, doing so may create technical, operational, and regulatory complexities for sponsors. A risk-based framework can inform sponsor decisions and awareness of risks and benefits as interest in using local tests increases.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 1.01
+ },
+ "https://www.nature.com/articles/s41598-026-78109-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-78109-w",
+  "title": "Urine-based liquid biopsy markers for diagnosis and treatment response monitoring in higher-stage bladder cancer",
+  "link": "https://www.nature.com/articles/s41598-026-78109-w",
+  "abstract": "Urine is in direct contact with bladder tumors, making it an ideal biofluid for non-invasive biomarker discovery. This study aimed to identify urine-based protein biomarkers for bladder cancer diagnosis and treatment response monitoring. By analyzing transcriptomic data from bladder cancer cell lines with differential sensitivity to chemotherapy and radiotherapy, we identified four secreted proteins associated with treatment resistance: collagen type I alpha 1 chain (COL1A1), microfibrillar-associated protein 5 (MFAP5), dipeptidyl-peptidase 4 (DPP4), and extracellular matrix protein 1 (ECM1). Urinary concentrations were quantified by enzyme-linked immunosorbent assay (ELISA) in 57 bladder cancer patients and 22 cancer-free controls. All four markers were significantly elevated in patients, and a combined four-marker panel outperformed individual markers (area under the curve [AUC]\u2009=\u20090.916, 95% confidence interval [CI]\u2009=\u20090.858\u20130.975), with discrimination driven primarily by stage T1 or higher disease. In a treatment-monitoring cohort of 13 patients receiving systemic chemotherapy and/or radiotherapy, changes in urinary COL1A1, MFAP5, and ECM1 from baseline were concordant with CT-based response, with COL1A1 showing the highest concordance (92.3%). These exploratory findings suggest that urinary secreted proteins may reflect disease status during treatment. However, their added value over imaging was not assessed, and their utility in surveillance settings warrants future investigation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.96
+ },
+ "https://www.nature.com/articles/s41598-026-79329-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-79329-w",
+  "title": "ColoPath-Mamba: a stain-aware pathology foundation\u2013Mamba framework for six-class colorectal histopathological image classification",
+  "link": "https://www.nature.com/articles/s41598-026-79329-w",
+  "abstract": "Colorectal histopathological image classification plays a critical role in computer-aided diagnosis. However, discrimination between visually similar tissue types is often difficult due to the presence of various subtypes of glands, epithelial abnormalities, and staining patterns in hematoxylin and eosin (H&amp;E) stained images. This study proposes ColoPath-Mamba, a stain-aware pathology foundation\u2013Mamba framework for six-class colorectal histopathological image classification using the EBHI-Seg dataset. The proposed framework first applies stain-aware preprocessing and then extracts pathology-oriented representations using a pretrained pathology foundation encoder. A task-specific pathology adaptation layer is introduced to align the extracted features with EBHI-Seg diagnostic categories. To capture long-range tissue dependencies, a Vision Mamba-based tissue-context block is incorporated, followed by class-aware attention pooling for diagnostic feature aggregation. In addition, a stain-consistency regularization strategy is used to reduce sensitivity to controlled stain perturbations by enforcing representation similarity between stain-normalized and stain-augmented views of the same image. The model classifies images into six diagnostic categories. Experimental evaluation using a five-fold protocol shows that ColoPath-Mamba achieves 97.60% accuracy, 98.28% weighted precision and 97.72% weighted F1-score. Comparative and ablation analyses demonstrate that pathology foundation features, Mamba-based tissue-context modelling, class-aware attention, and stain-consistency learning jointly improve classification performance.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s41598-026-80451-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-80451-y",
+  "title": "Alterations in homologous recombination repair genes and impact on survival among Chinese pancreatic ductal adenocarcinoma patients detected using next-generation sequencing",
+  "link": "https://www.nature.com/articles/s41598-026-80451-y",
+  "abstract": "Detection of homologous recombination repair (HRR) deficiency in pancreatic ductal adenocarcinoma (PDAC) is advancing, yet germline HRR mutation landscapes and survival impact remain poorly characterized in Chinese patients. In this study, we undertook next-generation sequencing among 126 Chinese PDAC patients using a 32-gene panel. Pathogenic and likely pathogenic (P/LP) germline mutations were diagnosed according to the ACMG variant classification categories. Mutation frequencies of HRR-related genes were analyzed statistically, and hotspot genes with high mutation prevalence were identified. Simultaneously, we compared the differences in demographic information, tumor characteristics, and clinical outcomes between P/LP mutation carriers and non-carriers. Germline P/LP variants were identified in 11.1% of the 126 patients, most frequently involving ATM and BRCA2. VUS were detected in 31.7% of patients, with ATM, BRCA2, and BRIP1 being the most commonly involved genes. Survival analysis of 103 patients showed longer overall survival in carriers of germline P/LP variants than in non-carriers (P\u2009=\u20090.032). In the platinum-treated subgroup (n\u2009=\u200920), overall survival was numerically longer in P/LP variant carriers than in non-carriers, but the difference was not statistically significant. SMAD4 loss was associated with shorter survival in the 39 patients with complete pathological data. These findings characterize the distribution of germline HRR variants in this cohort and suggest an association between P/LP variants and overall survival that warrants confirmation in larger prospective studies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.5
+ },
+ "https://www.nature.com/articles/s41698-026-01789-0": {
+  "guid": "https://www.nature.com/articles/s41698-026-01789-0",
+  "title": "A feasibility study for resolving cellular populations in precision cancer medicine by integrating single-cell multiomics",
+  "link": "https://www.nature.com/articles/s41698-026-01789-0",
+  "abstract": "Whole-genome and transcriptome sequencing can be leveraged for personalised cancer medicine. However, the resolution of malignant subclones within the tumour, a driver of therapeutic resistance, from bulk sequencing profiles relies on computational inference and generally requires high sequencing depth. Here, we applied single-cell multiomic sequencing to 25 tumour samples from 17 patients enrolled in the BC Cancer Personalised OncoGenomics programme to assess the extent to which single-cell profiling might enhance treatment planning for patients with advanced cancers. Across the cohort, we were able to resolve previously undetected subclonal mutations and immune cell populations associated with therapeutic efficacy. Additionally, in longitudinal cases, single-cell analyses tracked potential resistance mechanisms across biopsies. Furthermore, treatment-associated genes were heterogeneously distributed across malignant clusters, suggesting the need for combinatorial regimens. Some genes predicted to be targetable by bulk RNA-seq were also found to be predominantly expressed by normal populations. These findings demonstrate how the integration of single-cell data into translational research could enhance insights for precision cancer medicine.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.29
+ },
+ "https://www.nature.com/articles/s41523-026-01070-4": {
+  "guid": "https://www.nature.com/articles/s41523-026-01070-4",
+  "title": "Real-world rates and sites of recurrence after neoadjuvant chemoimmunotherapy in early-stage triple-negative breast cancer",
+  "link": "https://www.nature.com/articles/s41523-026-01070-4",
+  "abstract": "Neoadjuvant chemoimmunotherapy (NAC\u2009+\u2009P) improves pathologic complete response (pCR) and survival in early-stage triple-negative breast cancer (TNBC) compared to neoadjuvant chemotherapy (NAC) alone. Real-world recurrence outcomes outside the trial setting remain unclear. This single-institution analysis compared two cohorts of patients with early-stage TNBC treated between July 2009 and April 2023: NAC\u2009+\u2009P (n\u2009=\u2009344) and NAC (n\u2009=\u2009513). Primary outcomes were local (LR), regional (RR), and distant recurrence (DR); secondary outcomes were DR sites and disease-free survival (DFS). The NAC\u2009+\u2009P cohort presented with less advanced disease at diagnosis. Overall pCR was higher in NAC\u2009+\u2009P (58% vs. 36%, p\u2009&lt;\u20090.001). Two-year LR and RR rates did not differ. The 2-year DR rate was nearly halved in NAC\u2009+\u2009P (9.6% vs. 18%, p\u2009&lt;\u20090.001) and remained lower among patients with residual disease (16% vs. 25%). Two-year brain recurrence was also lower (3.5% vs. 6.6%, p\u2009=\u20090.046). Overall pCR was independently associated with improved DFS in both cohorts, as were immune-related adverse events (irAEs) in NAC\u2009+\u2009P. In this real-world setting, NAC\u2009+\u2009P was associated with substantially lower 2-year DR, though the central nervous system remained a common site of recurrence. Beyond pathologic response, the development of irAEs may offer a treatment-specific marker of benefit.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.97
+ },
+ "https://www.nature.com/articles/s41551-026-01843-z": {
+  "guid": "https://www.nature.com/articles/s41551-026-01843-z",
+  "title": "Designer mucin-responsive nanomedicine for enhanced solid tumour penetration and therapy",
+  "link": "https://www.nature.com/articles/s41551-026-01843-z",
+  "abstract": "While nanomedicines hold great promise for solid tumour therapy, their penetration and access to tumour cells is limited by large glycosylated proteins called mucins that are enriched in the tumour microenvironment. Here we show that mucins induce the disassembly of self-assembled mPEG\u2013polyester micellar nanoparticles into smaller unimers. Leveraging this finding, we designed a mucin-responsive, paclitaxel-conjugated nanomedicine (mrPNM) whose unimers are capable of escaping the mucin-binding barrier. Following intravenous injection, this designer mucin-responsive nanomedicine exhibited markedly deeper penetration than the mucin-nonresponsive nanomedicine and albumin, resulting in 3.9- and 1.5-fold increases in tumour cell delivery, respectively, in a pancreatic mouse tumour model. The mrPNMs also achieved superior tumour growth inhibition compared to both the mucin-nonresponsive nanomedicine and Abraxane, the FDA-approved nanoparticle albumin-bound paclitaxel, in three solid tumour models. The mucin-responsive nanomedicine platform could provide a general strategy for improving the treatment of solid tumours. Tumour-associated mucins induce the disassembly of a designer PEGylated paclitaxel-conjugated nanomedicine into small unimers that escape the mucin-binding barrier, enhancing tumour penetration and therapeutic efficacy in mouse models of solid tumours.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.44
+ },
+ "https://www.nature.com/articles/s41467-026-79311-0": {
+  "guid": "https://www.nature.com/articles/s41467-026-79311-0",
+  "title": "Chromosomally unstable cancer cells exhibit heightened dependence on the mitotic SKA complex",
+  "link": "https://www.nature.com/articles/s41467-026-79311-0",
+  "abstract": "Aneuploidy and chromosomal instability are common characteristics of cancer but remain underexploited therapeutically. Chromosomally unstable cells are often selectively vulnerable to inhibition of the kinesin KIF18A, and this dependence is related to altered mitotic control. Here, we identify the spindle and kinetochore-associated (SKA) complex as a mitotic regulator that establishes a similar dependency. SKA complex&nbsp;loss is tolerated in cells with a defective mitotic checkpoint, but when mitosis is prolonged, it leads to mitotic errors and loss of viability. Genetic analysis reveals that the&nbsp;SKA&nbsp;complex&nbsp; and KIF18A are epistatic, although they function through mechanistically distinct mitotic pathways. SKA&nbsp;complex depletion selectively impacts chromosomally unstable cancer cells and mirrors the effects of KIF18A inhibition. We thus identify a cellular vulnerability associated with prolonged mitosis in chromosomally unstable cancers. Targeting chromosome segregation in chromosomally unstable cancer cells holds promise for anti-cancer therapy. Here, Schoot&nbsp;Uiterkamp et al. identify the mitotic SKA complex as a potential target to combat chromosomally aberrant cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.83
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.767112v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.767112v1?rss=1",
+  "title": "\u03b2-catenin/TCF signaling represses GUCY2C hormone expression through a p38\u03b1-GATA2 axis in colorectal cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.767112v1?rss=1",
+  "abstract": "Guanylin (GUCA2A) and uroguanylin (GUCA2B) are paracrine hormone ligands of the tumor-suppressor receptor guanylyl cyclase C (GUCY2C). In early colorectal tumorigenesis, expression of GUCA2A and GUCA2B is silenced through transcriptional repression by APC-regulated {beta}-catenin/TCF signaling, a pathway activated early in malignant transformation. This repression depends on a locus control region (LCR) 1,000-3,683 bp upstream of GUCA2A. Here, we used dCas9-APEX2 biotinylation at genomic elements by restricted spatial tagging (C-BERST) in colorectal cancer (CRC) cell lines with inducible suppression of {beta}-catenin/TCF signaling to identify {beta}-catenin/TCF-regulated proteins associated with the GUCA2A regulatory region that mediate repression of GUCY2C ligand transcription. Guide RNAs were used to direct dCas9-APEX2 for locus-specific proximity biotinylation of proteins. Quantitative mass spectrometry identified p38 (MAPK14) as a candidate regulator enriched near the GUCA2A promoter following {beta}-catenin/TCF suppression. Loss-of-function and rescue experiments established that p38 supports GUCA2A and GUCA2B induction following {beta}-catenin/TCF suppression. Importantly, GATA2 was identified as a p38-dependent activator of GUCA2A and GUCA2B transcription that remained enriched near the GUCA2A promoter independent of {beta}-catenin/TCF signaling. Indeed, GATA2 S192 phosphorylation was reduced by p38 loss and by active {beta}-catenin/TCF signaling. Thus, a p38/GATA2 axis links oncogenic {beta}-catenin/TCF signaling to repression of GUCY2C hormone expression in CRC.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "",
+  "score": 1.3
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.767140v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.767140v1?rss=1",
+  "title": "Ion channel-enhancing nanoparticles reprogram T cells in vivo for cancer immunotherapy",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.767140v1?rss=1",
+  "abstract": "In head and neck squamous cell carcinoma (HNSCC), immunotherapy is frequently ineffective due to the impaired ability of tumor-infiltrating T cells to sustain calcium-dependent cytotoxic effector functions. Kv1.3 potassium channels in T cells are essential for maintaining membrane potential, which is necessary for Ca2+ influx; however, they are suppressed within the tumor microenvironment, and no pharmacologic Kv1.3 activators are currently available. To address this limitation, we developed lipid nanoparticles (LNPs) functionalized with anti-CD5 antibodies to specifically deliver mRNA encoding Kv1.3 (KCNA3) to T cells, thereby increasing channel expression and function. Treatment of human T cells with KCNA3-LNPs resulted in increased Kv1.3 channel protein levels and activity, leading to enhanced Ca2+ influx and elevated secretion of effector cytokines (IL-2, IL-17, TNF-, and IFN-{gamma}) and cytotoxic molecules (Granzyme A, Perforin, Granulysin, and Fas ligand). In a human peripheral blood mononuclear cell-engrafted HNSCC humanized mouse model, peritumoral delivery of KCNA3-LNPs significantly reduced tumor burden and increased the infiltration of CD8 Granzyme B cytotoxic T cells within the tumor, indicating improved antitumor immunity. Our study demonstrates that in vivo reprogramming of T cells through targeted Kv1.3 enhancement can overcome immunosuppressive barriers within the tumor microenvironment and enhance immune-mediated tumor clearance in vivo. This novel approach offers a scalable and cost-effective alternative to ex vivo T cell engineering and holds promise as a therapeutic strategy to improve immunotherapy outcomes in HNSCC and other solid tumors characterized by Kv1.3-dependent immune dysfunctions.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "",
+  "score": 1.33
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.767111v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.767111v1?rss=1",
+  "title": "ERM proteins antagonistically control cancer invasion and metastasis via mechanosensing regulation",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.767111v1?rss=1",
+  "abstract": "Metastasis requires cancer cells to overcome anchorage dependence and rewire mechanosensing pathways. Here, we identify the ERM proteins ezrin, radixin, and moesin as key but antagonistic regulators of breast cancer metastasis. Expression profiling across matched low- and high-metastatic breast cancer models revealed consistent upregulation of all three ERM proteins in highly metastatic cells. Despite this, ezrin depletion reduced colony formation, invasion, and lung metastasis, whereas radixin or moesin depletion enhanced these phenotypes. Loss of radixin or moesin increased ezrin localization at the cell edge, while ezrin depletion reduced membrane-associated moesin, indicating a dynamic balance among ERM proteins. Ezrin depletion also increased focal adhesion size and number, FAK activation, and force transmission to the extracellular matrix, whereas radixin or moesin silencing produced opposite effects. Cellular force magnitude was inversely correlated with invasion, and pharmacological modulation of contractility reverted the effects of ERM depletion. These findings reveal an ERM-dependent mechanosensing checkpoint that regulates metastasis through control of adhesion dynamics and force transmission.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "",
+  "score": 0.95
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.766881v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.766881v1?rss=1",
+  "title": "Recurrent astrocyte transcriptional states with spatial and functional specialization are induced by brain metastases independently of their primary tumor origin",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.766881v1?rss=1",
+  "abstract": "Reactive astrocytes have emerged as important components of the brain metastasis niche, yet a state-resolved framework for metastasis-associated astrocyte biology is still lacking. Here, we integrate single-cell and spatial transcriptomics across syngeneic breast, lung and melanoma models of brain metastases to define a state-resolved astrocyte landscape. We identify recurrent tumor-associated astrocyte states shared across tumor origins, map their spatial distribution, and find that a subset, which we term AST-BrM, becomes selectively reprogrammed at the tumor-microenvironment interface, supporting niche-coupled organization rather than a diffuse brain-wide reactive response. AST-BrM defines distinct metastasis-associated astrocyte states at the peritumoral interface, distinguishes them from homeostatic-like astrocytes beyond generic inflammatory activation, and resolves into two therapeutically actionable programs: an AP-1-high axis and a STAT3+/HOPX+-associated axis. Genetic and pharmacologicall perturbations establish functional relevance, and an AP-1/c-FOS-driven signature is associated with clinical outcome. Together, these findings define conserved, spatially organized and actionable astrocyte programs that drive brain metastasis progression.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-17T00:00:00+00:00",
+  "type": "",
+  "score": 1.55
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.766949v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.766949v1?rss=1",
+  "title": "Common early-life exposure of the colorectal epithelium to the microbiome-derived mutagen colibactin",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.766949v1?rss=1",
+  "abstract": "Colibactin is a mutagen produced by bacterial strains in the colorectal microbiomes of some healthy people. It generates somatic mutations characterised by the mutational signatures SBS88 and ID18 in normal human colorectal epithelial cells in vivo. Increasing prevalence of colibactin mutagenesis during the 20th century is hypothesised to have caused recent international increases in early-onset colorectal cancer incidence. Here, we establish the early-life prevalence, timing, mutation burdens and distribution through the colon of colibactin mutagenesis by sequencing normal colorectal epithelial cell genomes to detect SBS88 and ID18 in 90 healthy and inflammatory bowel disease affected children and adolescents. Colibactin-induced mutagenesis was present in ~43%, with or without inflammatory bowel disease. It usually begins shortly after birth and ceases by age five years. Mutation burdens are higher in the left than right colon and show substantial variation, with some children displaying mutation burdens comparable to those of healthy non-exposed individuals greater than 60 years of age. The future public health implications of this common early life mutagen exposure will depend on clarification of its role in colorectal cancer causation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "",
+  "score": 0.87
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.762837v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.762837v1?rss=1",
+  "title": "B7-H3 Orchestrates Fibro-Immune Spatial Organisation in Pancreatic Cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.762837v1?rss=1",
+  "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal cancers in the western world and is largely resistant to treatment. A major barrier to effective treatment is the highly desmoplastic and immunosuppressive tumour microenvironment, where the organisation of tumour, stromal and resident immune cells limit immune infiltration. B7-H3 (CD276) is an emerging immune checkpoint marker investigated in phase I and Ib/2 clinical trials in PDAC, yet its biological role within the tumour environment remains poorly understood. We performed an integrated multiscale spatial profiling study to map B7-H3 expression across regional and single-cell spatial contexts in treatment-naive resected human PDAC. Furthermore, we explored the B7-H3 landscape in the neoadjuvant setting. Our results demonstrate that B7-H3 is not simply overexpressed in cancer but may act as a spatial organiser of the PDAC microenvironment, associated with a transition from epithelial-intrinsic tumour architecture to fibro-inflammatory immune states that underpin immune suppression, aggressive disease and poor prognosis. This fibro-inflammatory state appears conserved within the neoadjuvant landscape.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "",
+  "score": 1.89
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.767095v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.767095v1?rss=1",
+  "title": "CD3\u207aCD4-CD8- (Double-Negative) T-cells Provide Inflammatory Signals That Influence Myeloid Cells and Enhance Survival in Glioblastoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.767095v1?rss=1",
+  "abstract": "Glioblastoma (GBM) remains resistant to immunotherapy, in part because of a profoundly immunosuppressive tumor microenvironment. While investigating the consequences of conventional T-cell depletion in a murine glioma model, we unexpectedly identified a population of double-negative T-cells (DNTs; CD3CD4-CD8-) that persisted following combined depletion of CD4 and CD8 T-cells. DNT enrichment was associated with significantly prolonged survival and revealed a distinct inflammatory transcriptional program characterized by activation-associated gene expression. Single-cell transcriptomic analyses demonstrated extensive remodeling of the glioma myeloid compartment, including enrichment of inflammatory signaling pathways and reduced expression of immunosuppressive markers. In complementary human studies, unmodified healthy donor-derived DNTs suppressed glioma stem cell viability, enhanced macrophage phagocytic activity, and reduced expression of the inhibitory myeloid receptor LAIR1. Intracranial administration of these unmodified DNTs significantly prolonged survival compared with PanT cells in an orthotopic glioblastoma xenograft model.. Collectively, these findings identify DNTs as previously underappreciated regulators of glioblastoma immunity that exert antitumor effects through both direct tumor suppression and inflammatory remodeling of the glioma myeloid compartment. These results support further investigation of DNT-based cellular therapies for the treatment of glioblastoma.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "",
+  "score": 1.97
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.766865v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.766865v1?rss=1",
+  "title": "CD38-NAMPT-p21 signaling promotes stress adaptation in CLL",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.766865v1?rss=1",
+  "abstract": "Chronic lymphocytic leukemia (CLL) is the most common adult leukemia in the United States, accounting for ~30% of new diagnoses and ~4,000 deaths annually. High CD38 expression is a well-established marker of poor prognosis, yet the mechanistic basis of CD38-mediated treatment failure has remained incompletely understood. Here, we demonstrate that CD38 functions not merely as a prognostic biomarker but as a metabolic and signaling regulator that equips CLL cells to withstand cytotoxic and hypoxic stress. Using MEC-1 cells engineered to express CD38, we identified a CD38-NAMPT-p21 survival axis that confers resistance to fludarabine and hypoxia. CD38 NADase activity promoted NAMPT upregulation and AKT activation and was associated with accumulation of cytoplasmic p21. This CD38-dependent phenotype was lost in cells expressing a catalytically inactive CD38 mutant and was also reversed by pharmacologic inhibition of NAMPT (FK866) or suppression of p21 (UC2288). Analysis of three independent single-cell RNA-sequencing datasets of primary CLL further showed that naturally occurring CD38-positive CLL cells exhibit increased NAMPT expression and related stress-response signaling. Analysis of larger primary CLL cohorts further linked NAMPT expression to AKT and hypoxia signatures, providing additional support for the relevance of this pathway in patient-derived CLL. Together, these findings identify CD38-NAMPT-p21 signaling as an important mechanism of stress adaptation in CLL and suggest that targeting NAD metabolism and p21-mediated survival pathways may represent a potential strategy for CD38-high disease.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "",
+  "score": 0.89
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.766984v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.766984v1?rss=1",
+  "title": "Multiomic analysis of a pleural mesothelioma organoid biobank defines gene dependencies and therapeutic vulnerabilities",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.766984v1?rss=1",
+  "abstract": "Pleural mesothelioma (PM) remains an incurable cancer with few effective therapeutic options and limited understanding of its targetable dependencies, owing in part to a scarcity of clinically relevant, scalable models. Here, we describe establishment of an annotated biobank of 26 patient-derived PM organoids that faithfully recapitulate the clinical, genomic and histopathological landscapes of their parent tumours, including driver mutations, copy-number alterations and mutational signatures. By integrating these organoid models with a complementary collection of low-passage primary PM cell lines, we generate a functional precision oncology platform for PM. Genome-scale CRISPR-Cas9 screening across 23 patient-derived PM models uncovered 1,150 core fitness genes, including 638 not shared with pan-cancer core essentials, highlighting critical requirements for proteostasis, DNA repair, RNA processing and cell-cycle control. Parallel profiling of 106 compounds across 36 PM models revealed broad therapeutic vulnerabilities in proteostasis, growth signalling and epigenetic regulation. Beyond these shared vulnerabilities, both screens uncovered genotype-specific dependencies and drug responses linked to recurrent PM alterations. This functional map of shared and genotype-specific dependencies establishes patient-derived organoids as a scalable platform for precision therapeutic discovery in pleural mesothelioma",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "",
+  "score": 1.67
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.767109v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.767109v1?rss=1",
+  "title": "Combined nelfinavir and cisplatin treatment promotes inflammatory signaling and immunogenic cell death in ovarian cancer cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.767109v1?rss=1",
+  "abstract": "Platinum (Pt) based chemotherapy remains central to ovarian cancer (OC) treatment, but recurrent disease frequently develops Pt resistance and responds poorly to immune checkpoint inhibitors. Immunogenic cell death (ICD) links tumor cell killing to antitumor immunity; however, cisplatin (CDDP), widely used in OC, is an incomplete ICD inducer. We previously demonstrated that the HIV protease inhibitor nelfinavir (NFV) enhances CDDP induced OC cell death and promotes a lytic, pyroptosis associated phenotype. Here, we investigated whether NFV enhances the immunogenic consequences of CDDP treatment. RNA seq analysis of OC cells treated with CDDP, NFV, or their combination revealed enrichment of interferon (IFN) associated, cytoplasmic DNA sensing, inflammatory chemokine, and antigen presentation pathways following NFV containing treatments. NFV alone and CDDP plus NFV reduced mature Lamin A abundance and increased extranuclear double stranded DNA accumulation. Cytosolic fractionation and droplet digital PCR demonstrated increased cytosolic TP53 DNA, particularly following combined treatment. CDDP plus NFV increased STING and TBK1 phosphorylation, supporting engagement of the cGAS STING TBK1 signaling pathway. The combination enhanced release of inflammatory and ICD associated mediators, including HMGB1, IL18, and IFNbeta. Importantly, vaccination with CDDP plus NFV-treated murine ID8 OC cells protected immunocompetent female mice against subsequent live ID8 cell challenge, reducing tumor incidence and burden. In contrast, ID8 cells killed by freeze thaw-induced accidental necrosis provided no comparable protection. Collectively, these findings indicate that NFV enhances the immunogenic consequences of CDDP induced OC cell death, potentially involving cytoplasmic DNA accumulation and STING TBK1 signaling, and promotes protective antitumor immunity in vivo. These results support further investigation of NFV as a repurposed partner for Pt based chemotherapy and its potential combination with immunotherapy in OC.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "",
+  "score": 1.23
  }
 }
