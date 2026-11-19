@@ -3119,16 +3119,6 @@
   "type": "Article",
   "score": 1.27
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00355-7?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00355-7?rss=yes",
-  "title": "Proteo-genomics-guided interpretation of somatic mutations in cancer genomes",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00355-7?rss=yes",
-  "abstract": "Hyeon et al. integrate protein structures with population-scale cancer genomics data to characterize significantly mutated regions in 173 cancer-relevant genes. These regions align with functional domains, three-dimensional structural constraints, and gene-specific biology, providing a framework for classifying mutation patterns in cancer genes and prioritizing sparsely annotated variants for clinical interpretation.",
-  "source": "Cancer Cell",
-  "date": "2026-08-21T00:00:00+00:00",
-  "type": "Article",
-  "score": 1.29
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00399-5?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00399-5?rss=yes",
   "title": "A transient MXD4-dependent proliferative pause enables survival of brain micrometastases",
@@ -18008,5 +17998,65 @@
   "date": "2026-11-18T00:00:00+00:00",
   "type": "",
   "score": 1.23
+ },
+ "https://www.nature.com/articles/s43018-026-01312-1": {
+  "guid": "https://www.nature.com/articles/s43018-026-01312-1",
+  "title": "Publisher Correction: Reframing cancer therapy through tumor plasticity",
+  "link": "https://www.nature.com/articles/s43018-026-01312-1",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Publisher Correction",
+  "score": 0.79
+ },
+ "https://www.nature.com/articles/s44303-026-00198-z": {
+  "guid": "https://www.nature.com/articles/s44303-026-00198-z",
+  "title": "Magnetic resonance elastography in oncology: bridging biomechanics to clinical translation",
+  "link": "https://www.nature.com/articles/s44303-026-00198-z",
+  "abstract": "Magnetic resonance elastography (MRE) is a noninvasive MRI-based technique that quantitatively evaluates tissue viscoelasticity by measuring shear wave propagation. This review summarizes MRE principles and recent tumor imaging advances, highlighting its complementary value to ultrasound elastography (USE) and conventional MRI for lesion characterization, tumor grading, treatment response assessment, and prognostic evaluation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Review",
+  "score": 0.64
+ },
+ "https://www.nature.com/articles/s41598-026-80612-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-80612-z",
+  "title": "A phenotypic-transport model of selection and therapy-associated phenotypic redistribution in the VC-Resist glioblastoma state",
+  "link": "https://www.nature.com/articles/s41598-026-80612-z",
+  "abstract": "Glioblastoma recurrence is sustained by tumour cells that survive chemoradiation and infiltrate the peritumoural brain. We previously identified VC-Resist, a Nestin-high, vessel-co-opting and therapy-resistant state induced by DNA-damaging therapy and vascular cues. Whether its short-term enrichment reflects selection of pre-existing cells, phenotypic redistribution, or both remains unclear because death, proliferation and state transitions co-occur. We formulate a phenotypic-transport model for glioblastoma-cell density along a continuous Nestin-reporter axis. The model separates phenotype-dependent net growth from conservative transport and is calibrated to seven-day flow-cytometric Nestin distributions after irradiation of MGG4 cells, with Sytox measurements informing treatment-associated death. It reproduces dose-dependent Nestin-high enrichment and is consistent with a graded association between higher Nestin expression, reduced proliferation and greater radiation resistance. Under the specified uncertainty ranges, transport parameters are among the strongest determinants of the modelled day-7 mean Nestin coordinate. Because the velocity field is inferred from the distributions being fitted, independent longitudinal data and transition-specific perturbations are needed to establish whether the redistribution depends causally on therapy-induced reprogramming. Counterfactual simulations compare attenuation of phenotypic transport with reduction of Nestin-associated protection. Our framework provides an interpretable, data-constrained basis for designing experiments that directly test therapy-induced plasticity in glioblastoma.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.64
+ },
+ "https://www.nature.com/articles/s41585-026-01213-z": {
+  "guid": "https://www.nature.com/articles/s41585-026-01213-z",
+  "title": "The case for preventive prostatectomy in patients with a high risk of malignancy",
+  "link": "https://www.nature.com/articles/s41585-026-01213-z",
+  "abstract": "A growing body of evidence has highlighted the importance of hereditary factors in determining a man\u2019s risk of prostate cancer. Germline mutations, such as those in BRCA genes, increase lifetime risk and contribute to more aggressive disease. As our understanding of these risks has increased, surgical techniques for prostate removal, particularly robot-assisted radical prostatectomy (RARP), have been refined, enabling precise nerve-sparing and excellent functional outcomes. These refinements, combined with increased availability of genetic testing and improved genetic counselling, mean that risk-eliminating, function-sparing prostatectomy could be a realistic management approach for carefully selected, well-informed, consenting individuals definitively identified as being at high risk of significant, aggressive prostate cancer and with additional clinical risk factors, including persistently rising PSA, elevated PSA density (\u22650.15), suspicious lesions on mpMRI (PI-RADS \u22653), or abnormal digital rectal examination (DRE). Endoconfocal microscopy and NeuroSAFE RARP protocols might further improve nerve sparing and functional outcomes, increasing the feasibility of preventive surgery. Beyond the oncological implications of a potentially aggressive future tumour, psychological distress among men carrying high-risk mutations can be profound, and definitive surgical prevention could provide relief for patients whose mutation status causes substantial anxiety. Risk-eliminating prostatectomy requires consideration of scientific, surgical, psychological, ethical and legal factors. Implementing such programmes requires precise candidate selection and an understanding of the risks and controversies surrounding prophylactic surgery, as well as alternatives including focal therapy and active surveillance. Responsible exploration of this potential next frontier in hereditary prostate cancer prevention requires substantial further research and a framework to ensure that studies are ethical and clinically useful. Growing recognition of hereditary prostate cancer risk has prompted the consideration of preventive surgical approaches. In this Perspective, the authors discuss whether risk-eliminating, function-sparing prostatectomy could become a viable strategy for carefully selected high-risk individuals, examining the evidence, controversies and future research needed to guide clinical implementation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 0.66
+ },
+ "https://www.nature.com/articles/s41598-026-75606-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-75606-w",
+  "title": "Folate-functionalized chitosan nanocarriers of an iron nitrosyl nitric oxide donor for dual antileukemic and antibacterial activity in acute myeloid leukemia cells",
+  "link": "https://www.nature.com/articles/s41598-026-75606-w",
+  "abstract": "Acute myeloid leukemia (AML) treatment is frequently complicated by severe bacterial infections resulting from chemotherapy-induced neutropenia, creating a need for therapeutic platforms that address both leukemic progression and infection-related complications. In this study, folate-functionalized chitosan nanocarriers loaded with an iron nitrosyl nitric oxide donor, FA-CS@FeNOTSP, were developed as a dual-action platform for antileukemic and antibacterial evaluation. The nanocarriers were obtained by carbodiimide-mediated folate conjugation followed by FeNOTSP encapsulation and characterized by FT-IR, UV\u2013Vis spectroscopy, zeta-potential analysis, scanning electron microscopy, and dynamic light scattering. FA-CS@FeNOTSP exhibited high encapsulation efficiency (approximately 85\u201392%), SEM-derived particle dimensions of approximately 210&nbsp;nm, hydrodynamic diameters of approximately 250\u2013327&nbsp;nm in aqueous suspension, and a marked surface-charge shift consistent with folate functionalization. The formulation showed pH/GSH-responsive release, with limited FeNOTSP liberation under physiological conditions (approximately 20% at pH 7.4 after 24&nbsp;h) and enhanced release under acidic, reductive conditions (approximately 40% at pH 4.5 with 10 mM GSH). DNA-binding and stopped-flow studies indicated moderate ctDNA interaction (Kb = 4.31\u2009\u00d7\u2009104 M\u2212\u20091) through a reversible two-step mechanism involving rapid electrostatic association followed by slower structural binding. FA-CS@FeNOTSP displayed low hemolytic activity (&lt;\u20091%), reduced cytotoxicity toward WI38 fibroblasts (IC50=162.07\u2009\u00b1\u20091.89&nbsp;\u00b5g mL\u2212\u20091), retained activity against Kasumi-1 AML cells (IC50\u2009=\u200984.99\u2009\u00b1\u20091.11&nbsp;\u00b5g mL\u2212\u20091), and exerted broad-spectrum antibacterial effects (21\u201332&nbsp;mm inhibition zones, comparable to gentamicin). Pre-exposure of Kasumi-1 cells to excess free folic acid increased the IC50 of FA-CS@FeNOTSP by 35.4%, providing preliminary functional support for the contribution of folate-sensitive cellular interactions to the in-vitro response. Collectively, these findings support FA-CS@FeNOTSP as an in-vitro proof-of-concept multifunctional platform with responsive release, antileukemic activity, and antibacterial effects.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.77
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.13.766481v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.13.766481v1?rss=1",
+  "title": "Rac1-Abi-1 Signaling Links DNA Repair to Tumorigenesis",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.766481v1?rss=1",
+  "abstract": "The DNA damage response governs genomic integrity, and abnormal DNA repair can drive tumorigenesis. We previously identified a Rac1-Abi-1 signaling pathway in which Rac1 activates protein phosphatase 5, leading to Abi-1-S323 dephosphorylation and enhanced non-homologous end joining (NHEJ). Given the error-prone nature of NHEJ and its potential to promote genomic instability, we sought to determine whether Rac1-Abi-1-mediated regulation of NHEJ contributes to tumorigenesis. Here, we demonstrate the tumorigenic role of Abi-1-S323 dephosphorylation in nonmalignant cell models and multiple tumorigenesis models established using a newly generated genetically engineered Abi-1 mouse model. We first found that the dephospho-mimetic Abi-1-S323A mutant promoted transformation-associated phenotypes in nonmalignant human cells and enhanced orthotopic glioblastoma growth under unperturbed conditions. To further investigate its tumorigenic potential in vivo, we generated CRISPR/Cas9-mediated Abi-1-S296A knock-in mice, in which S296 corresponds to human S323. Abi-1-S296A mouse embryonic fibroblasts exhibited increased proliferation, while mutant mice developed spontaneous tumors involving lymphoid tissues and organs under unperturbed conditions. Furthermore, Abi-1-S296A increased susceptibility to tumorigenesis following DNA damage. In a low-dose whole-body irradiation model, Abi-1-S296A mice showed a trend toward shortened survival and increased tumor development, with lesions including Harderian gland papillary cystadenomas, round-cell neoplasms, and anaplastic sarcomas. In addition, in an azoxymethane/dextran sulfate sodium (AOM/DSS)-induced colorectal tumor model, Abi-1-S296A mice developed significantly more tumors and had a greater tumor burden. These findings identify Abi-1-S323 dephosphorylation as a previously unrecognized regulator of tumorigenesis and establish a new mouse model for investigating the physiological and pathological consequences of constitutive activation of upstream NHEJ-regulatory signaling.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-18T00:00:00+00:00",
+  "type": "",
+  "score": 1.81
  }
 }
