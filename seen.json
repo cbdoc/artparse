@@ -18498,5 +18498,45 @@
   "date": "2026-11-19T00:00:00+00:00",
   "type": "",
   "score": 1.5
+ },
+ "https://www.nature.com/articles/s41419-026-09330-8": {
+  "guid": "https://www.nature.com/articles/s41419-026-09330-8",
+  "title": "Mesothelial cell plasticity shapes peritoneal pre-metastatic niche through THBS2 in ovarian cancer",
+  "link": "https://www.nature.com/articles/s41419-026-09330-8",
+  "abstract": "Approximately 80% of ovarian cancer cases present with multisite dissemination within the abdominal cavity at diagnosis, a feature strongly linked to dismal prognosis. Yet, whether these disseminated lesions are functionally homogeneous or harbor-distinct metastatic potentials remains unknown\u2014limiting strategies to stratify risk and target metastasis. By integrating single-cell transcriptomics with whole-exome sequencing of matched samples from primary tumors, abdominal implants, and liver metastases in the same patient, we reconstruct the evolutionary trajectory from primary tumor to peritoneal seeding and onward to distant metastasis. We reveal pronounced heterogeneity among abdominal implants: omental tumors frequently retain features of the primary tumor, whereas peritoneal implants adopt transcriptional programs that converge on liver metastases\u2014characterized by enrichment of mesenchymal-like cancer cell states. Mechanistically, ascites-driven inflammation induces mesothelial cells to undergo a fibroblast-like transition, accompanied by elevated secretion of THBS2. These THBS2-enriched, fibroblast-like mesothelial cells act as architects of a peritoneal pre-metastatic niche, facilitating migration and enabling extra-abdominal metastasis as demonstrated by in vitro and mice model. Together, our findings reveal a hierarchical model of ovarian cancer spread and identify THBS2-mediated mesothelial remodeling as a key process enabling systemic metastasis and a promising therapeutic target.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-20T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.02
+ },
+ "https://www.nature.com/articles/s41391-026-01172-x": {
+  "guid": "https://www.nature.com/articles/s41391-026-01172-x",
+  "title": "Safety and efficacy of etrumadenant-based treatment in patients with metastatic castration-resistant prostate cancer: results from a phase 1b/2 study",
+  "link": "https://www.nature.com/articles/s41391-026-01172-x",
+  "abstract": "Metastatic castration-resistant prostate cancer (mCRPC) remains incurable, with limited durable response to standard treatments. Preclinical data suggest that combining adenosine pathway blockade with immunotherapy and/or chemotherapy may activate and sustain antitumor immunity in prostate cancer. Etrumadenant is an oral, small-molecule, selective dual A2a/A2b receptor antagonist designed to inhibit adenosine-mediated immunosuppression. The open-label phase 1b/2 ARC-6 (NCT04381832) study evaluated etrumadenant-based treatment combinations in males with mCRPC that progressed while receiving a novel hormonal agent. Patients were assigned to arms based on prior anticancer therapy (eg, taxane or abiraterone exposure) and received etrumadenant with zimberelimab, enzalutamide, docetaxel, sacituzumab govitecan, or quemliclustat or received docetaxel monotherapy. The primary endpoint was composite objective response rate (cORR), defined as the proportion of patients achieving a serum prostate-specific antigen (PSA) response and/or a radiographic response. Secondary endpoints included PSA response rate, radiographic response rate, and disease control rate. Between June 2020 and August 2024, 173 patients were treated. Most patients were aged \u226565 years (mean age across treatment arms, 69\u201374 years). The median (range) treatment duration across arms ranged from 11 (9\u201323) to 36 (9\u201367) weeks. In patients who were taxane-naive, cORR ranged from 25% in the etrumadenant and sacituzumab govitecan treatment arm to 55% in the etrumadenant, zimberelimab, and docetaxel treatment arm; response rates were numerically highest with docetaxel-containing combinations, particularly in stage 2. Across all treatment arms, among patients who were taxane-experienced, cORR was \u226414%; among patients who were abiraterone-experienced and taxane-naive, cORR was 21%. Serious treatment-emergent adverse events (TEAEs) occurred in 13\u201357% of patients. Most TEAEs were grade 1\u20132. Grade \u22653 TEAEs related to etrumadenant occurred in 6\u201357% of patients. Etrumadenant-based treatments with zimberelimab and standard-of-care agents demonstrated a manageable safety profile and antitumor activity among a subset of patients with mCRPC.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-19T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.07
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.18.767001v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.18.767001v1?rss=1",
+  "title": "Connexin43 drives mitochondrial biogenesis and organelle stress in BRAF-mutant melanoma cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.18.767001v1?rss=1",
+  "abstract": "Metabolic flexibility helps cancer cells survive targeted therapy, and BRAF-mutant melanoma rewires mitochondrial metabolism in response to BRAF/MEK inhibitors (BRAF/MEKi). We previously showed that connexin43 (Cx43) acts as a tumour suppressor in BRAF-mutant melanoma and enhances the response to BRAF/MEKi. Here, we investigated whether mitochondrial remodelling contributes to these effects. Cx43 upregulation promoted mitochondrial biogenesis including selective increase of CI and CV, enhanced oxidative phosphorylation (OXPHOS), and increased reactive oxygen species (ROS) production, alongside DRP1-associated mitochondrial fragmentation. Despite enhanced mitochondrial biogenesis and OXPHOS, Cx43 upregulation was associated with respiratory chain remodelling, characterised by loss of complex IV, increased ER and mitochondrial stress, and enhanced mTORC1-associated signalling. These changes were accompanied by an adaptive unfolded protein response that did not engage the pro-apoptotic ATF4-CHOP axis. Notably, BRAF/MEK inhibition largely attenuated the mitochondrial biogenesis phenotype and most of the stress markers associated with Cx43 upregulation, while promoting mitochondrial network elongation and markedly increasing mitochondrial ROS. Despite this impact, Cx43-expressing tumour cells retained higher membrane potential, ROS levels and survival under glucose-limiting conditions. Collectively, these findings reveal a dissociation between the mitochondrial effects of Cx43 and its enhancement of the response to BRAF/MEKi, highlighting the complexity of Cx43-mediated metabolic regulation in BRAF-mutant melanoma. By distinguishing mitochondrial remodelling from therapeutic sensitisation, this study provides new insights into the response to BRAF/MEK inhibition and highlights mTORC1-associated signalling and mitochondrial oxidative stress as potential therapeutic vulnerabilities for further investigation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-19T00:00:00+00:00",
+  "type": "",
+  "score": 1.55
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.18.767282v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.18.767282v1?rss=1",
+  "title": "Radiation survival selects clonally restricted NSCLC survivors with impaired metastatic capacity and distinct bioenergetic states",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.18.767282v1?rss=1",
+  "abstract": "Radiation resistance and recurrence remain major challenges in non-small cell lung cancer (NSCLC). Whether radiation survival enriches for more aggressive, metastasis-competent cells remains unresolved. Using longitudinal cellular barcoding, functional assays, and multi-omics profiling in diverse NSCLC models, we show that fractionated irradiation imposes a strong clonal bottleneck, but recovery follows either stochastic or deterministic trajectories. Despite this diversity, all radiation-surviving populations exhibit increased radiosensitivity and profoundly impaired metastatic capacity, including near-complete failure in lung colonization in vivo. Transcriptomic and metabolic analyses reveal three distinct bioenergetic states, hypermetabolic, energy-conserving, and metabolically suppressed, each supported by unique transcriptional programs. Crucially, clonal dominance does not predict molecular or functional state, indicating that clonal selection and post-irradiation reprogramming are decoupled. These findings challenge the assumption that radiation selects for aggressive clones and reveal that radiation survival may instead create a state of post-irradiation vulnerability. This has important implications for therapy: targeting adaptive pathways, not just resistant clones, may improve outcomes.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-19T00:00:00+00:00",
+  "type": "",
+  "score": 1.46
  }
 }
