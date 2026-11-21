@@ -18958,5 +18958,65 @@
   "date": "2026-11-20T00:00:00+00:00",
   "type": "",
   "score": 1.34
+ },
+ "https://www.nature.com/articles/s41419-026-09459-6": {
+  "guid": "https://www.nature.com/articles/s41419-026-09459-6",
+  "title": "Tumor-derived TGM2 drives macrophage-mediated angiogenesis via the PKM2/STAT1/CCL2 axis in gastric cancer",
+  "link": "https://www.nature.com/articles/s41419-026-09459-6",
+  "abstract": "Transglutaminase 2 (TGM2) has been implicated in the regulation of angiogenesis, but the underlying mechanisms remain largely elusive. This study aimed to systematically elucidate the functional role and molecular mechanisms through which tumor-derived TGM2 modulates angiogenesis in gastric cancer. Bioinformatics analysis and a combination of in vivo and in vitro assays were utilized to dissect the role and mechanisms of TGM2 in angiogenesis (e.g., xenograft tumor models, single-cell RNA sequencing, flow cytometry, mass spectrometry, Western blotting, and chromatin immunoprecipitation). Additionally, tumor-bearing mice were treated with Calcimycin to evaluate whether targeting TGM2 could regulate angiogenesis. CD31 was highly expressed in gastric cancer tissues and exhibited a significant positive correlation with TGM2 expression. In vivo, TGM2 promoted angiogenesis in murine subcutaneous tumors, a process accompanied by increased infiltration of VEGFA+ M2d macrophages. Mechanistic studies revealed that TGM2 enhanced the transcription and secretion of CCL2, thereby inducing macrophage polarization towards the VEGFA+ M2d subset. At the molecular level, GTP-bound TGM2 functioned as a protein kinase, promoting the phosphorylation and dimerization of pyruvate kinase M2 (PKM2). Dimerized PKM2 further mediated the phosphorylation and nuclear translocation of STAT1, ultimately driving CCL2 transcription. Targeting GTP-bound TGM2 with Calcimycin reversed the aforementioned pathway. Notably, tumor-bearing mice with high TGM2 expression showed greater sensitivity to Calcimycin treatment, as evidenced by reduced angiogenesis and inhibited M2d macrophage differentiation. This study uncovers a novel TGM2-PKM2/STAT1-CCL2 axis regulating M2d macrophage differentiation and angiogenesis in GC, establishing TGM2 as a promising therapeutic target and predictive biomarker.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-21T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.27
+ },
+ "https://www.nature.com/articles/s42003-026-11337-y": {
+  "guid": "https://www.nature.com/articles/s42003-026-11337-y",
+  "title": "CDK4-dependent phosphorylation of USP35 promotes the growth of ER+ breast cancer through the mTOR-SOX2 axis",
+  "link": "https://www.nature.com/articles/s42003-026-11337-y",
+  "abstract": "The majority of estrogen receptor-positive (ER\u2009+\u2009) breast cancers are treated with endocrine therapy plus CDK4/6 or mTOR inhibitors, but resistance persists. Deubiquitinase USP35 overexpression promotes tumor growth, yet its regulation by post-translational modifications remains unknown. We showed that CDK4 phosphorylated USP35 at Ser982, which was critical for ER+ breast cancer cell growth in vitro and in vivo. Mechanistically, USP35 interacted with TSC2, Ser982 contributed to USP35-mediated reduction of TSC2 protein and its association with TSC1, thereby activating mTOR signaling. Elevated signaling upregulated SOX2, driving oncogenic effects. Importantly, the CDK4/6 or mTOR inhibitor effectively suppressed the growth of USP35-high ER+ breast cancer cells and tumors. Furthermore, the phospho-USP35 Ser982 was positively correlated with the phospho-4E-BP1 level in ER+ breast cancer tissues. Our findings uncover that CDK4/USP35/mTOR/SOX2 signaling axis promotes ER+ breast cancer progression. ER+ breast cancer with high phospho-USP35 S982 level might benefit from CDK4/6 or mTOR inhibitor-based therapies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-21T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.15
+ },
+ "https://www.nature.com/articles/s41598-026-81165-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-81165-x",
+  "title": "Machine learning analysis of serum ATR-FTIR spectra for colorectal cancer discrimination",
+  "link": "https://www.nature.com/articles/s41598-026-81165-x",
+  "abstract": "Colorectal cancer (CRC) remains a major cause of cancer-related mortality, highlighting the need for complementary minimally invasive approaches able to support early CRC detection. This study investigated serum attenuated total reflection Fourier-transform infrared (ATR-FTIR) spectroscopy combined with machine learning analysis for discriminating CRC cases from non-cancer controls. ATR-FTIR spectra were acquired from dried serum samples of 100 CRC cases and 100 non-cancer controls and analyzed in the fingerprint and high-wavenumber spectral regions. Second-derivative spectra were used to enhance spectral resolution and to perform variable importance in projection analysis, which guided the selection of discriminant spectral regions before classification. The most relevant variables were mainly assigned to protein-related vibrations, phosphate-containing biomolecules, and carbohydrate-associated molecular structures. A PCA\u2013ANN classifier was developed to reduce spectral dimensionality while preserving model parsimony. In internal validation, the model achieved 87.5% accuracy, 90.0% sensitivity, 85.0% specificity, and an AUC of 0.941. Preliminary evaluation on an independent external dataset of 28 subjects yielded 85.7% accuracy and an AUC of 0.920. These findings support the feasibility of serum ATR-FTIR fingerprints combined with interpretable machine learning for CRC/control discrimination, although larger prospective and demographically balanced external cohorts are required to assess its potential utility for CRC early detection.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-21T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.59
+ },
+ "https://www.nature.com/articles/s41420-026-03453-9": {
+  "guid": "https://www.nature.com/articles/s41420-026-03453-9",
+  "title": "A novel of synthetic iridoid glycoside, Picroside II inhibits temozolomide resistance proliferation by upregulating DHRS2 in glioblastoma",
+  "link": "https://www.nature.com/articles/s41420-026-03453-9",
+  "abstract": "Glioblastoma (GBM) is the most aggressive primary brain tumor, characterized by pronounced cellular heterogeneity that contributes to chemoresistance and frequent recurrence. Resistance to temozolomide (TMZ) remains a major therapeutic challenge, highlighting the urgent need for alternative treatment strategies. Picroside II (PII), a natural iridoid glycoside, has demonstrated anticancer activity; however, its effects on TMZ-resistant GBM and the underlying molecular mechanisms remain largely unexplored. TMZ-resistant GBM cell lines were established by intermittently exposing parental GBM cells to gradually increasing concentrations of TMZ over a six-month period. The antitumor effects of PII were evaluated in vitro using assays for cell proliferation, migration, invasion, colony formation, cell cycle distribution, and apoptosis. Expression levels of apoptosis- and cell cycle\u2013related proteins were analyzed by Western blotting. Transcriptomic alterations induced by PII were identified using next-generation sequencing (NGS). The therapeutic efficacy of PII alone or combined with TMZ was further examined in vivo using a xenograft mouse model. PII significantly inhibited cell proliferation, migration, invasion, and clonogenic capacity in TMZ-resistant GBM cells. PII treatment induced dose-dependent cell cycle arrest, characterized by an accumulation of cells in the G1 phase and a corresponding reduction in the G2/M phase population. Moreover, PII triggered intrinsic mitochondrial apoptosis, accompanied by dose-dependent modulation of key apoptosis- and cell cycle\u2013regulatory proteins. NGS analysis revealed a marked upregulation of dehydrogenase/reductase 2 (DHRS2) following PII treatment. Consistent with in vitro findings, PII effectively suppressed tumor growth and enhanced DHRS2 expression in xenograft tumor tissues. PII exerts potent antitumor effects against TMZ-resistant GBM by inducing cell cycle arrest and mitochondrial apoptosis, potentially through the upregulation of DHRS2. These findings support PII as a, promising therapeutic candidate for overcoming TMZ resistance in GBM.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-21T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.99
+ },
+ "https://www.nature.com/articles/s41698-026-01783-6": {
+  "guid": "https://www.nature.com/articles/s41698-026-01783-6",
+  "title": "Label-free visualization of thyroid cancer via multiscale autofluorescence lifetime imaging",
+  "link": "https://www.nature.com/articles/s41698-026-01783-6",
+  "abstract": "The diagnostic evaluation of thyroid cancer is primarily established through cytological assessment and histopathological examination of Hematoxylin and Eosin-stained tissue sections, which provide essential information on tumor morphology and invasion-related features. We demonstrate that autofluorescence lifetime (AFL) imaging, a label-free optical technique, can provide complementary morphologic and lifetime-based information. By applying multiscale AFL imaging to unstained thyroid sections encompassing a broad spectrum of thyroid carcinomas, we observed differences in AFL parameters between carcinoma and non-neoplastic regions, as well as carcinoma subtype-associated cellular-scale AFL patterns. At low magnification, tumor regions demonstrated prolonged mean lifetime values compared with non-neoplastic parenchyma. High-magnification imaging revealed cellular-scale AFL signatures across carcinoma subtypes, with papillary, follicular, and oncocytic thyroid carcinomas exhibiting higher fluorescence intensity than anaplastic thyroid carcinoma and medullary thyroid carcinoma. Lifetime differences were mainly observed for papillary and follicular thyroid carcinomas relative to anaplastic and medullary thyroid carcinomas. Furthermore, AFL imaging delineated characteristic findings at sites of capsular and vascular invasion. These results support the feasibility of AFL imaging as a label-free technique with potential diagnostic utility in thyroid pathology.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-21T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.51
+ },
+ "https://www.nature.com/articles/s41419-026-09406-5": {
+  "guid": "https://www.nature.com/articles/s41419-026-09406-5",
+  "title": "TNFR1 loss in the antigen-retaining tumor model alters inflammatory responsiveness and CAR-T-cell functional fitness",
+  "link": "https://www.nature.com/articles/s41419-026-09406-5",
+  "abstract": "Resistance to CAR-T-cell therapy remains a major challenge in solid tumors, where target antigen expression may be retained despite cytotoxic T-cell attack. Resistance of tumor cells to cytokine killing mediated by T-cell-secreted tumor necrosis factor (TNF) and interferon-\u03b3 (IFN-\u03b3) may contribute to this phenotype. We investigated this possibility using a CD19 antigen-retaining tumor-cell model with differential TNFR1 status, co-cultured in vitro with CAR-T cells. CRISPR/Cas9-mediated ablation of TNFR1 in tumor cells attenuated cytokine-induced apoptotic responses. At the molecular level, TNFR1-knockout cells exhibited reduced NF-\u03baB activation, attenuated ICAM1 induction, and diminished caspase-3/7 activity compared with WT control cells. To assess the consequences of CAR-T-cell exposure to these resistant tumor cells, CAR-T cells were analysed following both short-term and serial long-term exposure to TNFR1-knockout target cells. Although short-term assays showed no reduction in CAR-T-cell/tumor-cell conjugate formation, serial exposure to surviving TNFR1-deficient tumor cells was associated with reduced CAR-T-cell cytotoxicity upon rechallenge. These CAR-T cells also displayed lower cytokine output and altered transcriptional states. Targeted single-cell profiling identified a CXCL13-associated cycling CAR-T-cell state during tumor-cell co-culture. A transcriptional signature derived from this CAR-T state was also detectable, in an exploratory analysis, in an independently clustered repeated CD3/CD28-stimulation dataset and in publicly available immune checkpoint blockade cohorts. Taken together, our findings support the hypothesis that prolonged exposure to antigen-positive tumor cells that survive inflammatory cytokine-mediated killing may reduce subsequent CAR-T-cell functional fitness and cytotoxic potential.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-21T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.23
  }
 }
