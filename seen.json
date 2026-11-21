@@ -19018,5 +19018,15 @@
   "date": "2026-11-21T00:00:00+00:00",
   "type": "Article",
   "score": 1.23
+ },
+ "https://www.nature.com/articles/s41538-026-01170-2": {
+  "guid": "https://www.nature.com/articles/s41538-026-01170-2",
+  "title": "Fermentates of barley polysaccharides by Bifidobacterium longum suppress colorectal cancer associated with modulation of Wnt/\u03b2-catenin signaling and metabolic profiles",
+  "link": "https://www.nature.com/articles/s41538-026-01170-2",
+  "abstract": "Colorectal cancer (CRC) remains a major global health burden. This study evaluated the anti-CRC potential of barley polysaccharide fermentation products by Bifidobacterium longum PXC-Bi01 (designated BLF). BLF inhibited HT-29 colon cancer cell proliferation through G1-phase cell cycle arrest and dose-dependent apoptosis. In an AOM/DSS-induced CRC mouse model, BLF intervention ameliorated colonic pathology, reduced tumor burden, and normalized serum myeloperoxidase (MPO) activity. Mechanistically, BLF intervention was associated with suppression of Wnt/\u03b2-catenin signaling, characterized by downregulation of key oncogenic drivers (Wnt3a, \u03b2-catenin, and c-Myc) and upregulation of negative regulators (Axin1, Apc, and Gsk-3\u03b2). Metabolomic profiling of fermentation products and host serum tentatively annotated six candidate metabolites enriched by fermentation, including Dodecyl-\u03b2-D-maltoside and \u03b2-Thujaplicin. Their elevated relative abundances in serum correlated strongly with improved pathological indices and normalized Wnt pathway markers. Proof-of-concept experiments showed that Dodecyl-\u03b2-D-maltoside exerted concentration-dependent cytotoxicity against HT-29 cells while sparing normal colonic epithelial cells and significantly attenuated \u03b2-catenin and c-Myc protein expression. These findings suggest that BLF may exert anti-CRC effects associated with fermentation-derived metabolites and modulation of the Wnt/\u03b2-catenin pathway, pointing to the biological potential of fermentation-derived metabolites in experimental CRC models.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-21T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.93
  }
 }
