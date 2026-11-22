@@ -209,16 +209,6 @@
   "type": "Article",
   "score": 0.77
  },
- "https://www.cell.com/cell/fulltext/S0092-8674(26)00873-1?rss=yes": {
-  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00873-1?rss=yes",
-  "title": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development",
-  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00873-1?rss=yes",
-  "abstract": "DDIAS is identified as a factor that protects single-stranded DNA during mitosis to maintain chromosome stability, and inactivating mutations in DDIAS are identified in a human neurodevelopmental disorder.",
-  "source": "Cell",
-  "date": "2026-08-24T00:00:00+00:00",
-  "type": "Article",
-  "score": 1.4
- },
  "https://www.cell.com/cell/fulltext/S0092-8674(26)00933-5?rss=yes": {
   "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00933-5?rss=yes",
   "title": "Cross-species single-cell atlas of the striatum defines cell-type and subregion disease vulnerabilities",
@@ -19028,5 +19018,15 @@
   "date": "2026-11-21T00:00:00+00:00",
   "type": "Article",
   "score": 0.93
+ },
+ "https://www.nature.com/articles/s41416-026-03663-z": {
+  "guid": "https://www.nature.com/articles/s41416-026-03663-z",
+  "title": "Low-dose aspirin use and the risk of synchronous metastatic colorectal cancer: results from a population-based study",
+  "link": "https://www.nature.com/articles/s41416-026-03663-z",
+  "abstract": "Long-term aspirin use has been associated with a reduced risk of colorectal cancer (CRC), but its impact on metastatic disease at diagnosis is less studied. This study investigated the associations between low-dose aspirin use and the presence of distant metastases at CRC diagnosis. Using the Colorectal Cancer Database Sweden (CRCBaSe), exposure to low-dose aspirin was defined as \u226512 months of use and categorized as non-users, past users, or current users. Adjusted logistic regression estimated odds ratios (ORs) with 95% confidence intervals (CIs). Among 81,269 CRC patients, 18,943 (23%) had synchronous distant metastases; 15,424 (19%) were current and 5,044 (6%) past aspirin users. Current users had lower odds of synchronous metastases, (ORadj 0.86, 95% CI 0.82-0.90), most pronounced in right-sided colon cancer (ORadj 0.79, 95% CI 0.74-0.86). In duration-dependent analyses, the reduction persisted in right-sided colon cancer regardless of use duration, and among rectal cancer patients with specific use patterns, but not in left-sided colon cancer. Past users had reduced odds of synchronous metastases only in right-sided colon cancer (ORadj 0.84, 95% CI 0.77-0.92), independent of use duration. Low-dose aspirin use was associated with lower odds of distant metastases at CRC diagnosis, particularly in right-sided colon cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-21T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.75
  }
 }
