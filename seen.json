@@ -19028,5 +19028,65 @@
   "date": "2026-11-21T00:00:00+00:00",
   "type": "Article",
   "score": 0.75
+ },
+ "https://www.nature.com/articles/s42003-026-11357-8": {
+  "guid": "https://www.nature.com/articles/s42003-026-11357-8",
+  "title": "CLEC2D orchestrates immune evasion and intrinsic oncogenic signals to fuel triple-negative breast cancer",
+  "link": "https://www.nature.com/articles/s42003-026-11357-8",
+  "abstract": "The lack of effective therapeutic targets and the resistance to chemotherapy are major problems in treating triple negative breast cancer (TNBC). CLEC2D mainly functions as an immune checkpoint molecule for NK cells through binding the inhibitory receptor CD161 in NK cells. Here, we found that TNBC with higher CLEC2D was associated with poor prognosis. CLEC2D expression in TNBC cells inhibited T cell cytotoxicity and growth. Furthermore, the anti-CD161 blocking antibody enhanced T cell efficacy against TNBC tumor with CLEC2D overexpression. Importantly, we also uncovered that CLEC2D expression autonomously enhanced the growth, survival, migration/invasion, and metastasis of TNBC. Mechanistic studies revealed CLEC2D via its extracellular domain interacted with&nbsp;Integrin \u03b24, activating the FAK-COL8A1 signaling axis to drive the malignant phenotypes of TNBC cells. Our findings demonstrate that CLEC2D promotes TNBC progression both autonomously and non-autonomously. CLEC2D and its regulated pathways are promising therapeutic targets for the development of TNBC treatments.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-22T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.18
+ },
+ "https://www.nature.com/articles/s41420-026-03463-7": {
+  "guid": "https://www.nature.com/articles/s41420-026-03463-7",
+  "title": "Spatial reprogramming of AP-1 complexes by mutant p53 flips the transcriptional output of the FOSL1 enhancer-promoter axis to drive migration",
+  "link": "https://www.nature.com/articles/s41420-026-03463-7",
+  "abstract": "The tumor suppressor p53 undergoes a dramatic functional switch upon mutation, acquiring oncogenic gain-of-function (GOF) properties that drive cancer cell migration. Our study elucidates the molecular mechanisms underlying this transition by revealing how wild-type (wtp53) and mutant p53 (mutp53) differentially regulate epithelial-mesenchymal transition (EMT) through spatial reprogramming of AP-1 transcriptional complexes at the FOSL1 locus. We demonstrate that wtp53 forms repressive complexes with c-JUN/ATF2 at cAMP response elements (CREs) in FOSL1 intron 1, effectively silencing FRA1 expression and suppressing EMT. In contrast, mutp53 orchestrates a complete transcriptional switch, redirecting c-JUN/FRA1 complexes to TPA response elements (TREs) in the FOSL1 promoter to establish a self-reinforcing activation loop that drives pro-migratory progression. This locus-specific reprogramming\u2014from enhancer-mediated suppression to promoter-driven activation\u2014represents a novel GOF mechanism whereby mutp53 co-opts AP-1 complexes to flip transcriptional output. Our findings position the FOSL1 enhancer\u2013promoter axis as a critical rheostat for EMT control and provide a mechanistic framework for targeting mutp53-driven malignancies through selective disruption of oncogenic AP-1 complexes, offering new therapeutic strategies against metastatic cancers.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-22T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.45
+ },
+ "https://www.nature.com/articles/s41598-026-81701-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-81701-9",
+  "title": "Assessment of the knowledge, attitudes, and practices of oral and maxillofacial surgeons in T\u00fcrkiye regarding oral potentially malignant disorders and oral cancer",
+  "link": "https://www.nature.com/articles/s41598-026-81701-9",
+  "abstract": "Early detection of oral cancer improves survival, and oral and maxillofacial surgeons (OMFSs) play a central role in diagnosing and managing oral potentially malignant disorders (OPMDs) and oral cancer. This national cross-sectional online survey evaluated the knowledge, attitudes and clinical practices of OMFSs in T\u00fcrkiye. Between March and April 2026, 130 OMFSs (84 specialists, 46 residents) completed a 21-item expert-reviewed questionnaire. Self-reported routine oral examination for signs of oral cancer was reported by 60.8% of participants, but only 35.4% routinely examined cervical lymph nodes. Most participants correctly identified smoking as a risk factor (95.4%) and the earliest clinical sign of oral cancer (88.5%); fewer correctly identified the characteristics of suspicious lymph nodes (36.2%) and the typical site of HPV-associated cancers (46.9%). In exploratory analyses, university-based OMFSs more often reported routine oral examination, lymph node examination and documentation of suspicious lesions. Although 67.7% had made a preliminary diagnosis of oral cancer, only 45.4% felt competent to diagnose OPMDs and oral cancer. Nearly all (99.2%) requested further education, and 59.2% disagreed that residency training on oral cancer was adequate. These findings suggest a need to strengthen residency and continuing education on oral cancer examination and early diagnosis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-22T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.74
+ },
+ "https://www.nature.com/articles/s41523-026-01092-y": {
+  "guid": "https://www.nature.com/articles/s41523-026-01092-y",
+  "title": "Tumor-cell SIGLEC-15 loss enhances PD-L1 blockade in breast cancer",
+  "link": "https://www.nature.com/articles/s41523-026-01092-y",
+  "abstract": "Although immune checkpoint blockade (ICB) has achieved remarkable success in the treatment of cancer, numerous tumors, including breast cancer, demonstrate inherent or acquired resistance. Therefore, identifying novel immune checkpoints can enhance the advancement of supplementary immunotherapy approaches, aiming to enhance patient response. Here, we show that SIGLEC-15 exhibits a subtype-dependent expression pattern in breast cancer and is expressed by tumor cells in a manner mutually exclusive with PD-L1. Loss of tumor-cell SIGLEC-15 enhanced CD8+ T cell immunity and inhibited tumor growth in a CD8-dependent manner. In established tumors, SIGLEC-15 depletion enhanced the antitumor activity of PD-L1 blockade. Mechanistically, SIGLEC-15 emerged as a candidate target of METTL3-mediated m6A modification, regulated in the opposite direction to PD-L1 within the same axis. Furthermore, multiplex immunofluorescence of breast cancer tissues demonstrated a negative correlation between the expression of METTL3 and SIGLEC-15. Collectively, these findings elucidate the previously unacknowledged role and mechanism of SIGLEC-15 in the regulation of anti-tumor immunity in breast cancer, thereby identifying the SIGLEC-15-positive/PD-L1-negative population as a hypothesis-generating candidate group in which targeting SIGLEC-15, alone or in combination with PD-L1 blockade, may be most relevant.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-22T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.01
+ },
+ "https://www.nature.com/articles/s41598-026-56135-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-56135-y",
+  "title": "Microstructural changes in radiochromic film and dosimetry in magnetic field",
+  "link": "https://www.nature.com/articles/s41598-026-56135-y",
+  "abstract": "Radiochromic film (RCF) dosimetry in magnetic resonance-guided linear accelerator systems requires validation due to conflicting reports regarding dosimetric accuracy in magnetic fields (MF). This study quantitatively evaluated microstructural changes and dosimetric response of EBT-3 RCFs exposed to ionizing radiation in a 0.35 T magnetic field. Films from a single batch were irradiated with 2, 5, 8, 10, and 16&nbsp;Gy using a 6 MV flattening filter-free photon beam from a ViewRay magnetic resonance-linear accelerator unit, with and without magnetic field activation. Scanning electron microscopy (SEM) at 2500\u00d7 magnification analyzed microstructural features, while quantitative measurements of needle-like crystal structures assessed length and angular orientation using ImageJ software. Optical density measurements employed standard RCF protocols with red-green-blue to grayscale conversion. Results demonstrated that crystal lengths remained consistent across all radiation doses regardless of magnetic field presence, with no statistically significant variations observed. However, magnetic field exposure produced dramatic angular alignment effects, with crystal structures clustering within \u00b1\u200980 to \u00b1\u2009100 degrees compared to random 360-degree distribution without magnetic field. This alignment became progressively pronounced at higher doses, particularly at 8\u201316&nbsp;Gy. Despite significant microstructural reorientation, optical density analysis revealed negligible dosimetric differences between magnetic field conditions, with variations remaining within experimental uncertainty. The findings indicate that magnetic fields influence topochemical polymerization directionality without affecting total polymerized material quantity, explaining why structural changes do not compromise dose measurement accuracy. These results resolve previous conflicting literature by demonstrating that EBT-3 RCFs maintain dosimetric reliability in magnetic field environments, supporting their continued use for accurate dose measurements in magnetic resonance-guided radiotherapy applications.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-22T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.61
+ },
+ "https://www.nature.com/articles/s41698-026-01748-9": {
+  "guid": "https://www.nature.com/articles/s41698-026-01748-9",
+  "title": "Stromal enriched metastatic decider drives lymph node metastasis in lung adenocarcinoma",
+  "link": "https://www.nature.com/articles/s41698-026-01748-9",
+  "abstract": "Lymph node metastasis drives poor outcomes in lung adenocarcinoma (LUAD), but intratumoral cancer cell heterogeneity (ITCH) complicates the identification of malignant subregions associated with nodal dissemination. We compared spatial transcriptomes of primary tumors and matched lymph node metastases from eight patients with LUAD. Within each case, stromal-enriched metastatic decider (SEED) spots were defined by transcriptional proximity between primary and matched lymph node malignant spots. Primary SEED spots are frequently localized near POSTN-expressing stroma. SEED-associated analyses highlighted CYP24A1 as a spatially enriched candidate whose higher expression was associated with poorer prognosis. Single-cell RNA-sequencing analysis identified a CYP24A1-enriched malignant subpopulation with IFN\u03b3-associated transcriptional features. RNAscope and multiplex immunofluorescence supported spatial CYP24A1 enrichment in selected SEED regions. SEED domains are frequently localized at tumor\u2013stroma interfaces, defining spatially restricted metastasis-associated ecosystems. These findings identify SEED as a metastasis-associated spatial niche and nominate CYP24A1 as a potential candidate spatial biomarker of lymph node metastatic risk in LUAD.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-22T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.14
  }
 }
