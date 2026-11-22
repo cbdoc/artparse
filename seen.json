@@ -19088,5 +19088,25 @@
   "date": "2026-11-22T00:00:00+00:00",
   "type": "Article",
   "score": 1.14
+ },
+ "https://www.nature.com/articles/s41598-026-81341-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-81341-z",
+  "title": "A comparative analysis of extracapsular dissection versus superficial parotidectomy for benign parotid gland neoplasms",
+  "link": "https://www.nature.com/articles/s41598-026-81341-z",
+  "abstract": "Superficial parotidectomy (SP) and extracapsular dissection (ECD) are the current standard surgical approaches for benign neoplasms of the superficial lobe of the parotid gland. This study aimed to compare the surgical outcomes and postoperative quality of life between these two techniques. The present study retrospectively analyzed 87 patients who underwent parotid surgery for benign parotid gland neoplasms between January 2014 and May 2025 (45 and 42 patients in the ECD and SP groups, respectively). We compared quality of life parameters using the Parotidectomy Outcome Inventory-8 (POI-8) and the Short Form-12 (SF-12) as well as surgical outcomes such as operative time, length of hospital stay, tumor volume, histopathological diagnosis, postoperative complications, and local recurrence. ECD was associated with shorter operative time (p\u2009&lt;\u20090.001) and hospital stay (p\u2009&lt;\u20090.001) and higher SF-12 Physical Component Summary (PCS-12) scores (p\u2009=\u20090.027) compared with SP. No significant differences were observed in POI-8 or SF-12 Mental Component Summary (MCS-12) scores. ECD was associated with shorter operative time and hospital stay and better physical health-related quality-of-life scores compared with SP.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-22T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.48
+ },
+ "https://www.nature.com/articles/s41598-026-79956-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-79956-3",
+  "title": "CAR-cytotox: a standardized framework for assessing cytotoxicity-associated functional responses in CAR T cell products",
+  "link": "https://www.nature.com/articles/s41598-026-79956-3",
+  "abstract": "Chimeric antigen receptor (CAR) T cell therapy is a promising treatment approach, but its functional potency varies widely across donors, manufacturing runs, and patients. However, routine product release testing rarely measures cytotoxic competence. We introduce a standardized framework that integrates complementary readouts following 48-hour CD19-bead stimulation: degranulation by flow cytometry (CD107a), transcriptional upregulation by RT\u2013qPCR (BCL2, DOCK8, FHL3, GZMB, ITGB1, NKG7, PRF1, STX11, UNC13D), and secreted effectors by multiplex immunoassay (IL-4, IL-6, IL-10, IL-17 A, TNF-\u03b1, IFN-\u03b3, soluble Fas, FasL, granzyme A, granzyme B, perforin, and granulysin). In CAR T cell products generated from 13 healthy donors and three B-ALL patients, stimulation increased CD107a, upregulated GZMB and BCL2, and elevated IFN-\u03b3, IL-6, IL-4, and FasL. Marker fold changes are scaled between no change and the healthy-donor 90th percentile, and weighted to yield a 0\u201310 CAR-Cytotox score summarizing the cytotoxicity-associated functional responses of the CAR T cell product. Scores were interpreted using prespecified bands: low (0\u20133), moderate (3\u20136), or high (6\u201310) cytotoxicity-associated functional responses with borderline values assigned to the higher band. The healthy-donor mean score was 4.53 \u00b1 0.66, while patient scores were 2.14, 6.70, and 7.38, spanning low to high cytotoxicity-associated bands. A client-side calculator implementing the CAR-Cytotox algorithm is available at https://lsrsen.github.io/CAR-Cytotox/.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-22T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.86
  }
 }
