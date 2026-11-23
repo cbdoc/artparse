@@ -19248,5 +19248,285 @@
   "date": "2026-11-22T00:00:00+00:00",
   "type": "",
   "score": 1.05
+ },
+ "https://www.nature.com/articles/s41590-026-02756-4": {
+  "guid": "https://www.nature.com/articles/s41590-026-02756-4",
+  "title": "Author Correction: Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B",
+  "link": "https://www.nature.com/articles/s41590-026-02756-4",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Author Correction",
+  "score": 1.36
+ },
+ "https://www.nature.com/articles/s41571-026-01235-x": {
+  "guid": "https://www.nature.com/articles/s41571-026-01235-x",
+  "title": "A multi-analyte blood test takes aim at early pancreatic cancer",
+  "link": "https://www.nature.com/articles/s41571-026-01235-x",
+  "abstract": "Recently reported results from a multi-institutional study show that combining exosomal and cell-free microRNAs with serum carbohydrate antigen 19-9 enables the detection of most stage I\u2013II pancreatic cancers. Although a promising advance, whether the test is specific enough, and detects cancer early enough, in asymptomatic individuals at high risk who are undergoing surveillance remains the key unanswered question.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "News & Views",
+  "score": 0.88
+ },
+ "https://www.nature.com/articles/s41408-026-01667-9": {
+  "guid": "https://www.nature.com/articles/s41408-026-01667-9",
+  "title": "Consolidation radiotherapy in bulky diffuse large B cell lymphoma by PET-based response assessment",
+  "link": "https://www.nature.com/articles/s41408-026-01667-9",
+  "abstract": "The prognostic significance of baseline bulky disease in Diffuse Large B Cell Lymphoma (DLBCL) and the role of routine consolidative radiotherapy (RT) in such cases in the positron emission tomography\u2013computed tomography (PET-CT) era remain unclear. To date, there are no published data directly comparing the role of consolidative radiotherapy (RT) versus its omission in patients with bulky disease who achieve an end-of-treatment PET complete response (EOT PET-CR). A retrospective multicentre study was conducted by collecting data from eleven-member centers of Hematology Cancer Consortium (www.hemecancer.org) using an electronic database. Patients aged \u226518 years, with a diagnosis of bulky DLBCL, and treated with a curative intent between 2019-2022 were included. Among the 553 patients with bulky DLBCL, 294 (53%) achieved complete response (CR) as assessed by end-of-treatment PET-CT (EOT PET-negative). Of these, 175 patients received consolidation radiotherapy (RT), whereas 119 did not. Consolidation RT was not associated with a significant difference in progression-free survival (PFS) (2-year PFS: 89%, 95% CI [83.5\u201393.3] vs. 89%, 95% CI [81.1\u201393.8]; p\u2009=\u20090.66) or overall survival (OS) (2-year OS: 96%, 95% CI [91\u201398] vs. 97%, 95% CI [91\u201399]; p\u2009=\u20090.99) compared to those who did not receive RT. This finding remained unchanged after inverse probability of treatment weighting (IPTW) adjustment, with no significant association between RT and PFS (HR 1.07, 95% CI 0.48\u20132.36; p\u2009=\u20090.866).If patients with bulky disease achieve CR as assessed by end-of-treatment PET-CT, omission of RT does not appear to result in inferior PFS. However, these findings require confirmation in large prospective trials.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.6
+ },
+ "https://www.nature.com/articles/s41467-026-79690-4": {
+  "guid": "https://www.nature.com/articles/s41467-026-79690-4",
+  "title": "A multimodal ultrasound foundation model for diagnosis of unexplained lymphadenopathy",
+  "link": "https://www.nature.com/articles/s41467-026-79690-4",
+  "abstract": "Unexplained lymphadenopathy (ULA) leads to delayed diagnosis and increases the risk of disease progression due to the absence of specific clinical symptoms and indicative medical history during early stages, thereby increasing reliance on invasive biopsy. Existing ultrasound artificial intelligence approaches mainly use single-modality static images, limiting their generalizability and clinical applicability. Here, we develop and validate a multimodal model integrating B-mode ultrasound, color Doppler flow imaging, ultrasound elastography, contrast-enhanced ultrasound videos, and clinical data for benign-malignant differentiation, etiologic stratification, and metastatic-origin prediction. This observational study includes both retrospective and prospective cohorts and uses a total of 154,740 multimodal keyframe images from 6,549 patients with pathologically confirmed lymphadenopathy across seven Chinese centers and 11 scanner manufacturers. The model shows robust performance across internal, external, device-heterogeneity, and reader study cohorts, outperforms senior radiologists across hierarchical tasks, and improves radiologists\u2019 diagnostic performance across experience levels with model assistance, supporting its potential for noninvasive, efficient, and clinically aligned diagnosis of ULA. Unexplained lymphadenopathy (ULA) has the potential to delay cancer diagnosis due to its complex nature, and the current ultrasound artificial intelligence models that rely on single-modality static images can be limited in their clinical applicability. Here, the authors show that the ultrasound multimodal foundation model LSF-NET could improve diagnosis of ULA.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s41467-026-79414-8": {
+  "guid": "https://www.nature.com/articles/s41467-026-79414-8",
+  "title": "A scalable pipeline for patient-matched pediatric solid tumor models and cell lines",
+  "link": "https://www.nature.com/articles/s41467-026-79414-8",
+  "abstract": "Most pediatric solid tumor cell lines were established decades ago, and patient-matched organoids and xenografts are rarely available, limiting their translational utility. We present an approach to generate triads of patient-matched xenografts, three-dimensional organoids, and two-dimensional primary cultures from pediatric tumors, including rhabdomyosarcoma, osteosarcoma, neuroblastoma, Ewing sarcoma, Wilms tumor, and retinoblastoma. We have generated organoids from 135 pediatric tumors, alongside 82 patient-matched two-dimensional primary cultures and 20 new cell lines. When orthotopically implanted into immunocompromised mice, these models preserved the molecular and cellular features of the original patient tumor. We completed 365 single-cell and single-nucleus RNA-sequencing experiments encompassing over 2.2 million cells to evaluate cellular heterogeneity across triads. All samples are renewable, and over 3000 vials have been cryopreserved for unrestricted distribution through the Childhood Solid Tumor Network. In this work, we present a comprehensive methodological toolbox for generating patient-matched triads for advancing preclinical pediatric cancer research. An open-access collection of orthotopic patient-derived xenografts (O-PDXs) of pediatric solid tumours has previously been reported, representing an invaluable resource for preclinical research. Here, the authors expand this resource by generating 3D organoids, 2D primary cultures, and cell lines from these O-PDXs and demonstrate that these models preserve key molecular and cellular features of the original tumours.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.02
+ },
+ "https://www.nature.com/articles/s41433-026-05020-z": {
+  "guid": "https://www.nature.com/articles/s41433-026-05020-z",
+  "title": "Upper eyelid osseous choristoma",
+  "link": "https://www.nature.com/articles/s41433-026-05020-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Image",
+  "score": 0.36
+ },
+ "https://www.nature.com/articles/s41583-026-01110-9": {
+  "guid": "https://www.nature.com/articles/s41583-026-01110-9",
+  "title": "Glioma modulation of inhibitory neuron signalling",
+  "link": "https://www.nature.com/articles/s41583-026-01110-9",
+  "abstract": "A new study reports that gliomas can regulate the signalling of inhibitory neurons, promoting tumour progression.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 1.16
+ },
+ "https://www.nature.com/articles/s41598-026-81992-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-81992-y",
+  "title": "Regulatory effects of BIT1 on cell proliferation, migration and apoptosis in colon cancer",
+  "link": "https://www.nature.com/articles/s41598-026-81992-y",
+  "abstract": "BIT1 is an anoikis effector molecule with complex biological functions; however, its role in colon cancer remains unclear. This study aimed to investigate the expression profile, biological functions, and prognostic value of BIT1 in colon cancer. Bioinformatics databases were used to analyze the differential expression of BIT1 and its correlations with clinicopathological characteristics and prognosis. In addition, GO/KEGG enrichment analysis, single-cell transcriptomic analysis, and virtual knockout analysis were performed to explore the BIT1-related molecular network and its potential biological functions. Western blotting and immunohistochemistry were subsequently conducted to validate the expression level of BIT1. In vitro assays, including CCK-8, EdU, wound-healing, Transwell, and flow cytometry assays, were performed to evaluate the effects of BIT1 on colon cancer cell proliferation, migration, invasion, cell cycle progression, apoptosis, and epithelial-mesenchymal transition (EMT). A nude mouse subcutaneous xenograft model was established to assess the effects of BIT1 silencing on tumor formation and growth in vivo. The results demonstrated that BIT1 was highly expressed in colon cancer and was associated with poor prognosis. Bioinformatics analyses suggested that BIT1 might participate in tumor metabolic regulation and malignant progression-related processes. Functional experiments further confirmed that BIT1 silencing inhibited the proliferation, migration, and invasion of colon cancer cells, induced cell cycle arrest, promoted apoptosis, and suppressed EMT. In addition, downregulation of BIT1 significantly inhibited tumor growth in vivo. In conclusion, BIT1 may serve as a potential biomarker and therapeutic target for colon cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.08
+ },
+ "https://www.nature.com/articles/s41598-026-78765-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-78765-y",
+  "title": "Limits of local sequence context for TP53 mutation subtype prediction under locus-held-out evaluation",
+  "link": "https://www.nature.com/articles/s41598-026-78765-y",
+  "abstract": "TP53 is among the most frequently mutated cancer genes, yet what determines mutation subtype remains unclear. We tested whether local sequence context predicts TP53 mutation subtype, training a convolutional neural network (CNN) on 693,428 COSMIC mutation instances clustered into 906 independent loci (461 high-frequency \u201chotspot\u201d, 445 rare variant) and evaluated under locus-held-out splits. The CNN (21-nucleotide windows) failed to beat a majority-class baseline on hotspot (13.22% vs. 64.94%) and rare-variant (21.80% vs. 35.82%) data, across six random splits, and at every window size except 11&nbsp;bp (rare variant). However, the CNN and a trinucleotide logistic-regression baseline are position-blind, unable to identify the mutated base that fixes half of each label. A lookup using only the mutated base beat the majority baseline in all six splits (mean accuracy 64.0% vs. 57.1% hotspot; 55.5% vs. 37.0% rare variant), and logistic regressions with up to \u00b1\u200910 flanking bases added no reliable gain. The 12 hotspot CpG loci showed no distinguishable signal. Flanking context therefore added no reliable information beyond the mutated base in the models tested; larger or position-aware neural networks were untested. TP53\u2019s 906 loci limit sequence-only analysis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.73
+ },
+ "https://www.nature.com/articles/s41571-026-01223-1": {
+  "guid": "https://www.nature.com/articles/s41571-026-01223-1",
+  "title": "Opportunities and challenges for cancer therapy with menin inhibitors",
+  "link": "https://www.nature.com/articles/s41571-026-01223-1",
+  "abstract": "Menin, encoded by MEN1, is a crucial scaffolding component of the histone-lysine N-methyltransferase 2A (KMT2A; also known as MLL1) complex, which is involved in histone methylation and epigenetic regulation of gene expression. The potential importance of menin in leukaemias harbouring KMT2A rearrangements was first recognized two decades ago. KMT2A fusion proteins generated by KMT2A rearrangements interact with menin and drive aberrant expression of HOXA cluster genes and MEIS1, which maintains leukaemic cells that harbour these rearrangements in an immature and highly proliferative state. Wild-type KMT2A in complex with menin also sustains this gene&nbsp;expression programme across genetically distinct subtypes of leukaemia, including nucleophosmin 1-mutant (NPM1c) and nucleoporin 98 (NUP98)-rearranged acute myeloid leukaemia (AML). Together, these subtypes comprise more than 40% of all AML cases. Small-molecule menin inhibitors disrupt the crucial menin\u2013KMT2A interaction, thus reversing leukaemogenic transcriptional programmes and inducing leukaemia cell differentiation. Early-phase clinical trials have demonstrated clinically meaningful remission rates with menin-inhibitor monotherapy in participants with relapsed and/or refractory KMT2A-rearranged or NPM1c acute leukaemias, leading to regulatory approvals of two such agents: revumenib and ziftomenib. However, responses are often incomplete and/or transient, and acquired MEN1 mutations have emerged as a recurrent mechanism of resistance. Combination strategies with chemotherapy, venetoclax-based regimens and other targeted agents are now advancing rapidly through clinical development. In this Review, we discuss the biology of the menin\u2013KMT2A complex, the preclinical and clinical development of menin inhibitors, emerging mechanisms of resistance, strategies to improve response durability and the expanding therapeutic potential of menin inhibition beyond acute leukaemias. Dysregulated transcriptional programmes mediated by the menin\u2013histone-lysine N-methyltransferase 2A (KMT2A) complex are key drivers of acute leukaemias harbouring various genetic alterations, including KMT2A or nucleoporin 98 gene rearrangements and nucleophosmin 1 mutations. This Review outlines the biology of the menin\u2013KMT2A complex, the preclinical discovery and clinical development of menin inhibitors that disrupt it, mechanisms of resistance to such agents and strategies to improve their efficacy, as well as the potential to expand menin inhibition beyond acute leukaemias to certain solid tumour types.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.7
+ },
+ "https://www.nature.com/articles/s41598-026-80724-6": {
+  "guid": "https://www.nature.com/articles/s41598-026-80724-6",
+  "title": "Proportion, clinico-hematologic profiles and lifestyle-related factors of acute lymphoblastic leukemia in children attending at referral hospitals in Ethiopia",
+  "link": "https://www.nature.com/articles/s41598-026-80724-6",
+  "abstract": "Acute lymphoblastic leukemia (ALL) is the most common childhood cancer in Ethiopia, accounting for the majority of acute leukemia cases among children. Despite advances in treatment globally, outcomes remain poor in Ethiopia due to limited resources and late diagnosis. ALL is a complex disease influenced by genetic, infectious, and environmental factors, but its exact causes are still unclear. Common clinical features include bone pain, fever, anemia, and infections. This study aimed to determine the proportion, hematologic profiles, and lifestyle-related factors of childhood ALL. A prospective cross-sectional study was conducted from December 25, 2022, to August 30, 2024. A total of 2600 children attending the outpatient department and pediatric oncology centers of the University of Gondar Comprehensive Specialized Hospital (UoGCSH) and TikurAnbessa Specialized Hospital (TASH) were screened for ALL using bone marrow examination. Socio-demographic, clinical, lifestyle-related, and hematologic profiles of the children were recorded using a structured questionnaire. Data were analyzed using SPSS version 25. Descriptive statistics were used to summarize the study findings, and associations were analyzed using binary and multivariable logistic regression. Among the 2600 children screened for hematological abnormalities, the overall proportion of ALL was 179 (6.9%) (95% CI 5.9\u20137.8). Of these, 50.1% were from Gondar and 49.9% were from Addis Ababa. Nearly two-thirds (64.2%) of the children with ALL were males. More than 85% of the children had fever, fatigue, and bone pain at the presentation. Among them, 48.6% had high-risk leukemia and 51.4% had standard-risk leukemia. The proportions of children with thrombocytopenia, anemia, and leukocytosis were 75.0%, 80.4%, and 43.6%, respectively. More than half of the children 57.5% had a history of frequent consumption of processed food items. The proportions of children exposed to fertilizers, insecticides, and pesticides were 45.8%, 43.0%, and 30.7%, respectively. A significant proportion of children in the study were diagnosed with ALL. Thrombocytopenia and anemia emerged as the most prevalent hematologic abnormalities among pediatric ALL patients. Additionally, a considerable number of children had prior exposure to processed foods and agricultural chemicals. However, further research is necessary to evaluate the potential clinical and etiological significance of these associations in ALL development.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.6
+ },
+ "https://www.nature.com/articles/s41746-026-03467-8": {
+  "guid": "https://www.nature.com/articles/s41746-026-03467-8",
+  "title": "Multimodal CT-pathology imaging deep learning model for risk stratification in resected stage I lung adenocarcinoma",
+  "link": "https://www.nature.com/articles/s41746-026-03467-8",
+  "abstract": "Lung adenocarcinoma is a highly heterogeneous disease, highlighting the need for more accurate prognosis prediction. We developed a multimodal deep learning model combining preoperative computed tomography (CT) and postoperative whole slide image (WSI) to predict the disease-free survival (DFS) of resected stage I lung adenocarcinoma. Based on a cohort of 1078 patients from multiple centers, our dual-information instance neural network achieved superior performance over unimodal approaches. The risk stratification defined by the model effectively distinguished DFS in both validation cohorts and served as an independent predictor, suggesting the complementary value of the model beyond clinicopathological factors. An exploratory scoring system integrating the model-derived risk stratification with key clinicopathological factors was developed, identifying patients with significantly different prognostic outcomes. Further analyses suggested that patients with high-risk stage IB disease or high scores might derive DFS benefit from adjuvant chemotherapy, warranting prospective validation. Beyond its predictive capacity, the model also provided morphological insights, identifying prognostically significant structures such as tertiary lymphoid structures and stroma barriers, while RNA-sequencing analysis revealed distinct oncogenic pathway activation and immunosuppressive tumor microenvironments in high-risk patients. By leveraging routinely acquired clinical images, this multimodal approach offers a practical tool for improving prognostic stratification, with potential implications for informing patient selection for adjuvant chemotherapy in resected stage I lung adenocarcinoma.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.94
+ },
+ "https://www.nature.com/articles/s41746-026-03441-4": {
+  "guid": "https://www.nature.com/articles/s41746-026-03441-4",
+  "title": "Artificial intelligence model for pancreatic cancer risk prediction in patients with pancreatic cystic lesions",
+  "link": "https://www.nature.com/articles/s41746-026-03441-4",
+  "abstract": "Pancreatic cystic lesions (PCLs) are prevalent and potential precursors of pancreatic cancer. Cancer risk assessment is a crucial step in PCL management, but the complexity and limited accuracy of existing approaches contribute to suboptimal patient care. We developed and validated an artificial intelligence (AI) model that uses radiology reports and clinical data to predict the future risk of pancreatic cancer in patients with PCLs. The model was developed and tested in a 13-year retrospective cohort comprising 23,398 abdominal CT/MRI examination reports from 8707 patients with PCLs across a multisite healthcare system. Of these, 430 (1.8%) corresponded to patients who later developed pancreatic cancer, defined as adenocarcinoma, invasive mucinous neoplasm, or high-grade dysplasia. Among the models evaluated, XGBoost achieved the highest performance, with AUCs of 0.960, 0.945, and 0.944 for predicting pancreatic cancer incidence at 1, 3, and 5 years after imaging, respectively. The model outperformed guideline-based risk stratification, with AUC improvements of 0.161 to 0.235 (P\u2009&lt;\u20090.001). For examinations conducted within a year before cancer diagnosis, radiologists identified potential cancer in 51.5% of cases, while the AI model flagged 82.3%. These findings support the potential of AI to complement existing approaches for individualized pancreatic cancer risk stratification in patients with PCLs.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.78
+ },
+ "https://www.nature.com/articles/s41598-026-79355-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-79355-8",
+  "title": "TMEM45A mediates gastric cancer progression through the P4HA1/succinate/TGF-\u03b2 pathway",
+  "link": "https://www.nature.com/articles/s41598-026-79355-8",
+  "abstract": "Gastric cancer (GC) generally presents with poor prognosis owing to late diagnosis. Transmembrane protein 45&nbsp;A (TMEM45A) is involved in the progression of various tumors, yet its function and molecular mechanism in GC remain unclear. We screened candidate genes via public bioinformatics databases, validated TMEM45A expression by immunohistochemistry in 75 paired GC tissues, and conducted in vitro functional assays and rescue experiments to explore the underlying mechanism. TMEM45A was significantly upregulated in GC tissues. Its high expression was associated with postoperative residual tumor and poor treatment response, and may serve as a potential independent prognostic indicator for GC (multivariate Cox P\u2009=\u20090.069). A nomogram incorporating TMEM45A exhibited favorable accuracy in predicting GC patients\u2019 long-term survival. Mechanistically, TMEM45A promoted GC cell proliferation, migration and invasion by co-localizing with and positively regulating P4HA1, elevating succinate levels and activating the TGF-\u03b2/Smad pathway; reintroduction of P4HA1 effectively reversed the tumor-inhibitory effects caused by TMEM45A knockdown. TMEM45A is a novel potential independent prognostic indicator for GC. It drives GC progression via the P4HA1-mediated succinate/TGF-\u03b2/Smad pathway, and may serve as a promising therapeutic target.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.98
+ },
+ "https://www.nature.com/articles/s41598-026-78365-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-78365-w",
+  "title": "CD73 silencing potentiates photodynamic therapy in BRAF-mutant melanoma by disrupting CSC stemness and MAPK/EMT signaling",
+  "link": "https://www.nature.com/articles/s41598-026-78365-w",
+  "abstract": "Melanoma remains a fatal cancer even after the decades of studies, especially the advanced stage. As a major driver of melanoma, BRAF mutations (~\u200950% in melanomas) can lead to the constitutive activation of MAPK/ERK pathway and treatment resistance. The resistance to therapy and metastatic capacity of BRAF-mutant melanoma are linked to cancer stem cells (CSCs) and immunosuppressive signaling molecules such as CD73 that promotes immune escape through adenosine-dependent mechanism. In this study, the combined effect of photodynamic therapy (PDT) and CD73-siRNA was investigated in BRAF V600E mutant A375 and A2058 melanoma cell lines. The cells were transfected with CD73-siRNA and were treated with ZnPc-PDT (675&nbsp;nm, 12&nbsp;J/cm\u00b2). MTT assay demonstrated that the combination treatment reduced the IC50 of ZnPc from 0.882&nbsp;\u00b5g/mL to 0.445&nbsp;\u00b5g/mL. Flow cytometric studies revealed increased apoptosis, increased monodansylcadaverine (MDC)-positive autophagic cells and cell cycle dysregulation following the combined treatment. At the transcript level, BCL2 was downregulated and caspase 3 and caspase 9 were upregulated in all treatment groups, with the greatest changes in the combination group. Colony formation and qRT-PCR data showed the suppression of clonogenic efficiency and stemness (CD133, ALDH1A1, SOX2, CD44), oncogenic BRAF/MAPK pathway (BRAF, MEK, ERK, RAS, CDK6) and EMT markers (ZEB1, TWIST1, SNAIL1, E-cadherin). E-cadherin also decreased together with the mesenchymal genes, suggesting a general downregulation of EMT-related genes rather than a true reversal of EMT. No formal drug-interaction analysis was performed, so the combination is described as sensitizing rather than synergistic. The higher CD73 expression of A2058 cells makes them more sensitive to the treatment suggesting a CD73-dependent response. Therefore, the combination of ZnPc-PDT and CD73-siRNA offers a promising strategy to overcome CSC-driven drug resistance in BRAF V600E-mutant melanoma by inducing oxidative stress, downregulating the oncogenic BRAF/MAPK pathway, suppressing adenosine production, and reducing cancer stemness.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.49
+ },
+ "https://www.nature.com/articles/s41467-026-79380-1": {
+  "guid": "https://www.nature.com/articles/s41467-026-79380-1",
+  "title": "ALKR1275Q expands Schwann cell precursor-like cells during sympathoadrenal commitment, creating a permissive state for neuroblastoma initiation",
+  "link": "https://www.nature.com/articles/s41467-026-79380-1",
+  "abstract": "Neuroblastoma (NB) arises from neural crest-derived cells of the sympathoadrenal lineage, yet how predisposing genetic lesions influence early human development remains poorly understood. Here, we use patient-derived induced pluripotent stem cell (iPSC) models carrying the familial ALK R1275Q mutation to investigate its role during sympathoadrenal differentiation. We show that ALK R1275Q delays lineage maturation and sustains a proliferative progenitor state characterized by elevated ALK signaling and expansion of a Schwann cell precursor (SCP)-like population. This SCP-like state persists during differentiation and is reduced by ALK inhibition or CRISPR-based mutation correction. Although ALK R1275Q alone is insufficient to drive tumor formation in vivo, it enhances susceptibility to oncogenic transformation in cooperation with MYCN. Together, these findings support a model in which ALK R1275Q reshapes developmental trajectories by maintaining a proliferative SCP-like progenitor state, thereby creating a permissive cellular context for NB initiation. Neuroblastoma develops from the sympathoadrenal lineage of the neural crest, with activating ALK mutations being frequent oncogenic events. Here, the authors develop a patient-derived iPSC model of sympathoadrenal development and find that the ALK activating mutation, R1275Q, drives expansion of Schwann cell precursor-like cells in early sympathoadrenal development establishing a permissive state for neuroblastoma initiation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.12
+ },
+ "https://www.nature.com/articles/s41598-026-73574-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-73574-9",
+  "title": "Precision prognostication in fumarate hydratase-deficient renal cell carcinoma: development and external validation of a cancer-specific survival nomogram using SEER database and two-center cohorts",
+  "link": "https://www.nature.com/articles/s41598-026-73574-9",
+  "abstract": "This study aimed to develop and externally validate a nomogram for predicting cancer-specific survival (CSS) in patients with FH-RCC. Registry-coded HLRCC-associated RCC cases were identified from SEER database for training cohort. LASSO-penalized Cox regression was applied to select prognostic variables and construct a nomogram. Pathologically confirmed FH-RCC patients from two medical centers were included as the validation cohort. Model performance was evaluated using the concordance index (C-index), time-dependent receiver operating characteristic (ROC) curves, calibration curves, decision curve analysis, integrated discrimination improvement (IDI), and net reclassification improvement (NRI). A total of 157 patients from the SEER database and 46 patients from the external validation cohort were included. The final prognostic model included four independent predictors: N stage, M stage, tumor size, and major vein involvement. Compared with TNM staging, the nomogram demonstrated improved discrimination in the training cohort, with higher concordance index and time-dependent area under the curve values, as well as improved reclassification performance. In validation cohort, the nomogram showed numerically improved predictive performance compared with TNM staging, although the magnitude of improvement should be interpreted cautiously due to the limited sample size and number of events. Calibration and decision curve analyses supported the potential prognostic value of the model. We developed and externally evaluated the first FH-RCC-specific prognostic nomogram for predicting cancer-specific survival. The model demonstrated promising prognostic performance and provided additional risk stratification beyond conventional TNM staging. However, given the limited sample size, number of outcome events, and unstable long-term calibration in the external validation cohort, further validation in larger multicenter cohorts is required before clinical application.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.64
+ },
+ "https://www.nature.com/articles/s41551-026-01832-2": {
+  "guid": "https://www.nature.com/articles/s41551-026-01832-2",
+  "title": "Advances in molecular imaging of the tumour microenvironment",
+  "link": "https://www.nature.com/articles/s41551-026-01832-2",
+  "abstract": "The tumour microenvironment (TME) is a multidimensional dynamic and complex system of cells and non-cellular components that not only drives tumour progression but also substantially influences response to therapy. Understanding TME biology for basic research and identifying biomarkers in the TME to stratify patients for therapy is crucial for optimizing therapeutic outcomes. Current standards for investigating TME dynamics, if even considered beyond preclinical work, rely predominantly on samples for tissue staining and sequencing and require invasive procedures to obtain tissue via surgery or biopsies. This leads to limited assessment of spatial heterogeneity and minimal temporal information as this depends on the timing of tissue sampling, which results in undefined clinical utility. Molecular imaging provides promising solutions by enabling non-invasive, real-time multidimensional spatiotemporal probing of the TME that can complement current ex vivo practices. This Review highlights the relevance of molecular imaging agents and methods that can effectively capture spatiotemporal TME characteristics in situ, offering critical insights into tumour behaviour and treatment response. We provide an overview of current preclinical imaging strategies and their applications in identifying cellular and non-cellular components of the TME, along with monitoring progression-associated processes and treatment response. We showcase new developments and avenues being explored in preclinical imaging, as well as offer perspectives into existing and emerging clinical imaging of the TME to enhance patient care and highlight opportunities for improvement. Overall, integrating TME imaging into clinical practice holds the potential to bridge critical gaps in spatiotemporal resolution, ultimately enabling more precise diagnosis, patient stratification and personalized therapeutic interventions. This Review discusses molecular imaging probes and modalities for studying the complexity and dynamics of the tumour microenvironment in preclinical research and further highlights emerging clinical applications in diagnostics and intervention.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 0.87
+ },
+ "https://www.nature.com/articles/s41590-026-02715-z": {
+  "guid": "https://www.nature.com/articles/s41590-026-02715-z",
+  "title": "A TNF-producing neutrophil subset drives age-dependent hepatotoxicity in mice",
+  "link": "https://www.nature.com/articles/s41590-026-02715-z",
+  "abstract": "The mechanisms by which aging contributes to the detrimental effect of cancer therapy are unclear. Here we show that while a synthetic double-stranded RNA (poly-inosinic:cytidylic acid (polyIC)) suppresses liver tumors in young mice, it induces lethal liver damage in aged mice. Single-cell and functional analyses show a CD14+ neutrophil subset that has robust TNF induction by polyIC in the aged liver. Impaired expression of nuclear receptors (including NR3C1) and elevated NF-\u03baB and AP-1 signaling drive a skewing toward Tnf+ over Saa1+ neutrophils in the aged liver. TNF neutralization rescued polyIC-induced mortality, while enhancing its anti-tumor effect in aged mice. Expression of TNF+SAA1\u2212 neutrophil signature genes is associated with reduced survival in patients with liver cancer aged &gt;60\u2009years. This study identifies a detrimental mechanism in the aged liver, which is undetectable under basal conditions. We also provide a strategy to improve therapeutic outcomes in older patients by mitigating treatment-associated toxicity. Cancer immunotherapies generally do not work as well and are more prone to adverse effects in older patients. Here the authors show a skewing of liver neutrophils from a Saa1+ population to a population with higher levels of TNF production in aging mice that might explain some age-related differences in the therapeutic response to liver cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.12
+ },
+ "https://www.nature.com/articles/s41598-026-71056-6": {
+  "guid": "https://www.nature.com/articles/s41598-026-71056-6",
+  "title": "Infiltration of eosinophils in glioblastoma is associated with CDKN2A/B deletion",
+  "link": "https://www.nature.com/articles/s41598-026-71056-6",
+  "abstract": "Eosinophils are traditionally associated with allergic responses. However, they have recently emerged as important immune players in various tumors. Despite this, their role in glioblastoma (GBM), a lethal brain tumor that induces an immunosuppressive microenvironment, remains poorly defined. A retrospective analysis of 124 patients with GBM, integrating immunohistochemistry (anti-eosinophil peroxidase, EPX), tissue tumor arrays, clinical metadata, and peripheral blood counts was performed. Eosinophil localization was assessed in intra- vs. peri-tumoral regions. In-vitro migration assays were performed using human and murine eosinophils exposed to GBM cell-conditioned media. Anti-EPX staining revealed eosinophil infiltration in 88% of tumors, with predominant intra-tumoral localization. Eosinophil abundance increased with glioma grade and was significantly higher in tumors harboring homozygous CDKN2A/B deletion, a well-established marker of poor prognosis, than in non-deleted tumors (9.63 vs. 4.38 mean eosinophils/mm\u00b2, p-value\u2009=\u20090.04). GBM-conditioned media induced eosinophil migration in-vitro, independent of the hallmark eosinophil-specific chemokines eotaxin-1 or -2. Peripheral eosinophil counts correlated positively with lymphocyte levels, though neither peripheral nor tissue eosinophils associated with patient survival. These findings suggest eosinophils as an integral component of the GBM microenvironment and warrant further mechanistic studies to evaluate their therapeutic relevance in GBM immunomodulation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.48
+ },
+ "https://www.nature.com/articles/s41598-026-68969-7": {
+  "guid": "https://www.nature.com/articles/s41598-026-68969-7",
+  "title": "Exon-skipping antisense oligonucleotides targeting SUMO1 and SUMO2 demonstrate chemosensitizing effects in NSCLC cells in vitro",
+  "link": "https://www.nature.com/articles/s41598-026-68969-7",
+  "abstract": "Lung cancer remains a leading cause of cancer-related death, highlighting the urgent need for new treatment strategies. SUMOylation, a post-translational modification that regulates DNA repair, replication, and cell cycle progression, is often increased in cancers and is a promising therapeutic target. Previously, we identified alternative splicing events affecting the SUMO transcripts, resulting in variant mRNAs coding for both non-conjugatable (SUMO1\u03b1 and SUMO2\u03b1) and conjugatable (SUMO3\u03b1) isoforms\u2014potentially helping to regulate overall cellular SUMOylation. In this study, we investigated whether increasing the levels of the transcripts coding for the non-conjugatable isoforms could decrease SUMOylation and improve chemotherapy efficacy in non-small cell lung cancer (NSCLC). To test this, we designed two sets of exon-skipping morpholinos called SUM2IN and SUMO1IN, targeting the pre-mRNAs of SUMO2 and SUMO1, respectively, and tested them in A549 and HCC827 cell lines. While treatment with SUM2IN significantly increased SUMO2\u03b1 mRNA and reduced overall SUMO1 and SUMO2 conjugation in all tested cell lines, SUM1IN affected the proportion of SUMO1 mRNA variants and overall SUMO conjugation in a cell-type-specific manner. Still, both SUM2IN and SUM1IN altered cell cycle progression, decreased cell growth, and enhanced the cytotoxic effects of cisplatin and etoposide in A549 and HCC827 cells, while having a notably smaller impact on these parameters in the non-malignant lung fibroblast cell line HEL-299. Therefore, SUM2IN and SUM1IN display chemosensitizing activity against NSCLC and provide a strong foundation for developing SUMO-targeted chemosensitizers for NSCLC and other aggressive human cancers.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.13
+ },
+ "https://www.nature.com/articles/s41598-026-73993-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-73993-8",
+  "title": "The combination of eicosapentaenoic acid and naproxen prevents iCAF polarization and attenuates inflammation in pirc tumorigenesis",
+  "link": "https://www.nature.com/articles/s41598-026-73993-8",
+  "abstract": "We previously reported that the combination of eicosapentaenoic free fatty acid (EPA-FFA) (2%) and naproxen (200ppm) in diet reduces colon tumor burden in the Pirc rat by ~\u200998%. Cancer suppression was partly due to modifications of eicosanoid metabolism. This study expands previous findings using RNA-sequencing analysis to identify molecular pathways altered by EPA/naproxen. Gene expression profile of tumors following twenty-weeks of exposure to EPA-FFA/naproxen revealed reduced inflammatory and proliferative genes and increased epithelial cell maturation. Tumors from untreated (AIN-93G diet) Pirc rats exhibited genes associated with inflammatory cancer-associated fibroblasts (iCAFs), whereas EPA/naproxen treated tumors showed a less inflammatory fibroblast subtype, possibly indicating the presence of myofibroblasts (myCAFs). To establish potential mechanisms, CAFs were isolated from untreated Pirc tumors and stimulated with IL-1\u03b2 to promote iCAF activation. Concurrent treatment with EPA/naproxen reduced iCAF polarization, with decreased IL-6, Cxcl2, Csf3 and Nos2 expression. Additionally, incubation with TGF-\u03b2 to promote myCAF polarization increased ACTA2 expression in combination-treated cells. In conclusion our data suggests reduced iCAF and increased myCAF formation in EPA-FFA/naproxen treated Pirc tumors and highlight the potential mechanisms underlying its chemopreventive effects.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.86
+ },
+ "https://www.nature.com/articles/s44222-026-00510-x": {
+  "guid": "https://www.nature.com/articles/s44222-026-00510-x",
+  "title": "Ex vivo and in vivo CAR engineering",
+  "link": "https://www.nature.com/articles/s44222-026-00510-x",
+  "abstract": "The success of chimeric antigen receptor (CAR) immune cell therapies in the treatment of B cell malignancies has spurred exploration of CAR therapies for a myriad of indications, including solid tumours, autoimmune diseases, infection, organ transplantation, fibrosis and tissue repair. By engineering a patient\u2019s own immune cells to target antigens, CAR therapies offer a fine-tuned, personalized method of immune modulation as a potential alternative to broad cancer therapies or immunosuppressive treatments. However, the success of CAR therapies is limited by risks of patient relapse, treatment-associated toxicities, weak activity in solid tumours and burdensome individualized manufacturing. Advances in synthetic biology, genome editing, biomaterials and gene delivery are expanding the opportunities for therapeutic engineering, including direct generation of CAR immune cells in vivo. Multiplex engineering can advance CAR therapies by combining validated interventions to address these limitations without sacrificing manufacturability. In this Review, we analyse engineering strategies for ex vivo and in vivo CAR immune cell therapy. By examining clinical successes and failures, we define design constraints throughout the engineering process, including cell source, genome engineering, receptor and circuit design, delivery and manufacturing. As CAR therapy has become increasingly diverse and complex, an integrated framework of these engineering approaches will be informative for understanding their complementary strengths and limitations for basic, translational and clinical research and development of this powerful therapeutic modality. The landscape of CAR therapy is rapidly evolving. This Review examines how genetic and cellular engineering shape ex vivo and in vivo CAR therapies, spanning cell source, genome editing, receptor and circuit design, delivery, manufacturing, and safety. It also proposes a framework for aligning engineering strategies with disease-specific therapeutic needs.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 0.91
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.20.768197v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.20.768197v1?rss=1",
+  "title": "Adjuvant myeloperoxidase inhibition promotes B and T cell mediated control of murine melanoma metastasis",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768197v1?rss=1",
+  "abstract": "Metastasis is the spread of cancer cells from primary tumors to distant organs and accounts for the majority of melanoma deaths, with a 5-year survival rate of only 30%. Despite strong evidence that myeloid cells promote metastasis, there are limited clinically effective myeloid-directed therapies. Here, we demonstrate that targeting myeloperoxidase (MPO), a myeloid-lineage restricted enzyme, significantly reduced multi-organ metastatic burden using an immunocompetent mouse model of spontaneous melanoma. Adjuvant MPO inhibition remodeled the metastatic microenvironment by a reduction in Ly6G+Ly6C+ myeloid cells and enrichment of B and T cell populations. Importantly, adjuvant MPO inhibitor-mediated metastatic control was dependent upon B, CD8+ T cells and CD4+ T cells, and rapidly reduced circulating and disseminated tumor cells. MPO inhibition markedly decreased NET release, while NET deficiency and inhibition recapitulated the anti-metastatic effects of targeting MPO, implicating NETs as a potential downstream mediator of MPO-driven metastasis. We further validated these findings in a distinct spontaneous breast cancer model where adjuvant MPO inhibition similarly reduced multi-organ metastatic burden with comparable changes within the metastatic immune microenvironment. Collectively, our studies introduce MPO as a druggable regulator of metastasis where MPO inhibition limits metastatic disease by targeting immunosuppressive myeloid cells.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "",
+  "score": 1.37
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.20.768131v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.20.768131v1?rss=1",
+  "title": "Targeting MondoA Sensitizes B-ALL Cells to Asparaginase and Reveals Glutathione-Associated Protection",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768131v1?rss=1",
+  "abstract": "Background: L-Asparaginase (ASNase) is central to acute lymphoblastic leukemia (ALL) therapy, but resistance and long-term cytotoxic effects remain challenging. We investigated whether MondoA (MLXIP) modulates ASNase sensitivity. Methods: Viability and apoptosis were assessed in CRISPR-Cas9-generated MondoA-knockout (MKO), MondoA-overexpressing (MOE), and Cas9-only control (WT) Nalm6 B-ALL cells following ASNase exposure or glutamine depletion. Omics, ChIP-seq, and patient-RNA-seq examined MondoA-ASNS associations. Results: MondoA deficiency was associated with reduced ASNS mRNA and protein abundance. MYC binding to the ASNS promoter was reduced in MKO cells, suggesting an indirect transcriptional link. MondoA and ASNS expression correlated in patient samples, particularly in T-ALL (r = 0.769). MKO cells showed increased ASNase, but not doxorubicin or vincristine, sensitivity. Glutamine withdrawal during ASNase treatment further reduced viability. GSH-associated protection was strongest in biallelic MKO2. Conclusion: MondoA status was associated with ASNS abundance and ASNase response, warranting further investigation of these processes as candidate determinants of ASNase sensitivity.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "",
+  "score": 0.95
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.20.767991v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.20.767991v1?rss=1",
+  "title": "Caspase-7 cleavage repurposes AAK1 to suppress mRNA decay and promote tolerance to anti-tubulin agents",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.767991v1?rss=1",
+  "abstract": "Prolonged mitotic arrest imposed by anti-tubulin chemotherapy suppresses transcription, making mRNA preservation critical for tumor-cell survival. Here, we identify an unexpected kinase-repurposing mechanism that sustains this adaptation. A kinome-wide screen revealed clathrin-adaptor kinase AAK1 as a determinant of taxane tolerance. During mitotic arrest, CDK1 phosphorylates AAK1 at T389 to enhance catalytic activity, while caspase-7 cleaves AAK1 at D767, removing a clathrin-binding domain. These modifications produce a cleaved fragment with reduced clathrin association and increased association with CCR4-NOT, suppressing mRNA decay and maintaining glycolytic gene expression. Mutant-rescues establish that both phosphorylation and cleavage contribute to cancer-cell survival during paclitaxel-induced arrest. A clinical-stage AAK1 inhibitor developed for neuropathic pain sensitized cancer cells to paclitaxel. Together, these findings reveal how coordinated phosphorylation and proteolysis repurpose a trafficking kinase to maintain mRNA stability, uncovering an unexpected tolerance-promoting function of caspase cleavage and a therapeutically actionable vulnerability of chemotherapy-arrested cancer cells.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "",
+  "score": 2.03
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.20.765315v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.20.765315v1?rss=1",
+  "title": "Lysosome Exocytosis Inhibition Impairs Triple-Negative Breast Cancer Cell Invasion",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.765315v1?rss=1",
+  "abstract": "Breast cancer (BC) is the most frequently diagnosed cancer in women, with metastasis remaining the leading cause of mortality. Among BC molecular subtypes, triple-negative BC (TNBC) is the most aggressive, characterized by high metastatic potential and limited treatment options, underscoring the need for developing new therapeutic strategies. Cancer progression relies on the subversion of multiple cellular processes, among which lysosome exocytosis is described as a major driver of cell invasion. Indeed, lysosome exocytosis has been shown to play a role in extracellular matrix degradation and remodeling, which is particularly relevant to sustain cancer cell invasive capacity. In this study, we show that highly-invasive BC cell lines present increased levels of lysosome exocytosis when compared to non- or low-invasive ones. To investigate the functional effect of inhibiting this pathway on TNBC cell invasion, we used a genetic approach, by silencing RAB10 or a pharmacological strategy, using rosmarinic acid, and assessed invasive capacity. Both approaches significantly decreased lysosome exocytosis, measured as the release of the lysosome enzyme {beta}-hexosaminidase, and strongly impaired TNBC cell invasive capacity. Together, these findings highlight the potential of lysosome exocytosis as a therapeutic target to impair TNBC cell invasion, hindering BC progression, and improving patient prognosis.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "",
+  "score": 0.98
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.20.766488v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.20.766488v1?rss=1",
+  "title": "Kynurenine-AHR signaling sustains a targetable FATP2 dependency in advanced systemic mastocytosis",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.766488v1?rss=1",
+  "abstract": "Avapritinib and midostaurin have transformed the treatment of advanced systemic mastocytosis (AdvSM), yet residual neoplastic mast cells persist despite sustained KIT inhibition, through mechanisms that remain poorly understood. In a prospective cohort of patients with indolent or advanced SM, plasma metabolomic profiling identified L-kynurenine (L-kyn) as a marker of advanced disease. Transcriptomics analysis of purified bone marrow mast cells, together with single-cell RNA sequencing, further revealed coordinated activation of a tryptophan-kynurenine-aryl-hydrocarbon receptor (AHR) pathway in the neoplastic marrow compartment. In KIT D816V mast cells, L-kyn activated AHR signaling, promoted a metabolic shift toward oxidative phosphorylation and fatty acid oxidation, enhanced AHR-dependent fatty acid uptake, and induced expression of FATP2 (SLC27A2), the most upregulated lipid transporter in AdvSM mast cells. L-kyn also increased plasma membrane-associated cholesterol, partly independently of AHR, whereas AHR knockdown reduced GM1-positive lipid raft abundance. Disruption of membrane sphingolipids and cholesterol impaired KIT and STAT5 phosphorylation, supporting a role for lipid raft integrity in sustaining oncogenic signaling. Neither avapritinib nor midostaurin impaired L-kyn uptake, indicating that this metabolic input persists despite KIT inhibition. Pharmacologic FATP2 inhibition with lipofermata reduced mast cell viability and disease burden in a KIT D816V xenograft model. Pharmacologic or genetic FATP2 blockade synergized with avapritinib and midostaurin in mast cell lines and primary AdvSM cells ex vivo, with limited effects on normal CD34+ progenitors., These findings identify FATP2 as a therapeutically actionable metabolic dependency in AdvSM and provide a rationale for combining FATP2 inhibition with KIT-targeted therapy.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "",
+  "score": 1.36
  }
 }
