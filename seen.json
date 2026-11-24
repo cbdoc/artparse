@@ -19558,5 +19558,265 @@
   "date": "2026-11-23T00:00:00+00:00",
   "type": "",
   "score": 1.03
+ },
+ "https://www.nature.com/articles/s41419-026-09430-5": {
+  "guid": "https://www.nature.com/articles/s41419-026-09430-5",
+  "title": "Epigenetic activation of the ATF5\u2013NCAM1 axis promotes leukemic cell survival and shapes azacitidine sensitivity in DNMT3A-mutant AML",
+  "link": "https://www.nature.com/articles/s41419-026-09430-5",
+  "abstract": "DNMT3A mutations are frequent early lesions in acute myeloid leukemia (AML) and are associated with clonal persistence, relapse propensity, and variable therapeutic response. Yet the survival dependencies sustaining DNMT3A-mutant AML remain poorly defined, and effective mutation-directed strategies are lacking. Here, we show that activating transcription factor 5 (ATF5) acts as an epigenetically activated survival dependency in DNMT3A-mutant AML. ATF5 is highly expressed in DNMT3A-mutant leukemic cells, and its depletion suppresses leukemic proliferation, induces apoptosis and G0/G1-phase accumulation, and restores myeloid differentiation. Importantly, ATF5 loss sensitizes DNMT3A-mutant AML cells to azacitidine (AZA) both in vitro and in vivo. Mechanistically, DNMT3A mutation imposes focal hypomethylation of the ATF5 promoter, resulting in epigenetic derepression and sustained ATF5 upregulation. ATF5 further transcriptionally activates NCAM1 to drive MEK/ERK signaling, establishing an ATF5\u2013NCAM1\u2013MEK/ERK survival axis that maintains leukemic cell fitness and apoptosis resistance. Pharmacological MEK inhibition also enhances the antileukemic activity of AZA in primary DNMT3A-mutant AML cells. Collectively, our findings uncover a DNMT3A mutation-licensed ATF5\u2013NCAM1 survival program that links epigenetic dysregulation to leukemic survival and AZA response, providing a preclinical rationale for combining AZA with inhibition of the ATF5\u2013NCAM1\u2013MEK/ERK axis in DNMT3A-mutant AML.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.12
+ },
+ "https://www.nature.com/articles/s41540-026-00854-5": {
+  "guid": "https://www.nature.com/articles/s41540-026-00854-5",
+  "title": "Author Correction: Understanding therapeutic tolerance through a mathematical model of drug-induced resistance",
+  "link": "https://www.nature.com/articles/s41540-026-00854-5",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Author Correction",
+  "score": 1.15
+ },
+ "https://www.nature.com/articles/s41598-026-82174-6": {
+  "guid": "https://www.nature.com/articles/s41598-026-82174-6",
+  "title": "Integrated transcriptomic and single-cell analysis identifies ANO6 as a marker of ferroptosis-associated states in glioblastoma",
+  "link": "https://www.nature.com/articles/s41598-026-82174-6",
+  "abstract": "Glioblastoma (GBM) is molecularly heterogeneous, and the cellular sources of ferroptosis-related tissue signals remain unclear. We integrated GSE4290 and GSE90598 into a batch-corrected discovery cohort and used TCGA-GBM/GTEx for external validation. Ferroptosis-related differentially expressed genes were jointly screened by LASSO, SVM-RFE, and random forest. Eight classifiers were compared under the same 10-fold cross-validation framework. The numerically highest-AUC model was interpreted using SHAP, and a five-gene logistic model was evaluated. Consensus clustering, WGCNA, single-cell RNA sequencing, and paired-tissue Western blotting provided biological characterization. Twenty-six ferroptosis-related differentially expressed genes were identified, of which HIF1A, STMN1, ANO6, STEAP3, and CD44 were retained by all three feature-selection methods. K-nearest neighbors achieved the highest cross-validated AUC (0.982), while the logistic model yielded AUCs of 0.971 and 1.000 in the discovery and external cohorts, respectively. Single-cell analysis localized ANO6 mainly to subsets of AC-like and MES-like malignant cells and myeloid cells. Across patients, ANO6 was generally associated with UCell-derived ferroptosis-related stress transcriptional scores and with hypoxia, interferon, complement, and TNF-\u03b1/NF-\u03baB programs. ANO6 protein was elevated in three paired GBM tissues. These findings identify ANO6 as a candidate marker of a ferroptosis-associated stress-adaptive state in GBM, although functional causality remains to be established.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.28
+ },
+ "https://www.nature.com/articles/s41598-026-79867-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-79867-3",
+  "title": "Comprehensive proteomic profiling reveals signatures consistent with metabolic reprogramming and altered apoptotic priming in proteasome inhibitor-resistant multiple myeloma cells",
+  "link": "https://www.nature.com/articles/s41598-026-79867-3",
+  "abstract": "Acquired resistance to proteasome inhibitors remains a major therapeutic challenge in multiple myeloma. In this study, we investigated mechanisms underlying resistance to bortezomib and carfilzomib using comprehensive proteomic profiling of RPMI8226 and U266B1 cell lines across different stages of resistance evolution. Contrary to models based on target-site mutations, proteasome inhibitors retained the ability to inhibit proteasome activity in resistant cells. Instead, proteomic analysis identified changes in the abundance of metabolism-associated proteins in resistant cells. RPMI8226 resistant cells showed reduced abundance of proteins responsible for oxidative phosphorylation and a compensatory shift toward proteins associated with glycolysis, whereas U266B1 cells showed general reduction in metabolic enzyme abundance. Resistant phenotypes also exhibited mitochondrial dysfunction and distinct alterations in apoptotic priming. Although BH3 mimetics demonstrated some synergistic potential with proteasome inhibitors, the response was heterogeneous and cell line\u2013specific. Together, our findings are consistent with a model in which resistance to proteasome inhibitors is a multifactorial and heterogeneous process driven not by impaired drug\u2013proteasome interactions, but by adaptive changes in cellular metabolism and mitochondrial function.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.91
+ },
+ "https://www.nature.com/articles/s41746-026-03442-3": {
+  "guid": "https://www.nature.com/articles/s41746-026-03442-3",
+  "title": "Challenges in AI based tumor board case summarization and recommendations",
+  "link": "https://www.nature.com/articles/s41746-026-03442-3",
+  "abstract": "Tumor boards, recurring meetings at hospital institutions, assemble cancer specialists (e.g., medical oncology and pathology) to discuss patient care. In this work, we formally define tumor board case summarization, options generation, and meeting outcome prediction as AI tasks. We study datasets from four medical institutions and evaluate state-of-the-art large language models (LLMs) from the DeepSeek, GPT, Gemini, and Qwen families using expert human assessment. Medical oncologists created ~9.6k reference texts and 16k human judgments across tasks. Clinicians rated LLM-generated case summaries 3.57\u20134.59 out of 5.0 across institutions, but recommendation generation remained more challenging, with average scores of 2.0\u20133.6. Clinical alignment analyses showed modest correlations of ~0.2 for case summarization subtasks and higher correlations of ~0.6 for recommendation generation using LLM-as-Judge metrics. Our proposed TBFact metrics were competitive with LLM-as-Judge approaches in longer prose free-text settings, suggesting a promising direction toward explainable evaluation. This study, to our knowledge the largest expert-grading study of tumor board tasks with both granular and direct assessments, found that criterion-level scores and overall judgments are related nonlinearly. Experts also frequently assigned high ratings to responses that differed substantially from their reference texts, challenging assumptions underlying reference-based automatic evaluation metrics.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.58
+ },
+ "https://www.nature.com/articles/s41598-026-80230-9": {
+  "guid": "https://www.nature.com/articles/s41598-026-80230-9",
+  "title": "Centripetal displacement of cervical lymphatic levels during head and neck cancer radiotherapy: dosimetric validation of CTVn optimization",
+  "link": "https://www.nature.com/articles/s41598-026-80230-9",
+  "abstract": "Weight loss during radiotherapy for head and neck cancer can cause medial displacement of the clinical target volume for nodes (CTVn), leading to inadequate target dose coverage. This study aimed to quantify the centripetal displacement of the medial border of cervical lymphatic levels and to translate these data into an optimized CTVn delineation strategy with dosimetric validation. Forty-three patients with head and neck cancer were prospectively enrolled and underwent four computed tomography (CT) scans: before radiotherapy (CT0), at week 3 (CT1), week 5 (CT2), and at the end of radiotherapy (CT3). Medial border zones of levels IIa, IIb, III, and Va were delineated on all scans. The X-values of three-dimensional centroid coordinates were extracted, and medial displacement distances were calculated. Using a self-controlled design, level-specific CTVn expansion margins were applied in the experimental plan, and dosimetric parameters were compared with the standard plan. At the end of radiotherapy, centripetal displacement was most pronounced in level Va (4.42\u2009\u00b1\u20092.08&nbsp;mm), followed by level IIb (2.36\u2009\u00b1\u20091.15&nbsp;mm) and level III (2.35\u2009\u00b1\u20090.93&nbsp;mm); displacement in level IIa was not statistically significant (P\u2009&gt;\u20090.05). Displacement exhibited an \u201cearly acceleration\u201d pattern, with the first 3 weeks accounting for 48.6%\u201353.8% of the total shift. Body mass index (BMI) decrease correlated strongly with level Va displacement at the end of radiotherapy (r\u2009=\u20090.721, P\u2009&lt;\u20090.001). Dosimetric comparison revealed no significant differences in any organ-at-risk parameters between the experimental and control plans (Pall&gt;0.05). Target coverage (V95%, D95), homogeneity index, and conformity index showed no significant changes. The medial border of cervical lymphatic levels undergoes level-specific centripetal displacement during radiotherapy for head and neck cancer. Expanding the medial CTVn border by 2.4&nbsp;mm for levels IIb and III and 4.4&nbsp;mm for level Va compensates for anatomical displacement without increasing dose to organs at risk.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.7
+ },
+ "https://www.nature.com/articles/s41598-026-80799-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-80799-1",
+  "title": "Synthesis and anticancer evaluation of a novel bromobiphenyl\u2013imidazole chalcone: DFT, in vitro, docking, MD, MM/GBSA, and FEL studies",
+  "link": "https://www.nature.com/articles/s41598-026-80799-1",
+  "abstract": "Cancer remains a major global health burden, highlighting the need to develop novel anticancer agents with improved efficacy and selectivity. In this study, a novel bromobiphenyl\u2013imidazole chalcone (compound 3) was synthesized via base-catalyzed Claisen\u2013Schmidt condensation and characterized using 1H-NMR, 13C-NMR, IR, UV, and ESI-MS spectroscopy. Compound 3 exhibited concentration-dependent cytotoxicity against A549 lung carcinoma cells, with an IC50 of 58.75 \u00b5M. In the human fetal osteoblast cell line, approximately 25% inhibition was observed at the highest tested concentration, and the IC\u2085\u2080 was not reached within the tested range; therefore, cancer cell selectivity has not yet been established. Treatment with compound 3 increased intracellular reactive oxygen species (ROS) generation and was associated with apoptosis-like changes in nuclear morphology. Density functional theory (DFT) calculations performed at the B3LYP/6-311\u2009+\u2009+\u2009G(d, p) level yielded a HOMO\u2013LUMO energy gap of 1.63&nbsp;eV, indicating moderate chemical reactivity and electronic stability. Furthermore, comprehensive in silico studies were performed to investigate the potential molecular interactions, binding stability, and energetic characteristics of compound 3. Molecular docking analysis predicted a favorable interaction between compound 3 and GNAI3, with a docking score of \u2212\u20097.13&nbsp;kcal/mol. A 100 ns molecular dynamics (MD) simulation further supported the stability of the predicted compound 3-GNAI3 complex, with an average RMSD of approximately 2.21 \u00c5 and persistent protein\u2013ligand interactions throughout the simulation. MM/GBSA calculations provided additional insights into the binding energetics, and free-energy landscape analysis characterized the conformational stability and energetic states of the complex. In silico ADMET profiling further characterized the physicochemical, pharmacokinetic, and toxicity properties of compound 3, including its predicted intestinal absorption, blood\u2013brain barrier permeability, and potential toxicity liabilities. The combined experimental and computational findings provide preliminary evidence of the in vitro cytotoxic activity of compound 3 against A549 lung carcinoma cells and support its further investigation as a chalcone-based candidate scaffold. However, cancer cell selectivity, the mechanism underlying the observed cellular effects, and the proposed involvement of GNAI3 have not been experimentally established. Further studies involving additional cancer and normal cell models, target validation experiments, and in vivo evaluation are required to clarify its biological activity and therapeutic potential.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.61
+ },
+ "https://www.nature.com/articles/s41525-026-00631-7": {
+  "guid": "https://www.nature.com/articles/s41525-026-00631-7",
+  "title": "Non-KMT2A-rearranged infant ALL harbors clinically relevant alterations and mirrors childhood ALL subtypes",
+  "link": "https://www.nature.com/articles/s41525-026-00631-7",
+  "abstract": "Infant acute lymphoblastic leukemia (ALL) is characterized by frequent KMT2A rearrangements (KMT2Ar), associated with poor outcomes, whereas infants lacking KMT2Ar have superior outcomes but remain understudied. Using whole-genome and whole-transcriptome sequencing of non-KMT2Ar infant ALL, and prompted by two index cases, we tested whether high-risk cases harbored undetected non-canonical KMT2A alterations but found no such evidence. Instead, combined genomic and transcriptional classification showed these infants harbor profiles highly consistent with childhood ALL counterparts, including Ph-like expression profiles, fusions in ZNF384, TCF3, ETV6, PAX5 or NUTM1, MLLT10 fusions with KMT2A-like expression profiles, and alterations in CDKN2A and NOTCH1. NUTM1-fused cases showed decreased MHC class II expression and increased HOXA9 regulatory activity. Together, these data indicate that non-KMT2Ar infant and childhood ALL share the same molecular subtypes and drivers, which may enable childhood-based risk stratification and treatment for these infants.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.9
+ },
+ "https://www.nature.com/articles/s42003-026-11345-y": {
+  "guid": "https://www.nature.com/articles/s42003-026-11345-y",
+  "title": "Single-cell and genomic landscapes reveal the tumor microenvironment of adolescent minimally invasive lung adenocarcinoma",
+  "link": "https://www.nature.com/articles/s42003-026-11345-y",
+  "abstract": "The rising detection of adolescent pulmonary nodules highlights a clinical gap, as applying adult guidelines risks overtreatment. Here, we integrate whole-exome sequencing, bulk RNA sequencing, and single-cell transcriptomics to profile the tumor ecosystem of adolescent minimally invasive lung adenocarcinoma. Adolescent tumors show a distinct mutational landscape with lower tumor mutational burden. In the microenvironment, ITGA2+ malignant cells exhibit higher stemness, while CCDC138+ macrophages show transcriptional signatures of reduced antigen presentation, suggesting susceptibility to early tumor initiation. Despite these features, adolescent tumors often follow an indolent course. Type 1 terminally differentiated effector memory CD8 T cells that re-express CD45RA (CD8_EMRA1) exhibit elevated Granzyme A expression and transcriptional signatures of enhanced cytotoxicity, correlating with favorable clinical outcomes. Age-dependent analysis identifies 22.1 years as a critical point when CD8_EMRA1 abundance declines. Radiomics- and pathomics-based models enable evaluation of CD8_EMRA1 enrichment, supporting risk stratification and personalized management. These findings provide a multi-omics resource and conceptual framework to inform age-adapted clinical strategies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.18
+ },
+ "https://www.nature.com/articles/s41598-026-82056-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-82056-x",
+  "title": "Synthesis, anticancer activity, and molecular docking of gemcitabine\u2013hydroxycinnamic acid conjugates against breast cancer cells",
+  "link": "https://www.nature.com/articles/s41598-026-82056-x",
+  "abstract": "A series of novel gemcitabine\u2013hydroxycinnamic acid (GEM\u2013HCA) conjugates was synthesised and evaluated for in vitro activity in MCF-7 and MDA-MB-231 breast cancer cells. Among the tested conjugates, compound 3c, which contains a para-coumaroyl substituent at the N4 position of GEM, showed the greatest in vitro cytotoxic activity, with IC50 values of 3 \u00b5M in MCF-7 cells and 25 \u00b5M in MDA-MB-231 cells after 48&nbsp;h. Mechanistic studies showed that the pro-apoptotic activity of compound 3c was associated with mitochondrial membrane depolarisation and executioner caspase activation. Treatment with 3c induced apoptosis in up to 60.5% of MCF-7 cells and 31.9% of MDA-MB-231 cells. In caspase-3-deficient MCF-7 cells, the signal detected using the caspase-3/7 assay was attributed to caspase-7 activation. At 25 \u00b5M, compound 3c also inhibited DNA synthesis more strongly than parent gemcitabine, particularly in MCF-7 cells. In addition, it significantly reduced the concentrations of the pro-inflammatory cytokines IL-6 and IL-8, as well as matrix metalloproteinase MMP-9, in MDA-MB-231 culture supernatants. Molecular docking predicted favourable binding of 3c to human deoxycytidine kinase, with predicted Ki of 9 nM. Compound 3c also exhibited moderate passive permeability in the PAMPA model and did not induce a mutagenic response in the bacterial strains tested in the Ames assay. These findings identify compound 3c as the most active conjugate in the investigated series and support its further biological evaluation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.04
+ },
+ "https://www.nature.com/articles/s41467-026-79621-3": {
+  "guid": "https://www.nature.com/articles/s41467-026-79621-3",
+  "title": "Autosomal dosage compensation in aneuploidy and cancer involves transcriptional burst regulation",
+  "link": "https://www.nature.com/articles/s41467-026-79621-3",
+  "abstract": "Aneuploidy, resulting from whole-chromosome or segmental gains and losses, is generally detrimental to organismal fitness and is strongly associated with tumorigenesis. While sex chromosome aneuploidies are relatively well tolerated due to dedicated allelic dosage compensation mechanisms, the existence of comparable regulatory processes for autosomes remains debated. Here, we investigate transcriptional responses to autosomal aneuploidy and identify widespread dosage compensation across affected chromosomes. Using high-sensitivity allele-resolved single-cell RNA sequencing of monoclonal cell expansions spanning diverse ploidies and degrees of aneuploidy, we uncover consistent transcriptional compensation of both chromosomal gains and losses. This response operates in a region-specific manner across both complete and segmental aneuploidies, revealing an unexpected flexibility in dosage regulation. We show that chromosome losses are compensated through increased transcriptional burst frequency from the remaining allele. Complementary proteomics analyses demonstrate additional buffering at the protein level, resulting in a substantial, though still incomplete, restoration of stoichiometric balance across autosomal aneuploid chromosomes for both copy number gains and losses. Analyses of cancer transcriptomes confirm that compensatory mechanisms are active in human tumours. Together, our findings establish dosage compensation as a genome-wide and dynamic response to gene dose imbalance. This mechanism extends beyond sex chromosomes, supports transcriptional homeostasis, and represents a fundamental and evolutionarily conserved mode of gene regulation active across species and in aneuploid cancer cells. Aneuploidy alters chromosome copy number and is often associated with impaired cellular function. Here, the authors show that cells compensate for autosomal chromosome gains and losses through genome\u2011wide transcriptional and protein\u2011level buffering mechanisms, helping to maintain gene dosage balance in normal and cancer cells.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.94
+ },
+ "https://www.nature.com/articles/s41467-026-79362-3": {
+  "guid": "https://www.nature.com/articles/s41467-026-79362-3",
+  "title": "Bacteria-induced TLR2 signaling unleashes multiple mechanisms to reduce Treg immunosuppression and enhance cancer immunity",
+  "link": "https://www.nature.com/articles/s41467-026-79362-3",
+  "abstract": "Toll-like receptors (TLRs) support T cell priming in lymphatic tissues, but whether TLR stimulation within tumors also affects T cell function locally remains undefined. Here, we show that TLR2 signaling is necessary to promote CD8+ T cell-mediated tumor control by dual intravenous and intratumoral delivery of attenuated Listeria monocytogenes (IV\u2009+\u2009IT Lm). TLR2 signaling supports T cell priming in the spleen during IV infection, but unexpectedly, TLR2 is also critical for the activity of anti-Lm CD8+ T cells in tumors upon IT Lm injection. TLR2 signaling is unique among all TLRs in its capacity to drive a cDC2-dependent reduction in regulatory T cells (Treg) and destabilize Foxp3 expression. TLR2-mediated Treg destabilization correlates with increased tumor antigen cross-presentation and stronger antitumor CD8+ T cell responses. Ultimately, TLR2-dependent Treg depletion is required for tumor control by IV\u2009+\u2009IT Lm. These findings reveal a novel role for TLR2 activation by bacteria in tumors to reduce Treg immunosuppression and enhance tumor-specific T cell responses. Toll-like receptor (TLR) signaling is known to support T cell priming, but how different TLRs regulate intratumoral effector T cell function is unknown. The authors here demonstrate that TLR2 signaling in dendritic cells upon Listeria infection enhances cancer immunity by disrupting regulatory T cells and promoting tumor antigen presentation by DCs to CD8 T cells.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.48
+ },
+ "https://www.nature.com/articles/s41598-026-77487-5": {
+  "guid": "https://www.nature.com/articles/s41598-026-77487-5",
+  "title": "Explainable neural network detects lung cancer from breath-based GC-MS ion-fragmentation analysis",
+  "link": "https://www.nature.com/articles/s41598-026-77487-5",
+  "abstract": "Lung cancer is among the most prevalent and lethal cancers worldwide. Over the years, various methodologies have been developed to improve lung cancer diagnosis, including Positron Emission Tomography and Magnetic Resonance Imaging. However, these approaches are often highly invasive, limiting their repeated use on the same patient. In this study, we propose a methodology to predict lung cancer based on the analysis of fragment ion abundances obtained by thermal desorption gas chromatography mass spectrometry analysis of volatile organic compounds in patients\u2019 breath. By developing artificial intelligence algorithms based on convolutional neural networks, we design pipelines to classify patients into lung cancer, benign nodules, and healthy control groups. We initially classify the patients based on gas chromatography mass spectrometry raw data images via embedding algorithms with machine learning classifiers, and we then demonstrate that image-based analyses achieve superior performance. We thus employ Gradient-weighted Class Activation Mapping to highlight which specific fragment ion abundances play a key role in classification. This study reinforces the potential for lung cancer diagnosis using artificial intelligence tools and non-invasive breath analysis. The results presented here can support clinicians in standardizing a novel breath-based diagnostic tool for lung cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.75
+ },
+ "https://www.nature.com/articles/s41586-026-11474-8": {
+  "guid": "https://www.nature.com/articles/s41586-026-11474-8",
+  "title": "Author Correction: Synthetic super-enhancers enable precision viral immunotherapy",
+  "link": "https://www.nature.com/articles/s41586-026-11474-8",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Author Correction",
+  "score": 0.89
+ },
+ "https://www.nature.com/articles/s41375-026-03200-0": {
+  "guid": "https://www.nature.com/articles/s41375-026-03200-0",
+  "title": "Quality of life assessment in Myeloproliferative Neoplasms: A key aspect of therapy management with impact on survival?",
+  "link": "https://www.nature.com/articles/s41375-026-03200-0",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Perspective",
+  "score": 0.5
+ },
+ "https://www.nature.com/articles/s41598-026-80508-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-80508-y",
+  "title": "Regional disparities in post-transplant malignancies: a comparative study between a taiwanese medical center and a U.S. multi-center cohort",
+  "link": "https://www.nature.com/articles/s41598-026-80508-y",
+  "abstract": "Regional differences in cancer profiles between Asian and Western kidney transplant recipients are significant but under-researched. This study compares malignancy risks among kidney transplant recipients (KTRs) in Taiwan and the U.S., and evaluates the impact of transplantation relative to dialysis. We compared a Taiwanese (Taichung Veterans General Hospital, TCVGH) cohort with a U.S. cohort. Incidence rates, incidence rate ratios (IRR), and standardized incidence rate (SIR) were analyzed to assess cancer risk. To eliminate follow-up duration bias, a 5-year landmark sensitivity analysis was performed. KTRs in the TCVGH cohort showed a significantly higher risk of urothelial cancer (IRR 7.11) and liver cancer (IRR 2.01) compared to the U.S. cohort, but a much lower risk of non-melanoma skin cancer (NMSC) (IRR 0.21). Within the standardized early window (\u2264\u20095 years), total cancer risk achieved exact parity between networks (IRR 1.00, p\u2009=\u20090.98), though KTRs in the TCVGH cohort retained distinct predispositions for urothelial (IRR 8.88) and liver cancers (IRR 2.23). Remarkably, beyond the 5-year landmark, these disparities escalated dramatically; the urothelial risk gap expanded to 14.39-fold, multiple other solid malignancies significantly reversed to dominate in the TCVGH cohort (all p\u2009&lt;\u20090.001), and the U.S. cohort predominance in NMSC disappeared (IRR 0.78, p\u2009=\u20090.281). Within the TCVGH cohort, KTRs faced a 6.67-fold higher risk of NMSC compared to the general population (SIR 6.67) and a 3.6-fold higher risk compared to ESRD patients (IRR 3.60). Risks for urothelial and liver cancers were also significantly higher in KTRs than in ESRD patients (IRR 2.04 and 1.42, respectively). KTRs in the TCVGH cohort exhibit a unique cancer profile, with high urothelial and liver malignancy burdens but lower absolute skin cancer rates than Western cohorts. The independent risk increase post-transplantation across multiple cancer types necessitates region-specific, proactive screening protocols in Asian transplant programs.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.59
+ },
+ "https://www.nature.com/articles/s41420-026-03459-3": {
+  "guid": "https://www.nature.com/articles/s41420-026-03459-3",
+  "title": "Hypoxia-responsive IER3 promotes histone lactylation by sustaining MEK-ERK-c-Myc activation in non-small cell lung cancer",
+  "link": "https://www.nature.com/articles/s41420-026-03459-3",
+  "abstract": "Hypoxia, a hallmark of the solid tumor microenvironment in non-small cell lung cancer (NSCLC), drives tumor progression. This study measured the expression of immediate early response 3 (IER3) in NSCLC under hypoxia and investigated its role in regulating glycolysis and histone lactylation. Single-cell RNA sequencing was conducted using count data from the GSE131907 dataset to analyze the expression of IER3 in lung adenocarcinoma (LUAD). The prognostic value of IER3 and its downstream signaling pathway was explored using data from the TCGA database. By silencing IER3 in vitro, the effects of IER3 on the proliferation, invasion, glycolysis, and histone lactylation of NSCLC cells were evaluated. In vivo, the effects of IER3 were detected through mouse xenograft tumor models. In LUAD, elevated IER3 expression was significantly associated with poorer overall survival. IER3 expression in NSCLC was found to be hypoxia-responsive. Silencing IER3 significantly suppressed the proliferation, invasion, and glycolysis of A549 and H1299 cells in vitro and inhibited the growth of xenograft tumors in vivo. In addition, by sustaining MEK-ERK-c-Myc activation, IER3 was shown to promote glycolysis in NSCLC cells. Furthermore, the results revealed that IER3 promoted histone lactylation (esp. H3K18la), thereby inducing ERO1A transcription. Hypoxia-responsive IER3 promoted glycolysis in NSCLC by sustaining MEK-ERK-c-Myc activation. Subsequently, glycolysis triggered histone lactylation (esp. H3K18la), thereby inducing ERO1A transcription and contributing to tumor growth and invasion.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.82
+ },
+ "https://www.nature.com/articles/s44560-026-00003-y": {
+  "guid": "https://www.nature.com/articles/s44560-026-00003-y",
+  "title": "FGF21 preserves adipose tissue and metabolic homeostasis in cancer-associated cachexia",
+  "link": "https://www.nature.com/articles/s44560-026-00003-y",
+  "abstract": "Cancer-associated cachexia (CAC) is a multifactorial, metabolic wasting syndrome coinciding with cancer malignancies of all entities. CAC is characterized by loss of muscle mass and adipose tissue and diminishes therapy responsiveness. Here, we show that fibroblast growth factor 21 (FGF21) plasma levels are associated with cachexia and weight loss in patients with colorectal and pancreatic cancer. In line, hepatic expression and plasma levels of FGF21 are induced in tumor-bearing mice at thermoneutrality, likely mediated by the cooperative action of pro-inflammatory cytokines. FGF21 deficiency increases systemic inflammation, exacerbates adipose tissue wasting and promotes weight loss. Conversely, FGF21 supplementation in mouse models of CAC reduces systemic inflammation, improves muscle glucose handling and reverses the tumor-induced loss of subcutaneous white adipose tissue by promoting an adipogenic gene expression signature and associated progenitor-cell remodeling. Together, we reveal a protective role for FGF21 in experimental CAC and identify the protein as a potential marker in clinical cachexia.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.87
+ },
+ "https://www.nature.com/articles/s44560-026-00001-0": {
+  "guid": "https://www.nature.com/articles/s44560-026-00001-0",
+  "title": "Clonogenic stem-progenitor activity provides a clinical target for predictive drug efficacy in acute myeloid leukemia",
+  "link": "https://www.nature.com/articles/s44560-026-00001-0",
+  "abstract": "Cancer relapse is believed to result from regeneration of rare clones with stem cell properties that lack definitive markers. In acute myeloid leukemia (AML), leukemic stem cells (LSCs) and leukemic progenitor cells (LPCs) represent functional readouts of these populations. While genetic characterization of bulk leukemic cells enables targeted therapy, this approach does not predict effectiveness of drug combinations or outcomes in relapsed AML, where survival remains &lt;20%. We developed and retrospectively applied a high-throughput LPC (HT-LPC) assay to AML patients (N\u2009=\u200977), enabling quantitative drug dose\u2013response profiling. The HT-LPC platform distinguished patients achieving remission from those refractory to induction chemotherapy with &gt;90% accuracy. HT-LPC also identified patient-specific drug sensitivities (PSDS), as well as synergistic drug combinations associated with clonal disease evolution and in a subset of patients, was tested in real time and delivered PSDS results within 10 days. Agnostic to genetic lesions and LSC identity, HT-LPC generates clinically actionable drug response profiling for AML patients.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.9
+ },
+ "https://www.nature.com/articles/s41583-026-01105-6": {
+  "guid": "https://www.nature.com/articles/s41583-026-01105-6",
+  "title": "Rewiring cancer: peripheral nerves control tumours",
+  "link": "https://www.nature.com/articles/s41583-026-01105-6",
+  "abstract": "The peripheral nervous system has emerged as an important regulator of cancer biology. Once considered passive bystanders, tumour-infiltrating neurites are now recognized as active components of the tumour microenvironment that influence tumour progression through direct and indirect interactions with malignant, immune, stromal, glial and vascular cells. Recent studies have demonstrated that peripheral tumours recruit and remodel infiltrating neurites, inducing transcriptional, structural and functional changes that resemble neural injury and regenerative programs. These reprogrammed neurites release neurotransmitters, neuropeptides and other factors that directly promote tumour cell proliferation, migration and survival while reshaping the surrounding microenvironment. Neural signalling influences antitumour immunity, reprogrammes fibroblasts and promotes angiogenesis, collectively generating conditions that support disease progression. In turn, tumour-associated neurites undergo profound alterations in their connectivity, activity and molecular state, highlighting the dynamic and reciprocal nature of tumour\u2013nerve interactions. These discoveries have reshaped our understanding of how pro-tumorigenic microenvironments are established and maintained. Importantly, defining the molecular pathways that mediate neural regulation of cancer has revealed new therapeutic opportunities, including the potential repurposing of FDA-approved agents that target neural signalling pathways. As the field of cancer neuroscience continues to advance, the nervous system is increasingly recognized not only as a regulator of tumour behaviour but also as a promising target for therapeutic intervention. Neural regulation of cancer is increasingly recognized as a fundamental component of cancer biology, yet its mechanisms remain incompletely understood. In this Review, Vermeer and colleagues examine how tumours engage neural pathways, highlighting implications for cancer progression and therapeutic intervention.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.06
+ },
+ "https://www.nature.com/articles/s41391-026-01160-1": {
+  "guid": "https://www.nature.com/articles/s41391-026-01160-1",
+  "title": "The multifaceted role of the androgen receptor in non-malignant and malignant prostate pathophysiology: from gene regulation to disease progression",
+  "link": "https://www.nature.com/articles/s41391-026-01160-1",
+  "abstract": "Androgen receptor (AR) is a pivotal transcription factor that regulates prostate development and disease. Dysregulation of AR signaling contributes to the development of both benign prostatic hyperplasia (BPH) and prostate cancer (PC), which collectively affect a majority of men over the age of 50. Elucidating the mechanisms that govern AR activation and context-dependent function is essential for understanding prostate pathologies and guiding therapeutic innovations. A literature search was conducted on PubMed and ClinicalTrials.gov to integrate findings from molecular, genetic, and clinical studies and comprehensively examine AR biology and its roles in prostate development and disease. Literature published prior to December 2025 was included in this article. Keyword searches included \u201candrogen receptor,\u201d \u201candrogen receptor signaling,\u201d \u201cprostate cancer,\u201d and \u201cbenign prostatic hyperplasia.\u201d AR is critical for normal prostate development and function, and dysregulation of the AR protein is implicated in both BPH and PC. In BPH, the role of AR is influenced by hormone imbalances and chronic inflammation associated with the disease. Crosstalk between AR and signaling networks, including growth factors and kinases, further modulates BPH progression and its therapeutic response. In PC, the role of AR is even better known. AR amplification, point mutations, constitutively active splice variants, and altered translational and epigenetic regulation sustain AR activity in the absence of androgens, contributing to castration-resistant prostate cancer. Alterations in AR signaling are a potential shared mechanism between BPH and PC, two common conditions affecting men over 50. Understanding the molecular diversity and regulatory complexity of AR provides critical insight into disease progression and therapeutic resistance. Continued investigation into AR-associated pathways may facilitate the development of more selective and effective strategies for managing both BPH and PC.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 0.75
+ },
+ "https://www.nature.com/articles/s44560-026-00004-x": {
+  "guid": "https://www.nature.com/articles/s44560-026-00004-x",
+  "title": "Rethinking the premise and promise of comparative oncology: anticancer defences as general maintenance mechanisms",
+  "link": "https://www.nature.com/articles/s44560-026-00004-x",
+  "abstract": "Comparative oncology emerged from the premise that differences in cancer incidence across species reflect differences in cancer-suppression adaptations, and identifying the underlying mechanisms in species with unexpected low cancer incidence could inform human medicine. Here, we argue that such variation instead reflects differences in the molecular/cellular and developmental systems that evolved to preserve genome and soma integrity. Evolution has not produced specific novel anticancer adaptations. Rather, changing biological and ecological contexts have favored improved mechanisms that maintain multicellular organization and function during reproductive life, with cancer resistance as the expected consequence. Many so-called cancer-suppression mechanisms are therefore better understood as general maintenance systems shaped by selection acting on development, germline integrity, early-life performance and other fitness-related traits. This reframing moves comparative oncology away from the search for exceptional anticancer defences and toward understanding how conserved maintenance mechanisms scale with organismal complexity and life history traits, and generate trade-offs influencing cancer risk.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Review",
+  "score": 0.8
+ },
+ "https://www.nature.com/articles/s41418-026-01887-3": {
+  "guid": "https://www.nature.com/articles/s41418-026-01887-3",
+  "title": "Cancer cell-derived Moesin attenuates systemic and local CD8+ T cell cytotoxicity to dampen PD-1 blockade efficacy",
+  "link": "https://www.nature.com/articles/s41418-026-01887-3",
+  "abstract": "Triple-negative breast cancer (TNBC)\u2014a distinct subtype defined by the absence of estrogen receptor (ER), progesterone receptor (PR), and HER2 expression\u2014is refractory to conventional targeted therapies and is associated with poor prognosis, high recurrence, and frequent metastasis. Although immune checkpoint blockade (ICB) has demonstrated clinical benefits across multiple solid tumors, its efficacy in TNBC remains limited despite the subtype\u2019s favorable immunological features, such as high tumor mutational burden and prominent lymphocyte infiltration. This paradox suggests the existence of alternative immunosuppressive mechanisms. Herein, we identify the cytoskeletal adaptor protein moesin (MSN) as a novel immunosuppressor in TNBC that impairs cytotoxic T lymphocyte (CTL) function. Msn depletion enhances both local and systemic antitumor immunity, as evidenced by increased peripheral blood lymphocytes, augmented CD8\u207a T cell activation and infiltration, and reduced T cell exhaustion, ultimately suppressing TNBC growth. Mechanistically, MSN activates cAMP-responsive element binding protein 1 (CREB1), leading to upregulation of transforming growth factor beta 1 (TGF\u03b21), which paracrinally inhibits CD8+ T cells. Silencing Msn or blocking TGF\u03b21 restores CD8\u207a T cell function, synergizes with anti-PD-1 therapy, and overcomes ICB resistance. Our findings highlight the MSN\u2013TGF\u03b21 axis as a therapeutic vulnerability capable of mobilizing dysfunctional peripheral immunity for TNBC control.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.29
+ },
+ "https://www.nature.com/articles/s44560-026-00002-z": {
+  "guid": "https://www.nature.com/articles/s44560-026-00002-z",
+  "title": "DDX5-mediated ferroptosis defence as a targetable vulnerability unique to glioma stem cells",
+  "link": "https://www.nature.com/articles/s44560-026-00002-z",
+  "abstract": "Glioma stem cells (GSCs), cancer stem cells in glioblastoma, are a major contributor to the intractable nature of this disease because they are more resistant to conventional cancer therapies than their non-stem counterparts. However, emerging evidence suggests vulnerabilities unique to GSCs, such as dependence on oxidative phosphorylation (OXPHOS). We herein demonstrate that the DEAD-box helicase 5 (DDX5) - glutathione peroxidase 4 axis is selectively activated in GSCs to prevent electron leaks associated with OXPHOS from inducing lipid peroxidation and ferroptosis. FL118, a pharmacological inhibitor of DDX5, induces cell death via ferroptosis in GSCs, but not in their non-stem counterparts in vitro. In vivo, FL118 reduces the tumour-initiating population in established tumours and extends the survival of mice implanted orthotopically with GSCs. Collectively, these results suggest the potential of targeting the ferroptosis defence mechanism mediated by DDX5 as a treatment for glioblastoma and, based on the relationship between increased OXPHOS and tumour malignancy, for other malignant tumours with increased OXPHOS.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.38
+ },
+ "https://www.nature.com/articles/s44560-026-00005-w": {
+  "guid": "https://www.nature.com/articles/s44560-026-00005-w",
+  "title": "Germline structural variation across urologic cancers reveals a global multi-omic impact on disease-relevant genes",
+  "link": "https://www.nature.com/articles/s44560-026-00005-w",
+  "abstract": "The role of germline Structural Variants (SVs) in cancers is dependent on tissue and cellular context, necessitating focused, multi-omic studies by cancer tissue of origin. Here, we combine patient blood whole-genome sequencing with tumor multi-omic profiling across 1,499 urologic cancers (bladder, prostate, renal, and testicular) to determine the extent to which germline SVs influence the tumor molecular landscape. SV events disrupting cell cycle or DNA repair genes CROCC, DIS3L2, EP400, FANCD2, PARP4, RAD51B, and TDG cumulatively involve ~35% of patients. For thousands of genes, noncoding SVs are associated with differential expression or CpG Island methylation in tumors, either specific to cancer type or spanning multiple types. Genes with tissue-specific altered cis-regulation involving SVs include oncogenes (SRC in prostate cancer), tumor suppressor genes (VHL in renal cancers), and metabolism-related genes (PGD and PDPR in bladder; PIK3CG and PGK1 in prostate). Our study considerably expands the numbers of urologic cancer patients with a suspected germline component of cancer development or progression.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.05
+ },
+ "https://www.nature.com/articles/s41598-026-75210-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-75210-y",
+  "title": "Differential effects of atorvastatin and luteolin on doxorubicin cytotoxicity and multidrug resistance mechanisms in breast cancer cells: an in vitro study",
+  "link": "https://www.nature.com/articles/s41598-026-75210-y",
+  "abstract": "A key challenge in breast cancer (BC) treatment is the emergence of multidrug resistance (MDR) to chemotherapeutic agents. This study investigated the anticancer effects of atorvastatin (ATO) and luteolin (LUT), alone and in combination with doxorubicin (DOX), and evaluated their effects on MDR-associated mechanisms, including the CD44\u207a/CD24\u207b cancer stem-like cell population, telomerase activity, and ABC transporters, in luminal BC cell lines. MCF-7 (DOX-sensitive) and MCF-7/ADR (DOX-resistant) BC cell lines were treated with DOX, ATO, LUT, or their combinations (ATO\u2009+\u2009DOX, LUT\u2009+\u2009DOX, or ATO\u2009+\u2009LUT) for 48&nbsp;h. Cell viability was assessed using the MTT assay. Apoptosis, cell cycle distribution, and the CD44\u207a/CD24\u207b population were evaluated by flow cytometry. MDR1 and ABCG2 gene expression, as well as the corresponding protein levels, were also examined. All treatments, administered alone or in combination, produced dose-dependent cytotoxic effects, altered cell cycle distribution, and induced apoptosis in both cell lines. In MCF-7 cells, combining ATO or LUT with DOX was associated with reduced MDR1 and ABCG2 protein and gene expression, decreased CD44\u207a/CD24\u207b cell populations, and reduced telomerase activity. ATO\u2009+\u2009DOX demonstrated synergistic cytotoxicity in both cell lines and enhanced DOX sensitivity in the resistant cells. In contrast, the LUT\u2009+\u2009DOX interaction was cell-line dependent, showing an additive effect in MCF-7 cells and an antagonistic effect in MCF-7/ADR cells. ATO\u2009+\u2009LUT also exhibited dose-dependent cytotoxicity in both cell lines. ATO consistently potentiated DOX cytotoxicity in both BC cell lines, whereas the effect of LUT\u2009+\u2009DOX was cell-line dependent. The anticancer activity of these treatments was associated with the modulation of MDR-related markers and enhanced chemosensitivity, suggesting a potential role in improving treatment response in BC cells.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.01
  }
 }
