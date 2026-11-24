@@ -79,16 +79,6 @@
   "type": "Report",
   "score": 1.13
  },
- "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00391-0?rss=yes": {
-  "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00391-0?rss=yes",
-  "title": "MDMX acts as a pervasive preleukemic-to-acute myeloid leukemia transition mechanism",
-  "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00391-0?rss=yes",
-  "abstract": "(Cancer Cell 39, 529\u2013547.e1\u2013e7; April 12, 2021)",
-  "source": "Cancer Cell",
-  "date": "2026-08-26T00:00:00+00:00",
-  "type": "Correction",
-  "score": 0.76
- },
  "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00395-8?rss=yes": {
   "guid": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00395-8?rss=yes",
   "title": "Axes of biological variation in diffuse large B cell lymphoma",
@@ -19528,5 +19518,45 @@
   "date": "2026-11-23T00:00:00+00:00",
   "type": "",
   "score": 1.36
+ },
+ "https://www.nature.com/articles/s41392-026-03015-6": {
+  "guid": "https://www.nature.com/articles/s41392-026-03015-6",
+  "title": "Locoregional administration of bispecific CAR-T cells targeting CD44 and CD133 in recurrent high-grade glioma: a first-in-human investigator-initiated trial",
+  "link": "https://www.nature.com/articles/s41392-026-03015-6",
+  "abstract": "Grade IV glioma remains highly lethal, and effective therapies for recurrent disease remain limited. Glioma stem cells (GSCs) contribute to therapeutic resistance and tumor recurrence, providing a rationale for GSC-targeted immunotherapy. We conducted a single-center, single-arm investigator-initiated trial evaluating locoregional administration of CD44/CD133 bispecific chimeric antigen receptor (CAR) T cells incorporating a truncated interleukin-7 receptor \u03b1 (IL-7R\u03b1) intracellular domain in ten adults with recurrent grade IV glioma. Treatment was well tolerated, with no dose-limiting toxicities or Grade \u22652 cytokine release syndrome. Adverse events were predominantly mild and transient, and no patient required IL-6 or IL-1 blockade. CAR-T cell leakage into peripheral blood remained minimal, whereas cerebrospinal fluid cytokine elevations were modest following infusion. Three patients achieved partial responses. The median overall survival after the first CAR-T cell infusion was 465 days. Exploratory single-cell RNA sequencing and proteomic analyses suggested patient stratification in macrophage-associated signatures, particularly in interferon signaling and antigen-presentation programs, which were associated with distinct clinical outcomes independently of IDH mutation status in this cohort. These findings demonstrate the feasibility and safety of repeated locoregional administration of GSC-targeting IL-7R\u03b1-armored bispecific CAR-T cells. Exploratory immune profiling further identified inter-patient heterogeneity in macrophage-associated immune programs, which warrants validation in larger prospective studies. (ClinicalTrials.gov identifier: NCT05577091, NMPA No. CXSL2500032).",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.78
+ },
+ "https://www.nature.com/articles/s41388-026-04039-6": {
+  "guid": "https://www.nature.com/articles/s41388-026-04039-6",
+  "title": "Extreme ESR1 polyclonality, mutation dynamics, and effects on treatment outcomes in patients with ER+ metastatic breast cancer",
+  "link": "https://www.nature.com/articles/s41388-026-04039-6",
+  "abstract": "ESR1 mutations commonly emerge on endocrine therapy (ET) during breast cancer treatment and contribute to therapeutic resistance. However, the impact of increasing degrees of polyclonality is not well understood. We conducted a retrospective, descriptive review of patients with estrogen receptor-positive (ER\u2009+\u2009) metastatic breast cancer (MBC) and \u226510 concurrent ESR1 variants defined as extreme ESR1 polyclonality, assessed on circulating tumor DNA (ctDNA) between August, 2020 and July, 2025. Patient and tumor characteristics, frequency of ESR1 variants, co-occurring mutations, and clonal changes in ESR1 in response to treatment were explored. Nine patients met criteria for extreme ESR1 polyclonality. Patients received a median of 1 line of ET in the metastatic setting before their initial ctDNA assessment, which identified 0-31 ESR1 clones (mean, 6). The most frequent ESR1 clonal mutations were Y537N, Y537S, and D538G. Common co-alterations included TP53 and RB1 mutations and CCND1 amplification. Tumor mutational burden (TMB) at the time extreme ESR1 polyclonality emerged ranged from 6.7\u201356.5 mutations per megabase (mut/Mb); all assessable tumors were microsatellite stable (MSS). This represents the first case series to explore extreme ESR1 polyclonality. Characterizing the mutational dynamics associated with this phenomenon may improve understanding of ESR1 mutations and related impacts on treatment resistance.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.82
+ },
+ "https://www.nature.com/articles/s41416-026-03660-2": {
+  "guid": "https://www.nature.com/articles/s41416-026-03660-2",
+  "title": "PD-L1 glycoforms regulate therapeutic antibody binding and response to anti-PD-L1 therapy",
+  "link": "https://www.nature.com/articles/s41416-026-03660-2",
+  "abstract": "Immune checkpoint inhibitors targeting PD-1/PD-L1 have transformed the treatment of non-small cell lung cancer, yet their clinical benefit remains limited even among patients with PD-L1-positive tumours, highlighting the need for improved predictive biomarkers. Although PD-L1 is heavily N-glycosylated, whether site-specific glycoform heterogeneity regulates therapeutic antibody binding and contributes to clinical outcome remains unclear. We applied a site-resolved glycoproteomic platform to characterise PD-L1 N-glycan heterogeneity in lung cancer cell lines and archived formalin-fixed, paraffin-embedded tumours from patients treated with atezolizumab monotherapy. Structural modelling, functional assays, and tumour analyses were used to assess the mechanistic and clinical relevance of defined glycoforms. We identified poly-N-acetyllactosamine (poly-LacNAc) elongation at Asn200 of PD-L1 as a glycoform feature associated with reduced atezolizumab binding. Structural modelling indicated that extended N200 glycans can approach and partially occlude the antibody-binding interface, supporting a steric basis for impaired binding. Clinically, PD-L1 immunohistochemistry alone had limited value for progression-free survival stratification, whereas stratification based on PD-L1-associated poly-LacNAc revealed significant outcome differences. Patients with poly-LacNAc-positive PD-L1 had markedly shorter progression-free survival than those without this feature. Site-specific PD-L1 glycosylation determines therapeutic antibody binding and represents a clinically relevant layer of immune checkpoint regulation in lung cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.03
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.20.768132v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.20.768132v1?rss=1",
+  "title": "APOBEC3 Activation Drives Epitranscriptomic Remodeling and Clonal Hematopoiesis",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768132v1?rss=1",
+  "abstract": "Stress and inflammatory cytokine-inducible APOBEC3 (A3) enzymes promote clonal evolution in many malignancies. We identified A3C overexpression in hematopoietic stem and progenitor cells (HSPCs) following spaceflight-associated accelerated aging and in precancer myeloproliferative neoplasms (MPNs). However, the role of A3 in age-associated clonal hematopoiesis (CH) and precancer initiation remains unclear. To investigate the functional hierarchy among A3 enzymes, we performed lentiviral A3B, A3C, A3D, A3F, and A3G overexpression, whole genome, whole transcriptome and single-cell RNA sequencing analyses, and functional HSPC assays. While A3C and A3F induced more C-to-T DNA mutations; A3B, A3C, and A3G deregulated RNA splicing; and all A3 enzymes induced C-to-U RNA edits in HSPCs. In aged HSPCs, A3C overexpression enhanced replating and myeloid lineage skewing in humanized inflammatory niche mouse models typical of CH. Moreover, A3C-induced editing of CH-associated transcripts distinguished MPN from normal HSPCs. Thus, future strategies focused on APOBEC3C inhibition may prevent CH and precancer initiation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-23T00:00:00+00:00",
+  "type": "",
+  "score": 1.03
  }
 }
