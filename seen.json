@@ -19818,5 +19818,75 @@
   "date": "2026-11-24T00:00:00+00:00",
   "type": "Article",
   "score": 1.01
+ },
+ "https://www.nature.com/articles/s41392-026-03092-7": {
+  "guid": "https://www.nature.com/articles/s41392-026-03092-7",
+  "title": "Toxicity risk in head and neck proton therapy: integrating physics, biology, and genomics",
+  "link": "https://www.nature.com/articles/s41392-026-03092-7",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 0.77
+ },
+ "https://www.nature.com/articles/s41598-026-81350-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-81350-y",
+  "title": "Cross-cohort analysis of a platelet-related composite transcriptional state in colorectal cancer supports a PLEK-associated myeloid tissue context",
+  "link": "https://www.nature.com/articles/s41598-026-81350-y",
+  "abstract": "Platelet-associated transcripts detected in colorectal cancer (CRC) tissue may derive from platelets, residual blood, ambient RNA, or non-platelet cells. We deconstructed a 13-gene platelet-related state into a 10-gene identity/adhesion component and a PF4/PPBP/PLEK axis. Associations were examined across five GEO cohorts and contextualized using TCGA-COAD/READ, a CRC single-cell atlas, and a seven-patient spatial dataset. No clear overall-survival association was demonstrated for the 13-gene state (1044 patients; hazard ratio 1.006, modified Hartung-Knapp 95% CI 0.874\u20131.159); modest effects remain compatible with this interval. The three-gene axis correlated with an inferred myeloid/neutrophil-related co-expression module (1055 patients; pooled Spearman rho\u2009=\u20090.400, modified Hartung-Knapp 95% confidence interval 0.230\u20130.546), but contributions were unequal. PLEK, broadly myeloid-expressed, carried the largest association; PPBP was weaker and PF4 showed no clear association. Excluding MNDA minimally changed the pooled PLEK correlation, although heterogeneity remained high. TCGA and single-cell patterns were consistent with a broad myeloid contribution but did not establish cellular origin. Sparse PPBP/PF4 detection, unavailable empty-droplet profiles, and weak, heterogeneous spatial associations limited source and mechanistic inference. Cell-named bulk scores therefore require component-level cellular-context assessment before being interpreted as cell abundance or biological identity.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.76
+ },
+ "https://www.nature.com/articles/s41746-026-03476-7": {
+  "guid": "https://www.nature.com/articles/s41746-026-03476-7",
+  "title": "Multimodal AI-enabled repurposing and prioritization of ferroptosis-targeting drug combinations in pancreatic ductal adenocarcinoma",
+  "link": "https://www.nature.com/articles/s41746-026-03476-7",
+  "abstract": "Pancreatic ductal adenocarcinoma (PDAC) lacks scalable and mechanism-informed computational strategies for prioritizing repurposable drug combinations. Here, we developed FeNetDP, a multimodal AI-guided framework that integrates transcriptomic, proteomic, single-cell, spatial, and clinical survival data to enable biologically grounded drug repurposing and combination prioritization in PDAC. FeNetDP combines gene-level network proximity analysis with a biologically constrained neural ranking model to identify candidate compounds and drug pairs linked to a disease-relevant ferroptosis suppressor program. Using this framework, we defined an eight-gene ferroptosis suppressor module enriched in ductal cells and associated with poor prognosis, and prioritized candidate repurposable compounds and combinations targeting this network state. Prospective experimental validation identified panobinostat plus sorafenib as a synergistic combination that suppresses tumor growth and promotes ferroptosis in vitro and in vivo. Mechanistically, the combination impaired ferroptosis resistance through coordinated disruption of glutathione-dependent antioxidant defense and AIFM2 (FSP1)-associated glutathione-independent protection. Together, these findings establish FeNetDP as a multimodal and experimentally grounded framework for computational repurposing and mechanism-informed therapeutic prioritization in cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.8
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.21.768289v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.21.768289v1?rss=1",
+  "title": "Glycogen fuels and spatially regulates nucleotide biosynthesis in cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.768289v1?rss=1",
+  "abstract": "Cancer cells must coordinate metabolic substrate availability with the organization of biosynthetic pathways to sustain proliferation. Glycogen accumulates in many cancers, but its function extends beyond glucose storage. Here, we show that glycogen regulates nucleotide biosynthesis through distinct metabolic and spatial mechanisms. Disrupting glycogenolysis impairs tumor growth and mitochondrial pyruvate oxidation, compromises NADPH homeostasis, and selectively reduces glutamine utilization for reductive biosynthesis. Cytoplasmic and lysosomal glycogenolysis produce different defects in nucleotide precursor metabolism and distinct dependencies on biosynthetic enzymes. By contrast, disrupting glycogen synthesis creates a selective vulnerability to depletion of CAD, the multifunctional enzyme rate limiting for pyrimidine biosynthesis. Pyrimidine intermediates associate with glycogen particles, while glycogen availability influences their spatial distribution and the organization of the pyrimidine biosynthetic enzyme UMP synthase. Together, these findings identify glycogen as a source of biosynthetic substrates and a regulator of nucleotide metabolic organization, linking carbon storage and mobilization to cancer cell proliferation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 1.36
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.21.766272v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.21.766272v1?rss=1",
+  "title": "Androgen Receptor and ACSL4 Interplay as Therapeutic Targets in Breast Cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.766272v1?rss=1",
+  "abstract": "High Acyl-CoA synthetase 4 (ACSL4) expression is implicated in the development and progression of aggressive tumors, poor prognosis, and unfavorable clinical outcomes, as observed in triple-negative breast cancer (TNBC). The androgen receptor (AR) has emerged as a therapeutic target in AR-positive TNBCs, while treatment options are even more limited for quadruple-negative breast cancer (QNBC), the AR-negative TNBC subtype. This study investigates the reciprocal regulation between AR and ACSL4 and evaluates their potential as therapeutic targets in breast cancer. Analysis of patient datasets and expression profiling in human breast cancer cells revealed an inverse correlation between ACSL4 and AR expression. We show that ectopic AR expression decreases ACSL4 promoter activity, mRNA, and protein levels, whereas AR inhibition increases ACSL4 expression in breast cancer cells. We demonstrate that AR acts as a repressor by binding to an androgen response element on the ACSL4 promoter. Moreover, ectopic ACSL4 expression decreased AR levels, while pharmacological ACSL4 inhibition or silencing increased AR expression, supporting a negative regulatory loop. To investigate whether ACSL4 inhibition sensitizes QNBC cells to antiandrogen treatment, PRGL493 and bicalutamide (ACSL4 and AR inhibitors, respectively) were combined, producing synergistic inhibitory effects on cell proliferation, migration, and invasion. This combination also showed strong suppressive effects in cancer cell extravasation, a key step in the process of cancer metastasis, using a zebrafish xenotransplantation model. These findings show that ACSL4 inhibition sensitizes QNBC cells to antiandrogen therapy due to reciprocal negative regulation between ACSL4 and AR, providing a novel promising strategy for aggressive breast cancer subtypes.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 0.97
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.20.768122v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.20.768122v1?rss=1",
+  "title": "A hidden mitotic vulnerability emerges from BCAT1 redox-motif disruption in Ewing sarcoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768122v1?rss=1",
+  "abstract": "Cancer cells must keep oxidative stress and chromosome-segregation errors within tolerable limits to sustain rapid proliferation. Because redox homeostasis supports faithful chromosome segregation, disrupting redox-dependent mitotic safeguards could drive chromosomal instability (CIN) beyond cell tolerance and suppress tumor growth. Here, we investigated whether selectively disrupting redox-dependent safeguards could uncouple oxidative-stress adaptation from faithful chromosome segregation, exposing a therapeutic vulnerability at the interface of metabolic regulation and genome maintenance. We used Ewing sarcoma (EwS) as a model because it combines low genomic complexity with elevated oxidative stress and limited redox-buffering capacity. A survival analysis of cell-cycle-associated genes prioritized branched-chain amino acid transaminase 1 (BCAT1), whose high expression was associated with adverse outcomes in both primary and relapsed EwS. Functional genomics analyses revealed that BCAT1 is transcriptionally regulated by the EwS-specific EWSR1::FLI1 fusion oncoprotein through a distal enhancer-like GGAA microsatellite. Using prime-edited endogenous alleles and isogenic cell models, we found that disrupting BCAT1 redox-active CXXC motif increased sensitivity to oxidative stress and impaired recovery from it. Motif disruption also caused chromosome-segregation defects and DNA damage, reduced three-dimensional growth, and suppressed tumor formation and metastasis in vivo. By contrast, catalytic inactivation had limited effects. Although acute BCAT1 protein depletion reduced proliferation and tumor formation, constitutive BCAT1 knockout cells remained viable in culture and reduced tumor formation less than motif disruption. Mechanistically, CXXC motif disruption reduced casein kinase 2 (CK2) activity and increased Aurora kinase B (AURKB) activity, whereas BCAT1 degradation left CK2 activity unchanged and reduced AURKB activity. The enhanced sensitivity of CXXC-mutant cells to AURKB inhibition suggests a therapeutic vulnerability that could be exploited in BCAT1-wild-type EwS cells through combined CK2 and AURKB inhibition with silmitasertib and barasertib, increasing maximal growth inhibition and lowering the barasertib concentration required to suppress proliferation. Collectively, these findings reveal a mitotic vulnerability associated with BCAT1 redox-motif disruption that is not fully reproduced by protein loss and can be therapeutically exploited using clinically evaluated CK2 and AURKB inhibitors.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 1.73
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.19.767767v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.19.767767v1?rss=1",
+  "title": "CIP2A is a biomarker for progression and poor prognosis in cutaneous squamous cell carcinoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.19.767767v1?rss=1",
+  "abstract": "The incidence of cutaneous squamous cell carcinoma (cSCC) is rising worldwide, highlighting the need for novel therapeutic options for recurrent and metastatic disease. Protein phosphatase 2A (PP2A) is a keyt tumor suppressor, and its inhibition promotes malignant progression. Here, we investigated the role of the cancerous inhibitor of PP2A (CIP2A) in cSCC progression. RNA-sequencing, oligonucleotide array-based expression, and qRT-PCR analysis demonstrated elevated CIP2A mRNA levels in cSCC cells compared with normal human epidermal keratinocytes (NHEKs). Western blotting confirmed higher CIP2A protein production in cSCC cells than in NHEKs. Analysis of single-cell RNA-sequencing data from cSCC showed CIP2A expression in epithelial cells and fibroblasts. Silencing CIP2A with specific siRNAs reduced cSCC cell growth and viability by inhibiting MEK1 and ERK1/2 phosphorylation. In vivo, strong CIP2A immunostaining was observed in tumor cells of primary cSCCs and cSCC metastases, whereas staining was absent or weak in all actinic keratoses and most cSCC in situ samples. Kaplan-Meier analysis revealed that patients with high CIP2A expression had significantly worse disease-specific survival than those with low expression. These findings identify CIP2A as a clinically relevant oncogene in cSCC progression, with elevated expression in invasive primary tumors and metastases. CIP2A may serve as a biomarker of cSCC progression and metastasis, as well as a potential therapeutic target in advanced and metastatic cSCC.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 1.33
  }
 }
