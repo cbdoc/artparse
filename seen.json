@@ -20008,5 +20008,555 @@
   "date": "2026-11-25T00:00:00+00:00",
   "type": "",
   "score": 0.92
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01323-1?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01323-1?rss=yes",
+  "title": "A pincer attack to take down cancer",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01323-1?rss=yes",
+  "abstract": "In this issue of Cell, Qiang et al. explore a new combination therapy that attacks pancreatic cancer from two angles. The therapy uses a KRAS inhibitor to target cancer cells, along with an AI-designed interleukin-21 mimetic to amplify an antitumor immune response mediated by effector CD4 T cells.",
+  "source": "Cell",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Preview",
+  "score": 1.77
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01335-8?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01335-8?rss=yes",
+  "title": "Revisiting the chemical alphabet of nucleic acids",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01335-8?rss=yes",
+  "abstract": "Nearly two decades after the discovery of natural phosphorothioates in bacterial DNA, Maman et al. now demonstrate their existence in archaeal RNA. By identifying the responsible writer enzymes and revealing a role in tRNA stabilization, they establish phosphorothioation as a biologically relevant RNA modification. This discovery invites us to reconsider the traditional boundaries between the chemical alphabets of DNA and RNA.",
+  "source": "Cell",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Preview",
+  "score": 0.81
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01127-X?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01127-X?rss=yes",
+  "title": "You can\u2019t always get where you want: Selective protein entry into the brain",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01127-X?rss=yes",
+  "abstract": "Brain health depends on the blood-brain barrier blocking neurotoxins while allowing essential proteins to pass, but which proteins cross this barrier remains poorly understood. In this issue of Cell, Zhou and colleagues define the brain plasma proteome and show that protein transport selectively changes in neurodegeneration.",
+  "source": "Cell",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Preview",
+  "score": 1.32
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01206-7?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01206-7?rss=yes",
+  "title": "In vivo genome-editing therapy for Duchenne muscular dystrophy: Preclinical studies and first-in-human trial",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01206-7?rss=yes",
+  "abstract": "A single-dose AAV-CRISPR therapy restores dystrophin in humanized DMD mice and achieves durable editing with manageable safety in non-human primates. In a first-in-human DMD trial, the therapy yields molecular evidence of muscle editing but reveals a fatal dose-dependent immune complication, highlighting the urgent need to expand the safety margin of systemic AAV-CRISPR treatments.",
+  "source": "Cell",
+  "date": "2026-10-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.83
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01339-5?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01339-5?rss=yes",
+  "title": "Myelin pathology is a key feature of X-linked dystonia-parkinsonism",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01339-5?rss=yes",
+  "abstract": "A humanized mouse model of X-linked dystonia-parkinsonism reveals widespread loss of myelin-forming oligodendrocytes, a pathology also seen in patient brains that points to a contributor to this movement disorder.",
+  "source": "Cell",
+  "date": "2026-11-19T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.22
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00926-8?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00926-8?rss=yes",
+  "title": "Genome writing reveals SVA retrotransposon consequences in X-linked dystonia-parkinsonism",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00926-8?rss=yes",
+  "abstract": "Genomic conditional humanization of the mouse Taf1 locus with an XDP patient-derived allele recapitulates key molecular and neuropathological features of XDP, revealing that intronic SVA transcription impairs TAF1 expression and drives striatal degeneration. CRISPRa-mediated Taf1 activation suggests a potential therapeutic strategy.",
+  "source": "Cell",
+  "date": "2026-11-19T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.7
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01069-X?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01069-X?rss=yes",
+  "title": "A pericyte-to-myofibroblast transition links APOE4 to cerebrovascular degeneration",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01069-X?rss=yes",
+  "abstract": "APOE4 causes a pericyte-to-myofibroblast transition that promotes cerebrovascular fibrosis and perivascular amyloid accumulation. TGF-\u03b2 inhibition reverses this pathological remodeling and thus presents a therapeutic strategy to restore cerebrovascular homeostasis in these high-risk individuals.",
+  "source": "Cell",
+  "date": "2026-09-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.73
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01326-7?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01326-7?rss=yes",
+  "title": "The blood-brain barrier imports diverse neuroprotective proteins through pathways impaired early in Alzheimer\u2019s disease models",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01326-7?rss=yes",
+  "abstract": "Bioorthogonal proteomics reveals that the blood-brain barrier (BBB) imports diverse plasma proteins to specific brain cell types through receptor-mediated transport, a process dysregulated early in an Alzheimer\u2019s model. Restoring one diminished protein, liver-derived apolipoprotein A1, rescues Alzheimer\u2019s glial and neuronal dysfunction, recasting the BBB as an interface recruiting peripheral signals for brain health.",
+  "source": "Cell",
+  "date": "2026-11-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.0
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01199-2?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01199-2?rss=yes",
+  "title": "Contrasting demographic impacts of Roman colonization and early medieval migrations in the Iberian Peninsula",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01199-2?rss=yes",
+  "abstract": "Roman and post-Roman Iberia was transformed by extensive mobility across the Mediterranean, with large-scale inputs from Eastern Mediterranean and North African populations reshaping its genetic landscape. During the migration period, Central-Northern European ancestry arrived largely through elite-associated groups that intermarried with local populations but did not replace the highly diverse population that had formed under Roman rule.",
+  "source": "Cell",
+  "date": "2026-10-21T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.06
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01007-X?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01007-X?rss=yes",
+  "title": "Phosphate backbone epitranscriptomics: Discovery of natural RNA phosphorothioates and their writer machinery",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01007-X?rss=yes",
+  "abstract": "Phosphorothioates, stereospecific modifications of the RNA phosphate backbone in anaerobic archaea, expand the epitranscriptome beyond nucleobases and ribose sugars. Installed by Esti enzymes at conserved rRNA and tRNA hotspots, these environmentally responsive marks stabilize tRNAs and support growth at high temperatures.",
+  "source": "Cell",
+  "date": "2026-09-17T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.94
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01014-7?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01014-7?rss=yes",
+  "title": "Chloroplasts balance energy production and stress resilience via a cold-induced signaling pathway",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01014-7?rss=yes",
+  "abstract": "Cold-stress signals are transmitted to chloroplasts and subsequently trigger cold responses through an RAF-like bi-kinase module where cytoplasmic RAF3 and plasma membrane RAF6 translocate to chloroplasts, where they inhibit photosynthetic activity but activate nuclear cold-responsive gene expression.",
+  "source": "Cell",
+  "date": "2026-09-18T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.24
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01062-7?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01062-7?rss=yes",
+  "title": "Shifts in embryonic oxygen levels cue heterochrony in limb initiation",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01062-7?rss=yes",
+  "abstract": "Mammalian embryos see a substantial increase in available oxygen once the placenta forms. This increase in oxygen exposure serves as a trigger for initiating the development of the hindlimb, thus controlling developmental timing and, more broadly, linking the maternal environment to evolutionary changes in body plan.",
+  "source": "Cell",
+  "date": "2026-09-24T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.1
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01255-9?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01255-9?rss=yes",
+  "title": "TECR palmitoylation triggers a necrotic cell death program driving acute liver injury",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01255-9?rss=yes",
+  "abstract": "We identify a TECR palmitoylation-dependent necrotic cell death (TPNCD) pathway. Blocking TPNCD genetically or pharmacologically protects against immune- and drug-induced liver injury, revealing a therapeutic strategy for hepatic injury.",
+  "source": "Cell",
+  "date": "2026-11-02T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.82
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01018-4?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01018-4?rss=yes",
+  "title": "CD4 T cells convert transient responses to KRAS inhibition to durable remissions in pancreatic cancer",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01018-4?rss=yes",
+  "abstract": "An AI-designed IL-21 mimetic converts transient KRAS inhibitor responses into durable pancreatic cancer remissions through CD4 T cells, independent of CD8 T cells and tumor MHC class I expression.",
+  "source": "Cell",
+  "date": "2026-09-23T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.65
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00996-7?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00996-7?rss=yes",
+  "title": "Mitochondrial ATP promotes T cell differentiation through chromatin accessibility",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00996-7?rss=yes",
+  "abstract": "Cell-mediated immunity requires cytotoxic CD8+ T cells that adopt and maintain an effector phenotype. Here, D-\u03b1-hydroxybutyrate (DAHB) is shown to act as a metabolic adjuvant, driving the conversion of proliferating CD8+ T cells into cytotoxic effector cells by linking mitochondrial ATP production to chromatin remodeling and gene expression.",
+  "source": "Cell",
+  "date": "2026-09-11T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.29
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)00938-4?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)00938-4?rss=yes",
+  "title": "Oxygen-responsive bacterial glycosphingolipid links symbiont fitness and immune development in neonatal host",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)00938-4?rss=yes",
+  "abstract": "How do maternal gut bacteria seed the rapidly developing neonatal gut? Heo et al. show that Bacteroides fragilis produces a distinct membrane lipid that enables this strict anaerobe to tolerate a microaerobic environment. This finding highlights divergent evolutionary strategies among related species, most of which rely on lipids conferring broader fitness.",
+  "source": "Cell",
+  "date": "2026-09-01T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.22
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01004-4?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01004-4?rss=yes",
+  "title": "Programmed ribosomal frameshifting triggers translational stress to promote viral replication",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01004-4?rss=yes",
+  "abstract": "Viruses such as SARS-CoV-2 can use programmed ribosomal frameshifting to turn off host translation and promote viral replication, expanding the known uses of programmed ribosomal frameshifting by viruses.",
+  "source": "Cell",
+  "date": "2026-09-15T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.62
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01065-2?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01065-2?rss=yes",
+  "title": "Single-cell visual proteomics of a minimal bacterium reveals structural coordination of gene expression machineries",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01065-2?rss=yes",
+  "abstract": "Cryo-electron tomography (cryo-ET) resolves and quantifies an almost complete view of bacterial translation, revealing how gene expression machineries coordinate across the processes of transcription, translation, and membrane engagement directly within a minimal bacterium.",
+  "source": "Cell",
+  "date": "2026-09-25T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.43
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01066-4?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01066-4?rss=yes",
+  "title": "In-cell discovery and characterization of a non-canonical bacterial protein translocation-folding complex",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01066-4?rss=yes",
+  "abstract": "In-cell cryo-electron tomography (cryo-ET) combined with proteomics, integrative structural modeling, and bioinformatics enables discovery and functional annotation of uncharacterized proteins. In the minimal bacterium Mycoplasma pneumoniae, this reveals a complex that links Sec-based protein translocation and extracellular folding, capable of supporting both co- and post-translational pathways.",
+  "source": "Cell",
+  "date": "2026-09-25T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.54
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01009-3?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01009-3?rss=yes",
+  "title": "Single-cell-resolved genome atlas of prokaryoplankton inhabiting the ocean\u2019s interior",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01009-3?rss=yes",
+  "abstract": "GORG-Dark presents genomes of 9,698 individual bacterial and archaeal cells from the ocean\u2019s sunless interior. The atlas resolves depth stratification to abyssal waters, uncovers particle-attached Pelagibacterales, maps chemolithoautotrophy and biosynthetic gene clusters, and identifies a rhodopsin clade specific to the dark ocean.",
+  "source": "Cell",
+  "date": "2026-09-15T00:00:00+00:00",
+  "type": "Resource",
+  "score": 0.03
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01263-8?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01263-8?rss=yes",
+  "title": "Structural basis of a SWI/SNF-associated transcription pre-initiation complex",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01263-8?rss=yes",
+  "abstract": "(Cell 189, 1\u201318.e1\u2013e13; October 29, 2026)",
+  "source": "Cell",
+  "date": "2026-10-19T00:00:00+00:00",
+  "type": "Correction",
+  "score": 1.14
+ },
+ "https://www.cell.com/cell/fulltext/S0092-8674(26)01266-3?rss=yes": {
+  "guid": "https://www.cell.com/cell/fulltext/S0092-8674(26)01266-3?rss=yes",
+  "title": "Promoter of lncRNA Gene PVT1 Is a Tumor-Suppressor DNA Boundary Element",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(26)01266-3?rss=yes",
+  "abstract": "(Cell 173, 1398\u20131412.e1\u2013e10; May 31, 2018)",
+  "source": "Cell",
+  "date": "2026-10-21T00:00:00+00:00",
+  "type": "Correction",
+  "score": 0.77
+ },
+ "https://www.nature.com/articles/s41568-026-01006-x": {
+  "guid": "https://www.nature.com/articles/s41568-026-01006-x",
+  "title": "I like the way you MoVe",
+  "link": "https://www.nature.com/articles/s41568-026-01006-x",
+  "abstract": "Tsering et al. identify a previously undocumented population of large extracellular vesicles (2\u20135 \u03bcm), which they term motile vesicles (MoVes), that are actively emitted during cancer cell migration and contain genomic DNA.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 0.85
+ },
+ "https://www.nature.com/articles/s41568-026-01007-w": {
+  "guid": "https://www.nature.com/articles/s41568-026-01007-w",
+  "title": "Early-onset colorectal cancer differences",
+  "link": "https://www.nature.com/articles/s41568-026-01007-w",
+  "abstract": "Porter et al. establish a single-nucleus RNA sequencing atlas from 189 primary colorectal tumours from across 8 decades of life to begin to address the possible biological divergence between early-onset colorectal cancers and average-onset colorectal cancers.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 0.77
+ },
+ "https://www.nature.com/articles/s41568-026-01002-1": {
+  "guid": "https://www.nature.com/articles/s41568-026-01002-1",
+  "title": "Spiny mice as a model for uncovering tumour-resistance mechanisms",
+  "link": "https://www.nature.com/articles/s41568-026-01002-1",
+  "abstract": "Spiny mice (Acomys spp.) have emerged as a robust mammalian model of enhanced regeneration with a markedly low incidence of cancer, challenging conventional assumptions that enhanced proliferation increases cancer risk. This rodent model provides a unique experimental system for investigating how regeneration, tissue repair and tumour suppression mechanisms have co-evolved. Spiny mice have emerged as a mammalian model of enhanced regeneration with a remarkably low incidence of cancer, challenging the conventional view that increased proliferation necessarily elevates cancer risk. In this Comment, Tiscornia, Seifert and Link highlight the utility of this model for investigating how regeneration, tissue repair and tumour-suppression mechanisms have co-evolved.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Comment",
+  "score": 0.78
+ },
+ "https://www.nature.com/articles/s41392-026-03100-w": {
+  "guid": "https://www.nature.com/articles/s41392-026-03100-w",
+  "title": "Beyond immune infiltration: spatial immune landscapes for precision immunotherapy in brain metastases",
+  "link": "https://www.nature.com/articles/s41392-026-03100-w",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Research Highlight",
+  "score": 1.84
+ },
+ "https://www.nature.com/articles/s41467-026-79655-7": {
+  "guid": "https://www.nature.com/articles/s41467-026-79655-7",
+  "title": "Targeting chemotherapy-induced CD200 via a nucleoside-enhanced nanocarrier for cancer immunochemotherapy",
+  "link": "https://www.nature.com/articles/s41467-026-79655-7",
+  "abstract": "Immune checkpoint blockade has transformed cancer therapy, yet its efficacy is frequently undermined by an immunosuppressive tumor microenvironment. In addition, the immune-related toxicities restrict combination therapy targeting several immune checkpoints. Here, we identify chemotherapy-induced CD200 upregulation as a stress-adaptive resistance mechanism that reinforces tumor immune evasion under treatment pressure. Leveraging a tumor-restricted, nucleoside-enhanced nanocarrier, we achieve spatially selective silencing of tumor-intrinsic CD200, thereby reprogramming the tumor immune microenvironment, enhancing antitumor efficacy, and enabling effective combination with PD-1 blockade. Importantly, this strategy minimizes the colitis exacerbation associated with systemic CD200/PD-1 dual blockade in a DSS-induced susceptibility model, suggesting its potential to preserve immune homeostasis while reducing immune-related toxicity. Together, our findings establish CD200 as a context-dependent immune resistance node and demonstrate a nanotechnology-based framework for precise and safe immune checkpoint modulation. The efficacy of immune checkpoint blockade therapy is limited by the immunosuppressive tumor microenvironment (TME). Here this group identifies the chemotherapy-induced CD200 upregulation as a resistance mechanism then develops a nanotechnology-based framework for spatially selective CD200 silencing, thereby reprogramming TME and enhancing antitumor efficacy.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.69
+ },
+ "https://www.nature.com/articles/s41388-026-04050-x": {
+  "guid": "https://www.nature.com/articles/s41388-026-04050-x",
+  "title": "NNMT/EBF1 axis in cancer-associated fibroblasts drives CCL2/CCR2-mediated M2 polarization of macrophages to promote HNSCC progression",
+  "link": "https://www.nature.com/articles/s41388-026-04050-x",
+  "abstract": "Cancer-associated fibroblasts (CAFs) are abundant in the tumor microenvironment of head and neck squamous cell carcinoma (HNSCC) and exert pivotal pro-tumorigenic functions, including extracellular matrix remodeling, angiogenesis, and immunosuppression. In this study, we investigated the molecular mechanisms by which CAFs orchestrate the recruitment and functional polarization of tumor-associated macrophages (TAMs) to drive HNSCC progression. Nicotinamide N-methyltransferase (NNMT), a key regulator of CAFs, exhibited a markedly positive correlation with CD163+ macrophage infiltration in human HNSCC tissues. Functional validation demonstrated that NNMT mediated CAF-driven recruitment and M2 polarization of TAMs in HNSCC in vitro and in vivo. Mechanistically, NNMT upregulated CCL2 secretion in CAFs, facilitating CCR2-dependent TAM recruitment and M2 polarization in HNSCC. Moreover, NNMT activated the PI3K/Akt pathway, leading to upregulation of the EBF transcription factor 1 (EBF1), which directly regulates CCL2 transcription in CAFs. Furthermore, the combination of NNMT inhibitors and anti-PD-1 antibodies synergistically suppressed tumor growth and modulated anti-tumor immunity in a syngeneic mouse model. In conclusion, these findings reveal that the NNMT/PI3K/Akt/EBF1 signaling axis contributes to CAF-mediated TAM recruitment and M2 polarization in HNSCC through the CCL2/CCR2 axis. Our study sheds new light on CAF-macrophage crosstalk in HNSCC and provides potential therapeutic strategies for patients. Background/Aims: Cancer-associated fibroblasts (CAFs) are abundant in head and neck squamous cell carcinoma (HNSCC) and exert pivotal pro-tumorigenic functions. Understanding how CAFs regulate tumor immunity may lead to new immunotherapies for HNSCC. Methods: First, we determined the correlation between nicotinamide N-methyltransferase (NNMT) and M2 macrophage infiltration in HNSCC tissues using public transcriptomic databases. Next, we investigated how NNMT mediates CAF-driven recruitment and polarization of macrophages using cell experiments and mouse models. Finally, we evaluated the therapeutic efficacy of combining an NNMT inhibitor with anti-PD-1 antibodies in tumor-bearing mice. Results: NNMT positively correlated with M2 macrophage infiltration in HNSCC tissues and drove CAF-mediated recruitment and M2 polarization of macrophages via the CCL2/CCR2 axis. The combination of an NNMT inhibitor with anti-PD-1 antibodies significantly suppressed tumor growth and improved anti-tumor immunity in mice. Conclusions: Our study provides novel insights into the mechanisms underlying CAF-macrophage crosstalk in HNSCC and offers potential therapeutic strategies for patients.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.68
+ },
+ "https://www.nature.com/articles/s41598-026-81482-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-81482-1",
+  "title": "Ultrasound radiomics-based prediction of central lymph node metastasis in papillary thyroid carcinoma coexistent with Hashimoto\u2019s thyroiditis",
+  "link": "https://www.nature.com/articles/s41598-026-81482-1",
+  "abstract": "To evaluate the clinical value of a machine learning model integrating ultrasound radiomics and clinical features for the preoperative prediction of central lymph node metastasis (CLNM) in patients with papillary thyroid carcinoma (PTC) coexistent with Hashimoto\u2019s thyroiditis (HT). This retrospective study included 324 patients with pathologically confirmed PTC in the context of HT at the Affiliated People\u2019s Hospital of Jiangsu University between October 2010 and December 2025. Patients were randomly assigned to a training set (n\u2009=\u2009226) and an internal validation set (n\u2009=\u200998) at a 7:3 ratio. Independent predictors of CLNM were screened using univariate and multivariate logistic regression analyses. Ultrasound Radiomics features were extracted and selected. Three classifiers\u2014logistic regression (LR), support vector machine (SVM), and random forest (RF)\u2014were constructed and compared. Based on performance, the LR model was selected to compute the Radiomics score (Rad-score). A combined model was then developed by integrating the Rad-score with independent clinical predictors and was visualized via a nomogram. The predictive performance was evaluated using receiver operating characteristic (ROC) curves, calibration curves, and decision curve analysis (DCA). Age and maximum nodule diameter were identified as independent predictors of CLNM (P\u2009&lt;\u20090.05). In the internal validation set, the combined model achieved an area under the ROC curve (AUC) of 0.817, which was significantly higher than that of the clinical model (AUC\u2009=\u20090.708; DeLong P\u2009=\u20090.017) and numerically higher than that of the radiomics model (AUC\u2009=\u20090.793; DeLong P\u2009=\u20090.324). Calibration curves and DCA showed that the combined model possessed good calibration consistency and clinical net benefit. A machine learning model combining ultrasound radiomics and clinical features showed potential for preoperative risk stratification of CLNM in patients with PTC coexistent with HT, pending external validation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.43
+ },
+ "https://www.nature.com/articles/s44386-026-00099-6": {
+  "guid": "https://www.nature.com/articles/s44386-026-00099-6",
+  "title": "Therapeutic antibodies targeting PD-1 or PD-L1 impact the circulation time of soluble checkpoint receptor/ligand targets",
+  "link": "https://www.nature.com/articles/s44386-026-00099-6",
+  "abstract": "Using OLINK PEA and Meso Scale Discovery, MSD, we quantified soluble PD-1 (sPD-1) and PD-L1 (sPD-L1) in lung cancer patients receiving pembrolizumab, nivolumab or&nbsp;atezolizumab monotherapy. Elevated sPD-1 and sPD-L1 levels were significantly therapy-dependent; pembrolizumab and nivolumab increased sPD-1, while atezolizumab increased sPD-L1. Thus, elevated levels may reflect therapeutic antibody-mediated half-life extension via antibody-soluble target complex formation, rather than solely biologically induced target shedding or production.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Brief Communication",
+  "score": 1.83
+ },
+ "https://www.nature.com/articles/s41598-026-75041-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-75041-x",
+  "title": "A two-level deep learning framework for brain tumor classification from multimodal MRI images using modified SegNet and hybrid pattern-shape features",
+  "link": "https://www.nature.com/articles/s41598-026-75041-x",
+  "abstract": "Deep Learning (DL)-based automatic analysis can support accurate and efficient medical image interpretation, thereby providing valuable assistance to healthcare professionals. Brain tumor classification from magnetic resonance imaging (MRI) is challenging due to variations in tumor appearance, noise, and the complementary information contained in different MRI modalities. To address this challenge, a novel Two-Level CNN-BiLSTM-ILinkNet (2&nbsp;L-CBILNet) framework is proposed for automated brain tumor classification. The framework consists of preprocessing, segmentation, feature extraction, and two-level classification. Multimodal MRI images are fused using Modified PCA-based Image Modality Fusion and processed using Wiener filtering. The filtered images are segmented using the GM-mSegNet model, followed by extraction of MBP, shape, and ILTP features. A CNN-BiLSTM model performs Level 1 normal/abnormal classification, while ILinkNet performs Level 2 tumor classification. Experimental results show that the proposed model achieves 0.961 accuracy, 0.963 sensitivity, 0.980 specificity, 0.973 precision, and 0.957&nbsp;F-measure. The proposed GM-mSegNet also achieves a Dice coefficient of 0.929 and Jaccard coefficient of 0.910, demonstrating its effectiveness for brain tumor classification and segmentation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.68
+ },
+ "https://www.nature.com/articles/s41598-026-81228-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-81228-z",
+  "title": "Safety, accuracy, empathy, and readability of four large language models answering esophageal cancer radiotherapy adverse-effect questions: a comparative study",
+  "link": "https://www.nature.com/articles/s41598-026-81228-z",
+  "abstract": "Patients receiving radiotherapy for esophageal cancer may consult large language model chatbots about treatment-related adverse effects, but the safety of their advice is uncertain. We submitted 42 researcher-developed, patient-oriented questions once each to ChatGPT, Gemini, DeepSeek, and Doubao through public web interfaces, obtaining 168 responses. Five blinded expert raters assessed potential harm, accuracy, and perceived empathic communication; information quality, visible source transparency, and formula-based readability were also evaluated. Twenty-one responses (12.5%) were classified as potentially unsafe; six could delay clinical assessment and ten involved potentially harmful self-management advice. Unsafe-response proportions ranged from 7.1% to 16.7% across models, with no statistically significant overall difference (Cochran\u2019s Q\u2009=\u20091.981, P\u2009=\u20090.576). Median accuracy and expert-rated perceived empathic communication scores were 4 and 3 (on five-point scales) for every model. Between-model differences were statistically significant but small (accuracy: P\u2009=\u20090.001, Kendall\u2019s W\u2009=\u20090.126; perceived empathic communication: P\u2009&lt;\u20090.001, W\u2009=\u20090.149). Visible source-transparency indicators were limited, and formula-estimated readability differed across models. These single-query findings indicate that favorable accuracy ratings do not preclude potentially unsafe advice and cannot establish stable model rankings, patient comprehension, or clinical outcomes.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.92
+ },
+ "https://www.nature.com/articles/s41598-026-80969-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-80969-1",
+  "title": "Apigenin-functionalized Fe3O4@SP nanocomposites modulate the expression of P53/miR-34a, miR-181a and their potential targets in AGS gastric cancer cells: in vitro analysis with docking insights",
+  "link": "https://www.nature.com/articles/s41598-026-80969-1",
+  "abstract": "Apigenin (4\u2032,5,7-trihydroxy-flavone) is a naturally occurring dietary flavonoid with promising anticancer activity; however, its poor aqueous solubility and low bioavailability substantially limit its therapeutic application. To address these challenges, we developed Apigenin- silyl propyl chloride functionalized iron oxide nanocomposites (Fe3O4@SP@Apigenin Nanocomposites) and evaluated their physicochemical characteristics and anticancer properties against AGS human gastric adenocarcinoma cells. Fe3O4 nanoparticles were synthesized by co-precipitation, coated with silica, and subsequently conjugated with apigenin. Comprehensive characterization using Fourier-transform infrared spectroscopy (FTIR), thermogravimetric analysis (TGA), vibrating-sample magnetometry (VSM), energy-dispersive X-ray spectroscopy (EDX), dynamic light scattering (DLS)/zeta potential, X-ray diffraction (XRD) pattern, field-emission scanning electron microscopy (FE-SEM), and transmission electron microscopy (TEM) confirmed the successful synthesis and functionalization of the nanocomposites. Biological evaluations, including the methyl thiazolyl tetrazolium (MTT) assay, Annexin V/propidium iodide (PI) staining, wound healing test, transwell assay, and quantitative reverse-transcription polymerase chain reaction (qRT-PCR), demonstrated that Fe\u2083O\u2084@SP@Apigenin NCs induced dose- and time-dependent cytotoxicity, with IC50 values decreasing from 78.21 to 38.66&nbsp;\u00b5g/mL, between 24 and 72&nbsp;h. Apoptosis induction and inhibition of cancer cell migration were confirmed in cells treated with Fe\u2083O\u2084@SP@Apigenin NCs at the 24&nbsp;h IC50 concentration (78.21&nbsp;\u00b5g/mL). Molecular analyses revealed significant upregulation of the tumor-suppressor miR-34a and downregulation of its potential targets in apoptotic pathways (P53, BAX, and CASP9 genes), as well as downregulation of oncogenic miR-181a and overexpression of its potential targets involved in cell migration and invasion (\u03b2-catenin, EGFR, MMP2, and MMP9 genes). Molecular docking simulations predicted favorable binding affinities of apigenin toward apoptosis- and metastasis-associated targets (p53, caspase-9, MMP-2, and MMP-9), offering supportive computational hypotheses regarding potential molecular interactions. Overall, Fe\u2083O\u2084@SP@Apigenin NCs represents a promising magnetic targeting platform for gastric cancer therapy and warrants further in vivo investigation.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.04
+ },
+ "https://www.nature.com/articles/s41598-026-77265-3": {
+  "guid": "https://www.nature.com/articles/s41598-026-77265-3",
+  "title": "Explainable deep multimodal \u200bfusion of radiomics, pathomics and genomics for brain cancer prognosis",
+  "link": "https://www.nature.com/articles/s41598-026-77265-3",
+  "abstract": "Survival prediction plays a crucial role in personalized medicine, enabling clinicians to make patient-specific prognoses and to optimize treatment planning. To achieve this, it is necessary to incorporate multimodal data, since each modality captures complementar\u200by information from different biological levels, thereby providing a comprehensive understanding of disease progression. Moreover, ensuring explainable decision-making is critical for delivering trustworthy and traceable predictions. In this work, we introduce an adaptive pipeline capable of fusing radiomics, pathomics, and genomics for survival prediction in cancer patients. The pipeline is designed to be highly modular where each modality-specific model and the fusion mechanismcan be easily integrated, removed, or replaced. As a core component of this pipeline, we developed an operation-based fusion model that utilizes gated attention and the Kronecker product to perform tensor fusion. The architecture captures inter and intra-modality interactions while preserving individual modality contributions. The pipeline also incorporates multiple explainability tools, including contrastive explanations, attention heatmaps and feature importance scores, to validate that the model is biologically grounded. Our approach achieves an average concordance index (C-index) of 0.806, outperforming all unimodal and bimodal variants, and exceeding the benchmark score of 0.762\u200b. These results, combined with modality-specific explainability analyses, suggest that the proposed framework is a promising approach for multimodal survival prediction and provide a foundation for future clinical research.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.83
+ },
+ "https://www.nature.com/articles/s41523-026-01081-1": {
+  "guid": "https://www.nature.com/articles/s41523-026-01081-1",
+  "title": "Interleukin-6 regulates ephrin A1 expression through epigenetic modifier DNMT3B and contributes to dysregulated angiogenesis in human breast tumors",
+  "link": "https://www.nature.com/articles/s41523-026-01081-1",
+  "abstract": "The present study aims to functionally characterize the IL-6 mediated epigenetic regulation of proangiogenic molecules independent of VEGF signaling that contributes to disorganized angiogenesis. RNAseq analysis in tumor endothelial cells (TEC) and adjacent normal endothelial cells (NEC) isolated from clinically characterized human breast tissues revealed modulation of&nbsp;multiple target genes of IL-6 which harbored STAT3 and STAT1 binding regulatory elements. Significant subset of these&nbsp;IL-6 target genes contained CpG islands in their promoters. Ephrin signaling intermediate genes were significantly perturbed in TECs. Promoter region of EFNA1 harbored CpG island and multiple STAT1 and STAT3 elements&nbsp;and TCGA analysis indicated EFNA1 was expressed independently of VEGF signaling intermediates.&nbsp;&nbsp;Multiple biochemical analysis showed IL-6 induced EFNA1 expression at transcriptional and translational levels in endothelial cells. Overexpression of STAT1DN, STAT3DN and DNMT3B abrogated EFNA1 expression in response to IL-6. ChIP-PCR analysis revealed DNMT3B binding to EFNA1 promoter region. Lentivirus-mediated EFNA1 overexpression and knockdown significantly modulated migration and sprout formation. TECs showed elevated expression of EFNA1, and IL-6 induced stress fibers, lamellipodia, and disorganized sprouts were normalized by the EFNA1/EphA2 inhibitor dasatinib. We report that IL-6 epigenetically regulates EFNA1 expression in a DNMT3B/STAT1/STAT3-dependent manner and contributes to disorganized angiogenesis in breast tumors.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.02
+ },
+ "https://www.nature.com/articles/s41408-026-01650-4": {
+  "guid": "https://www.nature.com/articles/s41408-026-01650-4",
+  "title": "Zanubrutinib Versus Acalabrutinib in Chronic Lymphocytic Leukemia: A Multicenter Real-World Comparative Analysis of Treatment Persistence and Clinical Outcomes",
+  "link": "https://www.nature.com/articles/s41408-026-01650-4",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Correspondence",
+  "score": 0.72
+ },
+ "https://www.nature.com/articles/s41408-026-01665-x": {
+  "guid": "https://www.nature.com/articles/s41408-026-01665-x",
+  "title": "High-dimensional T-cell phenotyping identifies a CD8+ CD57+ T-cell state associated with shorter time to progression in diffuse large B-cell lymphoma",
+  "link": "https://www.nature.com/articles/s41408-026-01665-x",
+  "abstract": "Diffuse large B-cell lymphoma exhibits marked clinical heterogeneity, in part reflecting variation in tumor-immune interactions that remain incompletely defined. Here, we applied high-dimensional mass and flow cytometry (up to 40 and 22 markers, respectively) to profile malignant B-cells and tumor-infiltrating T-cells at single-cell resolution. Tumor B-cell phenotypes were largely patient-specific but broadly recapitulated cell-of-origin features, whereas distinct T-cell differentiation states were associated with differences in clinical outcome. In a discovery cohort (n\u2009=\u2009123), enrichment of CD8+\u2009CD57+\u2009T-cells, reflecting a differentiated T\u2011cell state with altered but partially preserved functional capacity, was associated with shorter time to progression (TTP; HR 2.19, 95% CI 1.09\u20134.39, p\u2009=\u20090.028) independently of cell-of-origin (COO). TTP was defined as time to progression or death from lymphoma or treatment-related toxicity, with deaths from unrelated causes censored. In an independent cohort (n\u2009=\u2009151), adjusting for the International Prognostic Index (IPI), the association with TTP remained robust (HR 2.46, 95% CI 1.29\u20134.70, p\u2009=\u20090.006 with IPI as a covariate; HR 2.43, 95% CI 1.27\u20134.63, p\u2009=\u20090.007 with IPI stratified), indicating prognostic information not captured by the IPI alone. These findings identify a differentiated, functionally altered CD8+\u2009CD57+\u2009T-cell state that is associated with shorter time to progression and captures biologic heterogeneity in DLBCL beyond conventional clinical and molecular risk factors.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.86
+ },
+ "https://www.nature.com/articles/s41585-026-01219-7": {
+  "guid": "https://www.nature.com/articles/s41585-026-01219-7",
+  "title": "Circulating tumour DNA: from biomarker to therapeutic target",
+  "link": "https://www.nature.com/articles/s41585-026-01219-7",
+  "abstract": "Circulating tumour DNA is considered as a biomarker to inform clinical decision-making. However, a growing body of mechanistic work suggests that circulating tumour DNA is also part of what keeps molecular residual disease alive, which would make this molecule a target and extracorporeal depletion a testable intervention.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Clinical Outlook",
+  "score": 1.42
+ },
+ "https://www.nature.com/articles/s41598-026-81157-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-81157-x",
+  "title": "Design, synthesis, and combined biological evaluation of 5-chloro-substituted mixed-ligand Cu(II) complexes: molecular docking and in vitro cell viability studies",
+  "link": "https://www.nature.com/articles/s41598-026-81157-x",
+  "abstract": "Three new Cu(II) complexes, [Cu(5-ClSB)(py)(L)]ClO4(1), [Cu(5-ClSB)(bpy)]ClO4(2) and [Cu(5-ClSB)(phen)]ClO4(3), incorporating a tridentate unsymmetrical Schiff base (5-ClSB) were synthesized and thoroughly characterized by FT-IR, UV-Vis spectroscopy, and elemental analysis. Crystal structure of (1) was confirmed by single-crystal X-ray diffraction (SCXRD). In the crystal structure of (1), two independent molecules ((A) and (B)) coexist, in which L is a coordinated H2O (A) or CH3OH (B). To comprehensively evaluate their biological potential, integrated experimental MTT antiproliferative assays and in silico molecular docking analyses were carried out against ERK2 (PDB ID: 4zxt) and (PDB ID: 4zvm) NQO2 receptor proteins. Complex (3) containing the phen coligand exhibited the most favorable binding affinities, with docking scores of -7.45&nbsp;kcal.mol\u207b\u00b9 (ERK2) and \u2212\u20097.89&nbsp;kcal.mol\u207b\u00b9 (NQO2). These data were in good agreement with the results of MTT assays.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.42
+ },
+ "https://www.nature.com/articles/s41586-026-11301-0": {
+  "guid": "https://www.nature.com/articles/s41586-026-11301-0",
+  "title": "Heterogeneity co-evolves with architecture to determine colon cancer outcome",
+  "link": "https://www.nature.com/articles/s41586-026-11301-0",
+  "abstract": "Intratumoural heterogeneity, originating from genetic, epigenetic and phenotypic diversity, is pervasive in cancer and a fundamental barrier to curative treatment1,2. How these heterogeneous cell states emerge and co-evolve within tumours remains poorly understood. Here we develop a deep-learning framework that quantifies colorectal cancer tissue architecture and nuclear morphology at subcellular resolution to predict patient outcome. Integrating this with spatial transcriptomics, multiplex immunofluorescence and patient-derived organoids, we identify a co-evolutionary relationship between tumour architecture and cancer cell states. We identify architectural interfaces in colorectal cancer that drive cell state diversification by promoting distinct cancer stem cell programmes. Specifically, tissue fragmentation generates compressive forces that activate YAP, suppressing classical stem cell programmes and inducing fetal/regenerative stem cell states that initially manifest as hybrid states with features of partial epithelial-to-mesenchymal transition (EMT). Subsequent tumour\u2013stroma communication through TGF\u03b2 diversifies these into distinct stem cell and EMT states. Reciprocally, \u03b2-catenin activity tunes tumour cell responsiveness to architectural cues. Collectively, this work identifies a feedforward loop between cell states and tissue architecture that drives cancer heterogeneity and cell state diversification. Machine-learning-based analyses harness this co-dependency, independently of mutational status or cancer stage, to predict patient outcome. Architectural interfaces in colorectal cancer drive cell state diversification through mechanochemical reprogramming of stem cell identities.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.85
+ },
+ "https://www.nature.com/articles/s41598-026-81009-8": {
+  "guid": "https://www.nature.com/articles/s41598-026-81009-8",
+  "title": "Late-fusion radiomics with multi-sequence MRI distinguishes benign from malignant ovarian tumors: a two-center study",
+  "link": "https://www.nature.com/articles/s41598-026-81009-8",
+  "abstract": "Preoperative differentiation of benign from malignant ovarian tumors guides surgical planning, but single-sequence radiomics models leave complementary MRI information unused, and whether fusion should occur before or after modelling is unresolved. We studied 268 lesions from 231 patients at two centers; borderline tumors were grouped with malignant tumors, so \u201cmalignant\u201d denotes the combined malignant/borderline endpoint (45 of 225 lesions in the training cohort and 9 of 43 in the external cohort). Center 1 (225 lesions) was the training cohort, analysed with patient-level five-fold GroupKFold cross-validation, and Center 2 (43 lesions) the external cohort, evaluated once. For four sequences (T1WI, T2WI fs, DWI, CE-T1WI), 1,197 PyRadiomics features per sequence were selected within each training fold, and the algorithm with the highest mean cross-validated AUC was carried forward. Early fusion concatenated and re-selected the features for logistic regression; late fusion averaged the four models with equal log-odds weights. Thresholds fixed on out-of-fold training predictions were applied unchanged externally. At those thresholds late fusion had the highest accuracy (0.884), specificity (0.912) and positive predictive value (0.700) and the lowest Brier score (0.143; 0.130 after Platt scaling) of the six models, classifying 3 of 34 benign lesions as malignant, against 16 for the best single sequence and 19 for T2WI fs, at the cost of one more missed malignant lesion (2 versus 1 of 9). Discrimination did not separate them: AUC 0.797 versus 0.820 for T1WI (P\u2009=\u20090.67), with no detectable pairwise difference. Late fusion had the highest net benefit at every threshold from 0.35 to 0.60. A consensus O-RADS reading reached an AUC of 0.920. Decision-level fusion gave a model with no better discrimination than the best single sequence but lower Brier scores and far fewer false positives. Its value is a calibrated probability that can be recomputed locally rather than a higher AUC, and it did not exceed O-RADS; with nine external events these comparisons are hypothesis-generating.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.48
+ },
+ "https://www.nature.com/articles/s41598-026-81469-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-81469-y",
+  "title": "Identification of circulating exosomal miRNA signatures and their potential association with tumor burden in feline mammary carcinoma",
+  "link": "https://www.nature.com/articles/s41598-026-81469-y",
+  "abstract": "Feline mammary carcinoma (FMC) is a highly aggressive malignancy characterized by rapid progression and poor prognosis, yet non-invasive tools for monitoring tumor dynamics remain limited. In this study, we employed an unbiased high-throughput small RNA sequencing approach to profile the miRNA landscape of FMC cells and their derived extracellular vesicles (EVs), identifying 10 candidate miRNAs\u2014comprising fca-miR-21-5p, fca-miR-23a-3p, fca-miR-29a-3p, fca-miR-30a-5p, fca-miR-30d-5p, fca-miR-92a-3p, fca-miR-100-5p, fca-miR-146a-5p, fca-miR-222-3p, and fca-miR-1246. Quantitative evaluation using locked nucleic acid (LNA)-enhanced RT-qPCR and exogenous spike-in normalization revealed distinct compartmentalization patterns; notably, fca-miR-1246 showed higher abundance in the EV preparation than in the corresponding cellular preparation, suggesting a compartment-associated expression pattern that warrants further investigation. Longitudinal monitoring in FMC patient-derived xenograft (PDX) models further identified positive within-subject associations between circulating EV-associated miRNA levels, particularly fca-miR-21-5p and fca-miR-92a-3p, and tumor progression over an eight-week period, with repeated-measures correlation coefficients of up to 0.93 (p\u2009&lt;\u20090.001). These findings indicate that selected circulating EV-associated miRNAs may track with changes in tumor burden over time. By bridging species-specific molecular profiling with in vivo longitudinal evaluation, this study provides a preclinical framework for further development of circulating EV-associated miRNAs as potential non-invasive monitoring tools for feline mammary carcinoma.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.61
+ },
+ "https://www.nature.com/articles/s41598-026-81385-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-81385-1",
+  "title": "miR-2355-5p restrains NSCLC tumorigenesis and metastasis through suppressing the HNF4G-SPTBN2 regulatory axis",
+  "link": "https://www.nature.com/articles/s41598-026-81385-1",
+  "abstract": "Malignant progression in NSCLC is influenced by regulatory pathways that connect miRNA loss with transcription factor activation and effector-gene expression. This study tested the hypothesis that miR-2355-5p suppresses NSCLC progression by targeting HNF4G and thereby reducing SPTBN2 transcription. TCGA-LUAD expression resources, survival tools, target-prediction platforms, and transcription factor motif analysis were combined with validation in 40 matched NSCLC tissue pairs. A549 and H1299 cells were subjected to miR-2355-5p gain- or loss-of-function, HNF4G silencing or re-expression, and SPTBN2 re-expression under HNF4G knockdown. Reporter assays, Ago2-RIP, ChIP-qPCR, proliferation, migration, and invasion assays, and in vivo modeling were then performed. miR-2355-5p was reduced in NSCLC samples, whereas HNF4G and SPTBN2 were increased and associated with worse survival. miR-2355-5p showed inverse relationships with HNF4G and SPTBN2, while HNF4G was positively related to SPTBN2. Increasing miR-2355-5p suppressed growth, motility, and invasion, whereas miR-2355-5p blockade enhanced these traits. Mechanistic experiments supported miR-2355-5p-mediated regulation of the HNF4G 3\u2019UTR and demonstrated HNF4G occupancy at the SPTBN2 promoter. HNF4G re-expression partially reversed miR-2355-5p-mediated suppression, whereas SPTBN2 re-expression partially restored invasive capacity after HNF4G depletion. Mouse models showed reduced tumor growth, Ki-67/HNF4G/SPTBN2 staining, pulmonary bioluminescence, and pulmonary tumor nodules after miR-2355-5p restoration. miR-2355-5p inhibits NSCLC progression by suppressing HNF4G and thereby attenuating HNF4G-dependent SPTBN2 transcription.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.12
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.16.760319v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.16.760319v1?rss=1",
+  "title": "Beyond canonical: Hidden phosphoregulatory control in RAS signaling reveals context-dependent rewiring in Y1 tumor cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.760319v1?rss=1",
+  "abstract": "Cell signaling pathways are not static. Regulatory mechanisms finely control the signal across complex networks to promote signal propagation. Among them, phosphorylation is one of the most important regulatory mechanisms, in which signal cascades propagate signals to the nucleus, enabling responses. Phosphorylation events can be regulated by guanine nucleotide exchange factors (GEFs) and GTPase-activating proteins (GAPs) to coordinate the activation state of small G-proteins. In the Y1 cell derived from the adrenal gland of a mouse, the tumor phenotype is driven by constitutive overexpression of non-mutated KRAS with high SOS (Son of Sevenless)-mediated KRAS-GTP levels, activating downstream ERK signaling. Our previous finding showed that SOS is not a sole GEF in KRAS activation, pointing that much of the GEF and GAP regulatory system remains unknown. This motivated the generation of a comprehensive time-resolved proteome (DIA) and TMT phosphoproteome (DDA) under FGF2 stimulation combined or not with the SOS inhibitor BI-3406 (SOSi) to investigate adaptive signaling dynamics. Our findings revealed ERK feedback relief through parallel pathway activation and differential phosphorylation dynamics consequent of SOS inhibition, revealing novel layers of phospho-signaling rewiring beyond canonical RAS activation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "",
+  "score": 2.19
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.23.768674v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.23.768674v1?rss=1",
+  "title": "CSF Boundary Disruption and Tumor-Dependent Patterns of Medulloblastoma Metastasis",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768674v1?rss=1",
+  "abstract": "Background: Leptomeningeal metastasis is the major cause of mortality in medulloblastoma, yet the mechanisms that facilitate dissemination are poorly resolved. Here, we leveraged preclinical models to define metastatic topology, the anatomical distribution and organization of disseminated disease across craniospinal compartments and ask how topology is influenced by cerebrospinal fluid (CSF) access, primary tumor anatomy, and tumor biology. Methods: Orthotopic D425 xenograft models were used to manipulate primary tumor geometry, defined by anatomical position of primary tumors within the cerebellum relative to CSF facing boundaries. Longitudinal bioluminescence, survival, primary growth architecture at the tumor host interface, CSF boundary breach, and craniospinal metastatic distribution were quantified. Additional medulloblastoma models MED411, MED2112, and CHLA-01-MED were implanted at a common midline cerebellar location to assess tumor-intrinsic contributions to metastatic topology. Results: While primary tumor geometry altered disease progression and survival, it did not significantly alter metastasis distribution. Strikingly, growth architecture and primary tumor burden correlated with dissemination. Despite their large size, circumscribed tumors frequently remained localized, whereas smaller, disruptive primary growth architecture was strongly associated with boundary breach, intracranial, and spinal dissemination. Conversely, when anatomical origin was held constant, distinct medulloblastoma models generated significantly different metastatic topologies. Conclusions: Disruption of CSF-facing anatomical boundaries is associated with distant dissemination, whereas the distribution of established metastatic disease differs substantially among medulloblastoma models despite standardized implantation conditions. These findings distinguish anatomical factors associated with dissemination from tumor-dependent patterns of metastatic colonization and establish an experimental framework for investigating the mechanisms underlying metastatic topology.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "",
+  "score": 1.17
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.23.768592v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.23.768592v1?rss=1",
+  "title": "Targeting ATR-CHK1-WEE1 signaling enhances IMPDH inhibitor efficacy in mTORC1-driven tumor cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768592v1?rss=1",
+  "abstract": "Uncontrolled activation of the master metabolic regulator Mechanistic Target of Rapamycin Complex 1 (mTORC1) in tumors confers strong dependence on the guanylate nucleotide synthesis enzyme inosine-5'-monophosphate dehydrogenase (IMPDH) for tumor cell growth and viability. Clinically approved IMPDH inhibitors reduce the guanylate nucleotide pool available for DNA synthesis in mTORC1-driven tumor cells, resulting in prolonged DNA replication stress and accumulation of DNA damage that culminates in apoptosis. These early molecular events are accompanied by activation of adaptive DNA replication stress response (RSR) and DNA damage response (DDR) pathways. We hypothesized that targeting these adaptive responses could enhance IMPDH inhibitor efficacy. We find that combining IMPDH inhibition with inhibition of the ATR-CHK1-WEE1 signaling axis increases the efficacy and durability of response in cell models, and in a syngeneic xenograft tumor model of the mTORC1-driven genetic tumor syndrome Tuberous Sclerosis Complex. Mechanistically, abrogating ATR-CHK1-WEE1 signaling during prolonged IMPDH inhibition causes aberrant cell cycle progression, increased DNA double-strand breaks, and formation of micronuclei. Together these findings uncover adaptive mechanisms that restrict IMPDH inhibitor efficacy, informing a combination strategy to improve treatment efficacy, while maintaining selectivity for targeting tumor cells that are driven by uncontrolled mTORC1 activation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "",
+  "score": 2.3
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.15.766748v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.15.766748v1?rss=1",
+  "title": "Fishing for new immunotherapy compounds to boost innate tumor rejection",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.15.766748v1?rss=1",
+  "abstract": "Despite significant advances in cancer immunotherapy, tackling immunosuppression remains critical to achieve more effective responses. While developing the zebrafish xenograft model, we found that some human tumors engraft very efficiently (\"progressors\"), while others are cleared by the host (\"regressors\"). We showed that this was dependent on innate immunity, which recognizes and eliminates some cancer cells, while others are able to evade and suppress it. This opened an opportunity to perform an in vivo phenotypic drug screen to find compounds that induce clearance by boosting innate-tumor rejection. Zebrafish xenografts of human colorectal (CRC) and breast cancer (BC) that show a high engraftment/low clearance phenotype were used to screen over 500 FDA-approved small-molecule compounds, with tumor clearance serving as the phenotypic readout. The screen identified 23 hit compounds, of which six were effective across both cancer models. Mechanism-of-action enrichment analysis revealed a significant overrepresentation of autonomic nervous system-targeting drugs among the hits, particularly cholinergic ones. Immune profiling in myeloid reporter lines showed that the lead hit, Tiotropium bromide, a muscarinic receptor antagonist, reprograms tumor-associated macrophages toward a pro-inflammatory, anti-tumoral state. Tiotropium significantly increased macrophage phagocytosis, and macrophage depletion completely abolished its pro-clearance activity, establishing these myeloid cells as essential effectors. In a syngeneic CT26 colorectal mouse model, Tiotropium synergized with anti-PD-1 to control tumor growth and improve survival, outperforming all monotherapy arms. This effect was immune-dependent, as it was lost in immunodeficient NSG mice. Together, these findings demonstrate that in vivo phenotypic screening of FDA-approved compounds in zebrafish xenografts is a productive strategy for innate immune drug discovery in cancer. The identification of Tiotropium as a myeloid-reprogramming innate immune primer, together with the unbiased recovery of the neuro-immune axis as a druggable target, opens new avenues for overcoming immunotherapy resistance.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "",
+  "score": 1.5
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.22.768303v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.22.768303v1?rss=1",
+  "title": "Development of a Novel Multitarget Directed Ligand (MTDL), LCI132 for the Polypharmaceutical Treatment of High-Risk MYCN Amplified Neuroblastoma",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768303v1?rss=1",
+  "abstract": "MYCN-amplified neuroblastoma (MNA-NB) is associated with poor prognosis due to the development of resistance to current aggressive therapy and to the subsequent limited response to single agent targeted therapeutics in the relapse setting. Herein, we describe the in silico design and development of the first-in-class nanomolar potent, selective, multitarget directed ligand (MTDL) against PI3K, BRD4, CDK4/6/9 and Aurora kinases A/B, LCI132, for the polypharmaceutical treatment of MNA-NB. LCI132 demonstrates a favorable safety and pharmacokinetics profile, suppresses viability, induces apoptosis in MNA-NB and inhibits in vivo tumor growth with no toxicity. Mechanistically our data show that LCI132 orthogonally inhibits MYCN transcription and induces proteasome mediated MYCN degradation. We and others recently observed an augmented cytostatic effect of combining CDK4/6 inhibitors with retinoic acid in MNA-NB models and the associated disruption of core regulatory circuits. Importantly, this was not associated with the induction of apoptosis. The combined treatment of MNA-NB cells with retinoic acid and LCI132 synergistically inhibited cellular proliferation and induced apoptosis in MNA-NB cell lines and ex vivo patient-derived xenograft (PDX) models. Combination of LCI132 and ATRA treatment effectively reduces levels of MYCN and alters the expression of CRC transcription factors. Collectively, our study provides mechanistic insights and a rationale for the combined use of ATRA and a MTDL, LCI132 as a novel polypharmaceutical therapeutic strategy for the treatment of MNA-NB NB.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 1.48
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.22.768411v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.22.768411v1?rss=1",
+  "title": "The PD-L1 metabolic interactome in glioma is bounded by IDH1 genotype",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768411v1?rss=1",
+  "abstract": "Immune checkpoint blockade has failed in glioblastoma, and part of the reason may lie in the tumour cell itself: if the checkpoint and the metabolism that sustains the cell hold each other up, then lowering one arm hands the tumour the other, and a single agent cannot win. We tested that possibility in GL261 glioma cells of IDH1-wildtype and IDH1-mutant genotype, silencing Chka or Cd274, blocking PD-L1 with an antibody, and reading the consequences by RT-qPCR, RNA sequencing, flow cytometry of surface PD-L1 and high-resolution 1H NMR of dual-phase cell extracts. The two genes proved reciprocal in both genotypes: silencing either transcript raised the other, and silencing choline kinase roughly doubled PD-L1 at the cell surface. Antibody blockade did something the silencing did not. In IDH1-wildtype cells it lowered soluble phosphocholine, the only one of twenty-two aqueous signals to survive correction for multiple testing, and raised total lipid per cell without changing lipid composition, whereas silencing PD-L1 raised phosphocholine instead; in IDH1-mutant cells neither change occurred. The transcriptome drew the same boundary, engaging a sterol programme and lowering glycolysis, the tricarboxylic acid cycle and oxidative phosphorylation in wild-type cells only. The interferon response did not respect that boundary and rose under every perturbation in both genotypes. Removing PD-L1 from inside the cell and blocking it from outside are therefore not the same intervention, and the metabolic half of the response stops at the IDH1 genotype.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 2.09
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.22.768425v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.22.768425v1?rss=1",
+  "title": "Single-agent PD-L1 blockade and tumour volume in orthotopic GL261 glioma, with an exploratory lipid analysis of the treated tumours",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768425v1?rss=1",
+  "abstract": "Immune checkpoint blockade has not yet changed outcomes in glioblastoma (GBM), and in immunocompetent mouse glioma the effect of a single blocking antibody is usually reported as survival rather than as tumour volume with its own confidence interval. We treated mice bearing orthotopic GL261 gliomas with anti-PD-L1 as a single agent in an IDH1-wild-type and in an IDH1-mutant line, and followed tumour volume by MRI. At day 14, tumours of treated animals were 0.33 times the volume of control tumours in the IDH1-wild-type line (95 % CI 0.21 to 0.53; p < 0.001; 16 anti-PD-L1 and 20 control animals) and 0.42 times in the IDH1-mutant line (0.22 to 0.78; p = 0.006; 10 and 10 animals), from a linear mixed model of log tumour volume over days 8 to 16. Diffusion imaging of the same tumours gave a higher apparent diffusion coefficient in the treated IDH1-wild-type tumours, by 23 % over the whole tumour (p = 0.027), and lower fractional anisotropy in the treated IDH1-mutant tumours, by 25 % over the whole tumour (p = 0.023), and in the periphery of the IDH1-wild-type ones, by 24 % (p = 0.005). We also imaged the lipid composition of treated and control IDH1-wild-type tumours ex vivo by mass spectrometry imaging: relative to the healthy brain of the same section, sphingomyelin was higher in the treated tumours and phosphatidylcholine species shifted towards shorter chains (p = 0.016 for both). In orthotopic GL261 glioma, anti-PD-L1 as a single agent reduces tumour volume in the IDH1-wild-type and in the IDH1-mutant line.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 1.99
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.23.768752v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.23.768752v1?rss=1",
+  "title": "FN1 is produced by cancer-associated fibroblasts and carries no immune-exclusion signal beyond the collagen program: a two-cohort single-cell re-examination in non-small cell lung cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768752v1?rss=1",
+  "abstract": "Fibronectin 1 (FN1) has been proposed as a macrophage-derived driver of T-cell exclusion and AP-1-mediated resistance to checkpoint blockade in lung cancer. The human evidence was never tested against the two confounders most likely to generate them: collagen/extracellular-matrix (ECM) abundance and dissociation-induced immediate-early gene (IEG) expression. We reanalyzed two public non-small cell lung cancer (NSCLC) cohorts, GSE148071 (42 treatment-naive tumors) and GSE207422 (15 specimens; 92,330 cells), with 24 pre-treatment bulk transcriptomes. Malignant epithelium was called by compartment-level inferCNV; FN1 source was attributed within macrophage and fibroblast compartments and by ligand-receptor scoring; exclusion associations were tested by partial Spearman correlation with permutation testing, controlling for a 22-gene collagen/ECM signature; AP-1 regulon activity was quantified before and after masking the 27-gene IEG panel, benchmarked against a dissociation-stress score. FN1 was produced predominantly by cancer-associated fibroblasts (CAFs): the FN1-positive fraction was higher in CAFs than macrophages in both cohorts (paired Wilcoxon P = 1.6 x 10?? and P = 0.002), and CAF-to-epithelium communication exceeded macrophage-to-epithelium by about six-fold (median 0.32 vs 0.05, P = 1.5 x 10??). An independent lung-adenocarcinoma cohort (GSE131907) replicated this cell of origin (FN1-positive fraction 0.88 in CAFs versus 0.44 in TAMs; 11 paired samples, P = 0.001). The bulk FN1-cytotoxic association ({rho} = -0.53, P = 0.008) disappeared after collagen adjustment across three independent FN1 scoring schemes (partial {rho} = +0.21 to -0.16, all P > 0.33) and was not reproduced at single-cell level. Sample-level AP-1 activity tracked dissociation stress ({rho} = 0.88, P = 2.3 x 10??); IEG masking shrank histology-associated effect sizes by 40-64%, yet masked activity remained stress-coupled ({rho} = 0.82). FN1 is therefore a CAF product whose apparent link to immune exclusion is absorbed by the collagen program, and AP-1 readouts from dissociated tissue are stress-dominated; stress scores should accompany AP-1-based resistance claims.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 1.57
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.22.767421v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.22.767421v1?rss=1",
+  "title": "Multimodal Virtual Screening Identifies Candidate Inhibitors of Polyploid Giant Cancer Cells Across Breast Cancer Subtypes",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.767421v1?rss=1",
+  "abstract": "Polyploid giant cancer cells (PGCCs) are associated with treatment resistance and tumor recurrence yet identifying compounds that selectively suppress these cells remains challenging. Here, we developed a multimodal machine-learning framework to prioritize PGCC-suppressing compounds by integrating chemical fingerprints, drug-induced cellular morphology, transcriptomic perturbation profiles, and biologically informed molecular annotations. Using screening data from four breast cancer cell lines, we systematically evaluated feature selection, drug representations, and ensemble learning strategies. PGCC-guided feature selection reduced morphology dimensionality by 93.7% while identifying cell-cycle-enriched gene sets, linking predictive features to biologically relevant processes. An ensemble integrating complementary predictors achieved a mean Pearson correlation of 0.403 and an enrichment factor of 5.46 among the top 5% of ranked compounds. In held-out screening data, the ensemble recovered 27.9% of experimentally identified hits, representing approximately 5.6-fold and 2.5-fold improvements over random selection and the best individual predictor, respectively. We subsequently prioritized 21,367 compounds from an external library for experimental evaluation. Experimental testing identified six candidates that preferentially suppressed PGCCs in at least three paclitaxel-treated cell lines. Notably, AZD-8055 and voxtalisib reduced PGCC abundance by at least 70% across all four cell lines. These results establish a multimodal computational-experimental strategy for phenotype-directed drug discovery and provide new candidates for targeting treatment-induced PGCCs.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 1.38
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.23.768496v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.23.768496v1?rss=1",
+  "title": "Beyond IgG: Oral Secretory IgA as a new efficient modality for cancer immunotherapy",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768496v1?rss=1",
+  "abstract": "Monoclonal antibody therapies have revolutionized cancer treatment but are almost exclusively based on intravenously administered IgG antibodies. Here, we developed and evaluated the first orally delivered anti-CEACAM5 secretory IgA (SIgA) for colorectal cancer. The pharmacokinetics, biodistribution, antitumor efficacy and immune effects of oral anti-CEACAM5 SIgA (ABC-101) were evaluated in an orthotopic metastatic human colorectal cancer model. Its therapeutic activity was compared with cetuximab, as monotherapy and in combination with irinotecan- or FOLFIRI-based chemotherapy along with that of an anti-CEACAM5 IgG1 sharing the same antigen-binding domain. Tumor-associated FcRI (CD89)-expressing myeloid populations were characterized at primary and metastatic sites. ABC-101 activity was evaluated on a second human cancer cell line, in vivo in an orthotopic human gastric cancer model. Oral anti-CEACAM5 SIgA (ABC-101) exhibited a unique pharmacokinetic profile, selectively accumulating in CEACAM5-positive primary tumors and metastases while maintaining minimal systemic exposure. Compared with the anti-CEACAM5 IgG1 and cetuximab, oral SIgA achieved superior inhibition of primary tumor growth and metastatic dissemination. It also enhanced the efficacy of irinotecan- and FOLFIRI-based chemotherapy, outperforming the FOLFIRI/cetuximab standard-of-care comparator. Mechanistically, ABC-101 remodeled the tumor immune microenvironment by promoting the recruitment of FcRI (CD89)-expressing neutrophils, monocytes, macrophages, and dendritic cells at both primary and metastatic sites, consistent with enhanced innate antitumor activity. Oral ABC-101 shows targeted activity against CEAhigh MKN-45 cells, reducing markers of cell proliferation and migration. These findings establish therapeutic SIgA as a first-in-class oral antibody immunotherapy combining selective tumor targeting, innate immune activation, and enhanced chemotherapy efficacy. More broadly, this work establishes mucosal immunity as a promising therapeutic frontier, demonstrating that orally delivered antibodies can enable systemic control of metastatic digestive cancers.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-25T00:00:00+00:00",
+  "type": "",
+  "score": 1.54
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.13.766382v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.13.766382v1?rss=1",
+  "title": "Monitoring cancer evolution under iatrogenic selection pressure by cellular liquid biopsy.",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.766382v1?rss=1",
+  "abstract": "Cell-free liquid biopsy (LB) provides information about real-time tumor burden in cancer patients. In contrast, cellular LB can resolve the co-occurrence of actionable mutations within individual CTCs and their clonal architecture, revealing emerging treatment opportunities, information increasingly needed as the number of available drugs grows. Here, we describe a case with repeated blood sampling and CTC analysis using a single-cell-adapted IMPACT assay (scIMPACT). We observed therapeutically relevant alterations and clonal shifts arising in response to selected therapies. Applied systematically, such analyses have the power to uncover cellular adaptations to therapy-induced selection pressures and enable flexible treatment adjustments to evolving disease.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 1.84
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.15.766758v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.15.766758v1?rss=1",
+  "title": "Senescence-associated stromal remodeling in bone marrow aging and hematologic and bone-metastatic diseases",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.15.766758v1?rss=1",
+  "abstract": "Cellular senescence is implicated as a driver of age-related tissue dysfunction and chronic inflammation. However, no single marker defines a senescent cell, and distinguishing senescence from other stressors requires both experimental perturbation and comparison across contexts. As part of the Cellular Senescence Network (SenNet), we generated a multimodal atlas integrating human bone marrow from 80 donors (54 assayed by single-cell RNA sequencing; 48 by Xenium spatial transcriptomics) with a 130 combined cases across four disease cohorts: breast and prostate cancer bone metastases (BCa/PCa; n=61), myeloproliferative neoplasms (MPN; n=21), and multiple myeloma (MM; n=48). Human marrow aging was characterized by interferon and IL6/JAK/STAT3 activation in hematopoietic progenitors, myeloid-biased output, and progressive loss of naive CD4 T cell identity. Spatially, CDKN1A was concentrated in vascular stroma, and senescence-associated secretory phenotype (SASP) expression rose with age coordinately across stromal cell types within individual donors (mean pairwise rho = 0.46), consistent with shared influences on stromal aging. Malignancy was associated with distinct and disease-specific senescence-associated states rather than uniform amplification of aging programs. Senescent fibroblasts spatially adjacent to tumor in breast and prostate cancer bone metastases shared an upregulated secretory program comprising 148 genes encoding secreted proteins, alongside upregulated matrix-remodeling and cellular adhesion signatures. Osteolineage cells found in metastasis sites as well as in MPN marrow also displayed distinct senescence-associated phenotypes, including enlarged, multinucleated osteoclasts and CDKN1A+ osteoblasts with upregulated secretory programs. However, senescence-associated secretory programs and matrix dysregulation in stromal cells was not observed in MM, indicating that these features are not generic consequences of tumor burden within the bone marrow but rather arise from specific cancer-stromal interactions. Residual hematopoietic regions showed altered myeloid and erythroid composition and transcriptional states. To complement these human datasets, we used a mouse model in which doxorubicin-induced senescence reproduced molecular and compositional hallmarks of marrow aging that were selectively reversible with senolytic treatment. These data establish normal marrow as a quantitative baseline for senescence and separate shared from context-specific senescent states.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-24T00:00:00+00:00",
+  "type": "",
+  "score": 0.98
  }
 }
