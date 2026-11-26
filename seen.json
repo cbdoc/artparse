@@ -20558,5 +20558,315 @@
   "date": "2026-11-24T00:00:00+00:00",
   "type": "",
   "score": 0.98
+ },
+ "https://www.nature.com/articles/s41467-026-79694-0": {
+  "guid": "https://www.nature.com/articles/s41467-026-79694-0",
+  "title": "Nuclear factor I connects H3K27M to a targetable purine dependency in diffuse intrinsic pontine glioma",
+  "link": "https://www.nature.com/articles/s41467-026-79694-0",
+  "abstract": "Diffuse intrinsic pontine glioma is a lethal pediatric brainstem cancer with few effective treatments. Here, we integrate metabolomic, transcriptomic, chromatin, genetic and in vivo analyses to identify a purine-metabolic dependency associated with the H3K27M histone mutation. The histone H3 lysine 27-to-methionine substitution increases Nuclear Factor I transcriptional activity, which promotes coordinated expression of enzymes involved in purine biosynthesis and degradation, including 5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/inosine monophosphate cyclohydrolase and purine nucleoside phosphorylase. Sustained purine degradation limits feedback inhibition of purine synthesis, enabling continued purine production, utilization and catabolism. Genetic or pharmacological inhibition of the terminal de novo purine biosynthesis enzyme reduces tumor-cell fitness, slows orthotopic tumor progression and extends survival in mice. These results connect histone-mutation-associated chromatin remodeling to a Nuclear Factor I-regulated, therapeutically targetable purine dependency in diffuse intrinsic pontine glioma. Diffuse intrinsic pontine glioma is an aggressive childhood cancer commonly driven by H3K27M with few treatment options. This study links H3K27M-driven chromatin remodelling to NFI-dependent purine metabolism, causing ATIC/PNP-mediated metabolic rewiring and ATIC-targetable tumour dependence.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.22
+ },
+ "https://www.nature.com/articles/s41467-026-79752-7": {
+  "guid": "https://www.nature.com/articles/s41467-026-79752-7",
+  "title": "Choline kinase \u03b1 promotes glycolysis and tumor growth by phosphorylating and activating enolase 1",
+  "link": "https://www.nature.com/articles/s41467-026-79752-7",
+  "abstract": "Tumor cells exhibit aberrantly upregulated glycolysis, in which glycolytic enzyme enolase 1 (ENO1) plays a critical role. However, how ENO1 activity is dynamically regulated in tumor cells remains elusive. Here, we demonstrate that hypoxic stimulation promotes the binding of p38 MAP kinase to choline kinase \u03b1 (CHK\u03b1). p38 phosphorylates CHK\u03b1 at S114, subsequently leading to CHK\u03b1 to interact with ENO1. Importantly, CHK\u03b1 functions as a protein kinase and phosphorylates ENO1 Y44 thereby enhancing the metabolic activity of ENO1 to increase glycolysis. Knock-in expression of CHK\u03b1 S114A or ENO1 Y44F inhibits brain tumor cell glycolysis and proliferation, blunts brain tumor growth in mice with inhibited lactate production, and prolongs mouse survival. In addition, CHK\u03b1 S114 and ENO1 Y44 phosphorylation levels are positively correlated with each other and associated with poor prognosis in glioblastoma patients. These findings highlight the critical regulation of glycolysis by the noncanonical function of CHK\u03b1 and underscore the potential to target the moonlighting function of CHK\u03b1 for cancer treatment. Tumor cells rely on increased glycolysis for growth. Here, authors show that choline kinase \u03b1 activates enolase 1 through phosphorylation, promoting glycolysis and tumor progression in glioblastoma.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.98
+ },
+ "https://www.nature.com/articles/s41388-026-04032-z": {
+  "guid": "https://www.nature.com/articles/s41388-026-04032-z",
+  "title": "Publisher Correction: KAT5-mediated HSPA1A lactylation drives immunotherapy resistance by inhibiting STAT1 degradation in esophageal squamous cell carcinoma",
+  "link": "https://www.nature.com/articles/s41388-026-04032-z",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Correction",
+  "score": 1.85
+ },
+ "https://www.nature.com/articles/s41418-026-01919-y": {
+  "guid": "https://www.nature.com/articles/s41418-026-01919-y",
+  "title": "CRISPR-Cas12a2 chromatin shredding and the changing paradigm of p53-targeted therapy",
+  "link": "https://www.nature.com/articles/s41418-026-01919-y",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Editorial",
+  "score": 1.03
+ },
+ "https://www.nature.com/articles/s41467-026-79499-1": {
+  "guid": "https://www.nature.com/articles/s41467-026-79499-1",
+  "title": "Development and clinical validation of a multimodal AI framework to predict persistent fever during antibiotic therapy in hospitalized patients with cancer",
+  "link": "https://www.nature.com/articles/s41467-026-79499-1",
+  "abstract": "Among hospitalized cancer patients, persistent fever despite intravenous antibiotics often triggers treatment escalation and additional diagnostics. Earlier identification of patients at low risk for ongoing fever could support more selective decision-making. We developed and compared multimodal AI frameworks to predict persistent fever at the 48\u201372-hour reassessment window. Models integrated structured variables, time-series, notes, and chest imaging. Models were developed in a University Hospital Essen cohort and evaluated using holdout validation, two pooled regional hospitals, and MIMIC-IV ICU. A feature-level tabularized multimodal TabPFN model showed consistent discrimination, with AUC 0.84 (95% CI, 0.81\u20130.86) in cross-validation, 0.82 (95% CI, 0.77\u20130.87) in holdout validation, and 0.78 (95% CI, 0.74\u20130.81) in MIMIC-IV; other multimodal strategies showed comparable but more variable performance. Performance was primarily driven by temperature dynamics, while chest-radiograph imaging provided no incremental predictive value. In a clinician validation study, the multimodal model outperformed clinicians (Trial 1 balanced accuracy: 0.77 vs 0.60; Trial 2: 0.79 vs 0.57), while clinician balanced accuracy reached 0.71 (95% CI 0.67\u20130.75) in the AI-assisted condition, suggesting potential benefit of AI support. Overall, multimodal AI demonstrates potential to support 48-hour antibiotic reassessment and stewardship-oriented decision-making, although further prospective studies are needed. Pucher et al. show that multimodal AI can predict whether fever will persist in hospitalized cancer patients 48\u2009hours after starting antibiotics, potentially supporting risk stratification and targeted clinical decisions at this reassessment point.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.53
+ },
+ "https://www.nature.com/articles/s41598-026-80587-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-80587-x",
+  "title": "Exploration of phospholipid metabolism-related prognostic genes and construction of a risk model in endometrial cancer based on transcriptomics",
+  "link": "https://www.nature.com/articles/s41598-026-80587-x",
+  "abstract": "Dysregulated phospholipid metabolism is implicated in endometrial cancer (EC) progression, but the prognostic relevance of phospholipid metabolism-related genes (PMRGs) remains unclear. This study identified prognostic PMRGs and constructed a risk-stratification model for EC. EC transcriptome datasets and PMRGs were obtained from public databases. Prognostic genes were screened through differential expression analysis and LASSO-Cox regression. The cutoff determined in the training set was directly applied to the validation set. Gene set enrichment analysis (GSEA), immune infiltration, and drug sensitivity analyses were performed to explore underlying mechanisms, and RT-qPCR was used for preliminary expression analysis of candidate genes. A three-gene signature (SPATA18, XBP1, LPCAT1) with modest prognostic discrimination. Pathways including Fatty Acid Metabolism, cell adhesion molecules, and cardiac muscle contraction were differentially enriched between groups (P\u2009&lt;\u20090.05). Immune cell correlations were weak based on inferred enrichment scores. IC50 values of 170 drugs, including Dactolisib, Afuresertib, and Uprosertib, differed significantly between groups (P\u2009&lt;\u20090.05). RT-qPCR showed XBP1 up-regulation and SPATA18 down-regulation in a small EC cohort (P\u2009&lt;\u20090.05), whereas LPCAT1 showed a non-significant upward trend. This phospholipid metabolism-related gene signature, associated with metabolic and immune features, provides a framework for risk stratification and hypothesis generation in EC.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.78
+ },
+ "https://www.nature.com/articles/s41598-026-80995-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-80995-z",
+  "title": "Extinction and persistence thresholds in CAR-T immunotherapy with a cancer stem cell hierarchy and TGF- $$\\beta $$ -mediated immune regulation in a variable immune microenvironment",
+  "link": "https://www.nature.com/articles/s41598-026-80995-z",
+  "abstract": "Chimeric antigen receptor T-cell (CAR-T) therapy has shown promising results in several hematologic cancers, however the response in solid tumors is hindered by tumor heterogeneity, persistence of cancer stem cells, phenotypic plasticity, and an immunosuppressive tumor microenvironment. To investigate how these mechanisms influence remission, relapse, and treatment durability, we develop a tumor-immune model that distinguishes cancer stem cells from bulk tumor cells and couples them with endogenous $$\\hbox {CD8}^{+}$$ T cells, CAR-T populations directed against cancer stem cells (CSCs) and non-stem bulk tumor cells, regulatory T cells, and TGF-$$\\beta $$ signaling. A tumor invasion number is derived to determine whether a small population of residual cancer cells can grow and re-establish the disease near the tumor-free steady state. This number depends on the balance between tumor cell proliferation and phenotypic transitions, the effectiveness of the immune response, CAR-T cell cytotoxicity, and TGF-$$\\beta $$-mediated immunosuppression. We derive explicit conditions relating CAR-T populations to local tumor control and establish stability criteria for the tumor-free and tumor-persistent states. Under periodic CAR-T administration, local tumor invasion is characterized using the spectral radius of the monodromy matrix. To account for biological variability, the model is extended stochastically to include fluctuations in tumor proliferation, cytotoxic killing, CAR-T activity, and immune-regulatory processes. Conditions for the existence of nonnegative global solutions and the mean-square stability of residual tumor populations are established. The framework is applied to longitudinal metastatic lung cancer data from murine CAR-T experiments, and deterministic and stochastic sensitivity analyses examine the effects of biological parameters and noise intensities on tumor burden, CAR-T expansion and persistence, Treg activity, TGF-$$\\beta $$ regulation, and endogenous $$\\hbox {CD8}^{+}$$ activity. The results indicate that local tumor control depends on the balance between tumor proliferation, phenotypic transitions, immune-mediated killing, and immunosuppressive feedback. The analysis provides mathematical criteria for assessing residual tumor invasion and treatment stability under constant and periodic CAR-T administration, together with a stochastic framework for evaluating the sensitivity of these outcomes to biological variability.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.22
+ },
+ "https://www.nature.com/articles/s41598-026-75698-4": {
+  "guid": "https://www.nature.com/articles/s41598-026-75698-4",
+  "title": "Enhancing classification performance on medical datasets using multi-layer perceptron-based feature ranking",
+  "link": "https://www.nature.com/articles/s41598-026-75698-4",
+  "abstract": "Machine learning (ML) models aim to train on valuable data, where this data is passed through different preprocessing steps. The feature selection methods eliminate irrelevant features, simplify the model, and enhance its generalization. All these aspects effectively improve the model performance, thereby improving the accuracy. Accordingly, the feature selection methodologies are able to enrich the ML models, especially in the medical applications, where balancing performance and efficiency is very essential. Multi-layer perceptron (MLP) is the most common type of neural network that attempts to simulate biological neural networks\u2019 functions. This paper proposes an MLP model as a feature selection strategy to determine the most relevant and significant features for medical datasets. More deeply, this MLP structure uses a bottleneck architecture with geometrically reduced hidden layers, which ensures progressive information compression and improves generalization to ensure a principled and interpretable architecture. The proposed MLP model determines the best subsets (k) of the features based on their accuracy to improve the classification performance. Thereafter, the required time for each (k) value is computed to specify the computational costs. Furthermore, other different classic feature selection methods are implemented, which are Chi-square (chi\u00b2), Recursive Feature Elimination (RFE), Wrapper, Mutual Information (MI), and Variance thresholding methods. To evaluate the proposed MLP model, Breast Cancer Wisconsin (BCW), Cervical cancer, Parkinson\u2019s, and Prostate cancer datasets are used. The current MLP model achieved an accuracy of 98.25%, 98.26%, 96.61%, and 96.77% for these datasets, respectively. According to these results, the MLP-based method not only delivered superior performance but also provided interpretable, weight-derived feature rankings through determining some features as highly weighted features, aligning with clinical relevance. This work illustrates that MLPs can serve as both high-performance classifiers and intrinsic feature selectors, presenting a powerful, interpretable, and competitive alternative method to traditional ones in medical diagnostic modeling, besides allowing for more informed clinical decisions.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.55
+ },
+ "https://www.nature.com/articles/s41575-026-01281-x": {
+  "guid": "https://www.nature.com/articles/s41575-026-01281-x",
+  "title": "Biomarker assays for risk assessment and early detection of pancreatic cancer: opportunities and challenges",
+  "link": "https://www.nature.com/articles/s41575-026-01281-x",
+  "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is among the deadliest cancers and is projected to become the second-leading cause of cancer-related mortality by 2040. Detection of PDAC at an earlier stage, when patients are still amenable to curative-intent surgery, has the potential to markedly improve survival. However, screening for PDAC in the general population has been a challenge owing to low incidence rates and concern over false positives. Progress has been made in identifying individuals at increased risk of developing or harbouring PDAC based on a biomarker profile, providing a means for earlier detection of PDAC among individuals at high risk. This Review highlights the currently available and emerging tests to identify individuals at increased risk of PDAC as well as for early detection of PDAC. In addition, we discuss performance requirements for implementation of these tests in clinical practice. In this Review, Fahrmann and colleagues discuss the status of biomarker assays for early detection of pancreatic ductal adenocarcinoma (PDAC) and identification of individuals at increased risk of PDAC.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 0.99
+ },
+ "https://www.nature.com/articles/s44573-026-00044-8": {
+  "guid": "https://www.nature.com/articles/s44573-026-00044-8",
+  "title": "Pathogenic mechanisms and translational frameworks for therapy-induced inner ear injury in precision oncology",
+  "link": "https://www.nature.com/articles/s44573-026-00044-8",
+  "abstract": "As newer cancer treatments extend survival, their effects on hearing and balance are becoming an important but underrecognized concern. Platinum chemotherapy is a well-established cause of hearing loss, whereas evidence for other treatment approaches remains uneven. This narrative review critically synthesizes clinical and mechanistic evidence on inner ear injury associated with radiotherapy, immune checkpoint inhibitors, targeted drugs, and adoptive cellular immunotherapies. We compare reported symptoms, confidence in the evidence, and proposed biological mechanisms, distinguishing directly demonstrated injury from plausible but unconfirmed explanations. Radiotherapy has the strongest evidence, with hearing loss related to cochlear radiation dose and experimentally observed sensory and supporting-tissue injury. Immune checkpoint inhibitors and melanoma-directed cellular therapies suggest immune-mediated damage, potentially involving shared melanocyte-related targets. Evidence for targeted drugs is more heterogeneous, with both reported hearing loss and protective effects in experimental models. This review contributes a treatment-platform-based framework that connects evidence strength and biological plausibility with priorities for risk-adapted hearing and balance assessment, symptom recognition, and future research. By clarifying what is established and what remains uncertain, it supports more informed survivorship care as precision oncology continues to expand.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Review",
+  "score": 0.98
+ },
+ "https://www.nature.com/articles/s41598-026-76789-y": {
+  "guid": "https://www.nature.com/articles/s41598-026-76789-y",
+  "title": "Metamaterial-based multiband terahertz biosensor for complex refractive index sensing applications",
+  "link": "https://www.nature.com/articles/s41598-026-76789-y",
+  "abstract": "This paper presents a novel, simple multiband terahertz (THz) absorber for potential applications in the detection of biological tissues with complex refractive index properties. The proposed biosensor is designed to produce five distinct absorption bands at 1.4464, 2.6542, 4.8322, 6.2776, and 7.3567 THz, each with near-perfect absorption (\u2265\u200999%). The sensing performance of the absorber is evaluated for various samples characterized by different real and complex refractive indices. The proposed absorber efficiently detects variations in the complex refractive index by altering the spectral response of its absorption peaks. The sensitivity metrics of the proposed biosensor enable early detection of HeLa-Cervical and MCF-7 breast cancer tissues and produce significant differences in the absorption spectra of cancer and normal states. Furthermore, biosensing is demonstrated for the detection of HeLa-cervical and MCF-7 breast cancer cells using noninvasive imaging to probe electric field variations in both cancerous and normal tissues, including regular and irregularly shaped tumors. The proposed sensor undergoes comprehensive validation through full-wave electromagnetic simulation, including assessments of the absorption spectrum, electric and magnetic field distributions, surface impedance, and power distributions. The superiority of the proposed biosensor is established through a comparative analysis of its performance metrics against those reported in the existing literature.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.68
+ },
+ "https://www.nature.com/articles/s43587-026-01275-z": {
+  "guid": "https://www.nature.com/articles/s43587-026-01275-z",
+  "title": "Age-related impairment of oncogenic surveillance promotes liver tumor initiation",
+  "link": "https://www.nature.com/articles/s43587-026-01275-z",
+  "abstract": "Aging is a major risk factor for liver cancer, yet the underlying mechanisms remain unclear. Here, using a mouse model in which hepatocytes express oncogenic NRASG12V, we found that clearance of oncogene-induced senescent (OIS) cells was delayed in aged versus young mice, followed by tumor development exclusively in aged mice. Oncogenic injury rapidly induced Spp1+ macrophage accumulation in aged livers, impairing OIS cell clearance and sustaining inflammation permissive to malignant transformation. The resulting tumors resembled human steatotic hepatocellular carcinoma and lacked the NRASG12V mutation. Consistently, SPP1+ macrophages were more abundant in human livers from older versus younger individuals with cirrhosis and liver cancer. Depletion of Spp1+ macrophages or intermittent senolysis using dasatinib plus quercetin (D+Q) partially restored OIS cell clearance, alleviated inflammation and reduced tumor incidence in aged mice. Our findings identify impaired OIS surveillance as a driver of tumor development during aging and highlight Spp1+ macrophages as a target to reduce age-associated liver cancer risk. Using a mouse model of oncogene-induced senescence in hepatocytes, Yan, Zhu and colleagues report that aging weakens senescence immunosurveillance, enabling liver tumors lacking the initiating oncogene mutation. Spp1+ macrophage depletion or senolytic treatment reduces tumor incidence in aged mice.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.03
+ },
+ "https://www.nature.com/articles/s41589-026-02386-9": {
+  "guid": "https://www.nature.com/articles/s41589-026-02386-9",
+  "title": "HER2 \u00b5Map proximity labeling reveals functional interactors and resistance mechanisms",
+  "link": "https://www.nature.com/articles/s41589-026-02386-9",
+  "abstract": "Interactions among receptor tyrosine kinases (RTKs), particularly HER2, drive the growth of subsets of breast cancer, yet the mechanisms of HER2 dependency and resistance to targeted therapies remain unclear. Here, using high-resolution photocatalytic microenvironment mapping (\u00b5Map) proximity labeling, we defined the HER2 interactome across a panel of human breast cancer models. We identified protein tyrosine phosphatase F as a broadly upregulated, pan-cancer HER2 interactor whose depletion suppresses proliferation even in HER2-low contexts. Temporal \u00b5Map profiling of trastuzumab internalization revealed WWP2 as the E3 ubiquitin ligase responsible for HER2 degradation. In trastuzumab-resistant models, galectin family proteins were selectively enriched, and genetic or pharmacologic galectin inhibition restored drug sensitivity. Galectin blockade destabilized HER2 and other RTKs and enhanced antibody-mediated receptor degradation. These findings provide an extensive HER2 interactomic resource and demonstrate the utility of \u00b5Map proximity labeling for charting oncogenic protein networks and uncovering actionable vulnerabilities in breast cancer. High-resolution \u00b5Map proximity labeling of the breast cancer HER2 interactome identifies protein tyrosine phosphatase F as a key growth regulator and reveals galectin inhibition as a strategy to destabilize HER2 and overcome trastuzumab resistance.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.35
+ },
+ "https://www.nature.com/articles/s41598-026-76181-w": {
+  "guid": "https://www.nature.com/articles/s41598-026-76181-w",
+  "title": "Gastrointestinal digestion enhances the apoptotic effect of Medjool date in HepG2 cells: insights from phytochemical profiling, cytotoxicity, gene expression, and molecular docking",
+  "link": "https://www.nature.com/articles/s41598-026-76181-w",
+  "abstract": "Medjool date (Phoenix dactylifera L.) is a rich source of bioactive phytochemicals present in both flesh and pits, whose biological activity is significantly influenced by gastrointestinal digestion. This study evaluated the effect of simulated in vitro digestion on the phytochemical profile, cytotoxicity, apoptosis-related gene expression, and molecular interactions of flesh and pit extracts in HepG2 cells. Digestion significantly increased total phenolic content from 13.36 to 25.10&nbsp;mg GAE/g in date flesh and from 17.60 to 64.68&nbsp;mg GAE/g in pits, corresponding to bioaccessibility indices of 187.9% and 367.5%, respectively. Conversely, total flavonoid content decreased after digestion, while antioxidant activity remained high (&gt;\u200989%) and even increased in pits from 75.65% to 93.10%. HPLC analysis revealed marked increases in chlorogenic acid, gallic acid, and caffeic acid after digestion, particularly in pit extracts. Biologically, digested pit extracts showed the strongest cytotoxic activity (IC\u2085\u2080 = 287.4&nbsp;\u00b5g/mL), highlighting improved phenolic bioactivity after digestion. This effect was associated with pronounced modulation of apoptosis-related gene expression, including significant upregulation of TNF and CASP3 (8- and 2.55-fold, respectively) and downregulation of BCL2 (0.05-fold decrease), indicating strong activation of apoptotic pathways, particularly through TNF-mediated mechanisms. Molecular docking analysis further supported these findings, where major phenolic compounds showed strong binding affinities toward apoptosis-related proteins. For instance, rutin exhibited strong interaction with BCL2 (\u2212\u20099.2&nbsp;kcal/mol), exceeding that of doxorubicin (\u2212\u20097.9&nbsp;kcal/mol), while ellagic acid demonstrated notable binding to TNF (\u2212\u20097.1&nbsp;kcal/mol). Overall, gastrointestinal digestion enhances the bioactivity of phenolic compounds, particularly in date pits, enabling their role as effective modulators of apoptotic pathways and highlighting their promising potential in anticancer applications.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.89
+ },
+ "https://www.nature.com/articles/s41575-026-01264-y": {
+  "guid": "https://www.nature.com/articles/s41575-026-01264-y",
+  "title": "Multidisciplinary consensus on ampullary carcinoma: evidence-based clinical recommendations from ENS-CCA",
+  "link": "https://www.nature.com/articles/s41575-026-01264-y",
+  "abstract": "Ampullary carcinoma, a malignant tumour that originates in the ampulla of Vater, is a rare disease, under-represented in cancer registries and clinical trials. Owing to its intrinsic anatomical complexity, the ampulla of Vater displays substantial tissue heterogeneity, which makes ampullary carcinoma pathological diagnosis challenging, with special relevance for determining if the tissue origin is intestinal or pancreatobiliary. These features of ampullary carcinoma, together with its low incidence, explain the lack of an international consensus on standard of care management. This expert Consensus Statement, endorsed by the European Network for the Study of Cholangiocarcinoma (ENS-CCA) and the European Cooperation in Science and Technology (COST) Action Precision-Biliary Tract Cancer (BTC) Network, aims to establish evidence-based guidelines to help the oncology community provide a decision-making framework for patients with ampullary carcinoma. A group of multidisciplinary experts from 12 countries performed an in-depth review of the epidemiology, diagnosis, molecular landscape and management of ampullary carcinoma, detailing unmet needs, and proposed a strategic plan with future directions based on agreed expert recommendations on each topic. Ampullary carcinoma is a rare condition that is under-represented in cancer registries and clinical trials. In this Consensus Statement, an international panel of experts provide an overview of ampullary carcinoma, identify key priorities and provide expert recommendations for disease management and research.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.03
+ },
+ "https://www.nature.com/articles/s12276-026-01896-9": {
+  "guid": "https://www.nature.com/articles/s12276-026-01896-9",
+  "title": "Artificial intelligence in DNA repair: from mechanism to medicine",
+  "link": "https://www.nature.com/articles/s12276-026-01896-9",
+  "abstract": "DNA repair pathways safeguard genome integrity yet are frequently dysregulated in cancer and other human diseases. In tumors, DNA repair defects drive tumor evolution while creating therapeutic vulnerabilities exploitable by chemotherapy, DNA damage-response inhibitors, and immunotherapy. Although pathway-focused studies have elucidated key repair mechanisms, they lack the scale needed to interpret the high-dimensional genomic, transcriptomic, imaging, structural, and clinical datasets generated by modern precision oncology. Recent advances in artificial intelligence (AI) and machine learning help address this gap by offering new ways to measure DNA repair activity, predict repair outcomes, and connect diverse biological data. Here we organize AI applications in DNA repair into a biology-driven three-wave framework: mutational footprint-based repair-state inference; lesion-level repair outcome prediction; and multimodal repair-state inference for biomarker discovery, therapy response prediction, synthetic lethality, and structure-guided drug discovery. We go beyond cataloging AI applications by evaluating their strengths, limitations, and appropriate use. We also clarify how AI findings should be interpreted from predictive correlations to experimentally supported mechanisms. Finally, we discuss challenges in model transparency, dataset bias, imperfect labels, overfitting, validation, and clinical translation, and outline principles for developing biologically grounded AI frameworks that advance mechanistic discovery and precision oncology. DNA repair pathways are crucial for maintaining genome stability by correcting DNA damage from various sources. This study highlights the dynamic nature of DNA repair, emphasizing that dysfunction in these pathways can lead to genomic instability and cancer, creating therapeutic opportunities. The authors propose a framework using artificial intelligence (AI) to integrate diverse molecular and clinical data, aiming to infer DNA repair states and generate biologically informed hypotheses. They describe three waves of AI application: inferring repair deficiencies from mutational footprints, predicting repair outcomes at DNA lesions, and integrating multimodal data for context-aware repair-state inference. Key findings include AI\u2019s ability to predict repair deficiencies and therapeutic vulnerabilities, offering insights into repair pathway choices and outcomes. This study advances the understanding of DNA repair mechanisms and suggests future directions for AI in precision oncology. This summary was initially drafted using artificial intelligence, then revised and fact-checked by the author.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.81
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.768808v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.768808v1?rss=1",
+  "title": "Discovery of novel drug combinations for oral squamous cell carcinoma through integrated analysis of single-cell RNA-sequencing datasets",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768808v1?rss=1",
+  "abstract": "Oral squamous cell carcinoma (OSCC) is associated with high morbidity and mortality, yet treatment options remain limited and resistance driven by intratumoral heterogeneity (ITH) is frequent. To characterize ITH and identify strategies to overcome it, we integrated twelve public single-cell RNA-sequencing datasets into an unprecedentedly large dataset and combined it with spatial transcriptomics. A novel, pathway-based clustering approach revealed seven highly recurrent and distinct tumor cell clusters, each defined by divergent cell-cell interactions, distinct positions along the cell trajectory tree, and spatially defined localization within tumors. To overcome ITH therapeutically, we sought to identify drug targets that were overexpressed in the vast majority of these highly diverse tumor cells, which was reasonably achieved only through pairwise target combinations. Pharmacological inhibition of LGALS1 plus CTSC, and LGALS1 plus TYMP, suppressed growth of OSCC spheroids, with further enhancement by cisplatin. Additional anti-tumor activity is expected in vivo through known effects of these inhibitors on the tumor microenvironment. Our work characterizes ITH in OSCC and reveals strategies to overcome it by broadly targeting malignant and microenvironmental drivers of OSCC, providing a basis for the rational design of novel combination therapies.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 1.66
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.768807v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.768807v1?rss=1",
+  "title": "A cholesterol addiction creates an Achilles' heel in APC-truncated colorectal cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768807v1?rss=1",
+  "abstract": "Cholesterol auxotrophy, dependence on exogenous cholesterol, is an emerging metabolic vulnerability of cancer that remains poorly understood. Here, we show that APC-truncated CRC cell lines displayed cholesterol auxotrophy, whereas CTNNB1-mutant cells were cholesterol-independent. The endolysosomal Niemann Pick type C2 (NPC2) protein is a key transporter of cholesterol from lysosomes to cellular membranes. NPC2 knockdown (KD) in auxotrophic APC-mutant cells depleted plasma-membrane cholesterol, disorganized lipid-raft scaffolding and signaling, and inhibited stemness, xenograft growth and metastasis. In contrast, NPC2 KD CTNNB1-mutant cells retained tumorigenic and metastatic capacity. Genome-wide transcriptional responses to NPC2 loss were nearly uncorrelated between APC and CTNNB1 mutant cell lines revealing genotype-dependent adaptation and opposite cell signaling pathways alterations. NPC2 KD auxotrophs showed abortive compensatory cholesterol synthesis with no alternative egress route, whereas CTNNB1-mutant cells restored lysosomal cholesterol egress by inducing NPC1 and sustaining Wnt/stemness identity, AP-1/YAP/TAZ signaling and a pro-invasive secretome. Lipidomics confirmed the signaling divergences: sphingomyelin collapse, membrane-fluidity remodeling exclusive to the auxotrophs, and opposite-direction diacylglycerol signaling in CTNNB1 mutants. Notably, APC-truncated cells phenocopied selected Niemann Pick type C hallmarks, linking lysosomal cholesterol export to tumor fitness. Thus, NPC2 constitutes a synthetic-lethal vulnerability specific to cholesterol-auxotrophic APC-mutant CRCs, providing a mechanistic rationale for targeting the secreted and recaptured NPC2 pool in this molecular subset of patients.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 1.9
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.25.769092v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.25.769092v1?rss=1",
+  "title": "Three-Dimensional Network Topology of Irradiated Cancer Spheroids Revealed by Optical Coherence Tomography",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769092v1?rss=1",
+  "abstract": "Radiation therapy is central to cancer treatment, yet label-free quantification of tumour radiation response in three dimensions (3D) is lacking. Cell-graph topology relates to radiation response in monolayers; here we extend this to 3D tumour spheroids using optical coherence tomography. SAS spheroids were irradiated with 0-12 Gy and imaged at days~8 and 11. High-backscattering subregions from watershed segmentation served as nodes of a proximity graph, yielding eleven network metrics for N=197 spheroids. Ten of eleven metrics differed between doses (Kruskal-Wallis, all p = 0.21). Most dose effects, including density, persisted across broad algorithm parameter ranges; {sigma} and degree assortativity were exceptions, and {sigma} also depended on imaging day. Random geometric graphs with matched node counts did not reproduce the dose-dependent changes in density, clustering, path length or {sigma}. Results are exploratory (single cell line and experiment).",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 0.88
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.768908v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.768908v1?rss=1",
+  "title": "Application of a high molecular weight topical hyaluronan formulation blocks keratinocyte tumor initiation downstream of UVB-induced oncogenic mutations.",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768908v1?rss=1",
+  "abstract": "The polysaccharide hyaluronan in its high molecular weight form (HMW-HA) has been implicated as providing tumor resistance. Since HMW-HA is depleted with age and UVB exposure, we directly assessed the effect of replacing HMW-HA in UVB-exposed skin of Hr-/-:Ptch1LacZ/+ mice, a model of susceptibility to keratinocyte tumors. We developed a fragmentation-resistant, topical HMW-HA formulation (HMW-HA-phosphatidylethanolamine, HAPE) that penetrates skin to form coats around keratinocytes, which are not depleted by UVB. HAPE prevents detectable UVB-induced tumors and promotes epidermal homeostasis even though whole exome sequencing shows that the UVB-induced single base pair mutation burden is similar to control. Mutagenesis of most keratinocyte driver oncogenes is not affected, but mutation of Trp53, which is required for sustained keratinocyte tumorigenesis, is rarely detected in HAPE-treated skin. Immunofluorescence and spatial transcriptomics (10X genomics) show that HAPE blunts expression of oncogenic driver pathways (e.g. sonic hedgehog) throughout the epidermis but selectively reduces TRP53 protein expression and signaling in hair follicles. Spatial transcriptomics identifies a hair follicle KRT15+:TRP53+ stem cell subset that is lost with HAPE treatment. Since KRT15+ hair follicle progenitors are cancer-initiating, we assessed the effect of HMW-HA on the tumorigenesis of human keratinocytes bearing gain-of-function TRP53 mutations. HMW-HA promotes apoptosis of KRT15+ subsets, prevents disorganized and invasive growth of xenografts and supports polarized keratinocyte architecture. These results identify a novel microenvironmental tumor suppression mechanism that selectively targets mutant cancer-initiating cells and maintains skin homeostasis and polarity.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 1.03
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.25.769160v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.25.769160v1?rss=1",
+  "title": "EPHX1 Methylation, Tobacco Exposure, and Survival in Head and Neck Squamous Cell Carcinoma.",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769160v1?rss=1",
+  "abstract": "Background: Epoxide hydrolase 1 (EPHX1) metabolizes tobacco-derived and environmental epoxides and has been implicated in carcinogen activation/detoxification. Whether EPHX1 methylation is associated with cigarette smoking, tumor status, gene expression, and survival in head and neck squamous cell carcinoma (HNSC) remains incompletely defined. Methods: We analyzed TCGA-HNSC DNA methylation data for EPHX1 CpGs, together with smoking exposure (years smoked), EPHX1 expression, tumor/normal status, and clinical follow-up. Methylation was measured as M-values and Beta-values. Associations between smoking duration and CpG methylation were tested using linear regression. Tumor-normal differential methylation and expression were assessed using linear models. Methylation-expression correlations were evaluated using Pearson correlation. Kaplan-Meier analyses and log-rank tests were used to examine overall survival (OS). Results: Longer smoking duration was significantly associated with decreased methylation (hypomethylation) at five EPHX1 CpGs in the tumor cohort, most notably at cg26513734 (P = 0.0018) and cg05935800 (P = 0.0118). No significant associations were observed in normal tissue. Four EPHX1 CpGs demonstrated a significant negative correlation with EPHX1 gene expression (r = -0.556 to -0.372, all P < 0.001). EPHX1 was differentially methylated between tumor and normal tissue, most notably at cg03138928 (P = 1.78e-32). High methylation at cg05935800 (P = 0.0016), cg02453929 (P = 0.044), and cg24868305 (P = 0.048) was associated with significantly worse overall survival. Conclusions: These findings suggest that tobacco exposure is associated with tumor-specific EPHX1 hypomethylation, which in turn is linked to altered gene expression and poorer clinical outcomes.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 0.88
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.769059v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.769059v1?rss=1",
+  "title": "Bacteroides ovatus administration enhanced \u03b1-mPD-1 immunotherapy in a mouse colorectal cancer model",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769059v1?rss=1",
+  "abstract": "The gut microbiota modulates responses to immune checkpoint blockade, yet the metabolic remodeling associated with microbiome-based combination therapies remains poorly understood, limiting insights into the host microbiome interactions underlying therapeutic responses. Here, we investigated whether Bacteroides ovatus (BO) enhances the antitumor efficacy of programmed cell death protein 1 (PD 1) blockade in an MC38 syngeneic colorectal cancer mouse model. BO combined with anti-mouse PD 1 produced the strongest antitumor response, reducing average tumor burden by 53% compared with PBS controls. BO-specific qPCR detected higher BO-associated signals in tumors from BO-exposed groups, while exploratory flow cytometry evaluated treatment-associated immune changes. Paired 16S rRNA profiling revealed Bacteroides enrichment in BO-treated groups and treatment-associated shifts in microbial community composition. Tumor metabolomics identified alterations in glycan turnover, activated-donor metabolism, oxidized lipids, and fatty-acid trafficking associated with combination treatment. Serum metabolomics revealed treatment-associated metabolic profiles, while fecal metabolomics further characterized intestinal metabolic changes. Integrated cross-omics analysis identified notable associations linking microbial taxa with metabolites across biological compartments. Together, these findings suggest that BO enhances the antitumor activity of PD 1 blockade and is associated with microbial and metabolic remodeling, providing a foundation for investigating host microbiome interactions underlying combination immunotherapy.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 1.2
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.768953v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.768953v1?rss=1",
+  "title": "PI3K\u03b2 inhibition creates a ferroptosis vulnerability in PTEN-deficient cancers",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768953v1?rss=1",
+  "abstract": "PTEN loss represents one of the most frequent oncogenic events across human cancers, with PI3K{beta} emerging as a dominant driver of tumor progression and therapy resistance in PTEN-deficient tumors. Although genetic or pharmacological inhibition of PI3K{beta} suppresses tumor growth, actionable synthetic lethal vulnerabilities associated with PI3K{beta} inhibition remain poorly defined. Here, through integrative analysis of gene expression, CRISPR dependency, and drug sensitivity datasets from the Cancer Dependency Map, we uncover ferroptosis resistance as a hallmark of PTEN-deficient cancers. Using genetically engineered mouse models (GEMMs)-derived breast cancer cells and systematic cell death screens, we show that Pik3cb deletion selectively sensitizes Pten-deficient tumors to ferroptosis. Mechanistically, PI3K{beta} promotes lipid metabolic reprogramming primarily through activation of the SREBP1-dependent de novo lipogenesis, lipid droplet formation, and sequestration of ferroptosis-sensitive polyunsaturated fatty acids, thereby limiting lipid peroxidation and ferroptotic cell death. Therapeutically, combined PI3K{beta} inhibition and ferroptosis induction synergistically suppress tumor growth and prolong survival across GEMMs, human cancer cell line-derived xenografts, and patient-derived xenografts. Together, these findings uncover a previously unrecognized role of PI3K{beta} in ferroptosis resistance and establish a mechanistically informed combination strategy for PTEN-deficient cancers.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 2.04
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.769040v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.769040v1?rss=1",
+  "title": "Dynamic Transcription Factor Coupling Shapes Adaptive Enhancer Programs Driving Tumour Cell Heterogeneity and Growth",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769040v1?rss=1",
+  "abstract": "Tumour cells are inherently plastic and develop clonal heterogeneity early, laying the foundation for future invasion, metastasis, and resistance to therapy. The molecular basis of these early adaptations remains incompletely defined. Using inducible Apc deletion in mouse intestinal stem cells to mimic the most common initiating event in sporadic colorectal cancer (CRC), we show that cellular heterogeneity and adaptability in early adenomas reflect tumour-specific transcription factor (TF) activities that establish dynamic epigenetic programs. Enhancer profiles and single-cell epigenomes and transcriptomes reveal cooperative partnering between SOX17, which is selectively induced in adenomas, and constitutively active {beta}-catenin. This cooperation activates adenoma-specific enhancers and generates clones with distinct gene-expression states that maintain stem cells in some populations and activate cell motility genes at the invasive front. These early epigenetic and cell states persist in distinct cellular clusters in advanced human CRCs. Loss of SOX17 attenuates target enhancers and associated genes, particularly those related to cell motility, and restricts adenoma growth. Accounting for incomplete adenoma eradication, however, other SOX17 target genes remain active by engaging alternative enhancers. Thus, epigenetic adaptability arises early in transformation, circumvents tumour cell vulnerability to TF perturbations, and supports cellular heterogeneity, plasticity, and malignant processes well into cancer progression. These findings have important implications for tumour evolution, treatment resistance, and approaches to develop new therapies.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 1.37
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.25.769316v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.25.769316v1?rss=1",
+  "title": "Generation of tumor organoids and cancer-associated fibroblasts from minimal pancreatic cancer biopsies enables investigation of tumor-stroma interactions",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769316v1?rss=1",
+  "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains among the deadliest forms of cancer, accounting for the third leading cause of cancer-related deaths in North America. A critical factor in this poor outcome is the inability to effectively treat patients not eligible for surgery. The development of patient-derived organoids (PDOs) from tumors has shown promise as a personalized approach for treating PDAC. In the case of PDAC, PDOs need to be generated immediately upon diagnosis due to the rapid mortality observed in these patients. In addition, the tumor microenvironment, a significant factor in PDAC, needs to be considered. To address these two issues, we developed an approach to isolate both cancer and non-cancer-cells of PDAC tumors through endoscopic ultrasound at the time of initial diagnosis. PDOs and cancer-associated fibroblast (CAF) cultures retain patient-specific heterogeneity related to the in vivo tumor phenotype with PDOs showing two distinct and stable phenotypic and molecular profiles. These subtypes were affected by introducing conditioned media from primary CAF cultures, which promoted transcriptomic and epigenetic changes in PDOs reflective of a more resistant phenotype. This study identifies approaches for rapid establishment of multiple tumor compartments ex vivo and highlights the importance in considering the tumor microenvironment when assessing the effects of chemotherapeutic responses in patients.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 1.55
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.768915v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.768915v1?rss=1",
+  "title": "Context-dependent regulation of MGMT expression by IRE1 signaling and its relationship to etoposide-associated DNA damage in MDA-MB-231 cells",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768915v1?rss=1",
+  "abstract": "Inositol-requiring enzyme 1 (IRE1) links endoplasmic reticulum stress to adaptive gene regulation, but its relationship with O-methylguanine-DNA methyltransferase (MGMT) expression in breast cancer remains unclear. We investigated IRE1-associated MGMT regulation and etoposide-associated DNA damage in IRE1-proficient and IRE1-deficient MDA-MB-231 cells. IRE1 deficiency reduced basal MGMT mRNA and protein levels. MGMT overexpression reduced etoposide-associated comet tail moment in both genotypes but did not eliminate the genotype-associated difference, suggesting contributions from additional IRE1-dependent mechanisms. IRE1 re-expression increased MGMT mRNA under vehicle and decitabine treatment, whereas X-box binding protein 1s (XBP1s) overexpression increased MGMT mRNA only under decitabine treatment. Neither intervention significantly increased MGMT protein level relative to its corresponding vector control. Chromatin immunoprecipitation analysis showed XBP1s association with the assayed MGMT promoter region under decitabine treatment. Combined palmitate and etoposide exposure reduced MGMT mRNA in IRE1-proficient but not IRE1-deficient cells, and this response persisted following XBP1 depletion. MGMT mRNA association with IRE1-containing complexes and a predicted RNA recognition element supported potential regulated IRE1-dependent decay-like regulation, without establishing direct cleavage. Together, these findings support context-dependent IRE1-associated regulation of MGMT, linking maintenance of basal expression with transcript loss during combined metabolic and genotoxic stress in MDA-MB-231.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 1.21
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.25.769288v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.25.769288v1?rss=1",
+  "title": "DERM-Array: An Open-Source Platform for Spatially Resolved Tumor Immunology",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769288v1?rss=1",
+  "abstract": "Tumor arrays allow researchers to study dozens of tumors within a single mouse to investigate how local microenvironments influence tumor growth. Here we describe dermal engraftment of regional microtumors-array (DERM-Array), an open-source method that uses laser implantation to generate tumor arrays in the skin of a mouse ear. With DERM-Array, we demonstrate longitudinal in vivo imaging across multiple tumor models to characterize tumor growth, spatial immune organization, and immunotherapy response.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 1.29
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.769016v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.769016v1?rss=1",
+  "title": "Tumour-Associated Extracellular Vesicles Carry Extrachromosomal DNA and Influence Recipient Cell Phenotypes",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769016v1?rss=1",
+  "abstract": "Extrachromosomal circular DNA (ecDNA) is a key driver of oncogene amplification, tumour evolution, and therapeutic resistance. Extracellular vesicles (EVs) are nanoscale membrane bound structures released by cells into the extracellular space. These vesicles play important roles in modulating tumor microenvironment and immune responses via transferring biomolecular cargos between donor and recipient cells. Although recent studies have reported the presence of DNA in EVs, whether extracellular vesicles (EVs) can transport and spread extrachromosomal circular DNA (ecDNA) remains unknown. Here, we first investigated whether tumor-derived EVs can carry ecDNA and then, explored its influence on behaviours of recipient cells. In brief, EVs were isolated from the ecDNA-positive colorectal cancer cell line COLO320DM and characterised by nanoparticle tracking analysis, their identity was confirmed by the expression of the EV markers CD81 and Alix. The presence of genomic DNA in the EV fractions was analysed by PCR. Confocal microscopy further demonstrated the uptake of EV-associated DNA by recipient cells. Importantly, long-read Oxford Nanopore sequencing analysis of EV-associated DNA identified MYC-containing ecDNA, providing evidence of a link between oncogenic ecDNA and tumour-derived EVs. Functionally, prolonged exposure to COLO320DM-derived EVs reduced surface HLA-ABC expression in HL60 cells, suggesting that EVs may affect antigen presentation and immune recognition. In HeLa cells, treatment with COLO320DM-derived EVs increased cell mobility and migration. Notably, in colony formation assays, exposed HeLa cells did not form discrete colonies; instead, they showed a dispersed growth pattern extending into the surrounding area. In sum, these findings provide evidence that tumor-derived EVs carry oncogenic ecDNA, and suggest tumor-derived EVs may contribute to cell-cell communication and influence recipient cell behaviour, highlighting a potential role for EV-associated ecDNA in cancer progression.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 1.39
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.768533v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.768533v1?rss=1",
+  "title": "Combined BRAF and RAS inhibition overcomes acquired resistance in BRAF-mutated colorectal cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768533v1?rss=1",
+  "abstract": "BRAFV600E-mutated colorectal cancer is aggressive and associated with poor patient prognosis. Combined BRAF and EGFR inhibition improves patient outcomes but acquired resistance limits treatment efficacy. We integrated molecular profiling and functional drug screening of BRAF-mutated cell lines (n = 17) and patient-derived organoids (n = 17) to identify and target mechanisms of intrinsic and acquired resistance. Acquired resistance to dual BRAF and EGFR inhibition was associated with RAS activation, including emerging NRAS hotspot mutations, KRAS amplification and transcriptomic MAPK signaling. Intrinsic and acquired resistance shared transcriptomic features including IGF1R, PI3K, inflammatory, and proteasome-associated signaling. Screening of 28 drug combinations revealed context-dependent sensitivity to co-inhibition of BRAF with IGF1R, MEK and SRC. Notably, RAS inhibitors daraxonrasib and RMC-7977 showed pronounced synergy with encorafenib in models with acquired RAS alterations, restoring treatment sensitivity and suppressing ERK1/2 phosphorylation. These findings identify acquired resistance associated with RAS reactivation as a therapeutic vulnerability and provide a preclinical rationale for combined BRAF and RAS inhibition in BRAF-mutated colorectal cancer.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 2.41
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.25.769102v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.25.769102v1?rss=1",
+  "title": "The antitumor peptide CIGB-552 is active in B-cell lymphomas and enhances BTK-targeted therapies",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769102v1?rss=1",
+  "abstract": "Despite advances in targeted therapies, acquired resistance remains a major challenge in B-cell lymphomas. CIGB-552 is a synthetic antitumor peptide that modulates COMMD1-associated signaling pathways, but its activity in hematological malignancies remains unexplored. We investigated CIGB-552 in marginal zone lymphoma (MZL), mantle cell lymphoma (MCL), and diffuse large B-cell lymphoma (DLBCL) models, focusing on drug-resistant MZL and combinations with BTK-targeted agents. CIGB-552 reduced viability across lymphoma cell lines, with the greatest sensitivity in MZL and MCL, and retained activity in MZL models with acquired resistance to BTK, PI3K, or BCL2 inhibitors, but not in non-neoplastic B-cells. Peptide uptake varied among models and correlated with sensitivity, whereas treatment induced context-dependent apoptotic and non-apoptotic cell death. Integrated transcriptomic and proteomic analyses in MZL cells identified reduced B-cell receptor, NF-{kappa}B, PI3K/AKT/mTOR, and MAPK signaling alongside induction of cellular stress-response programs. Immunoblotting supported the suppression of key survival proteins and showed increased COMMD1 abundance. CIGB-552 enhanced the activity of ibrutinib in parental and resistant MZL models, and in a canine DLBCL cell line, and showed favorable interactions with additional BTK inhibitors and a BTK degrader. CIGB-552 also inhibited growth in primary lymphoma samples, and its combination with ibrutinib increased activity in primary MZL cells. These preclinical findings support further investigation of CIGB-552 as a therapeutic candidate for B-cell lymphomas, particularly in combination with BTK-targeted agents.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 0.94
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.768856v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.768856v1?rss=1",
+  "title": "Dissecting the Tumor Microenvironment at Single-Cell Resolution to Prioritize Candidate Tumor Antigens Across Multiple Cancer Types",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768856v1?rss=1",
+  "abstract": "Cancer immunotherapy has emerged as a revolutionary therapeutic approach, advancing the treatment of several cancer types. However, the identification of candidate tumor antigens remains challenging, as multiple lines of evidence are required to establish malignant-cell enrichment and therapeutic suitability. This study aimed to characterize and prioritize candidate tumor antigen genes based on their enrichment in malignant cells through the integration of single-cell transcriptomic data with complementary immunological and clinical evidence from the literature and public databases. An integrated pan-cancer dataset comprising 355,941 cells across 10 tumor types and 21 cell populations was analyzed using enrichment categories adapted from the Human Protein Atlas (HPA). Candidates were characterized according to antigen classification, gene expression in healthy tissues, presence of reported epitopes, recurrence across tumor types, and associations between gene expression and overall survival. Among the 22,779 genes evaluated, 30 candidates were retained after the prioritization process. CLDN6, MAGEC2, and PLAC1 stood out due to previous investigations in recent clinical immunotherapy research. Additionally, 16 of these 30 candidates showed significant associations between gene expression and overall survival across distinct cancer types, potentially supporting their prioritization for further investigation as immunotherapy targets. In contrast, some cancer-testis antigens (CTAs), previously regarded as promising therapeutic targets, were found to have limited suitability due to their enriched, enhanced, or group-enriched expression in non-malignant cells. Most of these steps can be independently reproduced using the publicly available Nextflow pipeline developed for this study.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 1.51
  }
 }
