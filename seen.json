@@ -20988,5 +20988,155 @@
   "date": "2026-11-27T00:00:00+00:00",
   "type": "Article",
   "score": 1.14
+ },
+ "https://www.nature.com/articles/s41568-026-00994-0": {
+  "guid": "https://www.nature.com/articles/s41568-026-00994-0",
+  "title": "Programmable immunity: Logic-gated CAR T cells for precision cancer therapy",
+  "link": "https://www.nature.com/articles/s41568-026-00994-0",
+  "abstract": "Nature Reviews Cancer, Published online: 27 November 2026; doi:10.1038/s41568-026-00994-0 Logic-gated CAR T cell therapies utilize Boolean logic to improve the precision and control of antitumour immune responses. In this Review, Foisey, Wyman and Roybal discuss logic-gated CAR T cell design principles, evaluate safety and efficacy trade-offs, and highlight the manufacturing and stability barriers for these next-generation cell therapies.",
+  "source": "Nature Reviews Cancer",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "",
+  "score": 1.06
+ },
+ "https://www.nature.com/articles/s41433-026-04999-9": {
+  "guid": "https://www.nature.com/articles/s41433-026-04999-9",
+  "title": "Ciliary body ring melanoma mimicking conjunctival melanoma",
+  "link": "https://www.nature.com/articles/s41433-026-04999-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Image",
+  "score": 0.61
+ },
+ "https://www.nature.com/articles/s41598-026-82714-0": {
+  "guid": "https://www.nature.com/articles/s41598-026-82714-0",
+  "title": "Prognostic relevance of the revised Tokuhashi score in the management of spinal metastases from lung cancer in the era of molecular profiling",
+  "link": "https://www.nature.com/articles/s41598-026-82714-0",
+  "abstract": "The Tokuhashi score is widely used to guide therapeutic strategies in patients with spinal metastases from solid tumors. However, the introduction of targeted therapies and immune checkpoint inhibitors has profoundly modified the prognosis of several malignancies, particularly non-small cell lung cancer (NSCLC). The objective of this study was to evaluate the current prognostic relevance of the Tokuhashi score in lung cancer patients with spinal metastases while integrating molecular biology status. A retrospective regional cohort study was conducted including patients discussed in multidisciplinary tumor boards for malignant spinal osteolysis between 2007 and 2019. Overall survival was analyzed according to Tokuhashi score and molecular status using Kaplan\u2013Meier survival analysis, log-rank tests, and multivariate Cox regression models. Among 804 patients, 220 presented with lung cancer. Molecular alterations were identified in 38 patients. According to the Tokuhashi classification, 91.4% of lung cancer patients were categorized in the poor prognosis group. No significant association was found between Tokuhashi prognostic classes and overall survival. In contrast, molecular positivity was strongly associated with improved survival. Median overall survival reached 10.22 months in molecular-positive patients versus 3.61 months in molecular-negative patients. In multivariate analysis, molecular status remained an independent prognostic factor with a hazard ratio of 0.47. The Tokuhashi score no longer accurately predicts prognosis in lung cancer patients with spinal metastases in this cohort. Molecular profiling should be systematically integrated into future prognostic tools for spinal metastases.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.08
+ },
+ "https://www.nature.com/articles/s41409-026-03084-9": {
+  "guid": "https://www.nature.com/articles/s41409-026-03084-9",
+  "title": "The 3\u2011month window: Early transplantation is associated with improved survival in IPSS\u2011M higher\u2011risk MDS\u2011IB",
+  "link": "https://www.nature.com/articles/s41409-026-03084-9",
+  "abstract": "",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Correspondence",
+  "score": 0.61
+ },
+ "https://www.nature.com/articles/s41388-026-04060-9": {
+  "guid": "https://www.nature.com/articles/s41388-026-04060-9",
+  "title": "Venetoclax promotes expansion of effector-like exhausted CD8\u207a T cells and enhances anti-PD-1 efficacy in venetoclax-resistant AML",
+  "link": "https://www.nature.com/articles/s41388-026-04060-9",
+  "abstract": "Acute myeloid leukemia (AML) exhibits immune dysfunction marked by CD8+ exhausted T cells (TEX), with TEXint cells retaining responsiveness to PD-1 blockade despite the exhausted phenotype. TEX comprises a heterogeneous continuum, evolving from plastic progenitor states (TEXprog) to effector-like intermediate T cells (TEXint), which remain responsive to PD-1 blockade, and finally to terminally differentiated forms (TEXterm) that constitute a PD-1-unresponsive cluster. We demonstrated that the selective BCL-2 inhibitor venetoclax enhances anti-PD-1 immunotherapy efficacy in venetoclax-resistant AML models by expanding CD8\u207a TEXint cells both in vitro and in vivo. Mechanistically, venetoclax induces AML-derived mitochondrial DNA-enriched extracellular vesicle release and enhances ROS accumulation in CD8\u207a T cells. ROS-mediated oxidation of OTX2 enhances FSD1L transcription, and FSD1L enhances K63-linked ubiquitination of RIPK4, a modification associated with NF-\u03baB activation and TEXint enrichment. Our findings suggest that the combination of PD-1 blockade with venetoclax may represent a potential therapeutic strategy for patients with venetoclax-resistant AML.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.95
+ },
+ "https://www.nature.com/articles/s41698-026-01796-1": {
+  "guid": "https://www.nature.com/articles/s41698-026-01796-1",
+  "title": "Bulk RNA-Seq deconvolution reveals cell-type specific dysregulated and prognosis-associated genes across cancer types",
+  "link": "https://www.nature.com/articles/s41698-026-01796-1",
+  "abstract": "Analysis of tumor bulk RNA-seq data is widely used to identify transcriptional programs associated with cancer progression and patient outcome, but interpretation is limited by cellular heterogeneity. Deconvolution methods address this limitation by inferring cell type-specific expression profiles, yet their ability to preserve biologically meaningful variation between samples has not been systematically assessed. Here, we evaluated BayesPrism using 298 publicly available single-cell RNA-seq samples spanning 11 cancer types. BayesPrism accurately reconstructed cell type proportions and cell type-specific gene expression while preserving inter-sample differences, particularly for abundant cell populations. These results were robust to substantial reductions in reference cell numbers and transcript counts and to broader cell type classifications. Comparison with bMIND in lung adenocarcinoma showed that both methods preserved inter-sample differences, although performance varied across cell types. We then deconvoluted 6181 TCGA bulk RNA-seq samples and performed cell type-specific differential expression, pathway enrichment, and survival analyses. In lung adenocarcinoma, deconvolution revealed cell type-specific dysregulated pathways and prognostic signatures that were obscured in bulk analyses. Across 11 cancer cohorts, deconvolution identified conserved transcriptional programs in cancer cells, fibroblasts, macrophages, and endothelial cells that were largely recapitulated in single-cell and spatial transcriptomic datasets. These results demonstrate that deconvolution can preserve biologically meaningful inter-sample transcriptional heterogeneity while reducing confounding from cellular composition, enabling large-scale, cell type-resolved analysis of existing bulk RNA-seq cohorts.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.81
+ },
+ "https://www.nature.com/articles/s41598-026-81371-7": {
+  "guid": "https://www.nature.com/articles/s41598-026-81371-7",
+  "title": "Detection and temporal inference of B-cell-related and tumor-specific programs in mantle cell lymphoma formation",
+  "link": "https://www.nature.com/articles/s41598-026-81371-7",
+  "abstract": "Oncogenesis is driven by genetic, epigenetic, and transcriptomic changes, developing from pre-cancerous into early and late malignant stages. To investigate conventional mantle cell lymphoma (cMCL) formation, we generated single-cell RNA (scRNA-seq, n\u2009=\u20093) and targeted DNA methylation (scDNAm, n\u2009=\u20091) data of cMCL samples derived from bone marrow, the location of its initiating genomic translocation t(11;14), and a common site of secondary involvement. In all patients, we observed cMCL-specific and early B-cell-like gene expression patterns in tumor cells, and signs of anergy/exhaustion-like features; the former and latter were also observed in external datasets to certain extent. In one patient, we furthermore detected distinct immune cell features among tumor subclones, including dual immunoglobulin light chain expression. As cMCL tumorigenesis initiates in the bone marrow, we hypothesized that pre-cancerous lesions may be detected as well, but our data did not provide evidence in this direction. Finally, in the single patient analyzed by both layers of information, we observed that scDNAm provides complementary information to scRNA-seq. In summary, we show that the study of bone marrow samples through complementary single-cell data modalities, including scDNAm, holds great promise for generating new hypotheses and improving our understanding of lymphomagenesis.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.74
+ },
+ "https://www.nature.com/articles/s41419-026-09447-w": {
+  "guid": "https://www.nature.com/articles/s41419-026-09447-w",
+  "title": "NSUN2-mediated m\u2075C reprogramming sustains replication stress adaptation in ovarian cancer PARP inhibitor resistance",
+  "link": "https://www.nature.com/articles/s41419-026-09447-w",
+  "abstract": "Poly (ADP-ribose) polymerase inhibitors (PARPi) have significantly improved outcomes for patients with homologous recombination-deficient ovarian cancer, yet acquired resistance remains a major clinical challenge. While restoration of DNA repair is well characterized, upstream mechanisms enabling adaptation to persistent replication stress remain incompletely understood. Here, we demonstrate that RNA m\u2075C modification is broadly reprogrammed in PARPi-resistant ovarian cancer, with NSUN2 acting as a key regulator. NSUN2 is markedly upregulated in resistant cells and recurrent patient samples after PARPi treatment, accompanied by elevated global m\u2075C levels. Mechanistically, NSUN2 catalyzes m\u2075C modification of CHEK1 mRNA, which is recognized by YBX1, leading to enhanced mRNA stability and sustained ATR-CHK1 signaling. This epitranscriptomic axis promotes cellular adaptation to persistent replication stress, limits transcription-replication conflicts and replication-associated DNA damage, thereby contributing to PARPi resistance. Genetic depletion of NSUN2 increases replication-associated DNA damage and restores PARPi sensitivity in resistant cells and patient-derived organoids. Moreover, pharmacological inhibition of NSUN2 using MY-1B enhances the efficacy of PARPi in vitro and in vivo. Collectively, these findings identify m\u2075C reprogramming as a critical regulator of replication stress adaptation and reveal an epitranscriptomic mechanism driving PARPi resistance in ovarian cancer.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Article",
+  "score": 2.1
+ },
+ "https://www.nature.com/articles/s41598-026-82393-x": {
+  "guid": "https://www.nature.com/articles/s41598-026-82393-x",
+  "title": "Deep learning dose prediction from free breathing CT to triage deep inspiration breath hold in left breast cancer radiotherapy",
+  "link": "https://www.nature.com/articles/s41598-026-82393-x",
+  "abstract": "Deep-inspiration breath hold (DIBH) reduces cardiac dose in left-sided breast cancer radiotherapy but increases imaging and planning workload. To screen the dosimetric acceptability of free-breathing (FB) plans before DIBH-CT acquisition, we developed a deep learning model to predict 3D dose distribution from FB-CT alone. We analyzed 120 left-sided breast cancer patients treated with a field-in-field technique, developing a 3D U-Net (96 patients) using FB-CT images and structure masks and evaluating it on a held-out internal test set (24 patients). For the primary decision metric, mean heart dose (MHD), the mean absolute error was 1.14\u2009\u00b1\u20090.81&nbsp;Gy. Classifying whether the predicted FB-plan MHD exceeded 7&nbsp;Gy yielded an accuracy of 0.79, sensitivity of 0.83, specificity of 0.75, and an AUC-ROC of 0.90 (95% CI: 0.58\u20131.00). After Holm-Bonferroni correction, differences in left lung V20Gy and PTV D95% and D90% remained significant; MHD showed a small mean signed bias (predicted\u2009\u2212\u2009ground truth: 0.08&nbsp;Gy, 95% CI: \u22120.52 to 0.68&nbsp;Gy) but wider patient-level limits of agreement (Bland-Altman 95% limits: \u22122.69 to 2.86&nbsp;Gy). The model demonstrates promising but imprecisely estimated classification performance and may reduce unnecessary DIBH-CT acquisitions and workload, though this is unquantified. Multicenter and prospective validation are warranted.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.48
+ },
+ "https://www.nature.com/articles/s41598-026-82584-6": {
+  "guid": "https://www.nature.com/articles/s41598-026-82584-6",
+  "title": "Disease-specific quality of life and employment outcomes after microsurgical resection of vestibular schwannoma: a cross-sectional study",
+  "link": "https://www.nature.com/articles/s41598-026-82584-6",
+  "abstract": "Clinician-reported outcomes may not fully capture recovery after vestibular schwannoma (VS) surgery. We assessed disease-specific quality of life (QOL) and employment impact using the simplified Chinese Mayo Clinic VSQOL Index in patients undergoing primary retrosigmoid microsurgery between December 2018 and June 2025. Of 982 eligible patients, 750 completed the questionnaire at least six months after surgery (76.4%). Median global QOL was 82.3 (IQR 22.6), with Hearing Problems the most affected domain (median 70.0). Among 569 respondents with applicable employment items, 197 (34.6%) reported employment impact. In multivariable analysis, postoperative serviceable hearing (B\u2009=\u20098.102) and good facial nerve (FN) function at discharge (B\u2009=\u200911.372) were associated with higher global QOL, whereas lower education (B\u2009=\u2009\u2212\u20092.979) and tumor recurrence or progression (B\u2009=\u2009\u2212\u200921.005) were associated with lower scores. Employment impact was associated with poor FN function at discharge (OR\u2009=\u20092.397) and left-sided tumors (OR\u2009=\u20091.606), although the latter association was not statistically significant among 478 occupationally active respondents (OR\u2009=\u20091.414, p\u2009=\u20090.075). These findings highlight postoperative functional status as an important correlate of patient-reported outcomes and support cautious interpretation of the exploratory laterality association.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.51
+ },
+ "https://www.nature.com/articles/s42003-026-11243-3": {
+  "guid": "https://www.nature.com/articles/s42003-026-11243-3",
+  "title": "Ubiquitin\u2011like modifications manipulate cancer biology and confer therapeutic potential",
+  "link": "https://www.nature.com/articles/s42003-026-11243-3",
+  "abstract": "Ubiquitin-like modifications constitute a family of post-translational protein tags that orchestrate diverse cellular behaviors. In this Review, we examine six such modifications\u2014SUMO, NEDD8, ISG15, UFM1, FAT10, and ATG8\u2014that are of particular relevance to cancer. These tags are covalently conjugated to substrate proteins via a conserved enzymatic cascade, thereby modulating protein stability, subcellular localization, enzymatic activity, and intermolecular interactions. When dysregulated, these modifications actively promote tumor initiation, malignant progression, and the acquisition of therapy resistance. We discuss the mechanistic contributions of each of the six modifications to cancer hallmark maintenance and treatment failure. We further summarize ongoing drug discovery efforts directed against the enzymes governing these modifications, highlighting emerging avenues for therapeutic intervention. Ji et al. review current evidence on how six ubiquitin-like modifications\u2014SUMOylation, NEDDylation, ISGylation, UFMylation, FAT10ylation, and ATG8ylation\u2014contribute to cancer hallmark maintenance and therapy resistance. These modifications are associated with dysregulated protein stability, subcellular localization, enzymatic activity, and proteinprotein interactions in tumors, although challenges remain in deciphering their cancertype-specific dependencies. The authors further summarize recent drug discovery efforts targeting the enzymes governing these modifications, highlighting emerging opportunities for novel cancer therapeutics, although significant hurdles persist in achieving isoform selectivity and minimizing on-target toxicity.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Review Article",
+  "score": 1.88
+ },
+ "https://www.nature.com/articles/s41375-026-03199-4": {
+  "guid": "https://www.nature.com/articles/s41375-026-03199-4",
+  "title": "Impact of TPMT noncoding tandem repeat sequence on thiopurine metabolism and toxicity in children with acute lymphoblastic leukemia",
+  "link": "https://www.nature.com/articles/s41375-026-03199-4",
+  "abstract": "A cornerstone of curative therapy for acute lymphoblastic leukemia (ALL), thiopurines are associated with frequent and sometimes severe hematopoietic toxicities. No-function variants in the TPMT gene strongly predispose patients to thiopurine-induced myelosuppression; however, these variants do not fully explain the inter-individual variability in toxicity. To address this gap, we systematically evaluated the variable number tandem repeat (VNTR) located within the TPMT promoter for its impact on gene function, thiopurine metabolism, and toxicity. In a large, multi-ethnic cohort (n\u2009=\u20093&nbsp;202), VNTR frequency and structure varied significantly by genetic ancestry and showed incomplete linkage disequilibrium with established pharmacogenetic variants (*2, *3\u2009A, *3\u2009C). Notably, TPMT-VNTR independently influenced transcription across ancestry groups (p\u2009=\u20090.033). In a cohort of 481 children with ALL, higher VNTR repeats were significantly associated with lower TPMT activity (p\u2009=\u20090.001) and a higher TGN/MMPN ratio (p\u2009=\u20090.012). Patients with 12 or more repeats had a median 6-mercaptopurine (6-MP) dose intensity that was 15.5 percentage points lower than that of patients with fewer than 12 repeats.&nbsp;In conclusion, TPMT-VNTR variation affects gene transcription and enzymatic activity, thereby altering thiopurine pharmacokinetics in patients with ALL. These findings underscore the importance of noncoding variants in modulating drug efficacy and toxicity in hematological malignancies.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.81
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.25.769294v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.25.769294v1?rss=1",
+  "title": "Virtual Transcriptomics from Routine Histopathology Reveals Metastasis-Associated Programs and Molecular Risk States in Triple-Negative Breast Cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769294v1?rss=1",
+  "abstract": "Background: Triple-negative breast cancer (TNBC) is a highly aggressive and biologically heterogeneous disease for which reliable biomarkers of metastatic progression remain limited. Although transcriptomic profiling can reveal clinically important molecular programs, its routine implementation is constrained by cost, tissue availability, and workflow complexity. We hypothesized that metastasis-associated transcriptional states are encoded within routine hematoxylin and eosin (H&E) histopathology and can be recovered using artificial intelligence enabled virtual transcriptomics. Methods: We applied the Path2Space foundation model to infer genome-wide gene expression from treatment-naive TNBC H&E tissue microarrays and identified virtual transcriptomic programs associated with lymph node metastasis. We systematically validated candidate genes across three independent international TNBC cohorts (TCGA-BRCA, SCAN-B, and FUSCC). Candidate genes were evaluated in three independent international TNBC cohorts using experimentally measured RNA sequencing, followed by TNBC-specific co-expression network analysis, molecular subtype characterization, and cross-cohort meta-analysis. Results: Virtual transcriptomic analysis nominated 118 candidate genes associated with nodal status at a nominal discovery threshold; these candidates were subsequently evaluated using experimentally measured transcriptomic data across three independent international TNBC cohorts. Cross-cohort validation converged on a parsimonious two-gene Virtual Metastatic Prediction Score (VMPS) composed of TMEM184A and ZNF57, the only genes that remained significantly associated with nodal metastasis across all four datasets. TMEM184A and ZNF57 represented complementary biological programs: a TMEM184A-centered epithelial remodeling network and a ZNF57-centered KRAB zinc-finger transcriptional regulatory network. These transcriptional modules were biologically coherent and demonstrated reproducible associations with established TNBC molecular subtypes. Across TCGA-BRCA, SCAN-B, and FUSCC, the TMEM184A module showed a pooled OR of 1.44 per SD (95% CI, 1.25-1.67; I2=0%), while the two-gene VMPS showed a pooled OR of 1.58 (95% CI, 1.28-1.94). Moreover, higher VMPS and TMEM184A module activity defined reproducible metastatic risk gradients and enriched for lymph node-positive disease across independent cohorts. Conclusions: AI-enabled virtual transcriptomics transforms routine H&E histopathology into a scalable platform for molecular discovery in TNBC. These findings establish virtual transcriptomics as a scalable discovery framework for recovering biologically interpretable, metastasis associated molecular programs from routine histopathology, with potential applications in precision risk stratification.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "",
+  "score": 0.77
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.25.769142v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.25.769142v1?rss=1",
+  "title": "A BMP-to-GREM1 cancer-associated fibroblast switch at the colorectal cancer invasive front, revealed by histology-anchored spatial transcriptomics",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769142v1?rss=1",
+  "abstract": "Which fibroblast state signals to tumour cells at the colorectal cancer invasive front, and from what distance, has not been resolved in human tissue, and spatial transcriptomics obscures the answer whenever tumour regions are defined from the expression being analysed and RNA is assigned to the wrong, neighbouring cell. We introduce a histology-anchored framework that segments cells from H&E (OmiCoreSeg), maps the tumour from H&E alone (OmiCoreTumorDetector; area under the ROC curve 0.91 against pathologist annotation) and returns RNA to the cell that made it (OmiCoreCloud). In three untreated stage II-IV colorectal adenocarcinomas profiled by Visium HD, Xenium and single-cell RNA-seq, with pre-registered tests carried to held-out patients, platforms and four bulk cohorts (1,319 patients), RNA spill reached only adjacent cells (8-12 um), stromal programmes varied over 400 um, and expression-defined tumour regions overstated immune exclusion three- to fivefold. Across the H&E border, cancer-associated fibroblasts switch from a BMP4/5-producing, telocyte-like state in the tumour bed to a GREM1-producing palisade with TGF-beta/SMAD3 and epithelial-mesenchymal transition (EMT) activity at the front (6/6 validation sections); adjacent tumour cells lose the BMP target ID1 (held-out odds ratio 0.47) and SMAD5 activity. No ligand-receptor pair was enriched at cell contact (0 of 1,233), whereas myeloid IL-1 and lymphoid LT coupled to fibroblast programmes at niche scale. A GREM1-fibroblast score was associated with shorter survival (hazard ratio 1.23), and unlike the mouse and organoid GREM1-ISLR model the human axis is one-sided. These maps nominate GREM1 neutralisation and IL-1 blockade as front-targeted therapeutic hypotheses and provide a spatial reference of the human colorectal cancer front.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "",
+  "score": 1.21
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.18.767576v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.18.767576v1?rss=1",
+  "title": "Multimodal profiling resolves the functional and spatial organization of colorectal cancer liver metastases",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.18.767576v1?rss=1",
+  "abstract": "BackgroundColorectal cancer (CRC) is the second leading cause of cancer-related mortality, largely because of liver metastases (LM). Despite advances in perioperative treatment and surgery, recurrence after resection of CRC liver metastases (CRC-LM) remains common. The cellular complexity of treatment-exposed CRC-LM and the interactions among malignant, stromal, immune, vascular and liver-resident populations remain incompletely understood, limiting the identification of biological vulnerabilities associated with disease progression and recurrence. MethodsWe used single-nuclei RNA sequencing (snRNAseq) to characterize the cellular composition and transcriptional states of nine chemotherapy-treated CRC-LM specimens. Single-nucleus profiles were integrated with spatial transcriptomic and protein-based analyses to define the functional and spatial organization of the metastatic ecosystem. We further compared tumors from patients with early versus no or later relapse and investigated candidate cell-cell interactions associated with recurrence-related cellular states. ResultsSingle-nucleus profiling recovered malignant epithelial tumor cells, fibroblasts, immune cells, endothelial cells and liver resident epithelial populations across samples and revealed substantial functional heterogeneity within each compartment. Malignant epithelial cells occupied interconnected stem-like, proliferative, differentiated and invasive states, whereas stromal, immune and vascular populations exhibited distinct transcriptional programs organized within specific tissue niches. Comparative analysis identified a fibroblast subtype enriched in early-relapse metastases, which was reproducibly identified in independent LM-CRC single-cell datasets. This population showed features consistent with a role in tumor dissemination and appeared to actively shape the metastatic microenvironment. ConclusionOur study provides an integrated single-nucleus and spatial characterization of the cellular organization of chemotherapy-treated CRC-LM. It reveals functionally specialized multicellular niches and identifies a fibroblast state associated with early relapse and epithelial and endothelial plasticity.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "",
+  "score": 1.0
  }
 }
