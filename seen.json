@@ -20868,5 +20868,15 @@
   "date": "2026-11-26T00:00:00+00:00",
   "type": "",
   "score": 1.51
+ },
+ "https://www.nature.com/articles/s41598-026-82543-1": {
+  "guid": "https://www.nature.com/articles/s41598-026-82543-1",
+  "title": "Green synthesized zinc oxide nanoparticles combined with papaverine induce apoptosis and modulate microRNAs in breast cancer cells",
+  "link": "https://www.nature.com/articles/s41598-026-82543-1",
+  "abstract": "This study reports that zinc oxide nanoparticles (ZnO-NPs) can be made via a green synthesis route using Eucalyptus camaldulensis Dehnh leaf extract, and then tests their in vitro anticancer activity both by themselves and together with papaverine hydrochloride in breast cancer cell models. The researchers characterized the ZnO-NPs using UV-Vis spectrophotometry, dynamic light scattering (DLS), zeta potential measurements, X-ray diffraction (XRD), Fourier transform infrared spectroscopy (FTIR), field emission scanning electron microscopy (FE-SEM), and energy-dispersive X-ray spectroscopy (EDX). The particles had a mean hydrodynamic diameter of about 52.48&nbsp;nm, a moderately polydisperse size distribution, and an approximately\u2009\u2212\u200919 mV zeta potential, which points to moderate colloidal stability. In the DPPH assay, ZnO-NPs, papaverine hydrochloride, and the physical combination all showed antioxidant activity, but the combination produced the lowest EC50 value (42.45&nbsp;\u00b5g/mL). In cell-based experiments, the combination lowered the viability of MCF-7 and MDA-MB-231 cells and showed higher relative in vitro selectivity than either agent alone. When HFF cells were compared with MCF-7 and MDA-MB-231 cells, the selectivity indices of the combination were 2.99 and 2.21, and for comparisons with MCF-10&nbsp;A those values were 2.41 and 1.78, respectively. Combination-index results indicated that the interaction depended on both dose and cell line, with synergistic, additive, or antagonistic effects showing up at different concentrations. The combined treatment also increased intracellular ROS generation and apoptosis, along with higher expression of BAX, CASP3, CASP8, CASP9, and CYCS, lower expression of BCL2, reduced levels of miR-21-3p, miR-25-3p, and miR-155-5p, and increased expression of miR-34a, miR-145-5p, and miR-98-5p. Overall, these findings are preliminary in vitro evidence that the ZnO-NPs\u2013papaverine combination can influence breast cancer cell viability and apoptosis-related molecular responses. Still, further in vivo work and mechanistic confirmation are needed before any clinical or therapeutic relevance can be established.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.77
  }
 }
