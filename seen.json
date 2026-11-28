@@ -21138,5 +21138,65 @@
   "date": "2026-11-27T00:00:00+00:00",
   "type": "",
   "score": 1.0
+ },
+ "https://www.nature.com/articles/s41416-026-03669-7": {
+  "guid": "https://www.nature.com/articles/s41416-026-03669-7",
+  "title": "Lethal clinical outcome and fibrotic contexture in refractory urothelial carcinoma harboring CCND1 amplification or Cyclin D1 overexpression",
+  "link": "https://www.nature.com/articles/s41416-026-03669-7",
+  "abstract": "Urothelial carcinoma (UC) frequently harbors CCND1 amplification (CCND1Amp) or Cyclin D1 overexpression (Cyclin D1OE), a key driver of cell cycle progression, while their associations with the prognosis, treatment response, and tumor microenvironment (TME) remains unclear. Eight independent UC cohorts were analyzed in this study, including four local cohorts (ZSHS cohort, n\u2009=\u2009135; Shanghai UC cohort, n\u2009=\u2009136; scRNA-seq cohort, n\u2009=\u200936 and Shanghai FCM cohort, n\u2009=\u200942) and four public cohorts (TCGA cohort, n\u2009=\u2009375; IMvigor210 cohort, n\u2009=\u2009159; MSKCC cohort, n\u2009=\u2009166 and MSKCC-IMPACT cohort, n\u2009=\u2009199). Prognosis, chemotherapy and immunotherapy outcomes, and TME features were evaluated according to CCND1/Cyclin D1 status across matched clinical, genomic, transcriptomic, single-cell, flow cytometry, and IHC datasets. CCND1Amp/Cyclin D1OE correlated with poor prognosis and unfavorable outcomes in patients receiving platinum-based chemotherapy or anti-PD-1/PD-L1 blockade. These tumors exhibited mesenchymal traits with epithelial-mesenchymal transition. Their TME was characterized by TGF-\u03b2 dominant immunosuppression, featuring by increased regulatory T and exhausted CD8+ T cells. CCND1Amp/Cyclin D1OE identifies a high-risk UC subgroup associated with unfavorable outcomes, mesenchymal reprogramming, and impaired antitumor immunity. Assessing CCND1/Cyclin D1 status may refine risk stratification and inform therapeutic considerations in UC.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-28T00:00:00+00:00",
+  "type": "Article",
+  "score": 1.07
+ },
+ "https://www.nature.com/articles/s41598-026-82359-z": {
+  "guid": "https://www.nature.com/articles/s41598-026-82359-z",
+  "title": "PBRE-DETR for lightweight colonoscopy polyp detection with boundary residual enhancement",
+  "link": "https://www.nature.com/articles/s41598-026-82359-z",
+  "abstract": "Accurate and efficient polyp detection is important for computer-aided colorectal cancer screening, yet small, low-contrast, and weak-boundary lesions remain difficult to localize precisely. We present PBRE-DETR, a lightweight RT-DETR-based detector combining a CSP/C2f backbone with raw-preserving polyp boundary residual enhancement at the P3 fusion stage. On Kvasir-SEG, PBRE-DETR achieved 95.41% mAP50 and 76.05% mAP50\u201395 with 13.87M parameters and 36.9 GFLOPs. Across three independent runs, PBRE-DETR obtained 95.23\u00b10.20% mAP50 and 75.73\u00b10.32% mAP50\u201395, compared with 94.44\u00b10.21% and 73.47\u00b10.33% for CSP/C2f alone. Fixed-seed subgroup analysis showed that PBRE increased weak-boundary AP75 by 6.96 percentage points over CSP/C2f, indicating a stronger benefit under strict localization criteria than for aggregate detection. PBRE-DETR also achieved the highest mAP50\u201395 among the four evaluated configurations across small, medium, and large lesion tertiles. On ETIS-LaribPolypDB, precision and AP-based metrics improved while recall decreased slightly. TensorRT FP16 deployment on a Jetson Orin Nano reached 49.0 end-to-end FPS. These results support PBRE-DETR as a lightweight boundary-aware detector while revealing backbone dependence and component-level redundancy.",
+  "source": "Cancer : nature.com subject feeds",
+  "date": "2026-11-28T00:00:00+00:00",
+  "type": "Article",
+  "score": 0.54
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.25.768254v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.25.768254v1?rss=1",
+  "title": "Germ-cell restricted antigens are presented on HLA-I in premalignant colorectal lesions",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.768254v1?rss=1",
+  "abstract": "Tumour-restricted antigens displayed by HLA class I proteins are potential targets for T cell recognition, but whether they are present before a lesion becomes invasive is unknown. Here we applied high-sensitivity HLA-I immunopeptidomics to 105 individual colorectal lesions and normal mucosa from 24 donors with hereditary polyposis. We identify peptides from germ-cell-restricted genes presented in premalignant lesions, confirmed against synthetic standards, and absent from reference immunopeptidomes of benign colon. These source genes are hypomethylated in polyps relative to normal mucosa. The same pattern is seen in colorectal tumours, and demethylating agents induce their expression in cell lines. Peptides were presented from transcripts at abundances well below conventional thresholds for target nomination, demonstrating the relevance of direct immunopeptidome readout with mass spectrometry. Several source genes were silent in medullary thymic epithelium, and dextramer-sorted T cells against one such peptide were dominated by a small number of clonotypes. An antigenic landscape therefore emerges in colorectal tissue before malignant transformation.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "",
+  "score": 1.43
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.19.767697v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.19.767697v1?rss=1",
+  "title": "Stromal mitochondrial reprogramming and transfer reveal a chemotherapy-associated tumor state in ovarian cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.19.767697v1?rss=1",
+  "abstract": "Mitochondrial transfer from stromal cells promotes ovarian cancer progression, yet the functional state of donor mitochondria remains poorly understood. Here we define a stress-adapted mitochondrial state in carcinoma-associated mesenchymal stem cells (CA-MSCs), characterized by increased respiratory and glycolytic activity despite increased mitochondrial proton leak and inefficient coupling of respiration to ATP production, oxidative stress, and elevated mitochondrial DNA variant burden. We identify WT1 as a regulator of mitochondrial reprogramming and PDK4 as a metabolic adaptation critical for CA-MSC growth. We further show that CA-MSCs preferentially transfer highly oxidized mitochondria to ovarian cancer cells. In a freshly-dissociated primary high grade serous ovarian cancer patient tumor, using mitochondrial variant tracking, we identify a transcriptionally distinct tumor population sharing mitochondrial variant patterns with stroma, in line with stromal-tumor mitochondrial transfer. This transcriptional signature is enriched in residual tumors following chemotherapy across four independent patient cohorts. Together, these findings establish stromal mitochondrial reprogramming and the preferential transfer of oxidatively-stressed mitochondria as important features of ovarian cancer heterogeneity and persistence following chemotherapy.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "",
+  "score": 0.98
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.24.768788v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.24.768788v1?rss=1",
+  "title": "Characterization of Natural Killer Cell-Associated Prognostic Signature Reveals Immune Landscape and Prognostic Value in Uterine Corpus Endometrial Carcinoma (UCEC)",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768788v1?rss=1",
+  "abstract": "Background: Natural killer (NK) cells are critical in eliminating virus-infected and cancer cells. Uterine corpus endometrial carcinoma (UCEC) is a common malignancy in women, and the role of NK cells in UCEC has attracted significant attention. This study aims to develop an NK cell-related gene signature (NRGs) to improve immunotherapy response and prognosis evaluation in UCEC. Methods: Consensus clustering classified UCEC samples based on NRGs. Univariate Cox regression, differential expression, and Lasso regression were used to build a prognostic model. Differences in tumor microenvironment (TME), immune checkpoints, and clinical features were compared between high- and low-risk groups. Results: High NK cell infiltration was associated with a favorable prognosis. Eleven key NRGs were identified, and consensus clustering divided patients into two clusters: Cluster 1 (C1) had better prognosis and higher immune cell infiltration. A nine-NRG signature (CEACAM1, IFNG, PTPN6, KNSTRN, XCL1, IL2RG, RAC3, MICB, CCL3) was developed. The high-risk group had more advanced-stage cases, higher-grade tumors, and serous carcinoma compared to the low-risk group (P < 0.05). Conclusions: The 9-NRGs signature demonstrates strong predictive performance and offers valuable insights for future immuno-oncology research.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-26T00:00:00+00:00",
+  "type": "",
+  "score": 0.85
+ },
+ "https://www.biorxiv.org/content/10.64898/2026.11.25.769152v1?rss=1": {
+  "guid": "https://www.biorxiv.org/content/10.64898/2026.11.25.769152v1?rss=1",
+  "title": "Deciphering the synthetic route and apoptotic mechanisms of oxime ester (UAH-4): A potent ursolic acid derivative targeting colorectal cancer",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769152v1?rss=1",
+  "abstract": "The study aimed to synthesize a novel derivative of ursolic acid (UA) and evaluate its anticancer efficacy against Colorectal Cancer (CRC) cells, with a focus on elucidating its mechanism of action. The derivative, UAH-4, was synthesized through a multi-step chemical process and characterized using spectroscopic techniques. In vitro cytotoxicity of UAH-4 was assessed using the SRB assay, while its impact on colony formation, cell migration, Reactive Oxygen Species (ROS) generation, Mitochondrial Membrane Potential (MMP) loss, and nuclear morphology were evaluated. Western blotting was performed to investigate the induction of apoptosis by UAH-4. UAH-4 exhibited significant cytotoxicity against various cancer cell lines, with a notable impact on the HCT-116 cancer cell line. The compound disrupted colony formation and inhibited cell migration, suggesting potential anti-metastatic effects. Mechanistic investigations revealed UAH-4-induced alterations in nuclear morphology, reactive oxygen species generation, loss of mitochondrial membrane potential, and apoptosis in HCT-116 cells. The study demonstrates the potent anticancer activity of UAH-4 against colorectal cancer cells through the induction of apoptosis. These findings suggest that UAH-4 holds promise as a therapeutic agent for CRC and warrants further investigation for its clinical potential in cancer therapy.",
+  "source": "bioRxiv Subject Collection: Cancer Biology",
+  "date": "2026-11-27T00:00:00+00:00",
+  "type": "",
+  "score": 1.3
  }
 }
